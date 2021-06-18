@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---French---French-LXX---Standard-Edition.noia
-# File Size: 3660008     
-# File Date: 05/06/2021 19:18:24
+# File Size: 3661320     
+# File Date: 06/18/2021 10:52:39
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	Genèse
 001	GEN	001	001	Au commencement Dieu créa le ciel et la terre.
 001	GEN	001	002	Or la terre était invisible et vide; les ténèbres étaient au-dessus de l'abîme, et l'Esprit de Dieu était porté sur les eaux.
 001	GEN	001	003	Et Dieu dit: Soit la lumière, et la lumière fut.
@@ -1554,6 +1556,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	Joseph parla ensuite à ses frères, et il leur dit: Je meurs; mais Dieu vous visitera, et il vous conduira de cette terre en la terre qu'il a promise à nos pères Abraham, Isaac et Jacob.
 001	GEN	050	025	Et Joseph adjura ses frères, disant: Lorsque Dieu vous visitera, emportez d'ici mes ossements avec vous.
 001	GEN	050	026	Joseph mourut à cent dix ans, et après qu'ils l'eurent embaumé, ils le mirent dans un cercueil en Égypte.
+#
+# BOOK	002	EXO	Exodus	Exode
 002	EXO	001	001	Voici les noms des fils d'Israël venus en Égypte avec Jacob, leur père, et qui y entrèrent chacun avec toute sa famille:
 002	EXO	001	002	Ruben, Siméon, Lévi, Juda,
 002	EXO	001	003	Issachar, Zabulon, Benjamin,
@@ -2717,6 +2721,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	Or, lorsque la nuée s'élevant découvrait le tabernacle du témoignage, les fils d'Israël devaient lever leur camp et emmener tous leurs bagages.
 002	EXO	040	037	Si elle ne s'élevait pas, ils ne préparaient point leur départ, jusqu'à ce qu'elle s'élevât.
 002	EXO	040	038	Car la nuée se tenait le jour sur le tabernacle, et le feu se tenait la nuit, à la vue des fils d'Israël dans leurs campements.
+#
+# BOOK	003	LEV	Leviticus	Lévitique
 003	LEV	001	001	Le Seigneur rappela Moïse, du tabernacle du témoignage; le Seigneur lui dit:
 003	LEV	001	002	Parle aux fils d'Israël, et dis-leur: Quiconque parmi vous amènera une offrande au Seigneur, donnera de son bétail (et c'est parmi les bœufs et les brebis que vous prendrez vos offrandes).
 003	LEV	001	003	Si son don est un holocauste, il conduira de ses bœufs un mâle sans tache vers la porte du tabernacle du témoignage, et il l'offrira tel qu'il soit agréable en présence du Seigneur.
@@ -3576,6 +3582,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	Toute dîme des bœufs, des brebis et des chèvres, toute dîme de ce qui marche en troupeau, sous le bâton du pasteur, appartiendra au Seigneur.
 003	LEV	027	033	Et tu ne substitueras pas le bon au mauvais, ni le mauvais au bon; si tu fais cet échange, les deux bêtes seront saintes et ne pourront être rachetées.
 003	LEV	027	034	Tels sont les préceptes que le Seigneur a prescrit à Moïse sur le mont Sina, pour les fils d'Israël.
+#
+# BOOK	004	NUM	Numbers	Nombres
 004	NUM	001	001	Et le Seigneur parla à Moïse dans le tabernacle du témoignage, au désert de Sina, le premier du second mois de la seconde année, après la sortie d'Egypte, disant:
 004	NUM	001	002	Prenez le nombre de toute la synagogue d'Israël, et comptez-les par familles, par maisons paternelles, par têtes et par leurs noms.
 004	NUM	001	003	Tout mâle de vingt ans et au-dessus, tout Israélite pouvant marcher au combat, comptez-le dans l'armée.  Tu feras ce dénombrement avec Aaron.
@@ -4863,6 +4871,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	Or, les filles de Salphaad se nommaient: Thersa, Egla, Melcha, Noa et Maala, et elles épousèrent de leurs parents, issus comme elles
 004	NUM	036	012	De la tribu de Manassé, fils de Joseph; et leur héritage resta dans leur tribu paternelle.
 004	NUM	036	013	Tels sont les préceptes, les décisions, les jugements, que le Seigneur fit connaître à Moïse, à l'occident de Moab, au bord du Jourdain, vis-à-vis Jéricho.
+#
+# BOOK	005	DEU	Deuteronomy	Deutéronome
 005	DEU	001	001	Voici les paroles que Moïse dit à tout Israël au delà du Jourdain, dans le désert situé à l'Occident près de la mer Rouge, entre Pharan-Tophel, Lobon, Aulon et Catachryse
 005	DEU	001	002	(Il y a onze journées de marche d'Horeb à Cadès-Barné, dans la montagne de Séir.)
 005	DEU	001	003	En la quarantième année, le dixième mois, le premier jour de la lune, Moïse parla à tous les fils d'Israël, sur tout ce que le Seigneur lui avait prescrit pour eux.
@@ -5822,6 +5832,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	Et il ne s'éleva plus en Israël de prophète comme Moïse, que le Seigneur connut face à face,
 005	DEU	034	011	Au milieu de tous les signes et prodiges que le Seigneur lui ordonna de faire sur la terre d'Egypte, contre le Pharaon, ses serviteurs et toute sa contrée;
 005	DEU	034	012	Grandes merveilles que, par une main puissante, Moïse opéra devant tout Israël.
+#
+# BOOK	006	JOS	Joshua	Josué
 006	JOS	001	001	Après la mort de Moïse, le Seigneur parla à Josué, fils de Nau, ministre de Moïse, disant:
 006	JOS	001	002	Moïse mon serviteur est mort; maintenant donc lève-toi; traverse le Jourdain, toi et tout ce peuple; entre dans la terre que je leur donne.
 006	JOS	001	003	Tout coin de terre qu'aura foulé la plante de vos pieds, je vous le donnerai, comme j'ai dit à Moïse.
@@ -6465,6 +6477,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 006	JOS	024	031	Israël servit donc le Seigneur durant tous les jours de Josué, et durant tous les jours des anciens dont la vie s'était prolongée avec la sienne, et qui avaient vu toutes les œuvres du Seigneur en faveur d'Israël.
 006	JOS	024	032	Les fils d'Israël avaient rapporté de l'Egypte les ossements de Joseph, et ils les inhumèrent à Sichem dans le champ que Jacob avait acheté au prix de cent agneaux, des Amorrhéens qui habitaient Sichem, et qu'il avait donné à Joseph.
 006	JOS	024	033	Ensuite, Eléazar, fils d'Aaron le grand prêtre, mourut, et il fut enseveli en Gabaar, qu'il avait donnée à Phinées, dans la montagne d'Ephraïm.  Ce jour-là, les fils d'Israël, ayant pris l'arche de Dieu, la transportèrent dans leurs rangs.  Et Phinées fut prêtre à la place de son père Eléazar, jusqu'à ce que lui-même mourut et fut inhumé dans sa terre de Gabaar.  Et les fils d'Israël retournèrent chacun en son lieu et dans sa ville, et ils adorèrent Astarté, Astaroth et les dieux des nations qui les entouraient.  Et le Seigneur les livra aux mains d'Eglom, roi de Moab, qui les tyrannisa pendant dix-huit ans.
+#
+# BOOK	007	JDG	Judges	Juges
 007	JDG	001	001	Il advint, après la mort de Josué, que les fils d'Israël consultèrent le Seigneur, disant: Quel chef nous conduira contre les Chananéens pour les combattre?
 007	JDG	001	002	Et le Seigneur dit: Juda marchera; voilà que j'ai mis en sa main la terre promise.
 007	JDG	001	003	Et Juda dit à Siméon, son frère: Viens avec moi sur mes terres, et nous livrerons bataille aux Chananéens, ensuite j'irai avec toi sur ton territoire.  Et Siméon marcha avec lui.
@@ -7083,6 +7097,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 007	JDG	021	023	Les fils de Benjamin agirent ainsi; ils prirent autant de femmes qu'ils étaient d'hommes, parmi celles qui dansaient; après les avoir ravies, ils les emmenèrent, et ils retournèrent en leur héritage, ou ils rebâtirent leurs villes et ils demeurèrent.
 007	JDG	021	024	Les fils d'Israël en temps-là se dispersèrent, et chacun rentra dans sa tribu, dans sa famille, dans son héritage.
 007	JDG	021	025	Et, en ces jours-là, il n'y avait point de roi en Israël; chacun faisait ce que bon lui semblait.
+#
+# BOOK	008	RUT	Ruth	Ruth
 008	RUT	001	001	Du temps des juges, il y eut une famine sur la terre; et un homme partit de Bethléem en Juda, pour aller aux champs de Moab, lui, et sa femme et ses deux fils.
 008	RUT	001	002	Le nom de l'homme était Elimélech, et le nom de sa femme Noémi, et les noms de ses deux fils, Maalon et Chélaïon, Éphrathéens de Bethléem en Juda.  Ainsi, ils allèrent aux champs de Moab et ils demeurèrent.
 008	RUT	001	003	Or, Elimélech, le mari de Noémi, mourut, et elle resta veuve avec deux fils.
@@ -7168,6 +7184,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 008	RUT	004	020	Et Aminadab engendra Naasson, et Naasson engendra Salmon;
 008	RUT	004	021	Et Salmon engendra Booz, et Booz engendra Obed;
 008	RUT	004	022	Et Obed engendra Jessé, et Jessé engendra David.
+#
+# BOOK	009	1SA	1 Samuel	1 Samuel
 009	1SA	001	001	Il y avait dans les montagnes d'Ephraïm un homme d'Armathaïm-Sipha; il se nommait Elcana, fils de Jéréméel, fils d'Eliu, fils de Thocé, l'un des Nasib d'Ephraïm.
 009	1SA	001	002	Il avait deux femmes: le nom de la première était Anne; le nom de la seconde, Phenenna; or, Phenenna avait des enfants, et Anne n'en avait point.
 009	1SA	001	003	Les jours s'écoulèrent, et l'homme partit de la ville d'Armathaïm pour adorer le Seigneur Dieu sabaoth, et lui sacrifier en Silo; Héli et ses deux fils Ophni et Phinéès étaient alors prêtres du Seigneur.
@@ -7953,6 +7971,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 009	1SA	031	011	Or, ceux de Jabès-Galaad apprirent comment les Philistins avaient traité Saül.
 009	1SA	031	012	Et tous les hommes vaillants se levèrent; ils marchèrent toute la nuit, enlevèrent des murs de Bethsam les corps de Saül et de Jonathan, et les transportèrent à Jabès, où ils les brûlèrent.
 009	1SA	031	013	Enfin, ils recueillirent leurs ossements; ils les inhumèrent en un champ de Jabès, et ils jeûnèrent sept jours.
+#
+# BOOK	010	2SA	2 Samuel	2 Samuel
 010	2SA	001	001	Saül était mort quand David revint de son expédition contre Amalec, il resta deux jours à Sécelac.
 010	2SA	001	002	Et le troisième jour, voilà qu'un homme arriva du camp d'Israël, les vêtements déchirés, la tête couverte de cendres; en entrant devant David, il tomba la face contre terre et il l'adora.
 010	2SA	001	003	D'où viens-tu?  lui dit David; il répondit: Du camp d'Israël; j'ai pu m'échapper.
@@ -8648,6 +8668,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 010	2SA	024	023	Ainsi, Orna donna tout au roi, et il lui dit: Que le Seigneur ton Dieu te bénisse.
 010	2SA	024	024	Mais le roi repartit: Je n'accepte point, je t'achèterai ce que tu m'offres, moyennant un bon prix; je ne présenterai point au Seigneur un holocauste qui ne me coûte rien.  Et David acheta l'aire avec les bœufs cinquante sicles d'argent.
 010	2SA	024	025	Aussitôt, David bâtit l'autel au Seigneur; puis, il y offrit des holocaustes et des hosties pacifiques.  Salomon embellit plus tard l'autel, qui était d'abord fort petit.  Pour le moment, le Seigneur exauça les vœux de la terre, et la peste cessa en Israël.
+#
+# BOOK	011	1KI	1 Kings	1 Rois
 011	1KI	001	001	Et le roi David était vieux, ayant vécu bien des jours; on l'entourait de vêtements, et il n'était point réchauffé.
 011	1KI	001	002	Ses serviteurs dirent alors: Que l'on cherche pour le roi une jeune vierge; elle se tiendra à ses côtés, elle le réchauffera, elle dormira avec lui, et le roi notre maître sera réchauffé.
 011	1KI	001	003	Et, ayant cherché, sur tout le territoire d'Israël, une fille belle et jeune, ils trouvèrent Abisag la Sunamite, et ils l'emmenèrent au roi.
@@ -9459,6 +9481,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 011	1KI	022	051	Et Ochozias, fils d'Achab, régna sur Israël en Samarie; son règne Et Ochozias, fils d'Achab, régna sur Israël en Samarie; son règne commença la dix-septième année de celui de Josaphat, et il dura deux ans.
 011	1KI	022	052	Et il fit le mal devant le Seigneur; il marcha dans la voie d'Achab, son père, dans la voie de Jézabel, sa mère, et dans le péché où la maison de Jéroboam, fils de Nabat, fit tomber Israël.
 011	1KI	022	053	Il servit Baal, et il l'adora; il irrita le Seigneur Dieu d'Israël, de la même manière qu'on l'avait irrité avant lui.
+#
+# BOOK	012	2KI	2 Kings	2 Rois
 012	2KI	001	001	Après la mort d'Achab, Moab se souleva contre Israël.
 012	2KI	001	002	Et Ochozias tomba à travers le treillis de sa chambre haute, en Samarie; il en fut malade; et il fit partir des messagers auxquels il dit: Allez demander à Baal-Mouche, dieu d'Accaron, si je survivrai à cette maladie?  Ils partirent, et ils le questionnèrent pour leur roi.
 012	2KI	001	003	Or, un ange du Seigneur appelant Elie le Thesbite, dit: Lève-toi, va à la rencontre des messagers d'Ochozias, roi de Samarie, et lu leur diras: Est-ce qu'il n'y a point de Dieu en Israël, que vous allez interroger Baal-Mouche, dieu d'Accaron?  Il n'en sera pas ainsi.
@@ -10178,6 +10202,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 012	2KI	025	028	Et il lui parla avec douceur, et il lui donna un trône plus élevé que les trônes des autres rois qui l'entouraient à Babylone.
 012	2KI	025	029	Il lui ôta ses vêtements de prisonnier, et il le fit manger, en sa présence, tous les jours de sa vie.
 012	2KI	025	030	Et sa portion, portion perpétuelle, lui fut donnée de la maison du roi; il en fut ainsi tous les jours de sa vie.
+#
+# BOOK	013	1CH	1 Chronicles	1 Chroniques
 013	1CH	001	001	Adam, Seth, Enos,
 013	1CH	001	002	Caïnan, Malalehel, Jared,
 013	1CH	001	003	Enoch, Mathusalem, Larnech, Noé.
@@ -11120,6 +11146,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 013	1CH	029	028	Et il finit en une heureuse vieillesse, plein de jours, de richesses et de gloire, et son fils Salomon régna à sa place.
 013	1CH	029	029	Le reste des discours du roi David, ses premières et ses dernières paroles, sont écrits parmi les Récits de Samuel le voyant, de Nathan le prophète, et de Gad le voyant,
 013	1CH	029	030	Concernant tout son règne, ses guerres et les événements arrivés tant à lui qu'à Israël, et en tous les royaumes de la terre.
+#
+# BOOK	014	2CH	2 Chronicles	2 Chroniques
 014	2CH	001	001	Et Salomon, fils de David, s'affermit sur son trône; le Seigneur Dieu était avec lui, et il l'éleva au comble des grandeurs.
 014	2CH	001	002	Et Salomon parla à tout Israël, aux commandants de mille hommes, aux centeniers, aux juges, à tous les princes d'Israël et aux princes de sa famille.
 014	2CH	001	003	Et il alla avec toute l'Église au lieu haut de Gabaon, où était le tabernacle du témoignage de Dieu, que Moïse serviteur de Dieu avait fait dans le désert.
@@ -11942,6 +11970,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 014	2CH	036	021	Afin que la parole du Seigneur qu'avait fait connaître la bouche de Jérémie, le prophète, fût accomplie, et que la terre jouît de ses sabbats, et observât le sabbat tous les jours de sa désolation, jusqu'à l'achèvement des soixante-dix années.
 014	2CH	036	022	La première année de la domination de Cyrus, roi des Perses, après l'accomplissement de la parole du Seigneur, qu'avait dite la bouche de Jérémie, le Seigneur excita l'esprit de Cyrus, roi des Perses, et il envoya dans tout le royaume une proclamation par écrit, disant:
 014	2CH	036	023	Voici ce que dit, à tous les royaumes de la terre, Cyrus, roi des Perses: Le Seigneur Dieu du ciel m'a donné le pouvoir, et il m'a prescrit de rebâtir son temple à Jérusalem, en Juda.  Qui, parmi vous tous, est de son peuple?  Qu'il parte; son Dieu sera avec lui.
+#
+# BOOK	015	EZR	Ezra	Esdras
 015	EZR	001	001	La première année de la domination de Cyrus, roi des Perses, la parole du Seigneur qu'avait proférée la bouche de Jérémie le prophète, devait s'accomplir; le Seigneur excita l'esprit de Cyrus, roi des Perses, et il envoya en tout son royaume une proclamation par écrit, disant:
 015	EZR	001	002	Voici ce qu'a dit Cyrus, roi des Perses: Le Seigneur Dieu du ciel m'a donné tous les royaumes de la terre, et lui-même a jeté les yeux sur moi pour que je lui bâtisse un temple à Jérusalem en Judée.
 015	EZR	001	003	Qui donc, parmi vous tous, est de son peuple?  Son Dieu sera avec lui, et il partira pour Jérusalem en Judée; qu'il y bâtisse le temple du Dieu d'Israël; le seul Dieu est celui qui réside à Jérusalem.
@@ -12222,6 +12252,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 015	EZR	010	042	Et Sellum, Amaria, Joseph;
 015	EZR	010	043	Des fils de Nabu: Jahel, Matthanias, Zabad, Zebennas, Jadaï, Johel et Banaïa.
 015	EZR	010	044	Tels furent ceux qui avaient épousé des femmes étrangères, et qui en avaient eu des enfants.
+#
+# BOOK	016	NEH	Nehemiah	Néhémie
 016	NEH	001	001	Récits de Néhémias, fils d'Helcias.  Au mois de chaseleu, en la vingtième année, j'étais à Suse, résidence royale.
 016	NEH	001	002	Et Anani, l'un de mes frères, vint, lui et des hommes de Juda, et je les questionnai, tant sur ceux qui étaient demeurés de la captivité et vivaient encore, que sur Jérusalem.
 016	NEH	001	003	Et ils me dirent: Ceux qui sont demeurés, et qui ont été laissés de la captivité, sont dans la terre promise en grande détresse et opprobre; les murs de Jérusalem ont été abattus, et ses portes brûlées par le feu.
@@ -12628,6 +12660,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 016	NEH	013	029	Souvenez-vous d'eux, ô Seigneur, à cause de la violation du sacerdoce, et de votre alliance, touchant les prêtres et les lévites.
 016	NEH	013	030	Et je les purifiai de leur contact avec des étrangères, et je réglai les services journaliers des prêtres et des lévites,
 016	NEH	013	031	Et l'offrande du bois des holocaustes au temps prescrit, lorsque l'on taille la vigne.  Souvenez-vous de moi, ô mon Dieu, dans votre mansuétude.
+#
+# BOOK	017	EST	Esther	Esther
 017	EST	001	001	La seconde année du règne du grand roi Artaxerxès, le premier de Nisan, le Juif Mardochée, fils de Jaïr, fils de Sémeï, fils de Cisée, de la tribu de Benjamin, Demeurant en la ville de Suse, homme considérable, servant dans le palais du roi, eut en songe une vision.  Il était des captifs que Nabuchodonosor, roi de Babylone, avait emmenés avec Jéchonias, roi de la Judée, Et voici sa vision: Voilà qu'il y avait voix et bruit, tonnerres et tremblements de terre, tumulte sur la terre, Et voilà que deux dragons s'avancèrent, prêts à se combattre mutuellement; et ils poussaient de grands cris, Et à leurs cris chaque nation se préparait à la guerre, pour combattre la nation des justes.  Voilà que c'était un jour d'obscurité et de ténèbres, de tribulation et d'angoisse, d'affliction et de grand tumulte sur la terre, Et toute la nation juste fut troublée, craignant sa propre affliction, et elle se tint prête à mourir, et elle cria au Seigneur Dieu.  Et à ses cris, il vint comme un grand fleuve, sortant d'une petite fontaine, Et la lumière et le soleil parurent, et les humbles furent exaltés, et ils dévorèrent les superbes.  Et Mardochée, celui qui avait eu cette vision, s'étant éveillé, se demanda en son cœur ce que Dieu voulait faire, et, toute la nuit, il n'eut pas d'autre pensée que de le découvrir.  Or, Mardochée se tint tranquille dans le parvis près de Gabatha et de Tharra, deux eunuques du roi qui gardaient le palais, Et il entendit leurs réflexions et il surprit leurs préoccupations, et il apprit qu'ils se préparaient à porter les mains sur le roi Artaxerxès, et il instruisit le roi de ce qui les concernait.  Et le roi interrogea les deux eunuques; et ayant avoué, ils furent menés au supplice, Et le roi fit écrire ces choses en un mémorial, et Mardochée aussi écrivit le récit de ces choses.  Et le roi ordonna que Mardochée servît dans l'intérieur du palais, et il lui fit, à ce sujet, des présents.  Or, Aman, fils d'Amadathe le Bugéen, était en faveur auprès du roi, et il chercha à nuire à Mardochée et à son peuple à cause des deux eunuques du roi.  Or, après ces choses, il advint durant les jours d'Artaxerxès, qui régnait depuis l'Inde sur cent vingt-sept contrées,
 017	EST	001	002	En ces jours-là, tandis qu'il trônait en la ville de Suse,
 017	EST	001	003	La troisième année de son règne, il advint qu'il fit un festin à ses amis et au reste des nations, et aux hommes considérables des Perses et des Mèdes, et aux premiers des satrapes.
@@ -12791,6 +12825,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 017	EST	010	001	Et le roi écrivit ce qui concernait l'empire de la terre et de la mer;
 017	EST	010	002	Et sa puissance, et sa valeur, et ses richesses, et sa gloire, sont décrites dans le livre des rois des Perses et des Mèdes, comme un mémorial.
 017	EST	010	003	Et Mardochée fut le lieutenant du roi Artaxerxès, et il fut grand dans le royaume, et il fut glorifié par les Juifs; et, aimé de tous, il exposa la suite de l'événement à tout son peuple.  Et Mardochée dit: Tout cela vient de Dieu; Car je me souviens de la vision que j'ai eue au sujet de ces événements, et rien de ce qu'elle annonçait n'a manqué d'advenir.  La petite fontaine qui devint fleuve et qui fut lumière, soleil et onde abondante: c'est Esther, c'est elle qui est le fleuve; le roi l'a épousée et il l'a couronnée reine.  Les deux dragons, c'est moi et Aman.  Les nations, c'est la foule qui s'assembla pour effacer le nom des Juifs.  Et notre nation, c'est Israël qui invoqua Dieu et fut sauvé.  Et le Seigneur à protégé son peuple, et il nous a délivrés de tous ces maux, et il a fait éclater des prodiges, et il a montré des signes, ce qui n'est jamais arrivé chez les nations.  À cause de cela, il a fait deux sorts: l'un pour son peuple, l'autre pour les autres nations.  Et les deux sorts ont comparu devant Dieu au moment et à l'heure, le jour où il devait juger toutes les nations.  Et Dieu s'est souvenu de son peuple, et il a vengé son héritage.  Et les jours d'adar, le treize et le quatorze, seront célébrés devant Dieu par tout le peuple à jamais, par des réjouissances et des fêtes, en tout Israël.  La quatrième année du règne de Ptolémée et de Cléopâtre, Dosithée, qui dit être prêtre et lévite, accompagné de Ptolémée, son fils, apporta cette lettre sur les Phrurées; et, tous les deux, déclarèrent qu'elle avait été traduite à Jérusalem par Lysimaque, fils de Ptolémée.
+#
+# BOOK	018	JOB	Job	Job
 018	JOB	001	001	Il y avait en la terre de Hus, un homme appelé Job; et cet homme était intègre, irréprochable, juste, pieux, et il s'abstenait de toute mauvaise action.
 018	JOB	001	002	Et il avait sept fils et trois filles.
 018	JOB	001	003	Et ses troupeaux étaient sept mille moutons, trois mille chamelles, cinq cents paires de bœufs, cinq cents ânesses au pâturage, et il avait une multitude de serviteurs et de grands travaux sur la terre; et cet homme avait la noblesse des fils de l'Orient.
@@ -13861,6 +13897,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 018	JOB	042	015	Et en toute l'étendue que le ciel recouvre, on n'eût point trouvé de femmes plus belles que les filles de Job, et il leur donna des parts d'héritage comme à ses fils.
 018	JOB	042	016	Et Job après ses jours d'affliction, vécut cent soixante-dix ans; et la durée de toute sa vie fut de deux cent quarante ans.  Et Job vit ses fils et les fils de ses fils jusqu'à la quatrième génération,
 018	JOB	042	017	et Job mourut très avancé en âge et plein de jours.
+#
+# BOOK	019	PSA	Psalms	Psaumes
 019	PSA	001	001	Heureux l'homme qui n'est point allé au conseil des impies qui ne s'est pas arrêté dans la voie des pécheurs et ne s'est point assis dans la chaire de pestilence,
 019	PSA	001	002	Mais dont la volonté est conforme à la loi du Seigneur, et qui, nuit et jour, méditera sur cette loi.
 019	PSA	001	003	Il sera comme l'arbre planté au bord des eaux, et qui donnera son fruit en sa saison; ses feuilles ne tomberont jamais, et en toutes ses œuvres il prospérera.
@@ -16322,6 +16360,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	Louez-le en chœur au son du tambour; louez-le sur les cordes des instruments.
 019	PSA	150	005	Louez-le sur les cymbales retentissantes; louez-le sur les cymbales de joie.
 019	PSA	150	006	Que tout ce qui respire loue le Seigneur.
+#
+# BOOK	020	PRO	Proverbs	Proverbes
 020	PRO	001	001	Proverbes de Salomon, fils de David, qui régna en Israël,
 020	PRO	001	002	pour faire connaître la sagesse et la discipline; pour apprendre les paroles de la prudence;
 020	PRO	001	003	pour montrer les artifices des discours; pour enseigner vraiment la justice, pour instruire à juger avec rectitude;
@@ -17216,6 +17256,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 020	PRO	031	029	beaucoup de filles ont acquis des richesses, beaucoup ont été vertueuses; mais toi, tu es au-dessus d'elles, tu les as toutes surpassées.
 020	PRO	031	030	Les grâces sont trompeuses, et la beauté de la femme est vanité; mais la femme intelligente sera bénie, et celle qui craint le Seigneur sera louée.
 020	PRO	031	031	Donnez-lui les fruits de ses lèvres, et que son époux soit loué aux portes de la ville.
+#
+# BOOK	021	ECC	Ecclesiastes	Ecclésiaste
 021	ECC	001	001	Paroles de l'Ecclésiaste, fils de David, roi d'Israël en Jérusalem.
 021	ECC	001	002	Vanités des vanités, dit Ecclésiaste, vanité des vanités, tout est vanité.
 021	ECC	001	003	Que reste-t-il à l'homme de tout le labeur dont il se consume sous le soleil?
@@ -17438,6 +17480,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 021	ECC	012	012	Et il est profitable, ô mon fils, de les garder; à faire beaucoup de livres, il n'y a point de fin; et trop d'étude est fatigue de la chair.
 021	ECC	012	013	Écoute la conclusion, le résumé de ce discours; crains Dieu, et garde Ses commandements, car c'est là tout l'homme.
 021	ECC	012	014	En effet, Dieu appellera en jugement chaque œuvre, chaque chose qui aura été négligée, bonne ou mauvaise.
+#
+# BOOK	022	SOL	Song of Solomon	Cantiques
 022	SOL	001	001	Cantique des cantiques, qui est de Salomon.
 022	SOL	001	002	Qu'il m'embrasse des baisers de sa bouche; car tes mamelles sont meilleures que le vin.
 022	SOL	001	003	Et la senteur de tes parfums l'emporte sur tous les aromates; ton nom est l'essence de parfum: voilà pourquoi les jeunes filles t'aiment.
@@ -17555,6 +17599,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 022	SOL	008	012	Ma vigne est à moi; elle est devant mes yeux; que Salomon en ait mille sicles; que ceux qui gardent ses fruits en aient deux cents.
 022	SOL	008	013	Ô toi qui demeures dans les jardins, mes compagnes écoutent ta voix; fais-la-moi entendre.
 022	SOL	008	014	Fuis, mon frère bien-aimé; et, rapide comme le chevreuil ou comme le faon de la biche, fuis dans les montagnes des parfums.
+#
+# BOOK	023	ISA	Isaiah	Isaïe
 023	ISA	001	001	Vision d'Isaïe, fils d'Amos, qu'il eut sur la Judée et Jérusalem, sous le règne d'Ozias et de Joatham, d'Achaz et d'Ézéchias, qui furent rois de la Judée.
 023	ISA	001	002	Écoute, ciel; prête l'oreille, terre, parce que le Seigneur a parlé, disant: J'ai engendré des fils, et je les ai élevés en gloire; mais eux, ils m'ont méprisé.
 023	ISA	001	003	Le bœuf connaît son possesseur, et l'âne, la crèche de son maître; pour Israël, il m'a méconnu, et son peuple ne m'a pas compris.
@@ -18845,6 +18891,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 023	ISA	066	022	Car de même que le ciel nouveau et la terre nouvelle que je créerai subsisteront devant moi, dit le Seigneur, de même votre race et votre nom seront fermement établis.
 023	ISA	066	023	Et ceci sera de lune en lune, de sabbat en sabbat: toute chair viendra en Jérusalem pour adorer devant moi, dit le Seigneur.
 023	ISA	066	024	Et ils sortiront, et ils verront les membres épars de ceux qui auront péché contre moi; car le ver qui les rongera ne finira point; le feu qui les brûlera ne sera jamais éteint, et ils seront exposés à la vue de toute chair.
+#
+# BOOK	024	JER	Jeremiah	Jérémie
 024	JER	001	001	Parole de Dieu à Jérémie, fils d'Helcias, l'un des prêtres qui demeurèrent à Anathoth, en la terre de Benjamin.
 024	JER	001	002	La parole du Seigneur vint à lui dans les jours de Josias, fils d'Amon, roi de Juda, la treizième année de son règne;
 024	JER	001	003	Elle lui vint encore dans les jours de Joacim, fils de Josias, roi de Juda, jusqu'à la onzième année de Sédécias, fils de Josias, roi de Juda, jusqu'à la captivité de Jérusalem, le cinquième mois.
@@ -20195,6 +20243,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 024	JER	052	032	Et il lui parla avec douceur, et il lui donna un trône plus élevé que les trônes des autres rois qui l'entouraient à Babylone.
 024	JER	052	033	Et il lui fit changer la robe qu'il avait en prison; et il le fit manger en sa présence tous les jours qu'il vécut.
 024	JER	052	034	Et tous les jours, jusqu'à ce qu'il mourût, il régla constamment toute sa dépense.
+#
+# BOOK	025	LAM	Lamentations	Lamentations
 025	LAM	001	001	Aleph.  Comment cette ville, jadis pleine de peuple, est-elle assise solitaire?  Elle est devenue comme une veuve celle qui avait grandi parmi les nations; la reine des provinces est assujettie au tribut.
 025	LAM	001	002	Beth.  Elle pleure, elle a pleuré la nuit, et les larmes sont encore sur ses joues, et de tous ceux qui l'aimaient, il n'en est pas, un qui la console; ses amis l'ont méprisée, et sont devenus ses ennemis.
 025	LAM	001	003	Ghimel.  La fille de Juda s'est expatriée dans son humiliation, et dans l'excès de sa servitude; elle s'est assise parmi les nations et n'y a point trouvé de repos; et tous ses persécuteurs l'ont prise au milieu de ses angoisses.
@@ -20349,6 +20399,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 025	LAM	005	020	Pourquoi, dans quel but nous oublierez-vous?  Nous abandonnerez-vous aussi longtemps que dureront les jours?
 025	LAM	005	021	Revenez à nous, Seigneur, et nous reviendrons à vous, et renouvelez pour nous les jours d'autrefois,
 025	LAM	005	022	Quoique vous nous ayez répudiés et que vous soyez violemment irrité contre nous.
+#
+# BOOK	026	EZE	Ezekiel	Ézéchiel
 026	EZE	001	001	Et il arriva que, en ma trentième année, le quatrième mois, le cinquième jour du mois, j'étais assis au milieu des captifs, sur le fleuve Chobar; et les cieux furent ouverts, et j'eus les visions de Dieu.
 026	EZE	001	002	Le cinquième jour de ce mois, en cette année, la cinquième de la captivité du roi Joakim,
 026	EZE	001	003	La parole du Seigneur vint à Ezéchiel, fils de Buzi, le prêtre, en la terre des Chaldéens, sur le fleuve Chobar.  Et la main du Seigneur fut sur moi.
@@ -21621,6 +21673,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 026	EZE	048	033	Celles du midi, percées dans une longueur de quatre mille cinq cents mesures, seront au nombre de trois: la porte de Siméon, la porte d'Issachar, la porte de Zabulon.
 026	EZE	048	034	Celles du côté de l'occident, percées dans une longueur de quatre mille cinq cents mesures, seront au nombre de trois: la porte de Gad, la porte d'Aser, la porte de Nephthali.
 026	EZE	048	035	L'enceinte entière aura dix-huit mille mesures, et, à partir de ce jour, le nom de la ville sera: C'est le nom du Seigneur.
+#
+# BOOK	027	DAN	Daniel	Daniel
 027	DAN	001	001	En la troisième année du règne de Joakim, roi de Juda, Nabuchodonosor, roi de Babylone, vint à Jérusalem, et il l'investit.
 027	DAN	001	002	Et le Seigneur lui livra le roi Joakim avec une partie des vases du temple de Dieu, et il emporta ces vases en la terre de Sennaar, où était le temple de son dieu, et il les déposa dans la maison du trésor de son dieu.
 027	DAN	001	003	Et le roi dit à Asphanez, chef de ses eunuques, de lui amener quelques-uns des fils des captifs d'Israël de la race royale et des princes,
@@ -21978,6 +22032,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 027	DAN	012	011	Et à partir du temps où a été supprimé le sacrifice perpétuel, l'abomination de la désolation durera douze cent quatre-vingt-dix jours.
 027	DAN	012	012	Heureux celui qui attendra et parviendra jusqu'à mille trois cent trente-cinq jours!
 027	DAN	012	013	Pour toi, va, et sois en repos; car bien des jours et des heures s'écouleront encore avant que les temps s'accomplissent, et à la fin des temps tu ressusciteras pour recueillir ton partage.
+#
+# BOOK	028	HOS	Hosea	Osée
 028	HOS	001	001	Paroles du Seigneur qui vinrent à Osée, fils de Béeri, durant les jours d'Ozias, et de Joathan, et d'Achaz, et d'Ézéchias, rois de Juda, et durant les jours de Jéroboam, fils de Joas, roi d'Israël.
 028	HOS	001	002	Commencement des paroles du Seigneur à Osée.  Et le Seigneur dit à Osée: Va et prends pour toi une femme de prostitution; aie des enfants de la prostitution, parce que la terre se prostitue, et se prostituera en se retirant du Seigneur.
 028	HOS	001	003	Et il alla, et il prit Gomer, fille de Debélaïm, et elle conçut, et elle lui enfanta un fils.
@@ -22175,6 +22231,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 028	HOS	014	007	Les peuples se convertiront et viendront s'asseoir sous son ombre; ils vivront et se rassasieront de son pain; et son mémorial fleurira comme une vigne, comme le vin du Liban
 028	HOS	014	008	en Éphraïm.  Qu'y a-t-il encore de commun entre lui et les idoles?  Je l'ai humilié, et Je rétablirai ses forces.  Je suis comme un genièvre touffu; c'est de moi que viennent tes fruits.
 028	HOS	014	009	Qui est sage et comprendra ces choses?  Qui est savant et les connaîtra?  Les voies du Seigneur sont étroites; les justes y marchent, les impies y trébucheront.
+#
+# BOOK	029	JOE	Joel	Joël
 029	JOE	001	001	Parole du Seigneur qui vint à Joël, fils de Bathuel.
 029	JOE	001	002	Écoutez ce que je vais dire, vieillards; prêtez l'oreille, vous tous qui habitez la terre: Est-il rien arrivé de pareil, soit de nos jours, soit du temps de nos pères?
 029	JOE	001	003	Plus que vos pères, vous aurez à raconter à vos enfants, et plus encore vos enfants à leurs enfants, et ceux-ci plus encore à la génération suivante.
@@ -22248,6 +22306,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 029	JOE	003	019	L'Égypte sera mise à néant; l'Idumée sera un champ de désolation, à cause des iniquités de ses fils contre Juda, parce qu'ils ont versé le sang innocent sur leur terre.
 029	JOE	003	020	Et la Judée sera habitée dans tous les siècles, et Jérusalem dans les générations des générations.
 029	JOE	003	021	Et Je rechercherai leur sang, et Je n'absoudrai point ceux qui l'ont versé, et le Seigneur aura Son tabernacle en Sion.
+#
+# BOOK	030	AMO	Amos	Amos
 030	AMO	001	001	Paroles d'Amos qui lui vinrent en la bergerie de Thécué et dont il eut la vision concernant Jérusalem, durant les jours d'Ozias, roi de Juda, et durant les jours de Jéroboam, fils de Joas, roi d'Israël, deux ans avant le tremblement de terre.
 030	AMO	001	002	Et il dit: Le Seigneur a parlé du haut de Sion, Il a fait entendre Sa voix de Jérusalem, et les pâturages des bergers ont été désolés, et la cime du Carmel a été desséchée.
 030	AMO	001	003	Et le Seigneur a dit: Ce n'est point à cause des triples et quadruples impiétés de Damas que Je la prendrai en aversion; c'est parce qu'avec des scies de fer ils ont scié les femmes enceintes en Galaad.
@@ -22394,6 +22454,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 030	AMO	009	013	Voilà que les jours arrivent, dit le Seigneur, où la moisson atteindra la vendange, et où la grappe noircira pendant les semailles.  Et les montagnes ruisselleront de douceur, et toutes les collines seront plantées.
 030	AMO	009	014	Et Je ramènerai Mon peuple Israël de la captivité, et ils réédifieront les villes détruites, et ils les habiteront; ils planteront des vignes, et ils en boiront le vin; ils cultiveront des jardins, et ils en mangeront les fruits.
 030	AMO	009	015	Et Je les rétablirai dans leur héritage, et ils ne seront plus arrachés de la terre que Je leur ai donnée, dit le Seigneur Dieu tout-puissant.
+#
+# BOOK	031	OBA	Obadiah	Abdias
 031	OBA	001	001	Vision d'Abdias.  Voici ce que le Seigneur dit à l'Idumée J'ai entendu la parole du Seigneur, et il a envoyé un message aux gentils, disant: Levez-vous, et allons combattre Édom!
 031	OBA	001	002	Voilà que Je t'ai réduit à un petit nombre parmi les peuples; et tu es maintenant sans honneur.
 031	OBA	001	003	L'orgueil de ton cœur t'avait enivré, toi qui résides dans les trous des rochers; élevant ta demeure sur les hauts lieux, tu disais: Qui me fera descendre à terre?
@@ -22415,6 +22477,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 031	OBA	001	019	Et ceux de Nageb auront pour héritage la montagne d'Ésaü, et ceux de Sephéla le pays des Philistins; et ils auront aussi pour héritage la montagne d'Éphraïm, et la plaine de Samarie, et Benjamin et Galaad.
 031	OBA	001	020	Et voici le domaine des fils d'Israël qui reviendront de la captivité la terre des Chananéens jusqu'à Sarepta; ceux de Jérusalem posséderont jusqu'à Éphratha; ils auront les cités de Nageb.
 031	OBA	001	021	Et ceux de la montagne de Sion qui auront été sauvés monteront pour punir la montagne d'Ésaü; et alors arrivera le règne du Seigneur.
+#
+# BOOK	032	JON	Jonah	Jonas
 032	JON	001	001	Et la parole du Seigneur vint à Jonas, fils d'Amathi, disant
 032	JON	001	002	Lève-toi, et pars pour Ninive, la grande ville, et proclame dans ses murs que le cri de sa méchanceté est monté jusqu'à Moi.
 032	JON	001	003	Et Jonas se leva pour s'enfuir à Tharsis, loin de la face du Seigneur; et il descendit à Joppé; il y trouva une barque allant à Tharsis, et il paya son passage, et il s'embarqua pour naviguer avec les matelots, jusqu'à Tharsis, loin de la face du Seigneur.
@@ -22463,6 +22527,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 032	JON	004	009	Et le Seigneur dit à Jonas: Est-ce à cause de la gourde que tu es si fortement contristé?  Et il répondit: Je suis triste jusqu'à la mort.
 032	JON	004	010	Et le Seigneur dit: Tu as grande pitié pour une gourde qui ne t'avait donné aucune peine, que tu n'avais point cultivé, qui était venue en une nuit, et qui en une nuit a été détruite.
 032	JON	004	011	Et Moi, Je n'épargnerai pas Ninive la grande ville, où demeurent plus de douze myriades d'hommes, qui ne savent pas distinguer leur main droite de leur main gauche; et des troupeaux si nombreux!
+#
+# BOOK	033	MIC	Micah	Michée
 033	MIC	001	001	Et la parole de Dieu vint à Michée, fils de Morasthi, aux jours de Joatham, Achaz et Ézéchias, rois de Juda, sur les choses qu'il vit concernant Samarie et Jérusalem.
 033	MIC	001	002	Écoutez, peuples, ces paroles; que toute la terre soit attentive, et tous ceux qu'elle contient.  Et le Seigneur Maître sera parmi nous comme un témoignage, le Seigneur du haut de Sa maison sainte.
 033	MIC	001	003	Car voilà que le Seigneur sortira du lieu où Il réside, et Il descendra, et Il marchera sur les hauteurs de la terre.
@@ -22568,6 +22634,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 033	MIC	007	018	Qui donc est Dieu comme Toi, qui ôtes les péchés, et passes sous silence les impiétés de ce qui reste de Ton héritage!  Le Seigneur n'a point maintenu le témoignage de Sa colère; Il Se complaît en Sa miséricorde;
 033	MIC	007	019	Il reviendra; Il aura compassion de nous; Il submergera nos iniquités; Il jettera nos péchés au fond de la mer.
 033	MIC	007	020	Il fera des dons à Jacob, en vérité; Il sera miséricordieux envers Abraham, comme Il l'a juré à nos pères aux jours d'autrefois.
+#
+# BOOK	034	NAH	Nahum	Nahum
 034	NAH	001	001	Prédiction à Ninive, livre de la vision de Nahum, Elcéséen.
 034	NAH	001	002	Dieu est jaloux, le Seigneur Se venge, le Seigneur Se venge avec colère, le Seigneur tire vengeance de ceux qui Lui sont opposés; Il extermine Ses ennemis.
 034	NAH	001	003	Le Seigneur est longanime, Sa force est grande; mais le Seigneur ne laissera pas impuni celui qu'Il n'a pas encore puni; Sa voie est dans la destruction et les ébranlements; et les nuages sont la poussière de Ses pieds.
@@ -22615,6 +22683,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 034	NAH	003	017	La multitude étrangère mêlée à toi s'est enfuie comme l'escarbot, ou comme la sauterelle perchée sur la haie un jour de gelée; le soleil s'élève, elle saute dehors, et nul ne sait où elle s'était posée.  Malheur à eux!
 034	NAH	003	018	Tes pasteurs se sont assoupis; ton roi assyrien s'est endormi avec tes hommes de guerre; ton peuple s'est enfui sur les montagnes, et nul n'était là pour lui donner asile.
 034	NAH	003	019	Il n'est point de guérison pour tes blessures, ta plaie s'est enflammée; tous ceux qui entendent parler de tes malheurs battent des mains; car contre qui n'as-tu pas constamment tourné ta scélératesse?
+#
+# BOOK	035	HAB	Habakkuk	Habacuc
 035	HAB	001	001	Vision d'Habacuc, le prophète.
 035	HAB	001	002	Jusques à quand, Seigneur, crierai-je sans que Tu m'écoutes?  Jusques à quand Te crierai-je que l'on me fait violence?  N'en me sauveras-Tu pas?
 035	HAB	001	003	Pourquoi m'as-Tu affligé et m'as-Tu donné la douleur de voir la misère et l'impiété?  Je suis en procès, et le juge reçoit des présents.
@@ -22671,6 +22741,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 035	HAB	003	017	Car alors le figuier ne portera pas de fruits; il n'y aura pas de raisin à la vigne; l'œuvre de l'olivier sera trompeuse, et les champs ne produiront pas de nourriture.  Les brebis manqueront de fourrage, et il n'y aura pas de bœufs à la crèche.
 035	HAB	003	018	Pour moi, je tressaillirai dans le Seigneur; je mettrai ma joie en Dieu, mon Sauveur.
 035	HAB	003	019	Le Seigneur mon Dieu est ma force; Il placera mes pieds sur une base inébranlable; Il m'a fait monter sur les hautes cimes, pour chanter en Son honneur un chant de triomphe.
+#
+# BOOK	036	ZEP	Zephaniah	Sophonie
 036	ZEP	001	001	Parole du Seigneur, qui vint à Sophonie, fils de Chusi, fils de Godolias, fils d'Amorias, fils d'Ézécias, durant les jours de Josias, fils d'Amon, roi de Juda.
 036	ZEP	001	002	Que toute chose tombe de défaillance sur la face de la terre, dit le Seigneur.
 036	ZEP	001	003	Que l'homme et les bêtes disparaissent; que disparaissent les oiseaux du ciel et les poissons de la mer; et les impies seront sans force, et Je chasserai les pécheurs de la face de la terre, dit le Seigneur.
@@ -22724,6 +22796,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 036	ZEP	003	018	Et Je rassemblerai tes affligés; malheur à qui l'a outragée!
 036	ZEP	003	019	Voilà que J'agirai en toi, pour l'amour de toi, en ce temps-là, dit le Seigneur; et je sauverai celle qui a été opprimée, et je recueillerai celle qui a été répudiée, et je glorifierai ses fils, et ils auront un nom par toute la terre.
 036	ZEP	003	020	En ce temps-là vos ennemis seront confondus lorsque J'en userai ainsi avec vous, et que Je vous aurai bien accueillis; car Je vous donnerai un nom célèbre, et vous serez glorifiés par tous les peuples de la terre, après que Je vous aurai ramené tous vos captifs, dit le Seigneur.
+#
+# BOOK	037	HAG	Haggai	Aggée
 037	HAG	001	001	En la sixième année du règne de Darius, le sixième mois, le premier jour du mois, la parole du Seigneur vint à Aggée, le prophète, disant: Parle à Zorobabel, fils de Salathiel, de la tribu de Juda, et à Jésus, fils de Josédec, le grand prêtre, et dis:
 037	HAG	001	002	Voici ce que dit le Seigneur Tout-Puissant.  Ils disent que le temps n'est pas venu de réédifier la maison du Seigneur.
 037	HAG	001	003	Or la parole du Seigneur est venue à Aggée, le prophète, disant:
@@ -22762,6 +22836,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 037	HAG	002	021	Parle à Zorobabel, fils de Salathiel, de la tribu de Juda; dis-lui J'ébranlerai le ciel et la terre, la mer et le désert,
 037	HAG	002	022	et Je renverserai le trône des rois, et Je détruirai la puissance des rois des nations, et je ferai tomber leurs chars et leurs écuyers; et les chevaux et leurs cavaliers seront abattus; et le frère frappera du glaive son frère.
 037	HAG	002	023	Or, en ce jour-là, dit le Seigneur, maître de toutes choses, je protégerai Zorobabel, fils de Salathiel, Mon serviteur, dit le Seigneur Dieu; et tu seras pour Moi comme un sceau d'alliance, parce que je t'ai choisi, dit le Seigneur tout-puissant.
+#
+# BOOK	038	ZEC	Zechariah	Zacharie
 038	ZEC	001	001	Le huitième mois de la seconde année; sous Darius; la parole du Seigneur vint à Zacharie; fils de Barachie; fils d'Addo; le prophète; disant:
 038	ZEC	001	002	Le Seigneur a été transporté d'un grand courroux contre vos pères.
 038	ZEC	001	003	Et tu diras au peuple: Voici ce que dit le Seigneur tout-puissant: Convertissez-vous à Moi; dit le Seigneur des armées, et Je reviendrai à vous, dit le Seigneur des armées.
@@ -22973,6 +23049,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 038	ZEC	014	019	Ce sera le péché de l'Égypte, et le péché de toutes mes nations qui ne viendront pas célébrer la fête des tabernacles.
 038	ZEC	014	020	Et ce jour-là tout ce qui orne le frein des chevaux sera consacré au Seigneur tout-puissant; les chaudières seront dans le temple du Seigneur comme les coupes devant l'autel.
 038	ZEC	014	021	Et toutes les chaudières de Jérusalem et de Juda seront consacrées au Seigneur tout-puissant.  Et tous ceux qui offriront des sacrifices viendront, et ils prendront de ces chaudières, et ils s'en serviront pour faire cuire les victimes; et ce jour-là il n'y aura plus de Chananéens dans la maison du Seigneur tout-puissant.
+#
+# BOOK	039	MAL	Malachi	Malachie
 039	MAL	001	001	Parole du Seigneur sur Israël transmise à Son envoyé; déposez-la maintenant dans vos cœurs.
 039	MAL	001	002	Je vous ai aimés, dit le Seigneur, et vous avez dit: En quoi donc nous as- Tu aimés?  Ésaü n'était-il pas le frère de Jacob?  dit le Seigneur; n'ai-Je point aimé Jacob
 039	MAL	001	003	et pris en haine Ésaü?  J'ai voulu que ses confins fussent dévastés, et que son héritage devînt comme les maisons du désert.

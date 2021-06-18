@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---German---German-Reinhardt-Bible---Standard-Edition.noia
-# File Size: 520706      
-# File Date: 05/06/2021 19:21:03
+# File Size: 520829      
+# File Date: 06/18/2021 10:55:25
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Matthaeus
 040	MAT	001	001	Geschlechtsregister Jesu, des Messias, des Sohnes Davids, des Sohnes Abrahams.
 040	MAT	001	002	Abraham zeugte Isaak zeugte Jakob; Jakob zeugte Juda und seine Brüder;
 040	MAT	001	003	Juda zeugte Pharesz und Zara von der Thamar; Pharez zeugte Ersoff; Ersoff zeugte Arm;
@@ -1091,6 +1093,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Und Jesus trat hinzu, redete mit ihnen, und sprach: Mir ist gegeben alle Gewalt im Himmel und auf Erden.
 040	MAT	028	019	Darum gehet hin, machet zu (meinen) Jüngern alle Völker (Heiden), indem ihr sie taufet auf den Namen des Vaters und des Sohnes und des heiligen Geistes,
 040	MAT	028	020	Und sie halten lehret alles, was ich euch befohlen habe.  Und siehe, ich bin bei euch alle Tage bis an das Ende des Weltlaufs.
+#
+# BOOK	041	MAR	Mark	Markus
 041	MAR	001	001	Anfang der frohen Botschaft von Jesus, dem Messias, dem Sohne Gottes.
 041	MAR	001	002	Wie geschrieben steht in Jesaias, dem Propheten: "Siehe, ich sende meinen Engel vor dir her, der wird deinen Weg bereiten";
 041	MAR	001	003	"Die Stimme Eines, der in der Wüste ruft: Bereitet den Weg des Herrn, und machet eben seine Pfade",
@@ -1767,6 +1771,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Schlangen aufheben, und wenn sie etwas Tödliches getrunken, wird es ihnen nicht schaden; auf Kranke werden sie die Hände legen, und sie werden sich wohl befinden.
 041	MAR	016	019	Der Herr nun, nachdem er zu ihnen geredet hatte, ward aufgenommen in den Himmel, und setze sich zur Rechten Gottes.
 041	MAR	016	020	Sie aber gingen aus und predigten überall, indem der Herr mitwirkte, und das Wort bekräftigte durch die begleitenden Zeichen.
+#
+# BOOK	042	LUK	Luke	Lukas
 042	LUK	001	001	Sintemal es viele unternommen haben, eine Erzählung zusammenzustellen von den Geschichten, die sich bei uns ereignet haben,
 042	LUK	001	002	So wie uns überliefert haben die, welche von Anfang an Augenzeugen und Diener des Wortes gewesen sind,
 042	LUK	001	003	Habe auch ich es für gut gefunden, nachdem ich alles von vorne an mit Fleiß verfolgt habe, es dir, verehrtester Theophilus, in geordneter Folge zu schreiben,
@@ -2918,6 +2924,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Und es geschah, als er sie segnete, schied er von ihnen, und ward hinaufgetragen in den Himmel.
 042	LUK	024	052	Und sie knieten vor ihm nieder und sie kehrten mit großer Freude zurück nach Jerusalem
 042	LUK	024	053	Und waren allezeit im Tempel, Gott lobend und preisend.
+#
+# BOOK	043	JOH	John	Johannes
 043	JOH	001	001	Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott;
 043	JOH	001	002	Dieses war im Anfang bei Gott.
 043	JOH	001	003	Alles ist durch es geworden, und ohne es ist auch nicht eines geworden, was geworden ist.

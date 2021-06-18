@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Spanish---Free-Bible---Standard-Edition.noia
-# File Size: 2841225     
-# File Date: 05/06/2021 19:31:20
+# File Size: 2842889     
+# File Date: 06/18/2021 11:05:56
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	Génesis
 001	GEN	001	001	En el principio, Dios creó los cielos y la tierra.
 001	GEN	001	002	La tierra carecía de forma y estaba vacía, y la oscuridad cubría la superficie del abismo.  El Espíritu de Dios se movía sobre la superficie de las aguas.
 001	GEN	001	003	Y Dios dijo: “¡Que haya luz!”  y hubo luz.
@@ -1556,6 +1558,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	“Voy a morir pronto”, les dijo José a sus hermanos, “pero Dios estará con ustedes, y los llevará fuera de este país a la tierra que juró dar a Abraham, Isaac y Jacob”.
 001	GEN	050	025	José hizo jurar a los hijos de Israel, diciendo: “Cuando Dios venga a estar con ustedes, deben llevarse mis huesos cuando se vayan”.
 001	GEN	050	026	José murió cuando tenía 110 años.  Después de que su cuerpo fue embalsamado, fue colocado en un ataúd en Egipto.
+#
+# BOOK	002	EXO	Exodus	Éxodo
 002	EXO	001	001	Estos fueron los nombres de los hijos de Israel (Jacob) que vinieron con él y sus familias a Egipto:
 002	EXO	001	002	Rubén, Simeón, Leví y Judá;
 002	EXO	001	003	Isacar, Zabulón y Benjamín;
@@ -2769,6 +2773,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	Cada vez que la nube se levantaba del Tabernáculo, los israelitas se ponían en marcha de nuevo en su viaje.
 002	EXO	040	037	Si la nube no se levantaba, no se ponían en marcha hasta que la nube se levantara.
 002	EXO	040	038	La nube del Señor permanecía sobre el Tabernáculo durante el día, y el fuego ardía dentro de la nube durante la noche, de modo que podía ser visto por todos los israelitas dondequiera que viajaran.
+#
+# BOOK	003	LEV	Leviticus	Levítico
 003	LEV	001	001	El Señor llamó a Moisés y le habló desde El Tabernáculo de Reunión, diciendo:
 003	LEV	001	002	“Ve y habla con los israelitas y diles: ‘Cuando presenten una ofrenda al Señor, pueden traer como ofrenda un animal del rebaño de ganado o del rebaño de ovejas o cabras.
 003	LEV	001	003	Si su ofrenda es una ofrenda quemada de un rebaño de ganado, debe ofrecer un macho sin ningún defecto.  Llévalo a la entrada del Tabernáculo de Reunión para que sea aceptado por el Señor.
@@ -3628,6 +3634,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	uando cuentes tus rebaños y manadas, cada décimo animal que pase bajo la vara del pastor es santo para el Señor.
 003	LEV	027	033	o necesitarás examinarlo para ver si es bueno o malo, y no debes reemplazarlo.  Sin embargo, si lo reemplazas, ambos animales serán sagrados; no podrán ser comprados de nuevo”.
 003	LEV	027	034	stas son las leyes que el Señor dio a Moisés para los israelitas en el Monte Sinaí.
+#
+# BOOK	004	NUM	Numbers	Números
 004	NUM	001	001	El Señor le habló a Moisés en el Tabernáculo de Reunión mientras estaban en el desierto del Sinaí.  Esto fue el primer día del segundo mes, dos años después de que los israelitas salieran de Egipto.  Le dijo:
 004	NUM	001	002	Censen a todos los israelitas según su tribu y su familia.  Cuenten a cada hombre y mantengan un registro del nombre de cada uno.
 004	NUM	001	003	ú y Aarón deberán registrar a todos los mayores de veinte años que sean aptos para prestar el servicio militar según sus divisiones en el ejército israelita.
@@ -4916,6 +4924,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	Maala, Tirsa, Hogla, Milca y Noa, hijas de Zelofehad, primos casados por parte de su padre.
 004	NUM	036	012	Se casaron dentro de las familias de los descendientes de Manasés, hijo de José, y su asignación de tierras permaneció dentro de la tribu de su padre.
 004	NUM	036	013	Estas son las órdenes y normas que el Señor dio a los israelitas a través de Moisés en las llanuras de Moab, junto al Jordán, frente a Jericó.
+#
+# BOOK	005	DEU	Deuteronomy	Deuteronomio
 005	DEU	001	001	Este es el registro de lo que Moisés le dijo a todos los israelitas durante su permanencia en el desierto al Este del Jordán.  Estaban en el Arabahu cerca de Suf, entre Parán por un lado y Tofel, Laban, Hazerot y Di-zahab por el otro.
 005	DEU	001	002	(Se necesitan once días para ir de Horebv a Cades-barnea por el camino que pasa por el Monte Seir).
 005	DEU	001	003	El primer día del undécimo mes del cuadragésimo año, Moisés contó a los israelitas todo lo que el Señor le había ordenado que les dijera.
@@ -5875,6 +5885,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	Desde entonces nunca ha habido un profeta en Israel como Moisés que fuera amigo íntimo del Señor.
 005	DEU	034	011	El Señor lo envió a llevar a cabo todas las señales y milagros en Egipto para convencer al Faraón y a sus oficiales, y a toda la gente del país.
 005	DEU	034	012	Moisés hizo estas increíbles cosas con tremendo poder mientras los israelitas lo observaban.
+#
+# BOOK	006	JOS	Joshua	Josué
 006	JOS	001	001	Tras la muerte de Moisés, el siervo del Señor, el Señor habló con Josué, el hijo de Nun, que había sido asistente de Moisés.  Y le dijo:
 006	JOS	001	002	“Mi siervo Moisés ha muerto.  Así que ve y cruza el Jordán, tú y todo el pueblo, y entren en el país que yo le entrego a los israelitas.
 006	JOS	001	003	Como se lo prometí a Moisés, dondequiera que pongas un pie, será tierra que yo te daré,
@@ -6533,6 +6545,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 006	JOS	024	031	Los israelitas siguieron adorando al Señor durante toda la vida de Josué y durante toda la vida de los ancianos que le sobrevivieron, los que habían visto todo lo que el Señor había hecho por Israel.
 006	JOS	024	032	Los huesos de José, que los israelitas habían traído consigo desde Egipto, los enterraron en Siquem, en el pedazo de tierra que Jacob había comprado a los hijos de Jamor, el padre de Siquem, por cien piezas de plata.  Esta tierra fue heredada por los hijos de José.
 006	JOS	024	033	Eleazar, hijo de Aarón, murió y lo enterraron en Guibeá, en la región montañosa de Efraín, tierra que había sido dada a su hijo Finés.
+#
+# BOOK	007	JDG	Judges	Jueces
 007	JDG	001	001	Después de la muerte de Josué, los israelitas preguntaron al Señor: “¿Qué tribu de entre nosotros debe ir primero a atacar a los cananeos?”
 007	JDG	001	002	“Judá debe ir primero”, respondió el Señor.  “Les he entregado la tierra”.
 007	JDG	001	003	Los hombres de Judá dijeron a sus parientes de la tribu de Simeón: “Vengan con nosotros a la tierra que nos ha sido asignada y luchen juntos con nosotros contra los cananeos.  Entonces haremos lo mismo con ustedes y con la tierra que les fue asignada.”Así que la tribu de Simeón se unió a ellos.
@@ -7151,6 +7165,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 007	JDG	021	023	Losbenjaminitas hicieron lo que se les ordenó.  Cada hombre tomó a una de las mujeres bailarinas hasta donde fue necesario y se la llevó para que fuera su esposa.  Luego regresaron a su tierra, donde reconstruyeron sus ciudades y habitaron en ellas.
 007	JDG	021	024	Luego los israelitas partieron y se fueron a sus tribus y familias, cada uno a la tierra que poseía.
 007	JDG	021	025	En aquel tiempo Israel no tenía un rey; cada uno hacía lo que le parecía correcto.
+#
+# BOOK	008	RUT	Ruth	Rut
 008	RUT	001	001	Hubo una hambruna durante la época en la que los jueces gobernaban Israel.  Un hombre dejó Belén de Judá y se fue a vivir como exiliado en el país de Moab, junto con su esposa y sus dos hijos.
 008	RUT	001	002	Se llamaba Elimelec y su mujer Noemí.  Sus hijos se llamaban Mahlón y Quelión.  Eran efrateos de Belén de Judá.  Se fueron al país de Moab y vivían allí.
 008	RUT	001	003	Sin embargo, Elimelec, el esposo de Noemí, murió, y ella se quedó con sus dos hijos.
@@ -7236,6 +7252,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 008	RUT	004	020	Aminadab fue el padre de Naasón.  Naasón fue el padre de Salmón.
 008	RUT	004	021	Salmón fue el padre de Booz.  Booz fue el padre de Obed.
 008	RUT	004	022	Obed fue el padre de Isaí.  Isaí fue el padre de David.
+#
+# BOOK	019	PSA	Psalms	Salmos
 019	PSA	001	001	Felices los que no siguen los consejos del malvado, los que se niegan a seguir el camino de los pecadores y no se burlan de los demás.
 019	PSA	001	002	Sino que por el contrario aman obedecer la ley del Señor, y piensan en ella día y noche.
 019	PSA	001	003	Son como árboles plantados junto a ríos de agua viva, que producen fruto en cada temporada.  Sus hojas nunca se marchitan, y son exitosos en todo lo que hacen.
@@ -9697,6 +9715,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	¡Alábenle con panderetas y danza!  ¡Alábenle con instrumentos de cuerdas y flautas!
 019	PSA	150	005	¡Alábenle con el sonar de los címbalos, con címbalos sonoros!
 019	PSA	150	006	¡Que todo lo que respire alabe al Señor!  ¡Alaben al Señor!
+#
+# BOOK	020	PRO	Proverbs	Proverbios
 020	PRO	001	001	Los proverbios de Salomón, hijo de David, rey de Israel.
 020	PRO	001	002	Estos proverbios son para alcanzar sabiduría e instrucción, y para reconocer los dichos que proporcionan conocimiento.
 020	PRO	001	003	Los proverbios educan en razón, en vivir bien, en el sano juicio, y en actuar con justicia.
@@ -10612,6 +10632,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 020	PRO	031	029	“Muchas mujeres hacen grandes cosas, ¡pero tú eres mejor que todas ellas!”
 020	PRO	031	030	El encanto es engañoso, y la belleza se desvanece; pero la mujer que honra al Señor merece ser alabada.
 020	PRO	031	031	Dale el reconocimiento que se merece; alábala públicamente por lo que ha hecho.
+#
+# BOOK	028	HOS	Hosea	Oseas
 028	HOS	001	001	El Señor envió un mensaje a Oseas, hijo de Berí, en el tiempo en que Uzías, Jotam, y Acaz eran los reyes de Judá.  Y Jeroboam, hijo de Joás era el rey de Israel.
 028	HOS	001	002	El Señor comenzó hablando a través de Oseas diciéndole: “Ve y busca una prostituta para casarte con ella, y ten hijos de una prostituta, porque los habitantes de esta tierra se han prostituido terriblemente al alejarse del Señor.”
 028	HOS	001	003	Así que Oseas fue y se casó con Gómer, la hija de Diblaim.  Ella quedó embarazada y le dio un hijo a Oseas.
@@ -10809,6 +10831,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 028	HOS	014	007	Los que habitan bajo su sombra regresarán, y florecerán como el grano; florecerán como el vino, y serán recordados como el vino del Líbano.
 028	HOS	014	008	Efraín, ¿hasta cuándo tendré que advertirte sobre la idolatría?  Ya he contestado y ahora espero.  Soy como el árbol siempre verde, y de mí nace tu fruto.
 028	HOS	014	009	¿Quién es sabio para entender todo esto?  ¿Quién tiene el discernimiento para entender?  Los caminos del Señor son rectos, pero los rebeldes se tropiezan y caen.
+#
+# BOOK	029	JOE	Joel	Joel
 029	JOE	001	001	El Señor envió un mensaje a través de Joel, hijo de Petuel.
 029	JOE	001	002	Escuchen esto, ancianos.  Presten atención todos los que habitan la tierra.  ¿Alguna vez ha ocurrido algo semejante a esto en su experiencia o la de sus antepasados?
 029	JOE	001	003	Enseñen esto a sus hijos, y que ellos también enseñen a sus hijos, y sus hijos a la siguiente generación.
@@ -10882,6 +10906,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 029	JOE	003	019	Pero Egipto se volverá desolado, y Edom será un desierto desolado, por su violencia contra Judá, porque en su tierra se derramó sangre inocente.
 029	JOE	003	020	Judá será habitada por siempre, y Jerusalén por todas las generaciones.
 029	JOE	003	021	¿Acaso perdonaré y dejaré impune el derramamiento de sangre inocente?  ¡El Señor vive en Sión!”
+#
+# BOOK	030	AMO	Amos	Amós
 030	AMO	001	001	Este es el mensaje que se le dio a Amós, un pastor de Tecoa, en Judá.  Esto fue lo que viorespect a Israel cuando Uzías era el rey de Judá y Jeroboam, hijo de Joás, era el rey de Israel, dos años antes del terremoto.
 030	AMO	001	002	Y dijo: El Señor ruge desde Sión, y alza su voz desde Jerusalén.  Los pastizales de los pastores se marchitan, y la cima del Monte Carmelo se seca.
 030	AMO	001	003	Esto es lo que dice el Señor: “El pueblo de Damasco ha pecado en repetidas ocasiones y por ello no vacilaré en castigarlos, porque golpean al pueblo de Galaad con trillos de hierro.
@@ -11028,6 +11054,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 030	AMO	009	013	¡Miren!  Se acerca el tiempo, dice el Señor, cuando el que ara tomará el lugar del segador; y el que trilla tomará el lugar del que siembra.  Las montañas destilarán vino dulce, y éste fluirá de todas las colinas.
 030	AMO	009	014	Liberaré a mi pueblo de la cautividad, y ellos reconstruirán las ciudades en ruinas, y habitarán en ellas.  Plantarán viñedos y beberán su vino; plantarán jardines y comerán de su fruto.
 030	AMO	009	015	Yo los plantaré en su propia tierra y nunca más serán sacados de la tierra que yo les he dado, declara el Señor tu Dios.
+#
+# BOOK	031	OBA	Obadiah	Abdías
 031	OBA	001	001	Visión de Abdías.  Esto fue lo que el Señor dijo acerca de la tierra de Edom.  Hemos escuchado del Señor que un mensajero ha sido enviado a las naciones.  ¡Prepárense!  ¡Vamos a la guerra contra Edom!
 031	OBA	001	002	Yo te haré insignificante entre las naciones y serás despreciado.
 031	OBA	001	003	El orgullo de tu corazón te ha engañado, a ti que habitas seguro en una fortaleza de piedra sobre las altas montañas, y dices: “¿Quién podrá alguna vez derribarnos?”
@@ -11049,6 +11077,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 031	OBA	001	019	Los que habitan en el Neguev ocuparán las montañas de Esaú; los que habitan en el valle de Judá ocuparán la tierra de los filisteos, y poseerán los campos de Efraín y Samaria.  Los de la tribu de Benjamín ocuparán la tierra de Galaad.
 031	OBA	001	020	El ejercito de los israelitas exiliados poseerán la tierra de los caananitas, hasta Sarepta; y los exiliados de Jerusalén que habitan en Sefarad poseerán las ciudades del Neguev.
 031	OBA	001	021	Los que han sido salvados subirán al monte de Sión y gobernarán las montañas de Esaú.  Y el reino será del Señor.
+#
+# BOOK	032	JON	Jonah	Jonás
 032	JON	001	001	El Señor le habló a Jonás, el hijo de Amitaí, diciéndole:
 032	JON	001	002	“Ve de inmediato a la gran ciudad de Nínive y condénala porque yo he visto la maldad de su pueblo.”
 032	JON	001	003	Pero Jonás salió y huyó a Tarsis para escaparse del Señor.  Entonces se fue a Jope, donde encontró un barco que iba en dirección a Tarsis.  Pagó el pasaje y abordó para navegar hacia Tarsis y así escapar del Señor.
@@ -11097,6 +11127,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 032	JON	004	009	Pero el Señor le preguntó: “¿tienes una Buena razón para estar enojado por la planta?”  “¡Por supuesto que sí!”  respondió Jonás.  “¡Estoy enojado hasta la muerte!”
 032	JON	004	010	Entonces el Señor le dijo a Jonás: “Te preocupa una planta por la cual no hiciste nada, y no la hiciste crecer.  Salió de un día para otro y murió de un día para otro.
 032	JON	004	011	¿No debería yo estar preocupado por la gran ciudad de Nínive, donde habitan ciento veinte mil personas que no saben dónde está su derecha y dónde está su izquierda, sin mencionar a los animales?”
+#
+# BOOK	033	MIC	Micah	Miqueas
 033	MIC	001	001	Este es el mensaje que el Señor le dio a Miqueas de Moreset, en los tiempos en que Jotam, Ajaz y Ezequías fueron reyes de Judá.  Esto es lo que él vio respecto a Samaria y Jerusalén.
 033	MIC	001	002	¡Escuchen, todas las naciones!  ¡Presten atención, habitantes de la tierra!  El Señor Dios testifica contra ustedes desde el santo templo del Señor.
 033	MIC	001	003	¡Miren!  El Señor ya viene.  Abandona su lugar y desciende, y camina sobre los lugares altos de la tierra.
@@ -11202,6 +11234,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 033	MIC	007	018	¿Quién es un Dios como tú, que perdona el pecado y olvida la rebelión de los que aún quedan en su pueblo especial?  Tu no persistes en tu enojo, pues te deleitas en mostrar amor incondicional.
 033	MIC	007	019	Tú tendrás compasión de nosotros nuevamente.  Tu pisotearás nuestros pecados, y los lanzarás al fondo del mar.
 033	MIC	007	020	Con fidelidad le darás tu verdad al pueblo de Jacob, y tu amor al pueblo de Abraham, tal como se lo prometiste a nuestros padres hace mucho tiempo atrás.
+#
+# BOOK	034	NAH	Nahum	Nahum
 034	NAH	001	001	Profecía acerca de Nínive: El rollo de la visión que vino a Nahúm de Elcos.
 034	NAH	001	002	El Señor es un Dios celoso y vengador.  El Señor Dios es vengador y lleno de enojo.  El Señor toma venganza de sus enemigos, y está enojado con los que son hostiles hacia él.
 034	NAH	001	003	El Señor es lento en enojarse, tiene gran poder y no dejará al culpable sin castigo.  Él camina en medio del torbellino y la tormenta; las nubes son como polvo bajo sus pies.
@@ -11249,6 +11283,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 034	NAH	003	017	Tus líderes son como langostas, tus oficiales son como una plaga de langostas.  Yacen en los muros en el día frío, pero cuando el sol sale, se van volando y nadie sabe a dónde han ido.
 034	NAH	003	018	El rey de Asiria, tus pastores están dormidos, tus príncipes están adormecidos.  Tu pueblo está disperso por las montañas y nadie puede reunirlo.
 034	NAH	003	019	No hay forma de sanar tus lesiones, y estás herido de gravedad.  Todos los que oyen esta noticia aplaudirán por lo que te ha sucedido, porque ¿acaso hay quien haya escapado de tu constante crueldad?
+#
+# BOOK	035	HAB	Habakkuk	Habacuc
 035	HAB	001	001	Este es el mensaje que Habacuc vio en visión.
 035	HAB	001	002	Señor, ¿hasta cuándo tendré que clamar por tu ayuda sin que me escuches?  Clamo a ti y digo: “¡Violencia!”  pero tú no nos libras de ella.
 035	HAB	001	003	¿Por qué me obligas a ver esta maldad y sufrimiento?  ¿Por qué te quedas allí simplemente observando la destrucción y la violencia?  ¡Hay riñas y pleitos frente ante mis propios ojos!
@@ -11305,6 +11341,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 035	HAB	003	017	Aunque no haya flores en las higueras ni uvas en los viñedos; aunque no crezca la cosecha de olivo, ni haya animales en el corral, o ganado en los establos;
 035	HAB	003	018	aún así me alegraré en el Señor, gozoso en el Dios de mi salvación.
 035	HAB	003	019	El Señor Dios es mi fuerza.  Él me hace caminar sobre montes altos, con la seguridad de un ciervo.  (Al director musical: con instrumentos de cuerda).
+#
+# BOOK	036	ZEP	Zephaniah	Sofonías
 036	ZEP	001	001	Este es el mensaje que el Señor le dio a Sofonías.  Él era el hijo de Cusí, hijo de Guedalías, hijo de Amarías, hijo de Ezequías.  Esto pasó cuando Josías, hijo de Amón, era rey de Judá.
 036	ZEP	001	002	Yo destruiré por complete todo de la faz de la tierra, declara el Señor.
 036	ZEP	001	003	Yo destruiré a toda persona y animal, destruiré a las aves del vielo, y los peces del mar.  Acabaré con los malvados, y destruiré a la raza humana de la faz de la tierra.
@@ -11358,6 +11396,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 036	ZEP	003	018	Yo reuniré a los que lloran por las fiestas religiosas, y nunca más tendrán que soportar la vergüenza.
 036	ZEP	003	019	¡Miren lo que haré!  En ese tiempo me encargaré de los que te han oprimido.  Salvaré a los indefensos y traeré de regreso a los que estaban dispersos.  Convertiré su vergüenza en alabanza, y todo el mundo los respetará.
 036	ZEP	003	020	En ese tiempo, los traeré a casa, y los reuniré.  Les daré una buena reputación, y serán alabados por todos los pueblos de la tierra, cuando yo restaure tu posición ante tus propios ojos, dice el Señor.
+#
+# BOOK	037	HAG	Haggai	Hageo
 037	HAG	001	001	En el segundo año del reinado de Darío, en el primer día del sexto mes, el Señor envió un mensaje a través del profeta Ageo a Zorobabel, hijo de Sealtiel, gobernador de Judá, y al Sumo Sacerdote Josué, hijo de Josadac.
 037	HAG	001	002	El Señor Todopoderoso dice así: el pueblo dice: “Este no es el momento adecuado para reconstruir la casa del Señor.”
 037	HAG	001	003	Entonces el Señor envió un mensaje a través del profeta Ageo, diciendo:
@@ -11396,6 +11436,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 037	HAG	002	021	Dile a Zorobabel, gobernador de Judá, que voy a sacudir los cielos y la tierra.
 037	HAG	002	022	Destruiré los tronos y reinos, y el poder de los reinos sobre las naciones.  Destruiré los carruajes y a sus jinetes.  Los caballos y los jinetes caerán, y los hombres se matarán unos a otros con espada.
 037	HAG	002	023	Ese día, dice el Señor, te tomaré a ti, Zorobabel, hijo de Sealtiel, y te convertiré en el sello en mi anillo, porque yo te he elegido.  Así lo declara el Señor Todopoderoso.
+#
+# BOOK	038	ZEC	Zechariah	Zacarías
 038	ZEC	001	001	El Señor envió un mensaje al profeta Zacarías, hijo de Berequías, hijo de Idó, en el octavo mes del segundo año del reinado de Darío, diciendo:
 038	ZEC	001	002	El Señor estuvo muy enojado con sus padres.
 038	ZEC	001	003	Así que dice esto al pueblo: Vuelvan a mi, y yo volveré a ustedes, dice el Señor Todopoderoso.
@@ -11607,6 +11649,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 038	ZEC	014	019	Este será el castigo sobre Egipto y sobre todas las naciones que no vayan a Jerusalén a celebrar.
 038	ZEC	014	020	Ese día, en los cencerros de los caballos estarán escritas las palabras “Santo es el Señor.”  Las ollas de la casa usadas en el Templo del Señor serán tan santos como las ollas usadas en el altar en la presencia del Señor.
 038	ZEC	014	021	Cada olla en Jerusalén y en Judá será santa para el Señor Todopoderoso, a fin de que todos los que vengan a hacer sacrificios las tomen y cocinen en ellas las carnes de sus sacrificios.  Ese día no habrá más comerciantes en el Templo del Señor.
+#
+# BOOK	039	MAL	Malachi	Malaquías
 039	MAL	001	001	Una profecía: Este mensaje vino del Señor respecto a Israel, a través de Malaquías.
 039	MAL	001	002	Yo te he amado, dice el Señor.  Pero tú preguntas: “¿Cómo nos has amado?”  ¿Acaso no era Esaú el hermano de José?  responde el Señor.  Pero yo amé a José
 039	MAL	001	003	y desprecié a Esaú.  He destruido las montañas de Esaú y transformé su heredad en un desierto para chacales.
@@ -11662,6 +11706,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 039	MAL	004	004	Recuerden la ley de Moisés mi siervo que yo le di a él y a Israel para que la siguieran.  Todas las instrucciones y ceremonias las enseñé en el Monte Sinaí.
 039	MAL	004	005	¡Miren!  Yo enviaré a Elías el profeta antes de que llegue el día del Señor, ese día grande y terrible.
 039	MAL	004	006	Él restaurará la armonía entre padres e hijos, y si eso no ocurre, yo vendré y azotaré la tierra con una maldición.
+#
+# BOOK	040	MAT	Matthew	San Mateo
 040	MAT	001	001	Este libro es el registro de Jesús el Mesías, Hijo de David, Hijo de Abraham, comenzando con el linaje de su familia:
 040	MAT	001	002	Abraham fue el padre de Isaac; e Isaac el padre de Jacob; y Jacob el padre de Judá y de sus hermanos;
 040	MAT	001	003	y Judá fue el Padre de Fares y Zarah (su madre fue Tamar); y Fares fue el padre de Esrom; y Esrom el padre de Ram;
@@ -12730,6 +12776,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Jesús vino donde ellos estaban y les dijo: “Se me ha entregado todo el poder del cielo y de la tierra.
 040	MAT	028	019	Así que vayan y hagan discípulos entre las personas de todas las naciones, bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo.
 040	MAT	028	020	Enséñenles a seguir todos los mandamientos que yo les he dado a ustedes.  Recuerden, yo estoy siempre con ustedes hasta el fin del mundo.”
+#
+# BOOK	041	MAR	Mark	Marcos
 041	MAR	001	001	Este es el principio de la Buena Noticia sobre Jesucristo, el Hijo de Dios.
 041	MAR	001	002	Tal como escribió el profeta Isaías: “Yo enviaré a mi mensajero antes de ti para que prepare tu camino.
 041	MAR	001	003	Una voz que clama en el desierto: ‘¡Preparen el camino del Señor!  Enderecen su senda.’”
@@ -13403,6 +13451,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	y podrán manipular serpientes, y si toman algo venenoso no les hará daño alguno; pondrán sus manos sobre los enfermos y estos serán sanados.”
 041	MAR	016	019	Entonces, el Señor Jesús, cuando terminó de hablarles, fue llevado hacia el cielo, donde se sentó a la diestra de Dios.
 041	MAR	016	020	Los discípulos salieron y predicaron la Buena Noticia en todos lados, y el Señor obraba por medio de ellos, confirmando el mensaje por medio de muchos milagros.
+#
+# BOOK	042	LUK	Luke	San Lucas
 042	LUK	001	001	Como saben, muchos otros han tratado de escribir las cosas que se han cumplido y de las cuales somos partícipes.
 042	LUK	001	002	Ellos fundamentaron sus relatos en la evidencia de los primeros testigos presenciales y ministros de la Palabra,
 042	LUK	001	003	y entonces yo también decidí que como he seguido estas cosas muy cuidadosamente desde el principio, sería una buena idea escribir un relato fiel de todo lo que había ocurrido.
@@ -14552,6 +14602,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Mientras los bendecía, los dejó, y fue llevado al cielo.
 042	LUK	024	052	Ellos lo alabaron, y luego regresaron a Jerusalén llenos de alegría.
 042	LUK	024	053	Y pasaban todo el tiempo en el templo, alabando a Dios.
+#
+# BOOK	043	JOH	John	Juan
 043	JOH	001	001	En el principio, la Palabra ya existía.  La Palabra estaba con Dios, y la Palabra era Dios.
 043	JOH	001	002	En el principio, Jesús —quien era la palabra— estaba con Dios.
 043	JOH	001	003	Todo llegó a existir por medio de él; y sin él nada llegó a existir.
@@ -15430,6 +15482,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Esta es la razón por la que se difundió el rumor entre los creyentes de que este discípulo no moriría.  Pero Jesús no dijo que él no moriría, solo dijo “si yo quiero que él siga vivo hasta que yo regrese, ¿por qué te preocupa a ti?”
 043	JOH	021	024	Este es el discípulo que confirma lo que ocurrió y quien escribió todas estas cosas.  Sabemos que lo que él dice es verdad.
 043	JOH	021	025	Jesús hizo muchas otras cosas también, y si se escribieran, dudo que el mundo entero pueda contener todos los libros que se escribirían.
+#
+# BOOK	044	ACT	Acts	Hechos
 044	ACT	001	001	Querido Teófilo, en mi libro anterior escribí acerca de todo lo que Jesús hizo y enseñó desde el comienzo
 044	ACT	001	002	hasta el día en que fue llevado al cielo.  Eso sucedió después de haberles dado instrucciones a sus apóstoles escogidos a través del Espíritu Santo.
 044	ACT	001	003	Él se les apareció durante cuarenta días después de la muerte que sufrió, demostrando con evidencia convincente que estaba vivo.  Se les aparecía y les hablaba acerca del reino de Dios.
@@ -16433,6 +16487,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	028	“Por lo tanto, sepan que esta salvación que viene de Dios ha sido enviada a los extranjeros y ellos escucharán.”
 044	ACT	028	030	Y durante dos años completos Pablo permaneció allí en la casa que alquiló, recibiendo a todos los que iban a verlo.
 044	ACT	028	031	Y les hablaba del reino de Dios, y enseñaba sobre el Señor Jesucristo audazmente.  Y nadie se lo impedía.
+#
+# BOOK	045	ROM	Romans	Romanos
 045	ROM	001	001	Esta carta viene de Pablo, siervo de Jesucristo.  Fui llamado por Dios para ser apóstol.  Él me designó para anunciar la buena noticia
 045	ROM	001	002	que anteriormente había prometido a través de sus profetas en las Sagradas Escrituras.
 045	ROM	001	003	La buena noticia es sobre su Hijo, cuyo antepasado fue David,
@@ -16865,6 +16921,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Ahora, a Aquél que puede fortalecerlos, mediante la buena noticia que yo comparto y el mensaje de Jesucristo, Conforme al misterio de verdad que ha sido revelado, El misterio de verdad, oculto por la eternidad,
 045	ROM	016	026	y ahora visible.  A través de los escritos de los profetas, y siguiendo el mandato del Dios eterno, El misterio de la verdad es dado a conocer a todos, en todos lados a fin de que puedan creer y obedecerle;
 045	ROM	016	027	Al único Dios sabio, A través de Jesucristo.  A él sea la gloria para siempre.  Amén.
+#
+# BOOK	046	1CO	1 Corinthians	1 Corintios
 046	1CO	001	001	Esta carta viene de parte de Pablo, llamado para ser un apóstol de Jesucristo, conforme a la voluntad de Dios, y de parte de nuestro hermano Sóstenes.
 046	1CO	001	002	Es enviada a la iglesia de Dios en Corinto, a aquellos que han sido justificados en Cristo Jesús, llamados para vivir en santidad, y a todos los que adoran al Señor Jesús en todas partes, el Señor de ellos y de nosotros.
 046	1CO	001	003	Reciban gracia y paz de parte de Dios, nuestro Padre, y del Señor Jesucristo.
@@ -17302,6 +17360,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	Cualquiera que no ama al Señor debe ser excluido de la iglesia.  ¡Ven Señor!
 046	1CO	016	023	Que la gracia de nuestro Señor Jesucristo esté con ustedes.
 046	1CO	016	024	Reciban mi amor para todos ustedes en Cristo Jesús.  Amén.
+#
+# BOOK	047	2CO	2 Corinthians	2 Corintios
 047	2CO	001	001	Esta carta viene de parte de Pablo, apóstol de Jesucristo, conforme a la voluntad de Dios, y de parte de Timoteo, nuestro hermano.  Es enviada a la iglesia de Dios en Corinto, así como a todo el pueblo de Dios que está por toda la región de Acaya.
 047	2CO	001	002	Reciban gracia y paz de Dios, nuestro Padre, y del Señor Jesucristo.
 047	2CO	001	003	¡Alaben a Dios, el padre de nuestro Señor Jesucristo!  Él es el Padre misericordioso, y Dios de toda consolación.
@@ -17559,6 +17619,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Salúdense unos a otros con amor cristiano.
 047	2CO	013	013	Todos los creyentes aquí les envían su saludo.
 047	2CO	013	014	Que la gracia del Señor Jesucristo, el amor de Dios, y la comunión del Espíritu Santo esté con todos ustedes.
+#
+# BOOK	048	GAL	Galatians	Gálatas
 048	GAL	001	001	Esta carta viene de Pablo, un apóstol no designado por ninguna organización o autoridad humana.  Muy por el contrario, fui designado por Jesucristo y Dios, el Padre, quien levantó a Jesús de entre los muertos.
 048	GAL	001	002	Todos los hermanos y hermanas que están aquí conmigo se han unido para enviar esta carta a las iglesias de Galacia.
 048	GAL	001	003	Que la gracia y la paz de Dios el Padre y de nuestro Señor Jesucristo esté con ustedes.
@@ -17708,6 +17770,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	¡Paz y misericordia a todos los que siguen este principio, y al Israel de Dios!
 048	GAL	006	017	Por favor, no me agobien más, porque llevo en mi cuerpo las marcas de Jesús.
 048	GAL	006	018	Mis hermanos y hermanas, que la gracia de nuestro Señor Jesucristo esté con el espíritu de todos ustedes.  Amén.
+#
+# BOOK	049	EPH	Ephesians	Efesios
 049	EPH	001	001	Esta carta proviene de Pablo, un apóstol de Cristo Jesús conforme a la voluntad de Dios, para los cristianos en Éfeso y para los que creen en Cristo Jesús.
 049	EPH	001	002	Gracia y paz a ustedes de Dios nuestro Padre y del Señor Jesucristo.
 049	EPH	001	003	Alabado sea Dios, el Padre de nuestro Señor Jesucristo, quien nos ha bendecido en Cristo con todo lo que es espiritualmente bueno en el mundo celestial,
@@ -17863,6 +17927,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Por ello lo envío a ustedes, para que les diga lo que nos ha sucedido y se animen.
 049	EPH	006	023	Paz a todos los cristianos allí, de parte de Dios el Padre y del Señor Jesucristo, con amor y fe en él.
 049	EPH	006	024	Gracia a todos los que aman eternamente a nuestro Señor Jesús.
+#
+# BOOK	050	PHI	Philippians	Filipenses
 050	PHI	001	001	Esta carta viene de parte de Pablo y de Timoteo, siervos de Jesucristo, para todo el pueblo de Dios en Cristo Jesús que vive en Filipo y a los líderes y sus asistentes.
 050	PHI	001	002	Gracia a ustedes y paz de parte de Dios, nuestro Padre, y del Señor Jesucristo.
 050	PHI	001	003	Cuando pienso en ustedes doy muchas gracias a mi Dios,
@@ -17967,6 +18033,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Saluden a todos los creyentes en Cristo Jesús.  Los hermanos y hermanas cristianos que están conmigo les envían su saludo.
 050	PHI	004	022	Todos los creyentes les envían saludo, especialmente los del palacio del César.
 050	PHI	004	023	Que la gracia del Señor Jesucristo esté con el espíritu de cada uno de ustedes.
+#
+# BOOK	051	COL	Colossians	Colosenses
 051	COL	001	001	Esta carta viene de Pablo, un apóstol de Jesucristo conforme a la voluntad de Dios, y de nuestro hermano Timoteo.
 051	COL	001	002	A los creyentes y cristianos fieles en Colosas: reciban gracia y paz de Dios, nuestro Padre.
 051	COL	001	003	Siempre damos gracias Dios, el Padre de nuestro Señor Jesucristo por ustedes, y oramos por ustedes también.
@@ -18062,6 +18130,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Y cuando les hayan leído esta carta, asegúrense de que también sea leída a la iglesia de Laodicea, y que ustedes también puedan leer la carta enviada a Laodicea.
 051	COL	004	017	Díganle a Arquipo lo siguiente: “Asegúrate de llevar a cabo el ministerio que Dios te dio.”
 051	COL	004	018	Yo, Pablo, escribo mi saludo de despedida con mi propia mano.  No olviden que estoy en prisión.  La gracia de Dios sea con ustedes.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Tesalonicenses
 052	1TH	001	001	Esta carta viene de parte de Pablo, Silvano y Timoteo, a la iglesia de los Tesalonicenses que pertenecen a Dios el Padre y al Señor Jesucristo.  Deseamos que tengan gracia y paz.
 052	1TH	001	002	Siempre le damos gracias a Dios por todos ustedes, y los recordamos en nuestras oraciones.
 052	1TH	001	003	Recordamos delante de nuestro Dios y Padre la manera como ustedes practican la fe en él, y cómo trabajan arduamente con amor, y que con paciencia guardan la esperanza de nuestro Señor Jesucristo.
@@ -18151,6 +18221,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Saluden a todos los creyentes de allí con afecto.
 052	1TH	005	027	Les pido, por medio del Señor, que esta carta sea leída a todos los creyentes.
 052	1TH	005	028	Que la gracia de nuestro Señor Jesucristo esté con ustedes.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Tesalonicenses
 053	2TH	001	001	Esta carta viene de Pablo, Silvano y Timoteo, para la iglesia de los tesalonicenses que pertenecen a Dios, nuestro Padre, y al Señor Jesucristo.
 053	2TH	001	002	Tengan gracia y paz de parte de Dios el Padre y del Señor Jesucristo.
 053	2TH	001	003	Seguimos agradeciendo a Dios por ustedes, hermanos y hermanas, pues es lo menos que podemos hacer.  Es lo que debemos hacer porque su fe en Dios está floreciendo, y el amor que todos ustedes tienen unos por otros aumenta cada vez más.
@@ -18198,6 +18270,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	Quiera el mismo Señor de paz darles paz en todas las situaciones y en todas las formas.  El Señor esté con todos ustedes.
 053	2TH	003	017	Noten el saludo que les mando, con mi propia letra.  Este es mi firma en cada carta que escribo.
 053	2TH	003	018	Que la gracia de nuestro Señor Jesucristo esté con todos ustedes.
+#
+# BOOK	054	1TI	1 Timothy	1 Timoteo
 054	1TI	001	001	Esta carta viene de Pablo, un apóstol de Jesucristo designado por la autoridad de Dios, nuestro Salvador, y Cristo Jesús, quien es nuestra esperanza.
 054	1TI	001	002	Esta carta la envío a Timoteo.  Tú eres mi hijo por causa de tu fe en Dios.  Recibe gracia, misericordia y paz de Dios el Padre y de Cristo Jesús, nuestro Señor.
 054	1TI	001	003	Cuando iba de camino a Macedonia, te pedí que te quedaras en Éfeso, para que pudieras hablar con los que enseñan falsas ideas y les insistieras en que dejaran de hacerlo.
@@ -18311,6 +18385,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	De este modo, acumulan tesoros que les proveerán una base sólida para el futuro, a fin de que puedan aferrarse a la vida verdadera.
 054	1TI	006	020	Timoteo, cuida lo que se te ha encomendado.  No prestes atención a la habladuría sin sentido y a los argumentos basados en supuesto “conocimiento.”
 054	1TI	006	021	Algunos de los que promueven estas ideas se alejaron de su fe en Dios.  Que la gracia esté contigo.
+#
+# BOOK	055	2TI	2 Timothy	2 Timoteo
 055	2TI	001	001	Esta carta viene de parte de Pablo, apóstol de Cristo Jesús y escogido por Dios, y es enviada con el fin de contar sobre la promesa de una vida real, es decir, en Cristo Jesús.
 055	2TI	001	002	Te la envío a ti, Timoteo, mi querido Hijo.  Ten gracia, misericordia, y paz de parte de Dios el Padre y de Cristo Jesús, nuestro Señor.
 055	2TI	001	003	Siempre pienso en ti y estoy muy agradecido con Dios, a quien sirvo así como lo hicieron mis ancestros, con una clara conciencia.  Nunca te olvido en mis oraciones.
@@ -18394,6 +18470,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erasto se quedó en Corinto, y dejé a Trófimo en Mileto porque se enfermó.
 055	2TI	004	021	Por favor, procura venir antes del invierno.  Eubulo te envía sus saludos, así como Pudente, Lino, Claudia y todos los hermanos y hermanas también.
 055	2TI	004	022	Que el Señor esté contigo.  Que su gracia esté con todos ustedes.
+#
+# BOOK	056	TIT	Titus	Tito
 056	TIT	001	001	Esta carta viene de parte de Pablo, siervo de Dios y apóstol de Jesucristo.  Fui enviado para edificar la fe del pueblo escogido de Dios y para compartir el conocimiento de la verdad que conduce a vidas dedicadas a Dios.
 056	TIT	001	002	Esto les da la esperanza de una vida eterna que Dios (quien no puede mentir) prometió desde edades atrás,
 056	TIT	001	003	pero que a su debido tiempo reveló por medio de su palabra, en el mensaje que se me encomendó predicar, siguiendo el mandato de Dios, nuestro Salvador.
@@ -18440,6 +18518,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Haz todo lo que puedas por ayudar a Zenas, el abogado, y a Apolo cuando vayan de camino para que puedan tener lo que necesitan.
 056	TIT	003	014	Ojalá nuestro pueblo aprenda el hábito de hacer el bien, proveyendo para las necesidades diarias de los demás.  ¡Necesitan ser productivos!
 056	TIT	003	015	Todos los que están aquí conmigo envían sus saludos.  Envía mis saludos a quienes nos aman, los que tienen fe en Dios.  Que la gracia esté con todos ustedes.
+#
+# BOOK	057	PHM	Philemon	Filemón
 057	PHM	001	001	Esta carta es enviada por Pablo, prisionero de Jesucristo, y de nuestro hermano Timoteo, a Filemón, nuestro buen amigo y compañero de trabajo;
 057	PHM	001	002	a nuestra hermana Apia, a Arquipo, quien lucha junto con nosotros, y a nuestra iglesia que está en tu casa.
 057	PHM	001	003	Recibe gracia y paz de parte de Dios nuestro Padre y del Señor Jesucristo.
@@ -18465,6 +18545,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Epafras, que está aquí conmigo en prisión, te envía su saludo,
 057	PHM	001	024	así como mis colaboradores Marcos, Aristarco, Demas, y Lucas.
 057	PHM	001	025	Que la gracia de nuestro Señor Jesucristo esté con todos ustedes.
+#
+# BOOK	058	HEB	Hebrews	Hebreos
 058	HEB	001	001	Dios, que en el pasado habló a nuestros padres por medio de los profetas en distintas épocas y de muchas maneras,
 058	HEB	001	002	en estos días nos ha hablado por medio de su Hijo.  Dios designó al Hijo como heredero de todo, e hizo el universo por medio de él.
 058	HEB	001	003	El Hijo es la gloria radiante de Dios, y la expresión visible de su verdadero carácter.  Él sostiene todas las cosas con su poderoso mandato.  Cuando hizo provisión para limpiar el pecado, se sentó a la diestra de la Majestad del cielo.
@@ -18768,6 +18850,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Sepan que Timoteo ha sido liberado.  Si llega pronto aquí, iré con él a verlos.
 058	HEB	013	024	Envíen mi saludo a todos sus líderes, y a todos los creyentes que hay allá.  Los creyentes que están aquí en Italia envían sus saludos.
 058	HEB	013	025	Que el Dios de gracia esté con todos ustedes.  Amén.
+#
+# BOOK	059	JAM	James	Santiago
 059	JAM	001	001	Esta carta viene de parte de Santiago, siervo de Dios y del Señor Jesucristo.  Es enviada a las doce tribus dispersas en el extranjero.  ¡Mis mejores deseos para ustedes!
 059	JAM	001	002	Amigos míos, elijan estar felices aun cuando se atraviesen todo tipo de problemas en su camino,
 059	JAM	001	003	porque ustedes saben que la paciencia surge al enfrentar desafíos en cuanto a su fe en Dios.
@@ -18876,6 +18960,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Luego oró una vez más, y el cielo envió la lluvia sobre la tierra, y la tierra dio su cosecha.
 059	JAM	005	019	Amigos míos, si alguno de ustedes se descarría de la verdad y alguien le trae de vuelta,
 059	JAM	005	020	háganle saber que todo el que rescata a un pecador del error de su camino lo salvará de la muerte y ganará perdón de muchos pecados.
+#
+# BOOK	060	1PE	1 Peter	1 Pedro
 060	1PE	001	001	Esta carta viene de Pedro, apóstol de Jesucristo, y es enviada al pueblo escogido de Dios: a los exiliados que están dispersos por todas las provincias de Ponto, Galacia, Capadocia, Asia, y Bitinia.
 060	1PE	001	002	Ustedes fueron elegidos por Dios, el Padre, en su sabiduría, y son un pueblo santo por el Espíritu, que obedece a Jesucristo y que está rociado con su sangre.  Tengan gracia y paz cada vez más.
 060	1PE	001	003	¡Alabado sea Dios, el Padre de nuestro Señor Jesucristo!  Por su gran misericordia hemos nacido de nuevo y se nos ha dado una esperanza viva por la resurrección de Jesucristo de entre los muertos.
@@ -18981,6 +19067,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Esta carta se las envío con ayuda de Silvano, a quien considero como un hermano fiel.  En estas pocas palabras que les he escrito, quiero animarlos y testificar que esta es la verdadera gracia de Dios.  ¡Manténganse firmes en ella!
 060	1PE	005	013	Los creyentes de aquí, de “Babilonia,” escogidos junto a ustedes, les envían su saludo, así como Marcos, mi hijo.
 060	1PE	005	014	Salúdense unos a otros con un beso de amor.  Paz a todos ustedes que están en Cristo.
+#
+# BOOK	061	2PE	2 Peter	2 Pedro
 061	2PE	001	001	Esta carta viene de parte de Simón Pedro, siervo y apóstol de Jesucristo, quien la envía a los que participan con nosotros de la preciosa fe en nuestro Dios y Salvador Jesucristo, el único que es verdaderamente justo y bueno.
 061	2PE	001	002	Reciban todavía más gracia y paz a medida que crecen en el conocimiento de Dios y de Jesús nuestro Señor.
 061	2PE	001	003	Por su poder divino hemos recibido todas las cosas necesarias para una vida cuyo centro es Dios.  Esto sucede al conocerlo a él, quien nos llamó a sí mismo por su propia gloria y bondad.  De este modo él nos ha entregado promesas maravillosas y preciosas.
@@ -19042,6 +19130,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Él habló sobre estas cosas, aunque algunas de las que escribió son difíciles de entender.  Algunas personas ignorantes y desequilibradas han tergiversado lo que él escribió según su conveniencia, como lo hacen con otros escritos.
 061	2PE	003	017	Mis amigos, puesto que ya saben esto, asegúrense de que estos errores de los malvados no los descarríen, y no tropiecen de su firme posición.
 061	2PE	003	018	Deseo que crezcan en la gracia y en el conocimiento de nuestro Señor y Salvador Jesucristo.  ¡A él sea la gloria, ahora y por siempre!  Amén.
+#
+# BOOK	062	1JO	1 John	1 Juan
 062	1JO	001	001	Esta carta trata sobre la Palabra de vida que existía desde el principio, que hemos escuchado, que hemos visto con nuestros propios ojos y le hemos contemplado, y que hemos tocado con nuestras manos.
 062	1JO	001	002	Esta Vida nos fue revelada.  La vimos y damos testimonio de ella.  Estamos hablándoles de Aquél que es la Vida Eterna, que estaba con el Padre, y que nos fue revelado.
 062	1JO	001	003	Los que hemos visto y oído eso mismo les contamos, para que también puedan participar de esta amistad junto a nosotros.  Esta amistad con el Padre y su Hijo Jesucristo.
@@ -19147,6 +19237,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Pues sabemos que pertenecemos a Dios, y que el mundo está bajo control del maligno.
 062	1JO	005	020	También sabemos que el Hijo de Dios ha venido, y nos ha ayudado a entender, para que podamos reconocer al que es verdadero.  Vivimos en él, que es verdadero, en su Hijo Jesucristo.  Él es el verdadero Dios, y es vida eterna.
 062	1JO	005	021	Amigos queridos, aléjense del culto a los ídolos.
+#
+# BOOK	063	2JO	2 John	2 Juan
 063	2JO	001	001	Esta carta viene de parte del anciano a la dama escogida y a sus hijos, a quienes amo en la verdad.  No solo de mi parte, sino de parte de todos los que conocen la verdad,
 063	2JO	001	002	porque la verdad vive en nosotros y estará con nosotros para siempre.
 063	2JO	001	003	Que la gracia, la misericordia y la paz sigan con nosotros, de parte de Dios el Padre y de Jesucristo, el Hijo del Padre, en verdad y en amor.
@@ -19160,6 +19252,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	porque si los animas, participas de sus malas obras.
 063	2JO	001	012	Tengo tantas cosas que decirte pero que no las escribiré más con tinta, porque espero visitarte y hablar contigo cara a cara.  ¡Eso nos haría muy felices!
 063	2JO	001	013	Saludos de los hijos de tu hermana escogida.
+#
+# BOOK	064	3JO	3 John	3 Juan
 064	3JO	001	001	Esta carta viene de parte del anciano a Gayo, mi querido amigo, a quien amo en la verdad.
 064	3JO	001	002	Amigo mío, por encima de todas las cosas oro para que estés bien y tengas buena salud, pues sé que espiritualmente estás bien.
 064	3JO	001	003	Me alegré cuando vinieron algunos hermanos creyentes y me hablaron sobre tu compromiso con la verdad, y sobre cómo sigues viviendo conforme a ella.
@@ -19174,6 +19268,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Todos hablan bien de Demetrio, ¡y la verdad también habla bien de él!  Nosotros también hablamos bien de él, y ustedes saben que decimos la verdad.
 064	3JO	001	013	Tengo mucho que decirte, pero no quiero hacerlo escribiendo con tinta.
 064	3JO	001	014	Espero verte pronto para que hablemos cara a cara.  ¡Que la paz esté contigo!  Los amigos que están aquí te envían sus saludos.  Te ruego que saludes personalmente, y por nombre, a nuestros amigos de allá.
+#
+# BOOK	065	JUD	Jude	Judas
 065	JUD	001	001	Esta carta viene de parte de Judas, siervo de Jesucristo, y hermano de Santiago.  Escribo a los que son llamados y amados por Dios, el Padre, y que son guardados a salvo por Jesucristo:
 065	JUD	001	002	¡Que la misericordia, la paz y el amor de Dios aumente en su experiencia!
 065	JUD	001	003	Amigos, desde antes ya anhelaba la oportunidad de escribirles acerca de la salvación de la cual somos partícipes.  Pero ahora necesito escribirles urgentemente y animarlos a defender enérgicamente la verdad acerca de Dios, que fue dada una vez y para siempre al pueblo santo de Dios.
@@ -19199,6 +19295,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Salven a todos los que puedan, arrebatándolos del fuego.  Muestren misericordia, pero con mucho cuidado, aborreciendo incluso las “vestiduras” contaminadas por la naturaleza pecaminosa de los humanos.
 065	JUD	001	024	Ahora, a Aquél que puede guardarlos sin caer, y que puede llevarlos a su gloriosa presencia sin falta, y con gran gozo,
 065	JUD	001	025	al único Dios, nuestro Salvador, por medio de Jesucristo nuestro Señor, sea la gloria, la majestad, el poder y la autoridad, desde siempre, ahora, y para siempre.  Amén.
+#
+# BOOK	066	REV	Revelation	Apocalipsis
 066	REV	001	001	Esta es la revelación de Jesucristo, la cual Dios entregó para mostrar a sus siervos lo que sucederá pronto.  Él envió a su ángel para revelarla a su siervo Juan,
 066	REV	001	002	quien confirmó todo lo que vio respecto a la palabra de Dios y el testimonio de Jesucristo.
 066	REV	001	003	Bendito es todo aquél que lee esto, así como los que escuchan estas palabras proféticas y prestan atención a lo que está escrito, porque el tiempo está cerca.

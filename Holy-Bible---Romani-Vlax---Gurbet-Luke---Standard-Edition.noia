@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Standard-Edition.noia
-# File Size: 156721      
-# File Date: 05/06/2021 19:30:21
+# File Size: 156738      
+# File Date: 06/18/2021 11:04:49
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	042	LUK	Luke	Luka
 042	LUK	001	001	Sar so đane but đene lije te pisin tar okova so sasa so o Dol obećisada prekale prorokura, a čerdilo maškar amende.
 042	LUK	001	002	Pisisade amenđe kola save korkore dikhlje vađi tare anglune đivesa thaj čerdile sluge e Devlese Lafese,
 042	LUK	001	003	gija i me, mangleja Teofile, tuče pisiv sa redasa, golese so sa taro anglunipe ispitujisadem.
@@ -397,7 +399,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	008	020	Thaj khoni vačarda e Isusese: “Ći dej thaj će phrala ačhen avri, thaj manđen te dičhen tut.”
 042	LUK	008	021	A o vov vačarda lenđe: “Mi dej thaj me phrala si kola save šunen o lafi e Devleso thaj ičaren le.”
 042	LUK	008	022	Jekh đive o Isus phenda pe sikadenđe: “Te nakha ki aver rig e pajesi.”  Dije ano čamco thaj đele.
-042	LUK	008	023	Thaj kana pojdisade o Isus zasuta.  Thaj uštili bari balval, o čamco lija te pherdol paj thaj lije te tason, thaj but darajle so sesa ano baro bilačhipe.
+042	LUK	008	023	Thaj kana pojdisade o Isus zasuta.  Thaj uštili bari barval, o čamco lija te pherdol paj thaj lije te tason, thaj but darajle so sesa ano baro bilačhipe.
 042	LUK	008	024	Thaj e sikade avile pašo Isus thaj lije te den vika: “Rajo!  Rajo!  Ka tasiva!”  Thaj o Isus uštilo, thaj vačarda e balvaljaće thaj e bare pajese te ačhen, thaj von ačhile thaj pal gova khanči ni ašundilo.
 042	LUK	008	025	A o Isus vačarda lenđe: “Kaj tumaro pačaipe?”  A e sikade darajle thaj čudisajle thaj jekh averese vačarde: “Savo si kava so e balvaljenđe thaj e pajese vačarol te ačhen, thaj von šunen le?”
 042	LUK	008	026	Thaj resle paši Gerasinsko phuv savi si ki aver rig tari Galileja.
@@ -539,7 +541,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	011	002	O Isus vačarda lenđe: “Kana molin tumen, vačaren: 'Dade amareja ko nebo, te svetilpe ćo alav, te avol ćo carstvo, te avol ćiro manđipe ki phuv sar ko nebo,
 042	LUK	011	003	Hamase so trubul amen de amen svako đive,
 042	LUK	011	004	Thaj oprosti amare grehura, sar amen so oprosti okolenđe so čeren grehura premal amende!  Thaj crde amen taro iskušenje.'”
-042	LUK	011	005	Thaj o Isus vačarda:”Den gođi sar bi avola kana bi khoni tumendar đala ke po amal ki opaši rat, thaj te roden mangro lestar, thaj te vačaren lese: 'Amala, dema trin mangre, pa ka iriv tuće.
+042	LUK	011	005	Thaj o Isus vačarda: “Den gođi sar bi avola kana bi khoni tumendar đala ke po amal ki opaš rat, thaj te roden mangro lestar, thaj te vačaren lese: 'Amala, dema trin mangre, pa ka iriv tuće.
 042	LUK	011	006	Golese kaj avilo taro drom mo amal ke mande, thaj naj so te čhuvav angle leste.'
 042	LUK	011	007	A vov andral te phenol: 'Ačhav ma ko miro!  Mo vudar si phanglo thaj me čhave si manca ano than e pašljimaso, thaj našti uštav te dav tut!'
 042	LUK	011	008	Vačarav tumenđe: Ako ni uštilo golese kaj si leso amal, ka uštol te dol le golese so si bilađutno thaj uporno.”
@@ -626,7 +628,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	012	035	Thaj o Isus vačarda lenđe: “Aven spremna thaj urade zaki bući, thaj tumare svetiljke te aven phabarde,
 042	LUK	012	036	sar manuša save ađučaren pe gospodare savo iril pe taro abav, te aven spremna te putren lese kana resol thaj marol ko udar.
 042	LUK	012	037	E sluge save si spremna thaj ađučaren pe gospodare te iril pe, ka aven blagoslovime.  Čače vačarav tumenđe o gospodari korkoro ka uravol pe sar sluga, thaj ka phenol lenđe te bešen thaj ka avol te kandol len thaj ka dol len te xan.
-042	LUK	012	038	O gospodari šaj ka avol ki opaši rat ili anglo uštipe taro sojipe.  Blagoslovime si e sluge save ađučaren.
+042	LUK	012	038	O gospodari šaj ka avol ki opaš rat ili anglo uštipe taro sojipe.  Blagoslovime si e sluge save ađučaren.
 042	LUK	012	039	A kava đanen: kana bi đanola o čherutno ke savo časo ka avol o čor, ne bi dola te avol leso čher phago.
 042	LUK	012	040	Thaj tumen aven spremna, golese so me o Čhavo e Manušeso ka avav kana ni ka den gođi an savo časo.”
 042	LUK	012	041	A o Petar pučlja e Isuse: “Rajo!  Vačare li amenđe e sikadenđe kaja paramič il savorenđe?”
@@ -737,7 +739,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	015	017	Thaj kana avilo ane peste, vačarda: 'Kobor e bučarne ke mo dad isi len so te xan, a me kate merav bukhalo!
 042	LUK	015	018	Ka đav manđe čhere, ke mo dad, pa ka vačarav lese: 'Dade, grešisadem angle tute thaj anglo Dol.
 042	LUK	015	019	Našti te akhardivav ćiro čhavo.  Lema sar jekhe tar ćire bučarne.”
-042	LUK	015	020	Tegani uštilo em đelo ke po dad.  A kana sasa po dur tar po čher, dikhlja le leso dad, thaj pelo lese žal, thaj prastija lija le ani angali thaj čhumidija le.
+042	LUK	015	020	Tegani uštilo em đelo ke po dad.  A kana sasa po dur tar po čher, dikhlja le leso dad, thaj pelo lese žal, thaj prastija lija le ani angali thaj čumidija le.
 042	LUK	015	021	A o čhavo vačarda lese: 'Dade, grešisadem angle tute thaj anglo Dol!  Našti te akhardivav ćiro čhavo.'
 042	LUK	015	022	A o dad phenda e slugenđe pirenđe: 'Ikalen emšukar fostano thaj uraven le, thaj den le angrustik ko va thaj pođipe ke pingre!
 042	LUK	015	023	Thaj anen okole terne thule guruve čhinen le, te ha thaj te raduji amen.
@@ -771,11 +773,11 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	016	019	O Isus vačarda vađi jekh paramič: “Nesavo manuš sasa barvalo, savo urado sasa ane barvale šeja, thaj živisada ano barvalipe xalja thaj pilja sa e đivesa.
 042	LUK	016	020	A sasa jekh čororo, leso alav sasa Lazar, savo pašljola angle leso vudar phumbalo.
 042	LUK	016	021	Thaj čeznila te čaljol e troškendar so perena tare barvaleso astali, thaj e đukle avena thaj čarena e phumba lese.
-042	LUK	016	022	A kana mulo o čororo, e melekura inđarde le ani angali e Avraamese.  Thaj posle thaj i o barvalo mulo, thaj prahosade le.
+042	LUK	016	022	A kana mulo o čoro, e melekura inđarde le ani angali e Avraamese.  Thaj posle i o barvalo mulo, thaj prahosade le.
 042	LUK	016	023	Thaj o barvalo sasa ano than kaj sesa e mule ane muke thaj vazdija pe jakha thaj odural dikhlja e Lazare ani angali e Avraamese.
 042	LUK	016	024	Thaj dija vika: 'Dade Avraame!  Dik pe mande thaj bičhal e Lazare te čhuvol po naj ano paj, te šudarol mi čhib, golese kaj mučima ane kaja jag.'
-042	LUK	016	025	O Avraam vačarda lese: “Čhaveja!  Detu gođi kaj ane ćo đuvdipe sa sasatu šukar, a e Lazare sa bilačhipe, thaj akana lese kate šukar, a tu muči tut.
-042	LUK	016	026	Thaj prekale sa gova maškare amende si bari provalija.  Kola save manđen te načhen katar odoring tumende, našti, ni gothar amende te načhen.”
+042	LUK	016	025	O Avraam vačarda lese: “Čhaveja!  Detu gođi kaj ane ćo đuvdipe sa sasa tut šukar, a e Lazare sa bilačhipe, thaj akana lese kate šukar, a tu muči tut.
+042	LUK	016	026	Thaj prekale sa gova maškare amende si bari provalija.  Kola save manđen te načhen katar odori tumende, našti, ni gothar amende te načhen.”
 042	LUK	016	027	Tegani vačarda: 'Moliv tut, dade Avraame, te bičhale e Lazare ano čher me dadeso.
 042	LUK	016	028	Golese kaj isi man panđ phrala.  Nek vačarol lenđe te ne bi i von avena ke kava than e mučimaso.'
 042	LUK	016	029	Thaj vačarda lese o Avraam: 'Len isi okova so pisada o Mojsija thaj e prorokura.  Len nek šunen.'
@@ -873,7 +875,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	019	010	Golese kaj me o Čhavo e Manušeso aviljem te rodav thaj te spasiv so si hasardo.”
 042	LUK	019	011	But manuša gova šunde thaj o Isus vačarda lenđe jekh paramič, golese kaj sesa pašo Jerusalim, thaj dije gođi kaj akana ka avol o carstvo e Devleso.
 042	LUK	019	012	Thaj o Isus vačarda gijate: “Jekh manuš tari prešundi familija đelo ani durutni phuv te postavin le zako caro, thaj te iril pe.
-042	LUK	019	013	Angleder so đelo akharda dešen piren slugen thaj dija len po opaši kila rupuno, thaj vačarda lenđe: 'Trgujin sa đi kaj ni avav.'
+042	LUK	019	013	Angleder so đelo akharda dešen piren slugen thaj dija len po opaš kila rupuno, thaj vačarda lenđe: 'Trgujin sa đi kaj ni avav.'
 042	LUK	019	014	A e manuša tar lesi phuv mrzisade le thaj bičhalde pe manušen te vačaren e po bare carose: 'Ni manga vov te caruil pe amende.'
 042	LUK	019	015	Thaj kana irisajlo sar caro, vačarda te akharen okolen slugen kase dija e rupune, te dičhol so čerde.
 042	LUK	019	016	Tegani avilo o angluno thaj vačarda: 'Barutneja!  Čerdem deš droma po but nego so dijan ma.'

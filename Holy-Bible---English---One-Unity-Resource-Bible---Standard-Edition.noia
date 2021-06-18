@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---English---One-Unity-Resource-Bible---Standard-Edition.noia
-# File Size: 2119160     
-# File Date: 05/06/2021 19:14:57
+# File Size: 2119546     
+# File Date: 06/18/2021 10:49:12
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	Genesis
 001	GEN	001	001	B'resheet Elohim bara' ·In the beginning of the beginning, God created from nothingness· the heavens and the earth.
 001	GEN	001	002	Earth was tohu v'bohu ·void and chaos·.  Darkness was on the surface of the deep and Ruach Elohim ·Spirit of God· was hovering over the surface of the waters.
 001	GEN	001	003	God said, “Let there be light,” and there was light.
@@ -1556,6 +1558,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	Joseph [May he add] said to his brothers, “I am dying, but God will surely visit you, and bring you up out of this land to the land which he swore to Abraham [Father of a multitude], to Isaac [Laughter], and to Jacob [Supplanter].”
 001	GEN	050	025	Joseph [May he add] took an oath of the children of Israel [God prevails], saying, “God will surely visit you, and you shall carry up my bones from here.”
 001	GEN	050	026	So Joseph [May he add] died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in Egypt [Abode of slavery].
+#
+# BOOK	002	EXO	Exodus	Exodus
 002	EXO	001	001	Now these are the names of the sons of Israel [God prevails], who came into Egypt [Abode of slavery] (every man and his household came with Jacob [Supplanter]):
 002	EXO	001	002	Reuben [See, a son!], Simeon [Hearing], Levi [United with], and Judah [Praised],
 002	EXO	001	003	Issachar [Hire, Reward], Zebulun [Living together], and Benjamin [Son of right hand, Son of south],
@@ -2769,6 +2773,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	When the cloud was taken up from over the tabernacle, the children of Israel [God prevails] went onward, throughout all their journeys;
 002	EXO	040	037	but if the cloud was not taken up, then they didn’t travel until the day that it was taken up.
 002	EXO	040	038	For the cloud of Adonai was on the tabernacle by day, and there was fire in the cloud by night, in the sight of all the house of Israel [God prevails], throughout all their journeys.
+#
+# BOOK	003	LEV	Leviticus	Leviticus
 003	LEV	001	001	Adonai called to Moses [Drawn out], and spoke to him from the Tent of Meeting, saying,
 003	LEV	001	002	“Speak to the children of Israel [God prevails], and tell them, ‘When anyone of you offers an offering to Adonai, you shall offer your offering of the livestock, from the herd and from the flock.
 003	LEV	001	003	“‘If his offering is a burnt offering from the herd, he shall offer a male without defect.  He shall offer it at the door of the Tent of Meeting, that he may be accepted before Adonai.
@@ -3628,6 +3634,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	All the tithe of the herds or the flocks, whatever passes under the rod, the tenth shall be holy to Adonai.
 003	LEV	027	033	He shall not search whether it is good or bad, neither shall he change it.  If he changes it at all, then both it and that for which it is changed shall be holy.  It shall not be redeemed.’”
 003	LEV	027	034	These are the mitzvot ·instructions· which Adonai enjoined Moses [Drawn out] for the children of Israel [God prevails] on Mount Sinai [Thorn].
+#
+# BOOK	004	NUM	Numbers	Numbers
 004	NUM	001	001	Adonai spoke to Moses [Drawn out] in the wilderness of Sinai [Thorn], in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt [Abode of slavery], saying,
 004	NUM	001	002	“Take a census of all the congregation of the children of Israel [God prevails], by their families, by their fathers’ houses, according to the number of the names, every male, one by one;
 004	NUM	001	003	from twenty years old and upward, all who are able to go out to war in Israel [God prevails].  You and Aaron [Light-bringer] shall count them by their divisions.
@@ -4916,6 +4924,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	for Mahlah, Tirzah, Hoglah, Milcah, and Noah [Rest], the daughters of Zelophehad, were married to their dod ·father’s· brothers’ sons.
 004	NUM	036	012	They were married into the families of the sons of Manasseh [Causing to forget] the son of Joseph [May he add].  Their inheritance remained in the tribe of the family of their father.
 004	NUM	036	013	These are the mitzvot ·instructions· and the judgments which Adonai enjoined by the hand of Moses [Drawn out] to the children of Israel [God prevails] in the plains of Moab [From father] by the Jordan [Descender] across from Jericho [Fragrant, Moon].
+#
+# BOOK	005	DEU	Deuteronomy	Deuteronomy
 005	DEU	001	001	These are the words which Moses [Drawn out] spoke to all Israel [God prevails] beyond the Jordan [Descender] in the wilderness, in the Arabah over against Suf, between Paran, Tophel, Laban [White], Hazeroth, and Dizahab.
 005	DEU	001	002	It is eleven days’ journey from Horeb [Desert] by the way of Mount Seir to Kadesh Barnea [Consecrated Son-inconstant].
 005	DEU	001	003	In the fortieth year, in the eleventh month, on the first day of the month, Moses [Drawn out] spoke to the children of Israel [God prevails], according to all that Adonai had given Moses [Drawn out], words of enjoinings to them;
@@ -5875,6 +5885,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	Since then, there has not arisen a prophet in Israel [God prevails] like Moses [Drawn out], whom Adonai knew face to face,
 005	DEU	034	011	in all the signs and the wonders, which Adonai sent him to do in the land of Egypt [Abode of slavery], to Pharaoh, and to all his servants, and to all his land,
 005	DEU	034	012	and in all the mighty hand, and in all the awesome deeds, which Moses [Drawn out] did in the sight of all Israel [God prevails].
+#
+# BOOK	019	PSA	Psalms	Psalms
 019	PSA	001	001	Blessed is the man who does not walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers;
 019	PSA	001	002	but his delight is in Adonai’s Torah ·Teaching·.  On his torot ·teachings· he meditates day and night.
 019	PSA	001	003	He will be like a tree planted by the streams of water, that produces its fruit in its season, whose leaf also does not wither.  Whatever he does shall prosper.
@@ -8336,6 +8348,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	Praise him with tambourine and dancing!  Praise him with stringed instruments and flute!
 019	PSA	150	005	Praise him with loud cymbals!  Praise him with resounding cymbals!
 019	PSA	150	006	Let everything that has breath Halleluyah ·praise Yah·!  Halleluyah ·praise Yah·!
+#
+# BOOK	020	PRO	Proverbs	Proverbs
 020	PRO	001	001	The proverbs of Solomon [Peaceable, Recompense], the son of David [Beloved], king of Israel [God prevails]:
 020	PRO	001	002	to know wisdom and instruction; to discern the words of understanding;
 020	PRO	001	003	to receive instruction in wisdom, in righteousness, mishpat ·justice·, and equity;
@@ -9251,6 +9265,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 020	PRO	031	029	“Many women have done noble things, but you excel them all.”
 020	PRO	031	030	Chen ·Charm, Grace· is deceitful, and beauty is vain; but a woman who fears Adonai, she shall be praised.
 020	PRO	031	031	Give her of the fruit of her hands!  Let her works speak her praise at the city gates!
+#
+# BOOK	023	ISA	Isaiah	Isaiah
 023	ISA	001	001	The vision of Isaiah [Salvation of Yah] the son of Amoz, which he saw concerning Judah [Praised] and Jerusalem [City of peace], in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah [Praised].
 023	ISA	001	002	Sh'ma ·Hear obey·, heavens, and listen, earth; for Adonai has spoken: “I have nourished and brought up children, and they have rebelled against me.
 023	ISA	001	003	The ox knows his owner, and the donkey his master’s crib; but Israel [God prevails] does not know, my people don’t consider.”
@@ -10543,6 +10559,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 023	ISA	066	022	“For as the new heavens and the new earth, which I will make, shall remain before me,” says Adonai, “so your offspring and your name shall remain.
 023	ISA	066	023	It shall happen that from one new moon to another, and from one Sabbath ·To cease· to another, all flesh will come to hawa ·bow low, prostrate· to worship before me,” says Adonai.
 023	ISA	066	024	“They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.”
+#
+# BOOK	040	MAT	Matthew	Matthew
 040	MAT	001	001	The book of the genealogy of Yeshua Messiah [Anointed one], the son of David [Beloved], the son of Abraham [Father of a multitude].
 040	MAT	001	002	Abraham [Father of a multitude] became the father of Isaac [Laughter].  Isaac [Laughter] became the father of Jacob [Supplanter].  Jacob [Supplanter] became the father of Judah [Praised] and his brothers.
 040	MAT	001	003	Judah [Praised] became the father of Perez and Zerah by Tamar [Palm tree].  Perez became the father of Hezron.  Hezron became the father of Ram.
@@ -11614,6 +11632,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Yeshua [Salvation] came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth.
 040	MAT	028	019	Go, and make disciples of all nations, baptizing them in the name of the Abba ·Father· and of the Son and of Ruach haKodesh [Spirit of the Holiness],
 040	MAT	028	020	teaching them to observe all things that I have enjoined unto you.  Behold, I am with you always, even to the end of the age.”  Amen ·So be it·.
+#
+# BOOK	041	MAR	Mark	Mark
 041	MAR	001	001	The beginning of the Good News of Yeshua Messiah [Salvation Anointed one], the Ben-Elohim ·Son of Elohim God·.
 041	MAR	001	002	As it is written in the prophets, “Behold, I send my messenger before your face, who will prepare your way before you:
 041	MAR	001	003	the voice of one crys out in the wilderness, ‘Make ready the way of MarYah [Master Yahweh]!  Make his paths straight!’”
@@ -12292,6 +12312,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	they will take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”
 041	MAR	016	019	So then the Lord, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.
 041	MAR	016	020	They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed.  Amen ·So be it·.
+#
+# BOOK	042	LUK	Luke	Luke
 042	LUK	001	001	Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,
 042	LUK	001	002	even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,
 042	LUK	001	003	it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus [God friend];
@@ -13443,6 +13465,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	While he blessed them, he withdrew from them, and was carried up into heaven.
 042	LUK	024	052	They worshiped him, and teshuvah ·completely returned· to Jerusalem [City of peace] with great joy,
 042	LUK	024	053	and were continually in the temple, praising and blessing God.  Amen ·So be it·.
+#
+# BOOK	043	JOH	John	John
 043	JOH	001	001	B'resheet ·In the beginning of the beginning· was ha D'var ·the Word·, and ha D'var ·the Word· was with God, and ha D'var ·the Word· was God.
 043	JOH	001	002	The same was in the beginning with God.
 043	JOH	001	003	All things came to be through him and without him nothing made had being.

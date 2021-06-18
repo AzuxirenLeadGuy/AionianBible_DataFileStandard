@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---English---Montgomery-NT---Standard-Edition.noia
-# File Size: 1085549     
-# File Date: 05/06/2021 19:14:15
+# File Size: 1086488     
+# File Date: 06/18/2021 10:48:30
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Matthew
 040	MAT	001	001	The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 040	MAT	001	002	Abraham was the father of Isaac; Isaac was the father of Jacob; Jacob, of Judah and his brethren;
 040	MAT	001	003	Judah (by Tamar), of Perez and Zerah; Perez, of Hezron; Hezron, of Ram;
@@ -1091,6 +1093,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	And Jesus came forward to them and spoke to them, saying.  "All authority has been given to me in heaven and on earth.
 040	MAT	028	019	Go, therefore, and make disciples of all nations, baptizing them into the name of the Father, and of the Son, and of the Holy Spirit;
 040	MAT	028	020	teaching them to observe every command which I have given you.  and lo!  I am with you alway, even unto the end of the world."
+#
+# BOOK	041	MAR	Mark	Mark
 041	MAR	001	001	Beginning of the gospel of Jesus Christ, the Son of God;
 041	MAR	001	002	even as it is written in the prophet Isaiah, Behold, I am sending my messenger before your face to prepare your way.
 041	MAR	001	003	The voice of one crying aloud.  In the desert make ready a road for the Lord.  Make his paths straight.
@@ -1764,6 +1768,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	they shall pick up serpents, and if they drink any poison it shall not hurt them; they shall lay hands on the sick and they shall recover."
 041	MAR	016	019	So then the Lord Jesus, after he had spoken to them, was taken up into heaven, and sat down at the right hand of God.
 041	MAR	016	020	But they went forth and preached everywhere, the Lord working with them, and confirming the message by the miracles which followed.
+#
+# BOOK	042	LUK	Luke	Luke
 042	LUK	001	001	Seeing that many have taken it in hand to draw up an account of those matters which have been fully established among us,
 042	LUK	001	002	just as they reported them to us, who were from beginning eye- witnesses and ministers of the word,
 042	LUK	001	003	it seemed good to me also accurately, from the very beginning, to write them to you in order, most excellent Theophilus,
@@ -2915,6 +2921,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	And it happened that while he was blessing them, that he parted from them and was carried into heaven.
 042	LUK	024	052	And they worshiped him and returned to Jerusalem with great joy,
 042	LUK	024	053	and were continually in the temple, blessing God.
+#
+# BOOK	043	JOH	John	John
 043	JOH	001	001	In the beginning was the Word, and the Word was face to face with God, and the Word was God.
 043	JOH	001	002	He was face to face with God in the Beginning.
 043	JOH	001	003	All things came into being through him, and apart from him nothing that exists came into being.
@@ -3785,6 +3793,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Accordingly the report spread among the brothers that this disciple should not die; but Jesus did not say that he was not to die, but said, "If I choose that he remain until I come, what is that to you?"
 043	JOH	021	024	It is this disciple who bears testimony to these facts and who recorded them; and we know that his testimony is true.
 043	JOH	021	025	But there are also many other things which Jesus did; if every one of them were to be recorded in detail I suppose that even the world itself could not contain the books that would have to be written.
+#
+# BOOK	044	ACT	Acts	Acts
 044	ACT	001	001	My first account, O Theophilus, dealt with all that Jesus began doing and teaching from the beginning down to the day when,
 044	ACT	001	002	after giving instructions through the Spirit to the apostles whom he had chosen, he was taken up to heaven.
 044	ACT	001	003	After his sufferings he had also shown himself alive to them in many convincing manifestations, revealing himself to them during forty days, and speaking of the kingdom of God.
@@ -4792,6 +4802,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	When he finished speaking, the Jews departed, and reasoned among themselves.
 044	ACT	028	030	After this Paul lived for two whole years in his own rented house, and used to receive all who came to see him.
 044	ACT	028	031	He continued to preach the kingdom of God, and to teach about the Lord Jesus Christ with all boldness, quite unmolested.
+#
+# BOOK	045	ROM	Romans	Romans
 045	ROM	001	001	From Paul, a slave of Jesus Christ, called to be an apostle, set apart for a gospel of God,
 045	ROM	001	002	which through his prophets he promised beforetime, in holy writings;
 045	ROM	001	003	this gospel is concerning his Son, Jesus Christ our Lord, who was born of David’s posterity in respect of his bodily nature,
@@ -5225,6 +5237,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Now I commend you to Him who is able to keep you stedfast, according to my gospel, and the proclamation of Jesus Christ, whereby is unveiled the secret truth which was kept secret through immemorial ages,
 045	ROM	016	026	but now has been brought to light, and by command of the eternal God made known to the Gentiles by the scriptures of the Prophets, so that the Gentiles might hold obedience of the faith.
 045	ROM	016	027	Unto Him, the only wise God, through Jesus Christ, be glory forever.  Amen.
+#
+# BOOK	046	1CO	1 Corinthians	1 Corinthians
 046	1CO	001	001	Paul, called by the will of God to be an apostle of Jesus Christ, and Sosthenes, his brother.
 046	1CO	001	002	to the Church of God at Corinth, to those who are sanctified in Christ Jesus, called to be saints, together with all, wherever they are, who call upon the name of the Lord Jesus.
 046	1CO	001	003	Grace to you, and peace from God our Father and the Lord Jesus Christ.
@@ -5662,6 +5676,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	If any one does not love the Lord, let him be accursed.  Our Lord is coming.
 046	1CO	016	023	The grace of our Lord Jesus be with you.
 046	1CO	016	024	My love be with you all in Christ Jesus.
+#
+# BOOK	047	2CO	2 Corinthians	2 Corinthians
 047	2CO	001	001	To the Church of God which is in Corinth, and to all the saints throughout Greece.  from Paul, by God’s will an apostle of Christ, and from brother Timothy.
 047	2CO	001	002	Grace to you and peace from God our Father in the Lord Jesus Christ.
 047	2CO	001	003	Thanks be to the God and Father of our Lord Jesus Christ, the Father of tender mercies and the God of all comfort,
@@ -5919,6 +5935,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Salute one another with a holy kiss.
 047	2CO	013	013	All the saints salute you.
 047	2CO	013	014	The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.
+#
+# BOOK	048	GAL	Galatians	Galatians
 048	GAL	001	001	Paul, an apostle sent not from men nor by any man, but by Jesus Christ and by God the Father who raised him from the dead;
 048	GAL	001	002	with all the brothers who are with me.  To the churches of Galatia greeting.
 048	GAL	001	003	Grace be to you, and peace from God our Father and our Lord Jesus Christ,
@@ -6068,6 +6086,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	On all who will govern their lives by this rule and on the Israel of God may peace and mercy rest.
 048	GAL	006	017	From this time forth let no one trouble me, for I bear branded in my body the marks of Jesus, my Master.
 048	GAL	006	018	May the grace of our Lord Jesus Christ be with your spirit, brothers.  Amen.
+#
+# BOOK	049	EPH	Ephesians	Ephesians
 049	EPH	001	001	Paul, an apostle of Jesus Christ by the will of God, to the saints who are in Ephesus and to the faithful in Christ Jesus,
 049	EPH	001	002	grace to you and peace from God our father and the Lord Jesus Christ.
 049	EPH	001	003	Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in every spiritual blessing in the heavenly realms in Christ.
@@ -6223,6 +6243,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	I have sent him to you for this very purpose, that you may know about us, and that he may cheer your hearts.
 049	EPH	006	023	Peace to the brothers and love, with faith from God our Father and the Lord Jesus Christ.
 049	EPH	006	024	May grace be with all who love our Lord Jesus Christ with sincerity.
+#
+# BOOK	050	PHI	Philippians	Philippians
 050	PHI	001	001	Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, and to the elders and deacons.
 050	PHI	001	002	Grace and peace to you from God our Father and the Lord Jesus Christ.
 050	PHI	001	003	Upon every remembrance of you I am ever thanking my God for you all;
@@ -6327,6 +6349,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Salute every saint in Christ Jesus.  The brothers who are with me salute you.
 050	PHI	004	022	All the saints salute you, and especially the slaves of the Emperor’s household.
 050	PHI	004	023	The grace of our Lord Jesus Christ be with your spirits.
+#
+# BOOK	051	COL	Colossians	Colossians
 051	COL	001	001	Paul, an apostle of Jesus Christ, by the will of God, and Timothy our brother,
 051	COL	001	002	to the holy and believing brothers in Christ who are in Colosse.  Grace to you, and peace, from God our Father.
 051	COL	001	003	Whenever I pray for you I am continually thanking God, the Father of our Lord Jesus Christ
@@ -6422,6 +6446,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	And when this letter has been read to you, see that it is read also in the church of Laodiceans, and that you also read the letter from Laodicea.
 051	COL	004	017	And tell Archippas to take heed to the ministry which he has received in the Lord, that he may fulfill it.
 051	COL	004	018	I, Paul, add this farewell in my own handwriting.  Do not forget these chains of mine.  Grace be with you.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Thessalonians
 052	1TH	001	001	Paul and Silas and Timothy.  To the church of the Thessalonians which is in God our Father and our Lord Jesus Christ.  Grace be to you, and peace.
 052	1TH	001	002	I am continually thanking God for all, always making mention of you in my prayers,
 052	1TH	001	003	as I call to mind your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the presence of our God and Father.
@@ -6511,6 +6537,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Greet all the brothers with a holy kiss.
 052	1TH	005	027	I adjure you, in the name of the Lord, to have this letter read to all the brothers.
 052	1TH	005	028	The grace of our Lord Jesus Christ be with you.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Thessalonians
 053	2TH	001	001	Paul and Silvanus and Timothy.  To the church of the Thessalonians in God our Father and the Lord Jesus Christ.
 053	2TH	001	002	Grace to you, and peace from God the Father, and the Lord Jesus Christ.
 053	2TH	001	003	I ought always to thank God for you, brothers, as is fitting because of the abundant growth of your faith and of the overflowing love with which every one of you is filled toward one another.
@@ -6558,6 +6586,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	And may the Lord of peace himself give you peace at all times and in every way.  The Lord be with you all.
 053	2TH	003	017	I, Paul, add this greeting in my own handwriting, which is my token in every letter.  Thus I write -
 053	2TH	003	018	The grace of our Lord Jesus Christ be with you all.
+#
+# BOOK	054	1TI	1 Timothy	1 Timothy
 054	1TI	001	001	Paul, and apostle of Jesus Christ by command of God our Saviour and Jesus Christ our Hope,
 054	1TI	001	002	to Timothy, my true son in the faith; Grace, mercy and peace from God, our Father, and the Lord Jesus Christ.
 054	1TI	001	003	As I begged you when I was setting out for Macedonia, stay where you are at Ephesus, and instruct certain individuals there not to be teaching heterodoxy,
@@ -6671,6 +6701,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	laying up right good treasure for themselves in the world to come, in order that they may obtain the Life which is life indeed.
 054	1TI	006	020	O, Timothy, guard the treasure which is committed to you.  Shun the profane babblings and contradictions of the falsely called "knowledge"
 054	1TI	006	021	which some professing have erred from the faith.  Grace be with you.
+#
+# BOOK	055	2TI	2 Timothy	2 Timothy
 055	2TI	001	001	Paul, an apostle of Christ Jesus, by the will of God, sent forth to proclaim the promise of the life which is in Christ Jesus.
 055	2TI	001	002	To Timothy, my beloved child; Grace mercy, and peace to you from God our Father and Christ Jesus our Lord.
 055	2TI	001	003	I give thanks to God whom I worship with a pure conscience as my fathers did, when I remember you unceasingly in my prayers.
@@ -6754,6 +6786,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erastus remained at Corinth; Trophimus I left behind me ill at Miletus.
 055	2TI	004	021	Do try to come before winter.  Eubulus greets you, and so do Pudens and Linus and Claudia and all the brotherhood.
 055	2TI	004	022	The Lord Jesus be with your spirit.  Grace be with you all.
+#
+# BOOK	056	TIT	Titus	Titus
 056	TIT	001	001	To Titus, my true son in a common faith, from Paul, a slave of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and to the knowledge of the truth which goes with piety;
 056	TIT	001	002	I write in hope of life eternal which God who never lies, promised before times eternal,
 056	TIT	001	003	but manifested in his own time; that word of his in proclaiming which I have been entrusted by command of God our Saviour.
@@ -6800,6 +6834,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Speed Zenas the lawyer, and Apollos, on their journey diligently.
 056	TIT	003	014	Let them want nothing, and "let our people learn to devote themselves to honest work to supply the necessities of their teachers," so that they be not unfruitful.
 056	TIT	003	015	All who are with us salute you.  Salute those who love me in faith.  Grace be with you all.
+#
+# BOOK	057	PHM	Philemon	Philemon
 057	PHM	001	001	To my beloved friend and coworker Philemon,
 057	PHM	001	002	to my sister Apphia, to my fellow soldier Archippus, and to the church which meets at Philemon’s house.  From Paul, a prisoner of Jesus Christ, and brother Timothy.
 057	PHM	001	003	Grace and peace be to you from God our Father and the Lord Jesus Christ.
@@ -6825,6 +6861,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Epaphras, my fellow prisoner in Christ Jesus, sends you greeting;
 057	PHM	001	024	so do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 057	PHM	001	025	May the grace of our Lord Jesus Christ be with your spirit.  Amen.
+#
+# BOOK	058	HEB	Hebrews	Hebrews
 058	HEB	001	001	God, who in ancient days spoke to our ancestors in the prophets, at many different times and by various methods,
 058	HEB	001	002	has at the end of these days spoken to us in a Son whom he appointed heir of all things; through whom also he made the universe.
 058	HEB	001	003	He being an emanation of God’s glory and stamp of his substance, and upholding the universe by the utterances of his power, after by himself making purification of our sins, has taken his seat on the right hand of the Majesty on High.
@@ -7128,6 +7166,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	You know that our brother Timothy has been set free.  If he comes soon, I will see him with you.
 058	HEB	013	024	Salute all your leaders and the saints.  The brothers from Italy send you greeting.
 058	HEB	013	025	Grace be with you all, Amen.
+#
+# BOOK	059	JAM	James	James
 059	JAM	001	001	James, a slave of God and of the Lord Jesus Christ, sends greeting to the twelve tribes that are scattered abroad.
 059	JAM	001	002	My brothers, when you are beset by various temptations, count it all joy,
 059	JAM	001	003	because you know that the testing of your faith is working out endurance.
@@ -7236,6 +7276,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Then he prayed again, and the sky gave rain, and the earth brought forth her fruit.
 059	JAM	005	019	My brothers, if any one of you strays from the truth, and some one brings him back,
 059	JAM	005	020	let him know that he who brings a sinner back from the error of his ways, saves his soul from death, and hides a multitude of sins.
+#
+# BOOK	060	1PE	1 Peter	1 Peter
 060	1PE	001	001	Peter, an apostle of Jesus Christ, to the elect who are sojourners of the dispersion in Pontus, Galatia, Cappadocia, Roman Asia, and Bithynia,
 060	1PE	001	002	according to the foreknowledge of God the Father, in the sanctification of the spirit, unto obedience and sprinkling of the blood of Jesus Christ; Grace and peace be multiplied to you.
 060	1PE	001	003	Blessed be the God and Father of our Lord Jesus Christ, by whose great mercy we have been born anew into a living hope, through the resurrection of Jesus Christ from the dead;
@@ -7341,6 +7383,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	By Sylvanus, a faithful brother of yours, as I suppose, I have written you briefly, to comfort you, and to testify that this is the true grace of God.  In this stand fast.
 060	1PE	005	013	Your sister church in Babylon, elect with you, sends you salutations, and so does Marcus, my son.
 060	1PE	005	014	Salute one another with a kiss of love.  Peace be to you all who are in Christ Jesus.
+#
+# BOOK	061	2PE	2 Peter	2 Peter
 061	2PE	001	001	Simon Peter, a slave and apostle of Jesus Christ, to those who have obtained an equally precious faith with us in the righteousness of our God and Saviour Jesus Christ.
 061	2PE	001	002	Grace and peace be multiplied to you by the God and Father of Jesus our Lord.
 061	2PE	001	003	For his power divine has granted to us everything needful for life and godliness, through the knowledge of him who called us by his own glory and virtue.
@@ -7402,6 +7446,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	It is the same in all his letters when he speaks of these things.  There are indeed some things in his letters hard to understand, which the ignorant and the shifty wrest, as also they do the other Scriptures, to their own destruction.
 061	2PE	003	017	Do you therefore, beloved, because you know these things beforehand, be on your guard lest you be led astray by the error of the wicked, and so fall from your own stedfastness.
 061	2PE	003	018	But grow continually in the grace and knowledge of our Lord and Saviour Jesus Christ.  To Him be the glory both now and unto the Day of Eternity, Amen.
+#
+# BOOK	062	1JO	1 John	1 John
 062	1JO	001	001	It is of what has existed from the beginning, of what we have listened to, of what we have seen with our own eyes, of what we have witnessed and touched with our own heads, it is concerning the Logos of Life that we are now writing.
 062	1JO	001	002	And the Life was made visible, and we have seen it and are bearing witness, and are bringing you word of that Eternal Life which was face to face with the Father and was made visible to us.
 062	1JO	001	003	It is what we have seen and heard that we are announcing to you, in order that you also may have partnership with us; and our partnership is with the Father and with his Son, Jesus Christ.
@@ -7507,6 +7553,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	We know that we are of God, and the whole world is lying in the Evil One.
 062	1JO	005	020	And we know that the Son of God is come, and has granted us and understanding, so that we may come to know him who is true.  And we are in him who is true, even in his Son Jesus Christ.  This is the true God, and life eternal.
 062	1JO	005	021	My little children, guard yourselves from idols.
+#
+# BOOK	063	2JO	2 John	2 John
 063	2JO	001	001	The Elder to the Elect Lady and her children, whom I love in truth, and not only I, but also all those who have come to know the truth.
 063	2JO	001	002	I love you for the sake of the truth which is abiding in us and will be with us forever.
 063	2JO	001	003	Grace, mercy, and peace will be with us from God the Father, and from Jesus Christ the Father’s Son, in truth and love.
@@ -7520,6 +7568,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	For the man who greets him shares in his wicked work.
 063	2JO	001	012	I have many things to write to you, but I would not write them with paper and ink.  I hope to come to you and to talk with you face to face, so that your joy may be full.
 063	2JO	001	013	The children of your elect sister send you greeting.
+#
+# BOOK	064	3JO	3 John	3 John
 064	3JO	001	001	The Elder to the beloved Gaius, whom I love in the truth.
 064	3JO	001	002	I pray that you may prosper, beloved, in every way, and be in good health, even as your soul is prospering.
 064	3JO	001	003	For I was glad when brothers came and bore testimony to your truth, as indeed you are passing your life in truth.
@@ -7534,6 +7584,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	All men bear testimony to Demetrius, and so does the truth itself.  I also bear testimony to him; and you know that my testimony is true.
 064	3JO	001	013	I have a great deal to write to you, but I do not want to write you with pen and ink.
 064	3JO	001	014	I am hoping soon to see you, and then we shall talk face to face.  Peace be to you!  The friends send their salutation.  Salute the friends by name.
+#
+# BOOK	065	JUD	Jude	Jude
 065	JUD	001	001	Jude, a slave of Jesus Christ, and a brother of James.  To those who are in God, the Father beloved, kept for Jesus Christ, and called.
 065	JUD	001	002	May mercy and peace and love be multiplied to you.
 065	JUD	001	003	Beloved, although I was making all haste to write to you in regard to our common salvation, I am compelled to write you an appeal to defend the faith once for all committed to the saints.
@@ -7559,6 +7611,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	others pity, but with caution, hating even the garment spotted by the flesh.
 065	JUD	001	024	Now unto Him who has power to guard you from stumbling, and to make you stand in the presence of his glory, faultless and exultant,
 065	JUD	001	025	to the only God, our Saviour, through Jesus Christ our Lord, be ascribed glory, majesty, might, and authority, as it was before time began, is now, and ever shall be to all the ages.  Amen.
+#
+# BOOK	066	REV	Revelation	Revelation
 066	REV	001	001	THE UNVEILING APOCALYPSE OF JESUS CHRIST which God gave him to show to his slaves the things which must soon come to pass; and he sent and made it known by his angel to his slave John.
 066	REV	001	002	He bore witness of the Word of God, and of the testimony of Jesus Christ, even of all the things that he saw.
 066	REV	001	003	Blessed is he who reads, and they who hear the words of the prophecy, and keep what is written in it.  FOR THE CRISIS IS AT HAND.

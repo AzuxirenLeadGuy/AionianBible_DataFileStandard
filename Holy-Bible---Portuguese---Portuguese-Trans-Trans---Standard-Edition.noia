@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Portuguese---Portuguese-Trans-Trans---Standard-Edition.noia
-# File Size: 1915155     
-# File Date: 05/06/2021 19:30:20
+# File Size: 1916103     
+# File Date: 06/18/2021 11:04:48
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Mateus
 040	MAT	001	001	[Esta é] a história dos antepassados de Jesus Cristo/o Messias, descendente do [Rei ] Davi e de Abraão, [de quem todos nós judeus somos descendentes].
 040	MAT	001	002	Abraão foi pai de Isaque.  Isaque foi pai de Jacó.  Jacó foi pai de Judá e dos irmãos [mais velhos e mais novos] de Judá.
 040	MAT	001	003	Judá foi pai de Peres e de Zerá, [e a mãe deles] foi Tamar.  Peres foi pai de Esrom.
@@ -1083,6 +1085,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Então Jesus chegou [perto] de nós e disse: “Toda autoridade [sobre todas as coisas e todas as pessoas] no céu e na terra foi dada a mim {[Meu Pai] me deu toda autoridade [sobre tudo e todos] no céu e na terra}.
 040	MAT	028	019	Portanto vão [e, usando essa autoridade, ensinem a minha mensagem] às pessoas de todas as etnias/grupos étnicos para que possam ser meus discípulos.  Batizem elas [para estarem debaixo da autoridade do] meu Pai, de mim, o Filho dele, e do Espírito Santo.
 040	MAT	028	020	Ensinem-nas a obedecerem a tudo quanto estou mandando vocês.  Lembrem-se de que estarei com vocês para sempre, até o final [desta] era”.
+#
+# BOOK	041	MAR	Mark	Marcos
 041	MAR	001	001	As boas notícias sobre Jesus Cristo, o Filho de Deus, começam exatamente como o profeta Isaías [profetizou, quando ele escreveu aquilo que Deus disse a seu Filho.  ]Ele escreveu assim, “Escutem, vou mandar meu mensageiro adiante de você; e, bem como as pessoas preparam o caminho para uma pessoa importante, ele vai preparar as pessoas para que estejam prontas receber você.
 041	MAR	001	003	Ele vai chamar às pessoas que vão aonde ele está no deserto, ‘Como as pessoas preparam o caminho para um oficial importante, preparem-se para receber o Senhor, e como as pessoas endireitam as veredas para um oficial importante[, aprontem-se para a chegada Dele’”.  ]
 041	MAR	001	004	João, [que as pessoas chamavam ]o Batizador, [aquele mensageiro vaticinado/dito anteriormente por Isaías], saiu para o deserto e pregava que, para Deus perdoar os pecados delas, as pessoas precisavam se arrepender antes de serem batizadas.
@@ -1753,6 +1757,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Se por acaso pegarem em cobras, ou beberem algo venenoso sem saber, não vão sofrer nenhum mal.  E se puserem as mãos sobre os doentes para Deus curar, aqueles doentes vão ficar sarados.
 041	MAR	016	019	Depois do Senhor Jesus dizer tudo isto aos discípulos, ele foi levado por Deus até o céu, onde se sentou no seu trono ao lado de Deus, no lugar de maior honra.
 041	MAR	016	020	Depois de saírem os discípulos da cidade de Jerusalém, pregaram por toda parte, e o Senhor os fazia praticar milagres em todos os lugares.  Como resultado, o povo acreditou ser verdadeira a mensagem de Deus.
+#
+# BOOK	042	LUK	Luke	Lucas
 042	LUK	001	001	Meu estimado [amigo ]Teófilo, muitas [pessoas ]viram as coisas que [Jesus ]fez enquanto estava conosco, desde o tempo quando começou a [servir a Deus].  Elas serviram a Deus [ao ensinar aos outros a mensagem ]de Deus.  Muitos daqueles que ouviram o que estas pessoas ensinaram escreveram para nós relatos das coisas que [Jesus fez].
 042	LUK	001	003	Eu mesmo tenho estudado com cuidado estes assuntos, que começaram [antes dele nascer.  ]Então resolvi que seria bom que eu também escrevesse para você um relato destes assuntos.
 042	LUK	001	004	Quero que você saiba a verdade daquilo que outros ensinaram a você.
@@ -2894,6 +2900,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Enquanto fazia isso, ele os deixou [e subiu para o céu].
 042	LUK	024	052	[Eles o adoraram.] Então voltaram para Jerusalém com muita alegria.
 042	LUK	024	053	Todos os dias eles foram ao [pátio ]do templo, e passaram muito tempo louvando a Deus.
+#
+# BOOK	043	JOH	John	João
 043	JOH	001	001	Aquele que expressa —[MET] [o caráter de Deus/como é Deus]— tem existido sempre —desde o começo [MTY] [de tudo/antes que tudo começasse].  Ele existia sempre com Deus e possuía a natureza de Deus.
 043	JOH	001	002	Ele existia sempre com Deus antes de começar [MTY] a [criar qualquer coisa].
 043	JOH	001	003	Foi Ele por quem [Deus ]fez com que tudo existisse.  Foi Ele que criou absolutamente tudo.
@@ -3767,6 +3775,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Alguns dos outros crentes ouviram [daquilo ] que Jesus tinha dito sobre mim, e[achavam que ele/Jesus queria dar a entender ] que eu nunca iria morrer.  Mas Jesus não tinha dito que eu não iria morrer.  Só tinha dito, “Se eu quiser que ele permaneça [vivo] até eu voltar, (não é da sua conta!/o que lhe importa?) [RHQ]”
 043	JOH	021	024	[Eu, João], sou o discípulo que viu todas estas coisas, e as tenho registrado por escrito.  Nós [os anciãos da congregação em Éfeso] sabemos que é verdade aquilo que [João escreveu].
 043	JOH	021	025	Jesus fez muitas outras coisas.  Se fossem [escritas todas ] elas {Se alguém escrevesse todas [elas]}[detalhadamente ], acho que o mundo inteiro não teria bastante espaço [HYP] para conter todos os livros escritos {que escrevesse} [sobre aquilo que ele tinha feito ].
+#
+# BOOK	044	ACT	Acts	Atos
 044	ACT	001	001	[Caro/Prezado ]Teófilo, no primeiro/outro livro [que lhe compus], escrevi sobre muitas das coisas que Jesus fez e ensinou
 044	ACT	001	002	até o dia em que Ele foi arrebatado {[Deus ]O levou} [para o céu].  Antes [de ir para o céu, sendo orientado ]pelo Espírito Santo, Ele explicou aos apóstolos que tinha escolhido [as coisas que queria que eles soubessem.  ]
 044	ACT	001	003	Após sofrer [e morrer na cruz, ]Ele se tornou vivo novamente.  Os apóstolos O viram muitas vezes, pois Ele lhes apareceu [com frequência ]durante [os próximos ]quarenta dias.  Ele conversou [com eles ]sobre [como ]Deus governaria [MET] [as vidas das pessoas que O aceitassem como rei.]
@@ -4764,6 +4774,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	028	[Mas vocês judeus não querem acreditar na mensagem de Deus.  ]Portanto, eu lhes digo que esta mensagem, sobre como Deus salva as pessoas, tem sido mandada aos gentios/não judeus {que [Deus ]tem mandado aos gentios/não judeus esta mensagem sobre como Ele salva as pessoas}, e eles vão ouvi-la [e aceitá-la]”.
 044	ACT	028	030	Durante dois anos completos Paulo ficou [lá ]numa casa alugada.  Muitas pessoas vieram ter com ele/encontrá-lo, e ele acolhia todas elas com alegria e [conversava com elas.  ]
 044	ACT	028	031	Ele pregava [e ensinava ]sobre como Deus pode governar [as vidas humanas ][MET] e ensinava as pessoas sobre o Senhor Jesus Cristo.  Procedia assim sem medo, e ninguém tentou impedi-lo.  Alguns manuscritos gregos acrescentam o versículo 29, “Depois que Paulo disse isso, os judeus foram embora, discutindo com violência”.
+#
+# BOOK	045	ROM	Romans	Romanos
 045	ROM	001	001	[Eu ]Paulo que sirvo a Cristo Jesus [estou escrevendo esta carta.  ]Deus me escolheu para apóstolo e me nomeou para que [eu proclamasse ]a boa mensagem que [vem dele.  ]
 045	ROM	001	002	[Muito ]antes de [Jesus vir à terra, Deus ]prometeu [que iria revelar ]esta boa mensagem por meio daquilo que seus profetas [tinham escrito ]nas sagradas Escrituras.
 045	ROM	001	003	[Esta boa mensagem fala daquele que conhecemos como ]Filho dele.  Quanto à sua natureza, física/humana, ele nasceu descendente do [Rei ]Davi.
@@ -5195,6 +5207,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	[Falo de Deus/Daquele] que pode fortalecer vocês [espiritualmente, ]enquanto [prego ]a boa mensagem [sobre Jesus Cristo ]e proclamo aquela [verdade ]que [Deus ]não revelou a nenhuma geração anterior,
 045	ROM	016	026	mas que ele revela agora.  [Nós (excl.)/Eu proclamamos/proclamo ]o que os profetas escreveram [no tocante a Cristo], de acordo com aquilo que o eterno Deus [nos(excl.)/me mandou fazer.  ]Nós/Eu procedemos/procedo assim para que os membros de todos os grupos não judaicos possam [obedecê-lo ]como consequência de terem crido [nele.  ]Por assim fazer(mos), [eu/nós (excl.) ]fiz(emos) com que [eles ]chegassem a conhecer [essa mensagem.  ]
 045	ROM	016	027	Pela [ajuda que ]Jesus Cristo [nos proporciona, desejo que nós ]possamos louvar sempre Àquele que é o único Deus, o único verdadeiramente sábio.  Que assim seja/Amém!
+#
+# BOOK	046	1CO	1 Corinthians	1 Coríntios
 046	1CO	001	001	Eu, Paulo, junto com Sóstenes nosso (inc) irmão cristão, [escrevo esta carta.  Deus ]me nomeou apóstolo de Cristo Jesus porque foi assim que Ele desejou.
 046	1CO	001	002	[Mando esta carta ]a vocês que pertencem a Deus e que congregam regularmente na [cidade de ]Corinto.  Vocês foram consagrados [por Deus ]{[Deus ]consagrou vocês} para Si mesmo por causa do seu íntimo relacionamento com / de pertencerem a Cristo Jesus.  Deus nomeou vocês para serem povo Dele, povo que leva uma vida moralmente pura, assim como Ele nomeou todas as pessoas em todo lugar, que pertencem a Ele, para levarem uma vida moralmente pura.  Vocês e elas são pessoas que já confiaram no Senhor Jesus Cristo [MTY].  É Ele o Senhor soberano delas, como também é nosso (inc) Senhor soberano.
 046	1CO	001	003	Nós (excl) desejamos que Deus, que é nosso Pai [celestial, ]e Jesus Cristo, que é nosso Senhor soberano, continuem agindo bondosamente para com vocês, fazendo com que experimentem a paz interior.
@@ -5631,6 +5645,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	[Peço que Deus vá ]amaldiçoar/fazer acontecer coisas ruins a qualquer pessoa que não ame o Senhor [Jesus.  Peço que ]nosso Senhor venha [logo]!
 046	1CO	016	023	Peço que nosso Senhor Jesus possa continuar agindo para com todos vocês com bondade/de uma forma que vocês não merecem.
 046	1CO	016	024	Amo todos vocês que têm um íntimo relacionamento com Cristo Jesus.
+#
+# BOOK	047	2CO	2 Corinthians	2 Coríntios
 047	2CO	001	001	[Eu, ]Paulo, [escrevo esta carta a vocês.  ]Eu —me tornei apóstolo de/represento— Cristo Jesus, pois para isso Deus me escolheu.  [Acompanha-me Timóteo, ]nosso irmão crente.  [Envio isto ]a vocês que são povo de Deus nas congregações na [cidade de ]Corinto.  [Quero que ]os crentes que moram em [outros lugares na província ]de Acaia [também possam ler esta carta.  ]
 047	2CO	001	002	Nós (excl) desejamos que vocês [possam ter a experiência de ]Deus nosso Pai e nosso Senhor Jesus Cristo [agirem ]bondosamente para com vocês, fazendo com que tenham paz [interior.]
 047	2CO	001	003	[Devemos ]louvar a Deus, que é o pai de nosso (inc) Senhor Jesus Cristo.  Ele sempre tem compaixão de nós e nos ajuda [porque Ele é também como ][MET] nosso pai [e ]nós somos [como seus filhos].  Ele é também quem nos (inc) anima sempre.
@@ -5886,6 +5902,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Cumprimentem uns aos outros afetuosamente, como [devem fazer os irmãos membros ]da família de Deus.
 047	2CO	013	013	Todo o povo de Deus [aqui ]lhes manda saudações.
 047	2CO	013	014	[Peço que ]o Senhor Jesus Cristo possa agir [para com ]todos vocês bondosamente/de uma forma que não merecem, que Deus [possa mostrar a todos vocês o quanto Ele ]os ama, e que o Espírito Santo [possa fazer com que vocês desfrutem da boa ]comunhão [com Ele e uns com os outros.]
+#
+# BOOK	048	GAL	Galatians	Gálatas
 048	GAL	001	001	[Eu], Paulo, [escrevo esta carta a vocês.  Desejo lembrar-lhes que sou ]um apóstolo.  Não é porque um grupo de pessoas [me nomeou], nem porque um ser humano [me enviou para ser um apóstolo].  Pelo contrário, foram Jesus Cristo e Deus [nosso ]Pai [celestial, ]que fez com que Jesus se tornasse novamente vivo após ter morrido, que [me nomearam ]e [me ]enviaram par[a ser um apóstolo].
 048	GAL	001	002	Todos os irmãos crentes [que estão aqui ]comigo [aprovam esta mensagem que estou escrevendo.  Estou mandando esta carta ]às congregações [situadas ]na [província ]de Galácia.
 048	GAL	001	003	[Peço/Oro que ]Deus, nosso Pai, e o Senhor Jesus Cristo possam [ajudar ]vocês bondosamente, fazendo com [que tenham ]paz [no seu interior].
@@ -6035,6 +6053,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	[Peço/ Oro que ]Deus possa dar paz [interior ]e agir bondosamente para com todos os que procedem conforme este princípio.  São [todos aqueles que vivem de acordo com este princípio que agora são realmente o povo de Deus ][MET], como os israelitas [eram antigamente ]o povo de Deus.  não me perturbem mais.
 048	GAL	006	017	Finalmente, digo que as pessoas [têm]— [me perseguido/feito que eu sofra— por declarar a verdade sobre Jesus, e como resultado ]levo cicatrizes no corpo.  [Seus novos mestres não levam cicatrizes como as minhas]!  Portanto, não me perturbem mais [sobre estes assuntos!]
 048	GAL	006	018	Meus irmãos crentes, [peço/oro ]que nosso Senhor Jesus Cristo [realize] bondosamente [aquilo que ele deseja ]dentro de vocês.  Amém/Que assim seja.
+#
+# BOOK	049	EPH	Ephesians	Efésios
 049	EPH	001	001	Eu, Paulo, sou um apóstolo que Deus nomeou para representar a Cristo Jesus, por ser isto o que Deus desejava.  [Estou escrevendo esta carta ]a vocês que são o povo de Deus na [cidade de ]Éfeso.  [Vocês são pessoas que ]confiam fielmente em Cristo Jesus e mantêm uma íntima relação com Ele.
 049	EPH	001	002	[Estou orando, pedindo que ]Deus nosso Pai e Jesus Cristo nosso Senhor continuem agindo bondosamente para com vocês, fazendo com que tenham paz interior.
 049	EPH	001	003	Louvado seja Deus, o Pai de nosso Senhor Jesus Cristo!  Por causa de nossa intimidade com Cristo, Ele nos abençoa espiritualmente de todas as maneiras possíveis, dando-nos bênçãos vindas do céu.
@@ -6188,6 +6208,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	É por isso que o mando; quero que vocês saibam como estamos (excl) e desejo que ele os possa animar [SYN].
 049	EPH	006	023	[Oro, pedindo que ]Deus nosso Pai e o Senhor Jesus Cristo façam com que todos vocês, irmãos crentes, tenham a paz [interior ]e que [os capacite ]a amar-se [uns aos outros ]e a continuar confiando [em Cristo].
 049	EPH	006	024	Peço que Deus continue agindo bondosamente para com [vocês e ]todos [os outros ]que continuam amando nosso Senhor Jesus Cristo de uma forma que nunca terá fim.
+#
+# BOOK	050	PHI	Philippians	Filipenses
 050	PHI	001	001	[Eu, ]Paulo, e Timóteo [somos ]homens que servimos Jesus Cristo.  [Estou escrevendo esta carta ]a todos [vocês que são ]pastores e diáconos na [cidade de ]Filipos e ao resto do povo de Deus [ali que tem um relacionamento íntimo ]com Cristo Jesus.
 050	PHI	001	002	[Nós dois/eu oramos que ]Deus, [que é ]nosso Pai, e Jesus Cristo, [que é nosso ]Senhor, [continuem a mostrar ]bondade a vocês e [continuem a ]fazer com que vocês tenham paz interior.
 050	PHI	001	003	Dou graças a Deus sempre que penso em vocês.
@@ -6290,6 +6312,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Saúdem [para mim / nós (excl) ]todos ali que fazem parte do povo de Deus[, isto é, todos aqueles que têm um relacionamento com ]Cristo Jesus.  Os irmãos em Cristo que [servem Deus junto ]comigo aqui mandam lembranças para vocês/dizem que pensam em vocês com saudades.
 050	PHI	004	022	Todos do povo de Deus [aqui ]mandam suas lembranças para vocês/dizem que estão pensando com saudades em vocês.  Em especial [os irmãos crentes que trabalham ]no palácio do imperador mandam lembranças a vocês/dizem que estão pensando em vocês com saudades.
 050	PHI	004	023	[Oro que nosso ]Senhor Jesus Cristo [continue a ]mostrar bondade a vocês.
+#
+# BOOK	051	COL	Colossians	Colossenses
 051	COL	001	001	Eu, Paulo, estou escrevendo esta carta a vocês, e Timóteo, que é um irmão crente, está comigo.  Sou apóstolo que representa a Cristo Jesus, pois é isso que Deus desejou.
 051	COL	001	002	Estou mandando esta carta para vocês que estão na cidade de Colossos e que são o povo de Deus e nossos fiéis irmãos crentes, e que têm um íntimo relacionamento com/estão unidos com Cristo.  Oramos, pedindo que Deus nosso Pai possa(m) agir bondosamente para com vocês e faça(m) com que vocês tenham paz.
 051	COL	001	003	Agradecemos a Deus, o Pai de nosso Senhor Jesus Cristo, com frequência [HYP] ao orarmos por vocês,
@@ -6385,6 +6409,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Depois que esta carta for lida {Após alguém ler esta carta} publicamente entre vocês, mandem que alguém a leia também para a congregação na cidade de Laodiceia.  Com relação à carta que escrevi à congregação na cidade de Laodiceia, leiam-na também {vocês também devem ler essa carta} publicamente.
 051	COL	004	017	Digam a Arquipo: “Não deixe de cumprir a tarefa que Deus o mandou desempenhar, já que você tem um íntimo relacionamento com o Senhor Jesus”.
 051	COL	004	018	Eu, Paulo estou pensando cordialmente em/saúdo vocês.  [Tirando a pena da mão do meu escrevente, ]estou escrevendo isto agora de punho próprio [para vocês saberem que realmente mandei esta carta.  ]Não se esqueçam de [orar pelo fato de ]eu estar no cárcere [MTY].  Eu/Nós oro/oramos que nosso Senhor Jesus Cristo possa continuar agindo bondosamente para com vocês.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Tessalonicenses
 052	1TH	001	001	Eu, Paulo, [em companhia de ]Silas e Timóteo, [mando esta carta a vocês], o grupo de pessoas [na cidade de ]Tessalônica [que adoram a (ou confiam em) ]Deus [nosso (inclusivo) ]Pai e [nosso (inclusivo) ]Senhor Jesus Cristo.  [Nós três desejamos/oramos que Deus nosso (inclusivo) Pai e Jesus Cristo nosso (inclusivo) Senhor continuem ]agindo de forma bondosa com relação a vocês, [fazendo com que ]vivam bem / em paz.
 052	1TH	001	002	Nós três agradecemos sempre a Deus por vocês ao mencioná-los quando oramos (ou, quando oramos por vocês).
 052	1TH	001	003	[Agradecemos a Deus porque, ao orarmos a Deus, nosso (inclusivo) Pai, nós ]nos lembramos continuamente que vocês [trabalham para Deus por ]confiarem [nele], e que trabalham [porque desejam ajudar as pessoas, pois ]as amam; e que vocês suportam [as perseguições sofridas porque ]esperam confiantemente que nosso Senhor Jesus Cristo [vai voltar do céu para salvar vocês].
@@ -6474,6 +6500,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Cumprimentem afetuosamente todos os irmãos crentes em nosso nome [quando se reunirem].
 052	1TH	005	027	Prometam- me (ou, Certifiquem-se) em presença do Senhor Jesus, [que vê o que vocês fazem], que esta carta seja lida [em voz alta ]a todos os crentes reunidos.
 052	1TH	005	028	[Nós três desejamos/oramos que ]nosso Senhor Jesus Cristo [possa continuar ]mostrando sua graça a vocês.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Tessalonicenses
 053	2TH	001	001	Nós – Paulo, Silas e Timóteo – [mandamos esta carta a vocês], que são a turma [do povo de Deus na cidade de ]Tessalônica e que pertencem a Deus, nosso Pai, e a Jesus Cristo, nosso Senhor.
 053	2TH	001	002	[Nós três estamos orando ]que Deus, nosso Pai, e Jesus Cristo, [nosso Senhor], [continuem tratando ]vocês com muita bondade, [fazendo com ]que tenham paz.
 053	2TH	001	003	Irmãos crentes, nós [três ]damos graças a Deus com frequência por vocês, [pois ]devemos [fazer isso ]e está certo [fazermos assim].  [Agradecemos a ele ]pelo fato de vocês crerem cada vez mais [no Senhor Jesus ]e se amarem mais e mais uns aos outros.
@@ -6521,6 +6549,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	[Oramos que ]nosso Senhor [Jesus ]mesmo, que dá paz [ao seu povo], possa dar paz a vocês sempre, em toda e qualquer situação.  [Oramos/Oro que nosso ]Senhor [Jesus possa continuar presente ]com vocês.
 053	2TH	003	017	Eu, Paulo, [tendo pedido a caneta do meu escriba], estou saudando [vocês e ]escrevendo [isto ]eu mesmo, [como ]costumo fazer em todas as minhas cartas [para que vocês ]possam saber [que sou eu que mando esta carta].  É assim que escrevo.
 053	2TH	003	018	[Oramos/Oro que ]nosso Senhor Jesus Cristo [possa continuar ]tratando vocês de forma bondosa.
+#
+# BOOK	054	1TI	1 Timothy	1 Timóteo
 054	1TI	001	001	[Eu], Paulo[, estou escrevendo esta carta.  Você sabe que ]sou apóstolo.  [Represento ]Jesus Cristo, porque Deus que nos salvou e Cristo Jesus, cuja [volta ]aguardamos com confiança, me mandaram fazê-lo.
 054	1TI	001	002	[Você], Timóteo, [é como ][MET] um verdadeiro filho [para mim, ]porque confiou [em Cristo depois que eu lhe falei dele.  Oro/Desejo que ]Deus, que é nosso Pai, e Cristo Jesus, que é nosso Senhor, continuem agindo para com você com bondade e misericórdia, e [que possam dar-lhe ]paz no seu interior (OU, [que façam com que você tenha paz.]).
 054	1TI	001	003	[Recomendo com insistência, ]bem como recomendei ao me dirigir à [província de ]Macedônia, que você permaneça na [cidade de ]Éfeso.  Fique ali para mandar que certas pessoas [que ensinam os outros cristãos ]não lhes ensinem [doutrinas ]falsas.
@@ -6634,6 +6664,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Se assim fizerem, [Jesus vai dar-lhes um grande galardão.  Será como se eles estivessem armazenando no céu ]muitos tesouros para si mesmos, que constituirão uma [boa base na qual poderão depender ]para o futuro.  (Ou, que será [tão sólida como ]o alicerce [MET] [de uma casa]).  Procedendo assim, eles terão a vida que é a vida verdadeira.
 054	1TI	006	020	Timóteo, proclame/proteja fielmente a mensagem certa (OU, o ministério autêntico) [que Jesus ]lhe deu.  Evite [as pessoas que desejam ]tagarelar sobre coisas sem importância para Deus.  Evite as [pessoas que alegam ]possuir um ‘conhecimento’ verdadeiro mas que afirmam coisas contrárias [à nossa doutrina correta.  ]
 054	1TI	006	021	[Evite totalmente tais ensinamentos.  Lembre-se de que ]algumas pessoas que alegam [possuir esse ‘conhecimento’ ]já deixaram de crer no que [todos nós ]cremos.  [Desejo que/ Que Deus ]continue agindo bondosamente para com todos vocês.
+#
+# BOOK	055	2TI	2 Timothy	2 Timóteo
 055	2TI	001	001	[Eu], Paulo, [estou escrevendo esta carta.  Sou ]apóstolo escolhido por Cristo Jesus por meio de Deus [operar aquilo que ]desejava realizar [e ]porque [Deus ]prometeu [que as pessoas vão ]viver [para sempre ]por [terem uma íntima relação com / estarem ligados a ]Cristo Jesus.
 055	2TI	001	002	[Estou escrevendo a você, ]Timóteo, a quem amo como [se você fosse meu próprio ]filho.  [Estou orando ]que Deus [nosso ]Pai e Cristo Jesus nosso Senhor [continuem agindo ]bondosamente [para com você, ]sejam misericordiosos para com você, fazendo com que você tenha paz.
 055	2TI	001	003	Dou graças a Deus por tudo aquilo que [Jesus tem feito por você.  É Deus ]a quem sirvo, como fizeram meus antepassados.  [Sirvo a ele ]da maneira que sei que é certa.  [Dou graças a ele ]enquanto repetidas vezes me lembro [de orar por ]você quando faço pedidos [a Deus ]de noite e [durante o ]dia.
@@ -6717,6 +6749,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erasto ficou na cidade de Corinto.  Deixei Trófimo na cidade de Mileto, pois ele estava doente.
 055	2TI	004	021	Faça o possível para vir a mim antes da época das tempestades/do inverno.  Êubulo, Prudente, Lino, Cláudia e muitos outros irmãos crentes desta cidade mandam saudações a você.
 055	2TI	004	022	[Estou orando que ]o Senhor [ajude você no ]seu Espírito, [Timóteo, e que ele possa] abençoar [todos ]vocês [crentes.]
+#
+# BOOK	056	TIT	Titus	Tito
 056	TIT	001	001	Eu, Paulo, [escrevo esta carta a você, Tito.  Deus me nomeou para ser ]o seu servo e [para ser ]apóstolo [que representa ]Jesus Cristo.  [Deus me nomeou para ensinar ]aqueles que Ele escolheu [para serem o seu povo ]que crê [nele do modo correto].  Ele quer que eu ensine a eles os verdadeiros [ensinamentos sobre Deus], para que eles aprendam a agir com piedade conforme agrade a Deus.
 056	TIT	001	002	[Como resultado de eu fazer isso, eles ]esperam, confiantemente, que Deus vá fazer com que vivam para sempre.  Deus, quem nunca mente, prometeu antes de criar o mundo, que o [povo dele ]viverá para sempre.
 056	TIT	001	003	Então no tempo que Ele [escolheu], revelou a [sua ]mensagem [para nós.  Mais especificamente], foi-me confiada esta mensagem {Deus, nosso Salvador, entregou- me esta mensagem} e confiou em mim para proclamá-la aos outros.
@@ -6762,6 +6796,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Quanto a Zenas, o advogado, e Apolo, [quando estiverem prontos para sair da ilha de Creta], ajude-os no máximo possível para que tenham tudo [LIT] [que precisaram quando viajarem].
 056	TIT	003	014	Além disso, nossos [irmãos cristãos ]também devem aprender a ocupar-se em [fazer ]coisas boas [para pessoas ]que precisam de ajuda, para que eles, nossos irmãos cristãos, vivam vidas úteis [LIT].
 056	TIT	003	015	[Enquanto termino esta carta], todos que estão comigo dizem que estão pensando em vocês/querem que eu saúde/dê saudações a vocês.  Diga àqueles [ai ]que nos amam e que creem, assim [como nós cremos, ]que nós estamos pensando neles/os saudamos.  Oro que/ Que o nosso Senhor Jesus Cristo continue a mostrar bondade a todos vocês.
+#
+# BOOK	057	PHM	Philemon	Filemón
 057	PHM	001	001	[Eu], Paulo, sou um prisioneiro [que serve ]a Cristo Jesus.  [Eu estou aqui ]com Timóteo, meu companheiro cristão.  [Eu estou escrevendo esta carta ]a você, Filemom, nosso querido [amigo ]e colega de trabalho.
 057	PHM	001	002	[Estou, também, escrevendo ]à [sua esposa], Áfia, e ao Arquipo, [que é como ][MET] nosso companheiro soldado, [porque ele serve a Cristo constantemente junto conosco].  Estou, também, [escrevendo isto ]à congregação que [se reúne ]na sua casa.
 057	PHM	001	003	[Oro para que ]Deus nosso Pai e o nosso Senhor Jesus Cristo [continuem a ]agir benignamente para com todos vocês e [continuem a ]fazer com que vocês tenham paz [interior].
@@ -6787,6 +6823,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Epafras, que [sofre dificuldades ]comigo na prisão por [servir a ]Cristo Jesus, manda suas saudações a/quer que você saiba que ele está pensando com carinho em você.
 057	PHM	001	024	Marco, Aristarco, Demas, e Lucas, que são meus [outros ]colegas de trabalho, também mandam suas saudações a/querem que você saiba que estão pensando com carinho em você.
 057	PHM	001	025	[Eu oro para que ]o Senhor Jesus Cristo continue a trabalhar benignamente em suas vidas.
+#
+# BOOK	058	HEB	Hebrews	Hebreus
 058	HEB	001	001	Há muito tempo Deus se comunicava frequentemente com nossos antepassados de diversas maneiras por meio daquilo que os profetas [escreviam].
 058	HEB	001	002	Mas agora, ao [se iniciar ]esta época final, Deus se comunicou [uma só vez ]conosco por meio daquilo que—seu Filho/o homem que era também Deus [disse e fez.  Deus ]o nomeou para que ele pudesse possuir tudo [que pertence realmente a Deus.  Deus também o nomeou ]para que ele pudesse criar o universo.
 058	HEB	001	003	Ele manifesta a glória de Deus.  Ele representa perfeitamente [a pessoa de Deus].  Ele—sustenta tudo/leva tudo— para frente para sua meta desejada por meio das suas poderosas palavras.  Depois de [capacitar os seres humanos a ficarem ]livres da [culpa dos ]seus pecados [MET], ele se assentou no céu [EUP] [para governar ]no lugar de máxima honra [MTY] com Deus [MTY].
@@ -7089,6 +7127,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Quero que vocês saibam que nosso irmão crente Timóteo acaba de ser libertado {[as autoridades ]acabam de libertar nosso irmão crente Timóteo} [da prisão].  Se ele chegar em breve aqui, me acompanhará quando eu for visitar vocês.
 058	HEB	013	024	Digam a todos seus líderes [espirituais ]e a todos os [demais ]irmãos crentes [na sua cidade ]que— estou pensando carinhosamente neles/que lhes mando minhas saudações.—Os crentes [desta região que chegaram ]da Itália [querem que vocês saibam que eles—]estão pensando em vocês / mandam saudações para vocês.—
 058	HEB	013	025	[Oro que ]todos vocês possam continuar experimentando a bondosa ação de Deus para consigo.
+#
+# BOOK	059	JAM	James	Tiago
 059	JAM	001	001	[Eu], Tiago, sirvo a Deus e ao Senhor Jesus Cristo.  [Estou escrevendo esta carta ]aos Judeus [que confiam no Senhor Jesus Cristo ](OU, a todo o povo de Deus) e que estão espalhados por todo o mundo.  [Eu envio minhas ]saudações [a vocês].
 059	JAM	001	002	Meus companheiros cristãos, apenas alegrem-se, [mesmo ]quando vocês enfrentam vários tipos de dificuldades.
 059	JAM	001	003	[Vocês precisam], mais e mais, se dar conta de que [sempre que Deus permitir que vocês experimentem dificuldades, para ]testar se vocês continuam ou não confiando [nele, se vocês continuarem a confiar em Deus ]vocês poderão suportar as dificuldades com coragem.
@@ -7197,6 +7237,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Depois, ele orou outra vez [para que chovesse], e [como resultado ]Deus [MTY] mandou chuva, e as plantas [cresceram e ]produziram fruto [de novo].
 059	JAM	005	019	Meus companheiros cristãos, se qualquer um de vocês parar de obedecer à verdadeira mensagem [de Deus], alguém dentre vocês deverá persuadir tal pessoa à, novamente, fazer [o que Deus mandou que fizéssemos.  Se ela parar de fazer o mal],
 059	JAM	005	020	aquele [que a persuadiu ]deve entender que [porque ]ele capacitou tal pessoa, a qual estava pecando, a parar de fazer o mal [Deus ]salvará aquela pessoa da morte [espiritual]/ de ser separado Dele para sempre, e perdoará a multidão dos [seus ]pecados.
+#
+# BOOK	060	1PE	1 Peter	1 Pedro
 060	1PE	001	001	Eu, Pedro, que Jesus Cristo [comissionou ]para ser apóstolo[, estou escrevendo esta carta ]para vocês crentes que Deus escolheu para pertencerem a ele.  [Assim como os judeus que viviam em Israel foram ]espalhados/dispersos [para outros países ][MET], vocês agora vivem [longe do seu verdadeiro lar no céu].  [Vocês estão vivendo nas províncias romanas de ]Ponto, Galácia, Capadócia, Ásia e Bitínia.
 060	1PE	001	002	Deus nosso Pai escolheu vocês segundo o que ele mesmo decidiu anteriormente, e o Espírito dele separou/santificou vocês para que vocês obedecessem a Jesus Cristo, e para que, assim [como Moisés ]espalhou [sangue nos israelitas quando Deus estabeleceu a antiga aliança ][MET], [Jesus fosse estabelecer sua nova aliança com vocês ao derramar ]seu sangue por vocês.  Que Deus mostre muita bondade para vocês, e que seja dado a vocês muita paz interior [por ele] {que ele dê para vocês muita paz interior}.
 060	1PE	001	003	Louvem a Deus, que é o Pai de nosso Senhor Jesus Cristo.  Ele tem feito com que tenhamos um novo modo de viver [MET], porque teve grande pena de nós.  Já que ele fez com que Jesus Cristo vivesse de novo depois de morrer, ele nos deu poder para viver confiantemente, esperando de todo coração receber as coisas que Deus prometeu dar para nós.
@@ -7302,6 +7344,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Silas tem escrito esta carta assim [como ditei a ele].  Considero que ele é irmão crente fiel.  Tenho escrito a vocês esta breve carta para encorajá-los e quero assegurá-los que esta é [uma mensagem ]verdadeira [sobre as coisas que Deus faz para nós que não merecemos.  Continuem a crer firmemente nesta mensagem].
 060	1PE	005	013	Os crentes [SYN] aqui [nesta cidade que alguns chamam de ]”Babilônia” [MET], que [Deus ]escolheu [para pertencerem a ele ]assim como escolheu vocês, —mandam lembranças a vocês/dizem que estão pensando em vocês.  Marcos, que é [MET] [como ]um filho para mim, também —[manda saudações a vocês/diz que está pensando em vocês].
 060	1PE	005	014	Saúdem uns aos outros com um beijo [na face ]para [mostrar ]que [se ]amam.  [Oro que Deus dê a ]paz [interior ]a todos vocês que têm um relacionamento com ele.
+#
+# BOOK	061	2PE	2 Peter	2 Pedro
 061	2PE	001	001	[Eu], Simão Pedro, [escrevo esta carta para vocês].  Sirvo Jesus Cristo e sou apóstolo [designado por ]ele/[que ]o [representa].  [Estou enviando esta carta a vocês ]que [Deus tem ]feito crer [em Cristo], assim como [ele fez com que ]nós (excl) [apóstolos cressem em Cristo].  Nós (inc) temos o mesmo privilégio de crer em Cristo, porque Jesus Cristo, [que é Deus ]a quem adoramos/servimos e que é quem nos salva, é justo.
 061	2PE	001	002	Oro que Deus continue a mostrar muita bondade para vocês, e que lhes seja dado grande paz [interior por ele] {que ele dê a vocês muita paz [interior], } porque conhecem [realmente/pessoalmente ]Deus e Jesus Cristo, que é o nosso Senhor.
 061	2PE	001	003	[Deus ][PRS] nos tem dado tudo [que precisamos ]para que possamos viver [eternamente ]e para que sejamos piedosos.  Ele tem feito isso pelo poder que tem por ser Deus, e como resultado de nós o conhecermos.  É ele quem nos escolheu [para sermos o povo dele ]pela sua própria [natureza/pelo seu próprio caráter ]gloriosa/glorioso e perfeita/perfeito.
@@ -7363,6 +7407,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Nas [cartas ]que Paulo escreveu há certas coisas que são difíceis para as pessoas entenderem.  Os [que são ]ignorantes [espiritualmente ]e instáveis explicam/interpretam estas coisas falsamente, como também interpretam falsamente as outras Escrituras.  O resultado é que eles destruirão a si mesmos, e [Deus ]vai castigá-los.
 061	2PE	003	017	Portanto, amigos queridos, [desde que já sabem destes falsos mestres], guardem-se contra eles.  Não sejam enganados/desviados por estas pessoas más {não deixem estas pessoas más enganar/desviar vocês} dizendo a vocês coisas que são erradas, com o resultado de que vocês mesmos duvidem [do que agora creem firmemente].
 061	2PE	003	018	[Pelo contrário, ajam de tal modo que ]experimentem cada vez mais o comportamento bondoso de nosso Senhor e Salvador Jesus Cristo [para com vocês ]e cheguem a conhecer [melhor ]nosso Senhor e Salvador Jesus Cristo.  [Oro que as pessoas ]honrem [Jesus Cristo ]agora e para sempre!  Certos manuscritos gregos acrescentam a palavra “Amém” no final.
+#
+# BOOK	062	1JO	1 John	1 João
 062	1JO	001	001	[Eu, João, escrevo a vocês ]sobre a pessoa que já existia antes [de haver qualquer outra coisa!  ]Ele é a pessoa que escutávamos [enquanto ele nos ensinava!  ]Nós mesmos realmente o vimos!  Nós mesmos o contemplamos e tocamos pessoalmente!  [Ele é Aquele que nos ensinava ]a mensagem que [capacita qualquer pessoa a ]viver [espiritualmente].
 062	1JO	001	002	Já que ele veio aqui, e nós o vimos, proclamamos claramente a vocês que a pessoa que vimos é aquele que vive para sempre.  Ele esteve [anteriormente ]com seu Pai, mas veio morar entre nós.
 062	1JO	001	003	Proclamamos a vocês [a mensagem sobre ]Jesus, aquele que vimos e ouvimos, para que vocês possam ter um íntimo relacionamento conosco.  Aqueles com quem temos um íntimo relacionamento são Deus nosso Pai e seu Filho Jesus Cristo.
@@ -7467,6 +7513,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Sabemos que pertencemos a Deus, e [sabemos ]que o maligno controla todos [os iníquos do ][MTY] mundo.
 062	1JO	005	020	Sabemos que o Filho de Deus/aquele que é também Deus veio [a nós, ]e [sabemos ]que ele nos capacitou a conhecer a Deus, que é real.  Portanto, temos agora um íntimo relacionamento com o verdadeiro [Deus, pois ]pertencemos a Jesus Cristo, aquele que é—o Filho de/o homem que é também—Deus.  Jesus Cristo é verdadeiramente Deus e [é ele quem nos capacita a ter a ]vida eterna.
 062	1JO	005	021	Vocês que me são muito caros, [já que Jesus é verdadeiramente Deus, ]guardem-se da [adoração ]a deuses postiços!
+#
+# BOOK	063	2JO	2 John	2 João
 063	2JO	001	001	[Vocês todos me conhecem como ]o ancião [principal.  Estou escrevendo esta carta ]a todos vocês [MET] que [se congregam porque Deus os ]escolheu.  Amo vocês profundamente!  E não somente eu mesmo amo vocês, como também os amam todos os que conhecem e [aceitam ]a verdadeira mensagem [que Jesus ensinava]!
 063	2JO	001	002	Todos nós [cremos ]na mensagem verdadeira; ela está em nosso [ser interior], e vamos continuar [acreditando nela ]para sempre!
 063	2JO	001	003	Deus Pai e Jesus Cristo, que é—o Filho dele/o homem que é também Deus— continuarão agindo de uma maneira bondosa e misericordiosa [para conosco porque nos ]amam.  [Eles vão capacitar-nos ]a ter a paz [interior], por causa de [crermos ]na mensagem verdadeira.
@@ -7480,6 +7528,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	[Lembrem-se que, ]se associarem a ele, [Deus irá castigá-los ]junto com ele pelo mal que ele tiver feito.
 063	2JO	001	012	[Mesmo que ]eu tenha muito [mais que gostaria ]de lhes dizer, resolvi não [dizê-lo ]por meio de uma carta [MTY].  Em vez disso, espero poder estar em breve com vocês e falar-lhes diretamente.  Então estaremos muito contentes [na companhia uns dos outros.  ]
 063	2JO	001	013	Seus irmãos crentes daqui [MET], aqueles que Deus também chamou, —mandam dizer que estão pensando em vocês/que lhes mandam saudações.
+#
+# BOOK	064	3JO	3 John	3 João
 064	3JO	001	001	[Vocês todos me conhecem ]como o ancião [principal.  Estou escrevendo esta carta a você, ]meu querido amigo Gaio, a quem amo profundamente.
 064	3JO	001	002	Caro amigo, peço a [Deus que ele possa capacitar ]você a ir bem em tudo, especificamente estando com saúde física, assim como você anda bem espiritualmente [MTY].
 064	3JO	001	003	Sinto-me bem contente, pois alguns irmãos crentes chegaram [aqui ]e me contaram como você se comporta de acordo com a mensagem verdadeira.  Você está [se comportando ]de uma forma [condizente com ]a verdadeira mensagem [de Deus.  ]
@@ -7494,6 +7544,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Todos [os crentes que conhecem o Demétrio ]declaram que ele [é uma boa pessoa.  ]O fato de ele [se comportar de uma maneira condizente com a ]verdadeira mensagem [de Deus ]comprova que ele é [uma boa pessoa, ]e nós também declaramos [que ele é uma boa pessoa.  ]Vocês sabem que aquilo que dizemos [sobre ele ]é verdade.  [Portanto será bom você acolher e ajudá-lo.  É ele quem levará esta carta a você.]
 064	3JO	001	013	Embora, [ao começar ]a escrever, eu tivesse muito mais [que pretendia ]lhe dizer, não quero [agora contá-lo ]por meio de uma carta [MTY].
 064	3JO	001	014	Em vez disso espero [ir ]logo visitá-lo.  Então poderemos conversar diretamente.  [Peço que Deus possa capacitá-lo a experimentar ]a paz [interior.  ]Nossos amigos [daqui]—dizem que estão pensando em/saúdam—você.  Dê lembranças individualmente aos nossos amigos daí [MTY]/Diga aos nossos amigos aí que os saudamos/estamos pensando neles.
+#
+# BOOK	065	JUD	Jude	Judas
 065	JUD	001	001	[Sou ]Judas, que sirvo a Jesus Cristo [como ]escravo voluntário [MET].  Sou o irmão [menor ]de Tiago, [líder de todas as congregações.  Escrevo ]a vocês a quem [Deus/Cristo ]escolheu [para pertencerem a ele.  São vocês ]a quem Deus [nosso ]Pai ama e que Jesus Cristo protege (OU, a quem [Deus ]protege [para os apresentar ]a Jesus Cristo).
 065	JUD	001	002	[Peço na oração ]que vocês possam continuar [experimentando ]sempre a [ação bondosa ]de Deus para com vocês, [fazendo com que tenham paz ]no seu interior, e amando-[os].
 065	JUD	001	003	Vocês a quem amo, embora estivesse bem ansioso para escrever-lhes sobre aquilo que todos nós compartilhamos, qual seja―como [Deus/Jesus nos ]salva―, eu me dei conta da necessidade de lhes escrever para exortá-los no sentido de defenderem a verdade [sobre Cristo ]que nós cremos.  Essa verdade foi comunicada definitivamente uma vez [por Jesus e seus apóstolos {Jesus e seus apóstolos ]comunicaram essa verdade uma só vez} a nós que pertencemos a Deus, [e não devemos deixar que ninguém a altere / modifique.  ]
@@ -7519,6 +7571,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Salvem outros, resgatando-os energicamente da [influência dos falsos mestres ][MET], [como as pessoas arrebatam os objetos de ]um incêndio.  Tenham compaixão daqueles que os falsos mestres tiverem enganado/convencido totalmente, mas tenham cuidado para que eles não influenciem vocês (também).  Detestem [praticar, ]ou até [pensar, nos pecados que tais pessoas cometem, bem como iriam detestar ][MET] não somente as coisas sujas mas as roupas manchadas por aquelas coisas {que aquelas coisas mancharam}.
 065	JUD	001	024	Deus pode guardar vocês da sua rejeição [devida aos seus pecados], e ele pode apresentá-los diante da sua gloriosa presença.  [Lá, ]não haverá nada [pelo qual ele possa ]condená-los, e vocês vão regozijar grandemente.
 065	JUD	001	025	Ele é o único e verdadeiro Deus.  Ele nos salvou como resultado daquilo que Jesus Cristo nosso Senhor [fez em nosso benefício.  ]Deus é glorioso, grande e poderoso, e ele [governou ]com grande autoridade antes do início do tempo; ele continua sendo assim agora, e vai permanecer assim para sempre!  Amém/Assim seja.
+#
+# BOOK	066	REV	Revelation	Apocalipse
 066	REV	001	001	[Este livro conta a mensagem ]que Deus revelou [a ]Jesus Cristo.  Deus a revelou a ele, para que ele pudesse revelar aos seus servos [as coisas/os eventos ]que devem acontecer em breve.  Jesus comunicou [esta mensagem ]a [mim, ]seu servo João, mandando-me seu anjo.
 066	REV	001	002	[Escrevendo-a, eu, ]João, estou relatando verdadeiramente tudo o que vi [e ouvi], ou seja, a mensagem de Deus, que Jesus Cristo [me ]relatou verdadeiramente.
 066	REV	001	003	[Deus ]ficará contente com qualquer pessoa que ler [este livro à congregação ]e Deus ficará contente com aqueles que escutarem com cuidado e obedecerem aquilo que [Deus mandou por meio ]desta mensagem profética que escrevi.  [Portanto, leiam esta mensagem, escutem com cuidado e obedeçam ao que diz, ]pois [estas coisas, que Jesus revelou, ]acontecerão em breve.

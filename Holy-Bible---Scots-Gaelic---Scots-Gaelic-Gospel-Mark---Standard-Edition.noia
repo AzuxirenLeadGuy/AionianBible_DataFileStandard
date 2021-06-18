@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Scots-Gaelic---Scots-Gaelic-Gospel-Mark---Standard-Edition.noia
-# File Size: 95800       
-# File Date: 05/06/2021 19:30:36
+# File Size: 95829       
+# File Date: 06/18/2021 11:05:05
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	041	MAR	Mark	Marcus
 041	MAR	001	001	T OISEACHD soisgeul Iosa Criosda, Mac Dhe.
 041	MAR	001	002	Air reir 's mar tha e sgriobhte san fhaidh Isaias: seall, cuiridh mi m' aingeal roimh do ghnuis, a reiticheas do shlighe romhad.
 041	MAR	001	003	Guth neach ag eigheach san fhasach: Reitichibh slighe an Tighearna, agus dianaibh a rathadain direach.

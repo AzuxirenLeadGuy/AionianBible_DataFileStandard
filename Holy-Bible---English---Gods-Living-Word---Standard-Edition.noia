@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---English---Gods-Living-Word---Standard-Edition.noia
-# File Size: 133072      
-# File Date: 05/06/2021 19:13:46
+# File Size: 133192      
+# File Date: 06/18/2021 10:47:58
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	043	JOH	John	John
 043	JOH	001	001	In the beginning was the Word, and the Word was with God, and the Word was God.
 043	JOH	001	002	He was in the beginning with God.
 043	JOH	001	003	Everything was made through Him, and without Him nothing was made that was made.
@@ -902,6 +904,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Because of this answer, the rumor spread among the brothers that this disciple wouldn’t die, but Jesus didn’t tell him that he wouldn’t die, but only, “If I want him to remain until I come, what is that to you?”
 043	JOH	021	024	This is the disciple who testifies about these things, and who wrote these things.  We know that his testimony is true.
 043	JOH	021	025	There are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself couldn’t contain the books that would be written.  Amen.
+#
+# BOOK	062	1JO	1 John	1 John
 062	1JO	001	001	We declare to you that which was from the beginning, which we have heard, which we have seen with our eyes, which we watched, and our hands have touched, concerning the Word of life.
 062	1JO	001	002	The life was revealed, and we have seen, and testify, and declare to you this eternal life which was with the Father and was revealed to us.
 062	1JO	001	003	That which we have seen and heard we declare to you, that you may also have fellowship with us.  Truly our fellowship is with the Father and with His Son, Jesus Christ.
@@ -1007,6 +1011,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	We know that we belong to God, and the whole world lies in the power of the evil one.
 062	1JO	005	020	We know that God’s Son has come, and has given us understanding, so that we might know Him who is true.  We are in Him who is true, in His Son Jesus Christ.  This is the true God and eternal life.
 062	1JO	005	021	Little children, keep yourselves from idols.
+#
+# BOOK	063	2JO	2 John	2 John
 063	2JO	001	001	The Elder, To the chosen lady and her children, whom I sincerely love in truth - and not only I, but also all those who have known the truth -
 063	2JO	001	002	because of the truth which lives in us and will be with us forever:
 063	2JO	001	003	Grace, mercy, and peace will be with us from God the Father and from the Lord Jesus Christ, the Son of the Father, in truth and sincere love.
@@ -1020,6 +1026,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	for the one who welcomes such a person participates in that person’s evil deeds.
 063	2JO	001	012	Since I have so many things to write to you, I don’t want to do so with paper and ink; but I hope to come to you and speak face to face, that our joy may be made full.
 063	2JO	001	013	The children of your chosen sister greet you.  Amen.
+#
+# BOOK	064	3JO	3 John	3 John
 064	3JO	001	001	The Elder, To the beloved Gaius, whom I sincerely love in truth:
 064	3JO	001	002	Beloved, I pray that in all ways you may prosper and be in good health, just as I know that your soul prospers.
 064	3JO	001	003	For I rejoiced greatly when some brothers came and testified about the truth that is in you, as indeed you do walk in the truth.

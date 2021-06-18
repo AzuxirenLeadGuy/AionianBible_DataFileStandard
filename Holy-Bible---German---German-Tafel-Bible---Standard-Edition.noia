@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---German---German-Tafel-Bible---Standard-Edition.noia
-# File Size: 4036801     
-# File Date: 05/06/2021 19:21:10
+# File Size: 4038716     
+# File Date: 06/18/2021 10:55:32
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	1 Mose
 001	GEN	001	001	Am Anfang schuf Gott den Himmel und die Erde.
 001	GEN	001	002	Und die Erde war eine Leere und Öde, und Finsternis war auf den Angesichten des Abgrunds; und der Geist Gottes schwebte über den Wassern.
 001	GEN	001	003	Und Gott sprach: Es werde Licht, und es ward Licht.
@@ -1556,6 +1558,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	Und Joseph sprach zu seinen Brüdern: Ich sterbe, und Gott wird euch gewißlich heimsuchen und euch hinaufbringen aus diesem Lande zum Lande, das Er Abraham, Isaak und Jakob geschworen hat.
 001	GEN	050	025	Und Joseph ließ die Söhne Israels schwören und sprach: Gewißlich wird Gott euch heimsuchen, und ihr sollt meine Gebeine von da hinaufbringen.
 001	GEN	050	026	Und Joseph starb in einem Alter von hundertzehn Jahren, und sie balsamierten ihn ein; und er ward in eine Lade gelegt in Ägypten.
+#
+# BOOK	002	EXO	Exodus	2 Mose
 002	EXO	001	001	Und dies sind die Namen der Söhne Israels, die mit Jakob nach Ägypten kamen.  Ein Mann und sein Haus kamen sie.
 002	EXO	001	002	Ruben, Simeon, Levi und Judah.
 002	EXO	001	003	Isaschar, Sebulon und Benjamin.
@@ -2769,6 +2773,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	Und wenn die Wolke aufstieg von der Wohnung, brachen die Söhne Israels auf allen ihren Zügen auf.
 002	EXO	040	037	Und wenn die Wolke nicht aufstieg, so brachen sie nicht auf, bis zu dem Tage, da sie aufstieg.
 002	EXO	040	038	Denn bei Tag war die Wolke Jehovahs über der Wohnung, und bei Nacht war Feuer darin vor den Augen des ganzen Hauses Israel auf allen ihren Zügen.
+#
+# BOOK	003	LEV	Leviticus	3 Mose
 003	LEV	001	001	Und Jehovah rief Mose und redete mit ihm aus dem Versammlungszelt und sprach:
 003	LEV	001	002	Rede zu den Söhnen Israels und sprich zu ihnen: Der Mensch unter euch, der Jehovah eine Opfergabe darbringen will vom Vieh: vom Rind und vom Kleinvieh sollet ihr eure Opfergabe darbringen.
 003	LEV	001	003	Wenn seine Opfergabe ein Brandopfer ist vom Rind, soll er ein männliches ohne Fehl darbringen.  Er bringe es dar am Eingang zum Versammlungszelt, auf daß er vor Jehovah wohlgefällig sei;
@@ -3628,6 +3634,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	Und aller Zehnte vom Rinde und vom Kleinvieh, von allem, das unter der Rute durchzieht, soll das zehnte Jehovah heilig sein!
 003	LEV	027	033	Er soll nicht forschen, ob es gut oder schlecht sei, und er soll nicht vertauschen.  Und vertauscht er es, so soll es mit dem Eingetauschten heilig sein und nicht gelöst werden.
 003	LEV	027	034	Dies sind die Gebote, die Jehovah dem Mose an die Söhne Israels auf dem Berg Sinai geboten hat.
+#
+# BOOK	004	NUM	Numbers	4 Mose
 004	NUM	001	001	Und Jehovah redete zu Mose in der Wüste Sinai im Versammlungszelt am ersten des zweiten Monats im zweiten Jahre nach ihrem Auszug aus Ägyptenland, und Er sprach:
 004	NUM	001	002	Nehmet auf die Kopfzahl der ganzen Gemeinde der Söhne Israels nach ihren Familien, nach ihrer Väter Häusern nach der Zahl der Namen aller Männlichen nach ihren Köpfen,
 004	NUM	001	003	Vom Sohne von zwanzig Jahren und darüber, alle, die im Heer ausziehen in Israel.  Mustert sie, du und Aharon, nach ihren Heeren.
@@ -4916,6 +4924,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	Und Machlah, Thirzah und Choglah und Milkah und Noah, Zelaphechads Töchter, wurden den Söhnen ihrer Oheime zu Weibern.
 004	NUM	036	012	Aus den Familien der Söhne Menaschehs, des Sohnes Josephs, wurden sie zu Weibern genommen, und ihr Erbe wurde dem Stamme der Familie ihres Vaters.
 004	NUM	036	013	Das sind die Gebote und Rechte, die Jehovah im Flachland Moabs am Jordan bei Jericho den Söhnen Israels durch Moses Hand geboten hat.
+#
+# BOOK	005	DEU	Deuteronomy	5 Mose
 005	DEU	001	001	Dies sind die Worte, welche Mose redete zu dem ganzen Israel jenseits des Jordans in der Wüste, in dem Flachlande, Suph gegenüber, zwischen Paran und zwischen Tophel und Laban und Chazeroth und Di-Sahab.
 005	DEU	001	002	Elf Tage sind es von Choreb auf dem Wege nach dem Gebirge Seir bis Kadesch Barnea.
 005	DEU	001	003	Und es geschah im vierzigsten Jahre, im elften Monat, am ersten des Monats, daß Mose redete zu den Söhnen Israels nach alle dem, was Jehovah ihm an sie geboten hatte.
@@ -5875,6 +5885,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	Und es stand in Israel kein Prophet mehr auf wie Mose, den Jehovah gekannt hätte von Angesicht zu Angesicht,
 005	DEU	034	011	Mit allen den Zeichen und Wundern, dazu ihn Jehovah sandte, daß er sie täte im Lande Ägypten an Pharao und an allen seinen Knechten und an all seinem Lande,
 005	DEU	034	012	Und mit all der starken Hand und all der großen Furcht, so Mose tat vor den Augen von ganz Israel.
+#
+# BOOK	006	JOS	Joshua	Josua
 006	JOS	001	001	Und es geschah nach dem Tode Moses, des Knechtes Jehovahs, daß Jehovah zu Joschua, dem Sohne Nuns, Moses Diener, sprach und sagte:
 006	JOS	001	002	Mose, mein Knecht, ist tot, und nun mache du dich auf, gehe über diesen Jordan, du und all dies Volk, nach dem Lande, das Ich ihnen, den Söhnen Israels gebe.
 006	JOS	001	003	Jeder Ort, darauf eure Fußsohle tritt, habe Ich euch gegeben, wie Ich zu Mose geredet habe.
@@ -6533,6 +6545,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 006	JOS	024	031	Und Israel diente Jehovah all die Tage Joschuas und all die Tage der Ältesten, deren Tage verlängert wurden nach Joschua, und die um alle Taten Jehovahs wußten, die Er für Israel tat.
 006	JOS	024	032	Und die Gebeine Josephs, welche die Söhne Israel aus Ägypten heraufgebracht, begruben sie in Schechem in dem Teile des Feldes, das Jakob von den Söhnen Chamors, des Vaters Schichems, um hundert Kesitah gekauft hatte, und sie waren Josephs Söhnen zum Erbe.
 006	JOS	024	033	Und Eleasar, der Sohn Aharons, starb, und sie begruben ihn in Gibeah des Pinechas, seines Sohnes, das ihm auf dem Gebirge Ephraims gegeben ward.
+#
+# BOOK	007	JDG	Judges	Richter
 007	JDG	001	001	Und es geschah nach dem Tode Joschuas, daß die Söhne Israels Jehovah fragten und sprachen: Wer soll für uns hinaufziehen wider den Kanaaniter, um zu beginnen, mit ihm zu streiten?
 007	JDG	001	002	Und Jehovah sprach: Judah soll hinaufziehen.  Siehe, Ich habe das Land in seine Hand gegeben.
 007	JDG	001	003	Und Judah sprach zu Schimeon, seinem Bruder: Ziehe mit mir hinauf in mein Los und laß uns wider den Kanaaniter streiten, und ich werde auch mit dir gehen in dein Los.  Und Schimeon ging mit ihm.
@@ -7151,6 +7165,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 007	JDG	021	023	Und Benjamins Söhne taten also und holten sich Weiber nach ihrer Zahl von den Tänzerinnen, die sie entrissen, und gingen hin und kehrten zurück zu ihrem Erbe, und bauten die Städte und wohnten darin.
 007	JDG	021	024	Und die Söhne Israels zogen ab von da zu selbiger Zeit, jeder Mann zu seinem Stamm und zu seiner Familie, und sie gingen aus von dannen, jeder Mann zu seinem Erbe.
 007	JDG	021	025	In jenen Tagen war kein König in Israel, ein jeder Mann tat, was recht in seinen Augen war.
+#
+# BOOK	009	1SA	1 Samuel	1 Samuel
 009	1SA	001	001	Und es war ein Mann von Ramathajim Zophim, von dem Gebirge Ephraim, und sein Name war Elkanah, ein Sohn Jerochams, des Sohnes Elihu, des Sohnes Tochu, des Sohnes Zuph, ein Ephrathiter.
 009	1SA	001	002	Und dieser hatte zwei Weiber, der Name der einen war Channah, und der Name der zweiten Peninnah.  Und Peninnah hatte Kinder, Channah aber hatte keine Kinder.
 009	1SA	001	003	Und derselbige Mann ging von Jahr zu Jahr hinauf aus seiner Stadt, um anzubeten und Jehovah der Heerscharen zu opfern in Schiloh.  Und daselbst waren die zwei Söhne Elis, Chophni und Pinechas, Priester Jehovahs.
@@ -7961,6 +7977,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 009	1SA	031	011	Und die Bewohner von Jabesch in Gilead hörten davon, was die Philister dem Saul getan,
 009	1SA	031	012	Und es machten sich alle tapferen Männer auf und gingen die ganze Nacht hindurch und nahmen den Leib Sauls und die Leiber seiner Söhne von der Mauer von Beth- Schan und brachten sie nach Jabesch und verbrannten sie daselbst.
 009	1SA	031	013	Und ihre Gebeine nahmen sie und begruben sie unter dem Hainbaum in Jabesch und fasteten sieben Tage.
+#
+# BOOK	010	2SA	2 Samuel	2 Samuel
 010	2SA	001	001	Und es geschah nach dem Tode Sauls, da David von der Schlacht des Amalek zurückgekehrt und zwei Tage in Ziklag geblieben war.
 010	2SA	001	002	Und es geschah am dritten Tag, siehe, da kam ein Mann aus dem Lager von Saul, und seine Kleider waren zerrissen und Erde auf seinem Haupte; und es geschah, da er zu David kam, fiel er zur Erde und verbeugte sich.
 010	2SA	001	003	Und David sprach zu ihm: Von wannen kommst du?  Und er sprach zu ihm: Vom Lager Israels bin ich entronnen.
@@ -8656,6 +8674,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 010	2SA	024	023	Das alles gab Aravnah, der König dem Könige.  Und Aravnah sprach zum König: Jehovah, dein Gott, habe Wohlgefallen an dir.
 010	2SA	024	024	Der König aber sprach zu Aravnah: Nein, sondern ich will sie von dir kaufen nach dem Wert, und meinem Gotte Jehovah nicht ein Brandopfer aufopfern umsonst.  Und David kaufte die Tenne und das Rind um Silber, fünfzig Schekel.
 010	2SA	024	025	Und David baute Jehovah daselbst einen Altar und brachte Brandopfer und Dankopfer dar; und Jehovah ließ Sich erflehen für das Land, und der Plage ward Einhalt getan von Israel.
+#
+# BOOK	011	1KI	1 Kings	1 Koenige
 011	1KI	001	001	Und der König David war alt, zu Tagen gekommen, und sie bedeckten ihn mit Kleidern, aber er wurde nicht warm.
 011	1KI	001	002	Und seine Knechte sprachen zu ihm: Lasset sie suchen meinem Herrn, dem König, ein Mädchen, eine Jungfrau, daß sie vor dem König stehe und seine Pflegerin sei, und sie soll an deinem Busen liegen, auf daß mein Herr, der König, warm werde.
 011	1KI	001	003	Und sie suchten ein schönes Mädchen in aller Grenze Israels und fanden Abischag, die Schunamitin, und brachten sie zum König herein.
@@ -9472,6 +9492,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 011	1KI	022	051	Und Jehoschaphat entschlief zu seinen Vätern, und ward begraben bei seinen Vätern in der Stadt Davids, seines Vaters, und Jehoram, sein Sohn, ward König an seiner Stelle.
 011	1KI	022	052	Achasjahu, der Sohn Achabs, ward König über Israel in Samaria im siebzehnten Jahre Jehoschaphats, König von Judah, und war zwei Jahre König über Israel.
 011	1KI	022	053	Und er tat, was böse war in den Augen Jehovahs, und wandelte im Wege seines Vaters und im Wege seiner Mutter und im Wege Jerobeams, des Sohnes Nebats, der Israel sündigen machte.  Und er diente dem Baal und betete ihn an, und reizte Jehovah, den Gott Israels, nach allem, was sein Vater tat
+#
+# BOOK	012	2KI	2 Kings	2 Koenige
 012	2KI	001	001	Und Moab fiel von Israel ab nach dem Tode Achabs.
 012	2KI	001	002	Und Achasjah fiel durch das Gitter an seinem Söller in Samaria und ward krank; und er sandte Boten und sprach zu ihnen: Gehet hin und befragt Baal-Sebub, den Gott zu Ekron, ob ich von dieser Krankheit genesen werde?
 012	2KI	001	003	Und der Engel Jehovahs redete zu Elijah, dem Thischbiter: Mache dich auf, gehe hinauf, den Boten des Königs von Samaria entgegen und rede zu ihnen: Ist es, weil gar kein Gott in Israel ist, daß ihr geht und den Baal-Sebub, den Gott von Ekron, befragt?
@@ -10191,6 +10213,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 012	2KI	025	028	Und redete Gutes mit ihm und setzte seinen Thron über den Thron der Könige, die bei ihm in Babel waren.
 012	2KI	025	029	Und veränderte die Kleider seines Kerkers und er aß das Brot beständig vor ihm alle Tage seines Lebens.
 012	2KI	025	030	Auch wurde ihm sein Unterhalt, ein beständiger Unterhalt vom Könige gegeben, der Betrag eines Tages an seinem Tag, alle Tage seines Lebens.
+#
+# BOOK	019	PSA	Psalms	Psalm
 019	PSA	001	001	Selig der Mann, der in der Ungerechten Rat nicht wandelt, und auf der Sünder Weg nicht steht, noch sitzet auf der Spötter Sitz.
 019	PSA	001	002	Sondern hat seine Lust am Gesetze Jehovahs, und sinnet in Seinem Gesetze Tag und Nacht.
 019	PSA	001	003	Und er ist wie ein Baum gepflanzet an Bächlein der Wasser, der seine Frucht gibt zu seiner Zeit und seine Blätter welken nicht, und alles, was er tut, gelingt.
@@ -12652,6 +12676,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	Lobet Ihn mit Pauke und Reigen!  Lobet Ihn mit Saitenspiel und der Orgel.
 019	PSA	150	005	Lobet Ihn mit helltönenden Zimbeln!  Lobet mit schmetternden Zimbeln!
 019	PSA	150	006	Alles, was Odem hat, lobe Jah!  Hallelujah!
+#
+# BOOK	023	ISA	Isaiah	Jesaja
 023	ISA	001	001	Gesicht Jesajahs, des Sohnes Amoz, das er erschaute über Jehudah und Jerusalem in den Tagen Ussijahs, Jothams, Achas, Chiskijahus, der Könige von Jehudah.
 023	ISA	001	002	Höret, ihr Himmel und nimm zu Ohren du Erde, denn Jehovah redet: Söhne habe Ich großgezogen und erhöht und sie sind von Mir abgefallen.
 023	ISA	001	003	Der Ochse kennt seinen Besitzer und der Esel die Krippe seines Meisters; Israel weiß es nicht, und Mein Volk hat keine Einsicht.
@@ -13944,6 +13970,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 023	ISA	066	022	Denn wie die neuen Himmel und die neue Erde, so Ich mache, vor Mir stehen, spricht Jehovah, so soll auch euer Same und euer Name stehen.
 023	ISA	066	023	Und es wird geschehen, daß von Monat zu Monat und von Sabbath zu Sabbath alles Fleisch kommen wird, vor Mir anzubeten, spricht Jehovah.
 023	ISA	066	024	Und sie werden hinausgehen und sehen die Leichen der Männer, die von Mir abgefallen sind; denn ihr Wurm wird nicht sterben und ihr Feuer nicht erlöschen, und sie sind zum Widerwillen allem Fleisch.
+#
+# BOOK	024	JER	Jeremiah	Jeremia
 024	JER	001	001	Die Worte Jirmejahus, des Sohnes Chilkijahus von den Priestern in Anathoth im Lande Benjamin,
 024	JER	001	002	An den das Wort Jehovahs geschah, in den Tagen Joschijahus, des Sohnes Amons, König von Judah, im dreizehnten Jahr seiner Regierung;
 024	JER	001	003	Und es geschah in den Tagen Jehojakims, des Sohnes Joschijahus, König von Judah, bis an das Ende des elften Jahres, Zidkijahus, des Sohnes Joschijahus, König von Judah, bis zur Wegführung Jerusalems im fünften Monat.
@@ -15308,6 +15336,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 024	JER	052	032	Und er redete Gutes mit ihm und setzte seinen Thron über die Throne der Könige, die bei ihm in Babel waren.
 024	JER	052	033	Und er veränderte die Kleider seines Kerkers und er aß beständig das Brot vor ihm alle Tage seines Lebens.
 024	JER	052	034	Und sein Unterhalt, ein beständiger Unterhalt ward ihm vom König von Babel Tag für Tag gegeben, bis zum Tage seines Todes, alle Tage seines Lebens.
+#
+# BOOK	025	LAM	Lamentations	Klagelieder
 025	LAM	001	001	Wie sitzet so einsam die Stadt!  wo viel Volkes war, wie eine Witwe ist sie geworden!  Die Große unter den Völkerschaften, die Fürstin der Landschaften, ist zinsbar geworden.
 025	LAM	001	002	Weinend weint sie bei Nacht, und ihre Träne ist auf ihrer Wange; und keiner ist, der sie tröstete, von allen ihren Liebhabern; alle ihre Genossen sind ihr treulos, sind zu Feinden ihr geworden.
 025	LAM	001	003	Jehudah ist weggeführt ob dem Elend, und ob dem vielen Dienste, sie wohnt unter den Völkerschaften, sie findet keine Ruhe; alle, die es verfolgen, erreichen sie in den Bedrängnissen.
@@ -15462,6 +15492,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 025	LAM	005	020	Warum hast Du für immerdar uns vergessen, für der Tage Länge uns verlassen?
 025	LAM	005	021	Bringe uns zu Dir zurück, Jehovah, und wir kehren zurück.  Erneuere unsere Tage, wie vor Zeiten.
 025	LAM	005	022	Denn solltest Du uns gänzlich verschmäht haben, so gar sehr über uns entrüstet sein?
+#
+# BOOK	026	EZE	Ezekiel	Hesekiel
 026	EZE	001	001	Und es geschah im dreißigsten Jahr im vierten, am fünften des Monats, da ich inmitten der Weggeführten am Flusse Chebar war, daß die Himmel sich öffneten, und ich sah Gesichte Gottes.
 026	EZE	001	002	Am fünften des Monats - es war das fünfte Jahr der Wegführung des Königs Jojachin, -
 026	EZE	001	003	Geschah das Wort Jehovahs an Jecheskel, den Sohn Busis, den Priester, im Lande der Chaldäer am Flusse Chebar, und es war allda die Hand Jehovahs auf ihm.
@@ -16735,6 +16767,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 026	EZE	048	033	Und auf der Mittagseite viertausendfünfhundert das Maß, und drei Tore: Tor Schimeon eines, Tor Jissaschar eines, Tor Sebulun eines.
 026	EZE	048	034	Die Seite nach dem Meer viertausendfünfhundert.  Ihrer Tore sind drei: ein Tor Gad, ein Tor Ascher, Naphthali ein Tor.
 026	EZE	048	035	Ringsum achtzehntausend, und der Name der Stadt sei von dem Tage an Jehovah allda!
+#
+# BOOK	027	DAN	Daniel	Daniel
 027	DAN	001	001	Im dritten Jahre der Regierung Jehojakims, des Königs von Jehudah, kam Nebuchadnezzar, der König von Babel, nach Jerusalem und belagerte es.
 027	DAN	001	002	Und der Herr gab Jehojakim, den König von Jehudah, und einen Teil der Geräte des Hauses Gottes in seine Hand, und er brachte sie hinein in das Land Schinear in das Haus seines Gottes, und brachte die Geräte hinein in das Haus des Schatzes seines Gottes.
 027	DAN	001	003	Und der König sprach zu Aschpenas, dem Hauptmann seiner Verschnittenen, er solle einige von den Söhnen Israels und vom Samen des Königtums und von den Vornehmen hereinbringen,
@@ -17092,6 +17126,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 027	DAN	012	011	Und von der Zeit an, wenn das Beständige abgetan und das verwüstende Scheusal eingesetzt wird, sind es tausendzweihundertneunzig Tage.
 027	DAN	012	012	Selig, der da wartet und erreicht die tausenddreihundertfünfunddreißig Tage.
 027	DAN	012	013	Und du, gehe zum Ende und ruhe, und stehe zu deinem Lose bis zum Ende der Tage.
+#
+# BOOK	028	HOS	Hosea	Hosea
 028	HOS	001	001	Das Wort Jehovahs, das geschah an Hoschea, den Sohn Beeris, in den Tagen Ussijahs, Jothams, Achas, Jechiskijahs, der Könige Jehudahs, und in den Tagen Jerobeams, des Sohnes von Tagen Jerobeams, König von Israel.
 028	HOS	001	002	Anbeginn dessen, was Jehovah redete durch Hoschea.  Und Jehovah sprach zu Hoschea: Gehe, nimm dir ein Weib der Buhlereien und Kinder der Buhlereien, denn das Land buhlt hinweg von Jehovah.
 028	HOS	001	003	Und er ging hin und nahm Gomer, Tochter Diblajims, und sie empfing und gebar ihm einen Sohn.
@@ -17289,6 +17325,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 028	HOS	014	007	Zurückkehren sollen sie, die in Seinem Schatten saßen, und beleben das Korn, und erblühen, wie der Weinstock; sein Andenken soll sein wie des Weins vom Libanon.
 028	HOS	014	008	Ephraim, was sollen Mir fürder die Götzenbilder?  Ich will antworten und ihm singen.  Ich will sein wie die grünende Tanne.  Aus Mir soll deine Frucht gefunden werden.
 028	HOS	014	009	Wer ist weise, daß er dies einsehe, einsichtsvoll, daß er es wisse?  Denn gerade sind die Wege Jehovahs, und die Gerechten wandeln darauf, die Übertreter aber kommen darauf zu Fall.
+#
+# BOOK	029	JOE	Joel	Joel
 029	JOE	001	001	Das Wort Jehovahs, welches geschah an Joel, den Sohn Pethuels,
 029	JOE	001	002	Höret dies, ihr Ältesten, und nehmt es zu Ohren, alle Bewohner des Landes!  Ist solches geschehen in euren Tagen und in den Tagen eurer Väter?
 029	JOE	001	003	Davon erzählt euren Söhnen, und eure Söhne ihren Söhnen, und deren Söhne dem späteren Geschlecht!
@@ -17362,6 +17400,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 029	JOE	003	019	Ägypten wird zur Verwüstung werden, und Edom zur Wüste der Verwüstung ob der Gewalttat gegen Jehudahs Söhne, in deren Land sie haben unschuldig Blut vergossen.
 029	JOE	003	020	Jehudah aber wird sitzen ewiglich und Jerusalem zu Geschlecht und Geschlecht.
 029	JOE	003	021	Und Ich werde unschuldig erklären ihr Blut, das Ich nicht unschuldig erklärt, und Jehovah wird wohnen in Zijon.
+#
+# BOOK	030	AMO	Amos	Amos
 030	AMO	001	001	Die Worte des Amos, der unter den Viehhirten von Thekoa war, die er geschaut hat über Israel in den Tagen des Ussiah, König von Jehudah, und in den Tagen von Jerobeam, dem Sohne des Joasch, des Königs von Israel, zwei Jahre vor dem Erdbeben.
 030	AMO	001	002	Und er sprach: Jehovah brüllt von Zion, und aus Jerusalem gibt Er Seine Stimme hervor.  Und der Hirten Auen trauern, und das Haupt des Karmel verdorrt.
 030	AMO	001	003	So spricht Jehovah: Ob dreier Übertretungen Damasks und ob vierer wende Ich es nicht zurück: Darum, daß sie Gilead mit eisernen Dreschwagen gedroschen.
@@ -17508,6 +17548,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 030	AMO	009	013	Siehe, spricht Jehovah, die Tage kommen, da der Pflüger an den Schnitter reicht, und der Weinbeeren tritt an den, der Samen sät, und von süßem Most die Berge triefen und alle Hügel zerfließen.
 030	AMO	009	014	Und Ich wende zurück die Gefangenschaft Meines Volkes Israel; und sie werden die verwüsteten Städte bauen und darin wohnen, und Weingärten pflanzen und deren Wein trinken, und Gärten machen und essen ihre Frucht.
 030	AMO	009	015	Und Ich werde sie pflanzen auf ihren Boden; und sie sollen nicht mehr ausgerissen werden aus ihrem Boden, den Ich ihnen gab, spricht Jehovah, dein Gott.
+#
+# BOOK	031	OBA	Obadiah	Obadja
 031	OBA	001	001	Gesicht Obadjahs.  So spricht der Herr Jehovah zu Edom: Wir haben ein Gerücht gehört von Jehovah, und eine Gesandtschaft wird gesandt unter die Völkerschaften: Steht auf, und laßt uns aufstehen wider sie zum Streite.
 031	OBA	001	002	Siehe, Ich mache dich klein unter den Völkerschaften.  Sehr verachtet bist du.
 031	OBA	001	003	Die Vermessenheit deines Herzens hat dich verführt, die du wohnst in den Klüften der Felsenklippen, der Höhe deines Sitzes.  Er spricht in seinem Herzen: Wer wird mich zur Erde hinabstürzen?
@@ -17529,6 +17571,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 031	OBA	001	019	Und die vom Mittag nehmen ein den Berg Esaus, und die in der Niederung die Philister, und sie besitzen erblich das Feld Schomrons, und Benjamin das Gilead.
 031	OBA	001	020	Und die Weggeführten dieser Streitmacht der Söhne Israels, so unter den Kanaanitern bis gen Zarpath sind, und die Weggeführten Jerusalems, die in Sepharad sind, werden die Städte im Mittag erblich besitzen.
 031	OBA	001	021	Und Retter werden auf den Berg Zijon heraufziehen, zu richten den Berg Esaus, und Jehovahs wird sein das Königtum!
+#
+# BOOK	032	JON	Jonah	Jona
 032	JON	001	001	Und es geschah das Wort Jehovahs an Jonah, den Sohn Amitthais, sprechend:
 032	JON	001	002	Stehe auf und gehe nach Niniveh, der großen Stadt, und predige wider sie; denn ihre Bosheit ist vor Mich heraufgestiegen.
 032	JON	001	003	Und Jonah stand auf, um von dem Angesichte Jehovahs nach Tharschisch zu entweichen; und er ging hinab gen Japho und fand ein Schiff, das nach Tharschisch fuhr, und gab sein Fährgeld und stieg hinab in dasselbe, um mit ihnen nach Tharschisch zu kommen, hinweg vom Angesicht Jehovahs.
@@ -17577,6 +17621,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 032	JON	004	009	Und Gott sprach zu Jonah: Tust du wohl, daß du bei dir entbrennst über den Wunderbaum?  Und er sprach: Ich tue wohl, daß ich entbrenne bis zum Tod.
 032	JON	004	010	Und Jehovah sprach: Du würdest schonen den Wunderbaum, mit dem du keine Mühe hattest, und den du nicht großgezogen hattest, der in einer Nacht ward und in einer Nacht verging.
 032	JON	004	011	Und Ich sollte nicht schonen Niniveh, die große Stadt, in der sind mehr den zwölf Myriaden von Menschen, die nicht wissen den Unterschied zwischen ihrer Rechten und ihrer Linken, und viel Vieh?
+#
+# BOOK	033	MIC	Micah	Mica
 033	MIC	001	001	Das Wort Jehovahs, das geschah an Michah, den Moraschthiter, in den Tagen Jothams, Achas, Jechiskijahs, der Könige von Judah, das er schaute über Schomron und Jerusalem.
 033	MIC	001	002	Höret, ihr Völker allzumal, horche, o Erde und ihre Fülle; und zum Zeugen sei wider euch der Herr Jehovah, der Herr aus dem Tempel Seiner Heiligkeit.
 033	MIC	001	003	Denn siehe, Jehovah geht aus von Seinem Ort und steigt herab und tritt auf der Erde Höhen;
@@ -17682,6 +17728,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 033	MIC	007	018	Wer ist ein Gott wie Du, Der Missetat vergibt und vorbeigeht an der Übertretung dem Überreste Seines Erbes; der Seinen Zorn nicht immerfort festhält, weil Er Lust hat an Barmherzigkeit?
 033	MIC	007	019	Er kehrt zurück, Sich unser zu erbarmen, unsere Missetaten zu unterwerfen; und Er wirft alle ihre Sünden in des Meeres Schlünde.
 033	MIC	007	020	Du wirst dem Jakob Wahrheit geben, dem Abraham Barmherzigkeit, die Du seit der Vorzeit Tagen unseren Vätern geschworen hast.
+#
+# BOOK	034	NAH	Nahum	Nahum
 034	NAH	001	001	Weissagung über Niniveh.  Buch des Gesichtes Nachums, des Elkoschiters.
 034	NAH	001	002	Ein eifernder und rächender Gott ist Jehovah.  Ein Rächer ist Jehovah, ist ergrimmt, ein Rächer ist Jehovah an Seinen Drängern, und trägt nach Seinen Feinden.
 034	NAH	001	003	Jehovah ist langmütig und groß an Kraft und läßt nicht ungestraft.  Jehovah, im Sturmwind und im Wetter ist Sein Weg, und die Wolke ist Seiner Füße Staub.
@@ -17729,6 +17777,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 034	NAH	003	017	Deine Diademträger sind wie die Heuschrecken, und deine Befehlshaber wie ein Heuschreckenschwarm eines Heuschreckenschwarms; sie lagern am kalten Tage an den Mauern.  Geht die Sonne auf, so entfliehen sie, und man weiß nicht den Ort, wo sie gewesen.
 034	NAH	003	018	Es schlummern deine Hirten, König Aschurs, da liegen deine Stattlichen, auf die Berge ist dein Volk zerstoben, und keiner bringt sie zusammen.
 034	NAH	003	019	Für deinen Bruch gibt es kein Verharschen, heillos ist dein Schlag.  Jeder, der das Gerücht von dir hört, klatscht über dir die Hände; denn über wen ist nicht beständig Böses von dir übergeflossen?
+#
+# BOOK	035	HAB	Habakkuk	Habakuk
 035	HAB	001	001	Die Weissagung, die Chabakkuk, der Prophet, erschaute.
 035	HAB	001	002	Wie lange, Jehovah, soll ich aufschreien, und Du willst nicht hören, - schreien zu Dir: Gewalttat!  und Du wirst nicht helfen?
 035	HAB	001	003	Warum läßt Du mich Unrecht sehen und Mühsal erblicken, und Verheerung und Gewalttat ist vor mir?  Und Hader ist da, und das Rechten erhebt sich?
@@ -17785,6 +17835,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 035	HAB	003	017	Denn nicht wird blühen der Feigenbaum, und kein Gewächs sein an den Weinstöcken, täuschen wird des Ölbaums Werk, und die Felder werden keine Speise bringen.  Das Kleinvieh wird Er von der Hürde raffen, und in den Ställen wird kein Rind da sein.
 035	HAB	003	018	Ich aber will in Jehovah jauchzen, frohlocken in dem Gotte meines Heils.
 035	HAB	003	019	Jehovah, der Herr, ist mein Vermögen und stellt meine Füße gleich den Hindinnen, und läßt mich treten auf meine Höhen.  - Dem Sangmeister auf meinen Saitenspielen.
+#
+# BOOK	036	ZEP	Zephaniah	Zephanja
 036	ZEP	001	001	Das Wort Jehovahs, welches geschah zu Zephanjah, dem Sohne Kuschis, des Sohnes Gedaljahs, des Sohnes Amarjahs, des Sohnes Chiskijahs, in den Tagen Joschijuhus, des Sohnes Amons, König von Jehudah.
 036	ZEP	001	002	Ich raffe alles weg von der Fläche des Bodens, spricht Jehovah.
 036	ZEP	001	003	Ich raffe weg Menschen und Vieh, raffe weg das Gevögel des Himmels und des Meeres Fische, und das Anstößige samt den Ungerechten, und rotte den Menschen aus von der Fläche des Bodens, spricht Jehovah.
@@ -17838,6 +17890,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 036	ZEP	003	018	Die, welche sich vom Festorte weg grämten, sammle Ich, sie waren fort von dir.  Eine Last war auf ihr, eine Schmach.
 036	ZEP	003	019	Siehe, Ich werde es tun zur selben Zeit mit allen deinen Bedrückern, und rette die, welche hinkt, bringe die Verstoßenen zusammen; und Ich setze dieselben zum Lobe und zum Namen in all dem Lande ihrer Scham.
 036	ZEP	003	020	Zu jener Zeit bringe Ich euch herein, und zu der Zeit bringe Ich euch zusammen; denn zum Namen und zum Lob gebe Ich euch unter allen Völkern der Erde, wenn Ich eure Gefangenschaft vor euren Augen zurückgewendet habe, spricht Jehovah.
+#
+# BOOK	037	HAG	Haggai	Haggai
 037	HAG	001	001	Im zweiten Jahr des Königs Darius, im sechsten Monat, am ersten Tag des Monats geschah das Wort Jehovahs durch die Hand Chaggais, des Propheten, an Serubbabel, den Sohn Schealthiels, den Statthalter Jehudahs, und an Jehoschua, den Sohn Jehozadaks, den Hohenpriester, und sprach:
 037	HAG	001	002	So spricht Jehovah der Heerscharen und sagt: Dies Volk spricht: Die Zeit ist nicht gekommen, die Zeit, Jehovahs Haus zu bauen.
 037	HAG	001	003	Und es geschah Jehovahs Wort durch die Hand Chaggais, des Propheten, und sprach:
@@ -17876,6 +17930,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 037	HAG	002	021	Sprich zu Serubbabel, dem Statthalter Jehudahs, und sage: Ich lasse erbeben die Himmel und die Erde,
 037	HAG	002	022	Und kehre um den Thron von Königreichen, und vernichte die Stärke der Königreiche der Völkerschaften, und kehre um die Streitwagen und die darin fahren; und das Roß und dessen Reiter sollen herabstürzen, der Mann durch das Schwert seines Bruders.
 037	HAG	002	023	An diesem Tage, spricht Jehovah der Heerscharen, nehme Ich dich, Serubbabel, Sohn Schealthiels, meinen Knecht, spricht Jehovah, und setze dich, wie den Siegelring; denn dich habe Ich erwählt, spricht Jehovah der Heerscharen.
+#
+# BOOK	038	ZEC	Zechariah	Sacharja
 038	ZEC	001	001	Im achten Monat, im zweiten Jahr des Darius, geschah das Wort Jehovahs an Sacharjah, den Sohn Berechjahs, des Sohnes Iddos, den Propheten, und Er sprach:
 038	ZEC	001	002	Jehovah war sehr entrüstet über eure Väter.
 038	ZEC	001	003	Du aber sprich zu ihnen: So spricht Jehovah der Heerscharen: Kehret zurück zu Mir, spricht Jehovah der Heerscharen, dann kehre Ich zurück zu euch, spricht Jehovah der Heerscharen.
@@ -18087,6 +18143,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 038	ZEC	014	019	Das wird die Sünde Ägyptens sein, und die Sünde all der Völkerschaften, die nicht heraufzogen, das Fest der Laubhütten zu feiern.
 038	ZEC	014	020	An jenem Tage wird sein auf den Glöckchen der Rosse: Heiligkeit dem Jehovah!  Und die Töpfe werden sein im Haus Jehovahs wie die Sprengbecken vor dem Altar.
 038	ZEC	014	021	Und jeder Topf in Jerusalem und in Jehudah wird Heiligkeit sein dem Jehovah der Heerscharen; und alle, die opfern, werden kommen und davon nehmen und darin kochen, und wird kein Kanaaniter mehr im Hause Jehovahs der Heerscharen sein an jenem Tage.
+#
+# BOOK	039	MAL	Malachi	Maleachi
 039	MAL	001	001	Weissagung.  Wort Jehovahs an Israel durch die Hand Maleachis.
 039	MAL	001	002	Ich habe euch geliebt, spricht Jehovah; und ihr sprecht: Worin hast Du uns geliebt?  Ist Esau nicht Jakobs Bruder?  spricht Jehovah.  Und Jakob liebte Ich.
 039	MAL	001	003	Und Esau haßte Ich und machte seine Berge zur Verwüstung und sein Erbe den Drachen der Wüste.
@@ -18142,6 +18200,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 039	MAL	004	004	Gedenkt an das Gesetz des Moses, Meines Knechtes, das Ich ihm gebot auf Choreb an ganz Israel, an die Satzungen und Rechte.
 039	MAL	004	005	Siehe, Ich sende euch Elijah, den Propheten, bevor da kommt der Tag Jehovahs, der große und furchtbare.
 039	MAL	004	006	Und er wird das Herz der Väter zu den Söhnen zurückwenden, und das Herz der Söhne zu ihren Vätern, auf daß Ich nicht komme und schlage mit dem Banne das Land.
+#
+# BOOK	040	MAT	Matthew	Matthaeus
 040	MAT	001	001	Das Buch von der Geburt Jesu Christi, des Sohnes Davids, des Sohnes Abrahams.
 040	MAT	001	002	Abraham zeugte Isaak.  Isaak aber zeugte Jakob.  Jakob aber zeugte Judas und seine Brüder.
 040	MAT	001	003	Judas aber zeugte Phares und Zara von der Thamar.  Phares aber zeugte Esrom.  Esrom aber zeugte Aram.
@@ -19213,6 +19273,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Und Jesus kam zu ihnen, redete mit ihnen und sprach: Mir ist gegeben alle Gewalt im Himmel und auf Erden.
 040	MAT	028	019	Darum gehet hin und macht zu Jüngern alle Völkerschaften und taufet sie im Namen des Vaters und des Sohnes und des Heiligen Geistes.
 040	MAT	028	020	Und lehret sie halten alles, was Ich euch geboten habe.  Und siehe, Ich bin mit euch alle Tage bis zur Vollendung des Zeitlaufs.  Amen.
+#
+# BOOK	041	MAR	Mark	Markus
 041	MAR	001	001	Anfang des Evangeliums von Jesus Christus, dem Sohne Gottes,
 041	MAR	001	002	Wie geschrieben ist im Propheten Jesajas: Siehe, Ich sende Meinen Engel aus vor Deinem Angesicht, der Deinen Weg zurüste vor Dir.
 041	MAR	001	003	Die Stimme eines Rufenden in der Wüste: Bereitet den Weg des Herrn, machet gerade Seine Pfade.
@@ -19891,6 +19953,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Schlangen aufheben, und wenn sie etwas Tödliches trinken, wird es ihnen nicht schaden; auf die Siechen werden sie die Hände auflegen, so werden sie gesund werden.
 041	MAR	016	019	Der Herr aber, nachdem Er zu ihnen geredet hatte, ward aufgehoben in den Himmel und sitzet zur Rechten Gottes.
 041	MAR	016	020	Jene aber gingen aus und predigten aller Orten, und der Herr wirkte mit ihnen und bekräftigte das Wort durch die darauffolgenden Zeichen.
+#
+# BOOK	042	LUK	Luke	Lukas
 042	LUK	001	001	Sintemal es viele unternommen haben, eine Erzählung der bei uns sich erfüllten Dinge darzustellen,
 042	LUK	001	002	Wie solche uns überliefert haben, die von Anfang an Augenzeugen und Diener des Wortes geworden sind,
 042	LUK	001	003	So schien es auch mir gut, nachdem ich alles von Anbeginn genau verfolgt hatte, solches für dich, bester Theophilus, der Reihe nach zu schreiben;
@@ -21042,6 +21106,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Und es geschah, da Er sie segnete, schied Er von ihnen und ward in den Himmel hinaufgetragen.
 042	LUK	024	052	Und sie beteten Ihn an und kehrten mit großer Freude nach Jerusalem zurück.
 042	LUK	024	053	Und sie waren allezeit im Heiligtum, lobten und segneten Gott.
+#
+# BOOK	043	JOH	John	Johannes
 043	JOH	001	001	Im Anfang war das Wort, und das Wort war bei Gott und Gott war das Wort.
 043	JOH	001	002	Dasselbe war im Anfang bei Gott.
 043	JOH	001	003	Alles ist durch dasselbe geworden, und ohne dasselbe ist nichts geworden, das geworden ist.
@@ -21921,6 +21987,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Da ging denn dieses Wort aus unter die Brüder, daß dieser Jünger nicht stürbe.  Und Jesus hatte ihm nicht gesagt, daß er nicht sterbe, sondern: Wenn Ich will, daß dieser bleibe, bis daß Ich komme, was ist das dir?
 043	JOH	021	024	Dies ist der Jünger, der darüber zeugt und dies geschrieben hat, und wir wissen, daß sein Zeugnis wahr ist.
 043	JOH	021	025	Es sind aber auch viele andere Dinge, die Jesus getan hat, welche, so man sie sollte einzeln beschreiben, erachte ich, die Welt selbst würde die Bücher nicht fassen, die zu schreiben wären.
+#
+# BOOK	044	ACT	Acts	Apostelgeschichte
 044	ACT	001	001	In meiner ersten Schrift habe ich, mein Thophilus, von alle dem berichtet, was Jesus von Anfang an tat und lehrte,
 044	ACT	001	002	Bis zu dem Tag, da Er emporgenommen ward, nachdem Er durch den Heiligen Geist den Aposteln, die Er erwählt hatte, Befehle gegeben.
 044	ACT	001	003	Welchen Er Sich auch nach Seinem Leiden lebend darstellte in vielen Bezeugungen, indem Er ihnen vierzig Tage lang erschien und über das Reich Gottes mit ihnen redete.
@@ -22928,6 +22996,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	Da er solches geredet hatte, gingen die Juden fort und hatten viel Streitens unter sich.
 044	ACT	028	030	Er blieb zwei ganze Jahre in seinem eigenen Geding und nahm alle auf, die zu ihm einkamen;
 044	ACT	028	031	Predigte das Reich Gottes und lehrte von Jesus Christus mit aller Freimütigkeit ungehindert.
+#
+# BOOK	045	ROM	Romans	Roemers
 045	ROM	001	001	Paulus, ein Knecht Jesu Christi, zum Apostel berufen, ausgesondert zum Evangelium Gottes.
 045	ROM	001	002	Welches Er zuvor verheißen hat durch Seine Propheten in heiligen Schriften,
 045	ROM	001	003	Von dem Sohne, Der aus dem Samen Davids geboren worden nach dem Fleisch,
@@ -23361,6 +23431,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Dem aber, Der euch befestigen kann kraft meines Evangeliums und der Predigt von Jesus Christus, durch die Offenbarung des Geheimnisses, das ewige Zeiten verschwiegen geblieben,
 045	ROM	016	026	Nun aber geoffenbart und durch die prophetischen Schriften auf Befehl des ewigen Gottes zu gläubiger Annahme allen Heiden kund gemacht worden ist;
 045	ROM	016	027	Dem allein weisen Gott sei Ehre durch Jesus Christus in Ewigkeit!
+#
+# BOOK	046	1CO	1 Corinthians	1 Korinther
 046	1CO	001	001	Paulus, durch den Willen Gottes zum Apostel Jesu Christi berufen, und Sosthenes, der Bruder,
 046	1CO	001	002	An die Gemeinde Gottes in Korinth, die Geheiligten in Jesus Christus, die berufenen Heiligen, samt allen, die den Namen unseres Herrn Jesus Christus anrufen, an allen Orten, wo sie und wir sind.
 046	1CO	001	003	Gnade sei mit euch und Friede von Gott, unserem Vater und Herrn Jesus Christus!
@@ -23798,6 +23870,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	So einer ohne Liebe zu dem Herrn Jesus Christus ist, der sei dem Untergang verfallen!  Maran atha.
 046	1CO	016	023	Die Gnade unseres Herrn Jesus Christus sei mit euch.
 046	1CO	016	024	Meine Liebe ist mit euch allen in Christus Jesus.  Amen.
+#
+# BOOK	047	2CO	2 Corinthians	2 Korinther
 047	2CO	001	001	Paulus, ein Apostel Jesu Christi durch den Willen Gottes, und Timotheus, der Bruder, an die Gemeinde Gottes in Korinth, samt allen Heiligen in ganz Achaja:
 047	2CO	001	002	Gruß euch und Friede von Gott unserem Vater und Herrn Jesus Christus!
 047	2CO	001	003	Gelobt sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und der Gott allen Trostes,
@@ -24055,6 +24129,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Grüßet einander mit dem heiligen Kuß,
 047	2CO	013	013	es grüßen euch alle Heiligen.
 047	2CO	013	014	Die Gnade des Herrn Jesus Christus, und die Liebe Gottes, und die Gemeinschaft des Heiligen Geistes sei mit euch allen!  Amen.
+#
+# BOOK	048	GAL	Galatians	Galater
 048	GAL	001	001	Paulus, Apostel, nicht von Menschen, noch durch einen Menschen, sondern durch Jesus Christus und Gott Vater, Der Ihn von den Toten auferweckt hat,
 048	GAL	001	002	Und alle Brüder, die bei mir sind, an die Gemeinden in Galatien.
 048	GAL	001	003	Gnade euch und Friede von Gott dem Vater und unserem Herrn Jesus Christus,
@@ -24204,6 +24280,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	Und wie viele nach dieser Richtschnur wandeln, über die komme Friede und Erbarmen als über das Israel Gottes!
 048	GAL	006	017	Hinfort mache mir niemand mehr Beschwerde, denn ich trage die Mahlzeichen des Herrn Jesus an meinem Leibe.
 048	GAL	006	018	Die Gnade unseres Herrn Jesus Christus sei mit eurem Geiste, Brüder!  Amen.
+#
+# BOOK	049	EPH	Ephesians	Epheser
 049	EPH	001	001	Paulus, ein Apostel Jesu Christi durch den Willen Gottes, an die Heiligen zu Ephesus und Gläubigen an Jesus Christus:
 049	EPH	001	002	Gnade sei mit euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus.
 049	EPH	001	003	Gelobt sei Gott und der Vater unseres Herrn Jesus Christus, Der uns mit allerlei geistigen Segnungen an himmlischen Gütern durch Christus gesegnet hat.
@@ -24359,6 +24437,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Den ich eben deshalb an euch abgesendet habe, daß ihr erfahret, wie es um uns steht, und daß er eure Herzen tröste.
 049	EPH	006	023	Friede den Brüdern und Liebe mit Glauben von Gott dem Vater und unserem Herrn Jesus Christus!
 049	EPH	006	024	Die Gnade sei mit allen, die unseren Herrn Jesus Christus lieben unwandelbar!  Amen.
+#
+# BOOK	050	PHI	Philippians	Philipper
 050	PHI	001	001	Paulus und Timotheus, Knechte Jesu Christi an alle Heiligen in Christi Jesu zu Philippi, samt Vorständen und Diakonen,
 050	PHI	001	002	Gnade euch, und Friede von Gott unserem Vater und dem Herrn Jesus Christus.
 050	PHI	001	003	Ich danke meinem Gott, sooft ich euer Gedenke,
@@ -24463,6 +24543,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Grüßet alle Heiligen in Christus Jesus, es grüßen euch die Brüder, die bei mir sind.
 050	PHI	004	022	Es grüßen euch alle Heiligen, sonderlich aber die aus des Kaisers Haus.
 050	PHI	004	023	Die Gnade unseres Herrn Jesu Christi sei mit euch allen!  Amen.
+#
+# BOOK	051	COL	Colossians	Kolosser
 051	COL	001	001	Paulus, ein Apostel Jesu Christi durch den Willen Gottes, und Timotheus, der Bruder,
 051	COL	001	002	An die Heiligen zu Kolossä und die gläubigen Brüder in Christus: Gnade euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus.
 051	COL	001	003	Wir danken Gott und dem Vater unseres Herrn Jesus Christus allezeit im Gebet für euch,
@@ -24558,6 +24640,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Und wenn der Brief bei euch gelesen ist, so sorgt dafür, daß er auch in der Gemeinde der Laodiceer gelesen werde, und daß ihr auch den von Laodicea zu lesen bekommt,
 051	COL	004	017	Und sagt dem Archippus: Warte des Dienstes, den du vom Herrn empfangen hast, daß du ihn ausrichtest.
 051	COL	004	018	Der Gruß von meiner, des Paulus, Hand, Gedenket meiner Bande.  Die Gnade sei mit euch!  Amen.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Thessalonicher
 052	1TH	001	001	Paulus, Silvanus und Timotheus an die Gemeinde der Thessalonicher in Gott dem Vater und dem Herrn Jesus Christus: Gnade sei mit euch und Friede von Gott unserem Vater und dem Herrn Jesus Christus!
 052	1TH	001	002	Wir danken Gott allezeit für euch alle, indem wir euer in unseren Gebeten ohne Unterlaß gedenken,
 052	1TH	001	003	Eingedenk eures Werkes im Glauben, und eurer Arbeit in der Liebe, und eurer Beharrlichkeit in der Hoffnung auf unseren Herrn Jesus Christus vor Gott, unserem Vater;
@@ -24647,6 +24731,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Grüßet alle Brüder mit dem heiligen Kuß.
 052	1TH	005	027	Ich beschwöre euch bei dem Herrn, daß ihr diesen Brief alle heiligen Brüder lesen lasset.
 052	1TH	005	028	Die Gnade unseres Herrn Jesu Christi sei mit euch!  Amen.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Thessalonicher
 053	2TH	001	001	Paulus und Silvanus und Timotheus an die Gemeinde der Thessalonicher in Gott unserem Vater und Herrn Jesus Christus.
 053	2TH	001	002	Gnade sei mit euch und Friede von Gott unserem Vater und unserem Herrn Jesus Christus.
 053	2TH	001	003	Danken müssen wir Gott allezeit um euch, liebe Brüder, wie es sich gebührt, daß euer Glauben immer mehr zunimmt, und die Liebe eines jeglichen unter euch allen gegeneinander wächst,
@@ -24694,6 +24780,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	Er aber, der Herr des Friedens, gebe euch allezeit und allenthalben Frieden, der Herr sei mit euch allen.
 053	2TH	003	017	Der Gruß ist von meiner, Paulus eigener Hand, und ist euch das Zeichen in allen Briefen.  Also schreibe ich:
 053	2TH	003	018	Die Gnade unseres Herrn Jesus Christi sei mit euch allen.  Amen.
+#
+# BOOK	054	1TI	1 Timothy	1 Timotheus
 054	1TI	001	001	Paulus, ein Apostel Jesu Christi, auf Befehl Gottes unseres Heilandes und Christus Jesus, Der unsere Hoffnung ist.
 054	1TI	001	002	An Timotheus den rechtschaffenen Sohn im Glauben: Gnade, Barmherzigkeit, Friede von Gott unserem Vater und Jesus Christus unserem Herrn!
 054	1TI	001	003	Wie ich dich ermahnt habe, in Ephesus zu bleiben, da ich auf der Reise nach Mazedonien war, um gewissen Leuten zu verwehren, daß sie nicht afterlehren,
@@ -24807,6 +24895,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Und sich Schätze sammeln als guten Grund für die Zukunft, auf daß sie das wahre Leben erfassen.
 054	1TI	006	020	O Timotheus, bewahre, was dir anvertraut ist, und mache dir nichts zu schaffen mit den gottlosen, leeren Reden und Streitfragen der fälschlich sogenannten Wissenschaft,
 054	1TI	006	021	Die etliche vorgeben und vom Glauben abgewichen sind.  Die Gnade sei mit euch!  Amen.
+#
+# BOOK	055	2TI	2 Timothy	2 Timotheus
 055	2TI	001	001	Paulus, ein Apostel Jesu Christi durch den Willen Gottes, nach der Verheißung des Lebens in Christo Jesu, an seinen geliebten Sohn Timotheus.
 055	2TI	001	002	Gnade, Barmherzigkeit, Friede von Gott dem Vater, und unserem Herrn Jesus Christus.
 055	2TI	001	003	Ich danke Gott, Dem ich diene mit reinem Gewissen, von meinen Voreltern her, daß ich ohne Unterlaß dein gedenke in meinen Gebeten Tag und Nacht,
@@ -24890,6 +24980,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erastus blieb in Korinth, den Trophimus ließ ich krank in Milet zurück.
 055	2TI	004	021	Beeile dich, daß du noch vor dem Winter kommst.  Es grüßt dich Eubulus und Pudens und Linus und Claudia und die Brüder alle.
 055	2TI	004	022	Der Herr Jesus Christus sei mit deinem Geiste!  Die Gnade sei mit euch!
+#
+# BOOK	056	TIT	Titus	Titus
 056	TIT	001	001	Paulus, Knecht Gottes, Apostel Jesu Christi, nach dem Glauben der Auserwählten Gottes und der Erkenntnis der Wahrheit, die zur Gottseligkeit führt,
 056	TIT	001	002	Auf Hoffnung des ewigen Lebens, das der Gott, Der nicht trügt, vor ewigen Zeiten verheißen,
 056	TIT	001	003	Aber zu Seiner Zeit Sein Wort geoffenbart hat durch die Predigt, die mir vertraut worden ist nach dem Befehle Gottes, unseres Heilandes:
@@ -24936,6 +25028,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Sorge auf das Beste für das Geleit des Gesetzgelehrten Zenas und des Apollos, auf daß ihnen nichts mangle.
 056	TIT	003	014	Es mögen aber auch die unseren lernen gute Werke üben, wo man ihrer bedarf, auf daß sie nicht unfruchtbar seien.
 056	TIT	003	015	Es grüßen dich alle, die bei mir sind.  Grüße die, so uns lieben im Glauben.  Die Gnade sei mit euch allen!  Amen.
+#
+# BOOK	057	PHM	Philemon	Philemon
 057	PHM	001	001	Paulus, der Gefangene Jesus Christi, und Timotheus, der Bruder, an den geliebten Philemon, unseren Mitarbeiter,
 057	PHM	001	002	Und an die geliebte Appia und unseren Streitgenossen Archippus und die Gemeinde in deinem Hause.
 057	PHM	001	003	Gnade sei mit euch und Friede von Gott, unserem Vater und Herrn Jesus Christus.
@@ -24961,6 +25055,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Es grüßt dich Epaphras, mein Mitgefangener in Christus Jesus,
 057	PHM	001	024	Markus, Aristarchus, Demas, Lukas, meine Mitarbeiter.
 057	PHM	001	025	Die Gnade unseres Herrn Jesus Christus sei mit eurem Geiste!  Amen.
+#
+# BOOK	058	HEB	Hebrews	Hebraeer
 058	HEB	001	001	Nachdem vor Zeiten Gott vielfältig und auf verschiedene Weise zu den Vätern durch die Propheten geredet hatte,
 058	HEB	001	002	So hat Er in den letzten Tagen zu uns geredet durch den Sohn, Den Er zum Erben über alles gesetzt, durch Den Er auch die Welten erschaffen hat,
 058	HEB	001	003	Welcher, weil Er der Abglanz Seiner Herrlichkeit und das Ebenbild Seines Wesens und durch das Wort Seiner Kraft der Träger aller Dinge ist, und
@@ -25264,6 +25360,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Wisset, daß Bruder Timotheus freigegeben ist; mit ihm werde ich, wenn er bald kommt, euch sehen.
 058	HEB	013	024	Grüßet alle eure Vorsteher und alle Heiligen, es grüßen euch die aus Italien.
 058	HEB	013	025	Die Gnade sei mit euch allen!  Amen.
+#
+# BOOK	059	JAM	James	Jakobus
 059	JAM	001	001	Jakobus, ein Knecht Gottes und des Herrn Jesu Christi, entbietet den zwölf Stämmen in der Zerstreuung seinen Gruß.
 059	JAM	001	002	Achtet es, meine Brüder, für eitel Freude, wenn ihr in mancherlei Anfechtungen fallet,
 059	JAM	001	003	Und wisset, daß die Prüfung eures Glaubens Standhaftigkeit bewirkt.
@@ -25372,6 +25470,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Und er betete abermals, und der Himmel gab Regen und die Erde brachte ihre Frucht.
 059	JAM	005	019	Brüder, so einer unter euch von der Wahrheit abirrete, und es brächte ihn jemand zurück,
 059	JAM	005	020	Der wisse, daß, wer einen Sünder von seinem Irrweg zurückbringt, eine Seele vom Tod errettet und damit eine Menge Sünden bedeckt.
+#
+# BOOK	060	1PE	1 Peter	1 Petrus
 060	1PE	001	001	Petrus, ein Apostel Jesu Christi, an die auserwählten Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadocien, Asien und Bithyninen,
 060	1PE	001	002	Nach dem Ratschlusse Gottes des Vaters durch die Heiligung des Geistes zum Gehorsam und zur Besprengung mit dem Blute Jesu Christi.  Gnade und Friede werde euch in Fülle zuteil!
 060	1PE	001	003	Gelobt sei Gott und der Vater unseres Herrn Jesus Christus, Der uns nach Seiner großen Barmherzigkeit durch die Auferstehung Jesu Christi von den Toten wiedergeboren hat zu einer lebendigen Hoffnung.
@@ -25477,6 +25577,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Durch Silvanus, euren treuen Bruder, wie ich achte, habe ich dies wenige geschrieben, um euch zu ermahnen und zu bezeugen, daß dies die wahre Gnade Gottes ist, bei der ihr beharren sollt.
 060	1PE	005	013	Es grüßt euch die miterwählte
 060	1PE	005	014	Grüßet einander mit dem Kusse der Liebe.  Friede sei mit euch allen, die in Christo Jesu sind!  Amen.
+#
+# BOOK	061	2PE	2 Peter	2 Petrus
 061	2PE	001	001	Simon Petrus, ein Knecht und Apostel Jesu Christi, denen, die mit uns durch die Gerechtigkeit unseres Gottes und Heilandes Jesus Christus den gleich teuren Glauben erlangt haben:
 061	2PE	001	002	Gnade und Friede werde euch in Fülle zuteil durch die Erkenntnis Gottes und Jesus, unseres Herrn.
 061	2PE	001	003	Weil uns Seine göttliche Kraft alles Vermögen zum Leben und zur Gottseligkeit geschenkt hat, durch die Anerkennung Dessen, Der uns durch Seine Herrlichkeit und Tugend berufen hat,
@@ -25538,6 +25640,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Wie er auch in allen den Briefen tut, wenn er davon redet; wo einiges schwer zu verstehen ist, was Ungelehrige und Unbefestigte verdrehen, wie auch die anderen Schriften, zu ihrer eigenen Verdammnis.
 061	2PE	003	017	Ihr aber, Geliebte, die ihr dies zuvor wißt, seid auf eurer Hut, daß ihr nicht durch die Irrlehre ruchloser Leute mitverführt und aus eurer eigenen festen Stellung hinweggerückt werdet.
 061	2PE	003	018	Wachset vielmehr in der Gnade und Erkenntnis unseres Herrn und Heilandes Jesus Christus!  Ihm sei Ehre nun und in alle Ewigkeit!  Amen.
+#
+# BOOK	062	1JO	1 John	1 Johannes
 062	1JO	001	001	Was da von Anfang war, was wir gehört und mit unseren Augen gesehen, was wir beschaut und mit unseren Händen betastet haben vom Worte des Lebens -
 062	1JO	001	002	Und das Leben erschien, und wir haben es gesehen und bezeugen und verkündigen euch das Leben, das ewig ist, das beim Vater war und uns erschienen ist.
 062	1JO	001	003	Was wir gesehen und gehört haben, verkündigen wir euch, auf daß auch ihr mit uns Gemeinschaft habet; und unsere Gemeinschaft ist mit dem Vater und mit Seinem Sohn Jesus Christus.
@@ -25643,6 +25747,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Wir wissen, daß wir aus Gott sind und die ganze Welt im Argen liegt.
 062	1JO	005	020	Wir wissen aber, daß der Sohn Gottes gekommen ist und uns Einsicht gegeben hat, daß wir den Wahrhaftigen erkennen, und so sind wir in dem Wahrhaftigen, in Seinem Sohne Jesus Christus.  Dieser ist der wahrhaftige Gott und das ewige Leben.
 062	1JO	005	021	Kindlein, hütet euch vor den Abgöttern!  Amen.
+#
+# BOOK	063	2JO	2 John	2 Johannes
 063	2JO	001	001	Der Älteste an die auserwählte Kyria und an ihre Kinder, die ich liebe in Wahrheit, und nicht allein ich, sondern auch alle, welche die Wahrheit erkannt haben,
 063	2JO	001	002	Um der Wahrheit willen, die in uns bleibt und bei uns sein wird in Ewigkeit.
 063	2JO	001	003	Gnade, Barmherzigkeit, Friede von Gott dem Vater und von dem Herrn Jesus Christus, dem Sohn des Vaters, in Wahrheit und Liebe sei mit dir.
@@ -25656,6 +25762,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	Denn wer ihn begrüßt, der nimmt Teil an seinen bösen Werken.
 063	2JO	001	012	Ich hätte euch noch viel zu schreiben, aber ich wollte nicht mit Papier und Tinte, hoffe aber zu euch zu kommen und mündlich davon zu reden, auf daß unsere Freude vollkommen sei.
 063	2JO	001	013	Es grüßen dich die Kinder deiner Schwerster, der Auserwählten.  Amen.
+#
+# BOOK	064	3JO	3 John	3 Johannes
 064	3JO	001	001	Der Älteste an den geliebten Gajus, den ich liebe in Wahrheit.
 064	3JO	001	002	Geliebter, ich wünsche, daß es dir in allen Stücken wohl gehe, und du gesund seiest wie es deiner Seele wohl ergeht.
 064	3JO	001	003	Es freute mich sehr, als Brüder kamen und deiner Wahrhaftigkeit Zeugnis gaben, wie du denn in der Wahrheit wandelst.
@@ -25670,6 +25778,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Demetrius hat von jedermann ein gutes Zeugnis, und von der Wahrheit selbst, und auch wir zeugen
 064	3JO	001	013	Ich hätte dir noch viel zu schreiben, allein ich will es nicht mit Tinte und Feder tun.
 064	3JO	001	014	Ich hoffe, dich bald zu sehen, und dann wollen wir es mündlich besprechen.  Friede sei mit dir!  Es grüßen dich die Freunde.  Grüße die Freunde, jeden mit Namen.
+#
+# BOOK	065	JUD	Jude	Judas
 065	JUD	001	001	Judas, ein Knecht von Jesus Christus
 065	JUD	001	002	Barmherzigkeit und Friede und Liebe werde euch in vollem Maße zuteil!
 065	JUD	001	003	Geliebte, indem ich allen Fleiß tat, euch von dem gemeinschaftlichen Heile zu schreiben, hielt ich es für nötig, euch mit solcher Schrift zu ermahnen, daß ihr für den den Geheiligten verliehenen Glauben kämpft.
@@ -25695,6 +25805,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Die anderen rettet, indem ihr sie durch Furcht aus dem Feuer emporrafft, und auch das von dem Fleisch befleckte Kleid haßt.
 065	JUD	001	024	Ihm aber, Der euch kann behüten vor dem Fall und stellen vor Seine Herrlichkeit unsträflich mit Frohlocken,
 065	JUD	001	025	Dem allein weisen Gott, unserem Heilande, sei Herrlichkeit und Majestät, Macht und Gewalt, nun und in alle Ewigkeiten!  Amen.
+#
+# BOOK	066	REV	Revelation	Offenbarung
 066	REV	001	001	Die Offenbarung von Jesus Christus, welche Gott Ihm gab, Seinen Knechten zu zeigen, was in Bälde geschehen soll, und Er deutete es, da Er durch Seinen Engel an Seinen Knecht Johannes entsandte.
 066	REV	001	002	Welcher bezeugte das Wort Gottes und das Zeugnis von Jesus Christus, was er alles gesehen.
 066	REV	001	003	Selig, wer da liest, und die da hören die Worte der Weissagung, und was in ihr geschrieben ist, halten; denn die Zeit ist nahe.

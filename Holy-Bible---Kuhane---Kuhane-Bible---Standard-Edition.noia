@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Kuhane---Kuhane-Bible---Standard-Edition.noia
-# File Size: 1078119     
-# File Date: 05/06/2021 19:25:41
+# File Size: 1079062     
+# File Date: 06/18/2021 11:00:09
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Mateu
 040	MAT	001	001	Imbuka ya luzuvo lwa Jesu Kereste mwana wa Daafita mwana wa Abrahama.
 040	MAT	001	002	Abrahama a vali nji si wa Isaka, ni Isaka isi wa Jakobo, ni Jakobo isi wa Juda ni vance.
 040	MAT	001	003	Juda a vali njisi wa Perezi ni Zera cha Tama, Perezi isi wa Hezironi, ni Hezironi isi wa Ramu.
@@ -1094,6 +1096,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Jesu neza kwabo ne ku wamba kubali ni kucho, “Mataa onse abahewa kwangu, a kwi ulu ni aa hansi.
 040	MAT	028	019	Linu muyende, muka pange balutwani ba machaba onse.  Mu ba kolobeze mwi ziina lya Tayo, lya Mwana mane ni lya Luhuho lu Jolola.
 040	MAT	028	020	Mu balute ku mamela zintu zonse zi ni ba mi laele.  Mi mubwene, ka ni kale nanwe inako yonse, mane ku twala ku ma mani ni nizo e nkanda.”
+#
+# BOOK	041	MAR	Mark	Mareka
 041	MAR	001	001	Aa nji matangilo e Ivangeli ya Jesu Kresite, mwana wa Ireeza,
 041	MAR	001	002	Ubu muiñolelwe mwa Isaya muporofita, “mubone, nitumine mutumiwa wangu habusu vwenu, iye yeti navakanye inzila yenu.
 041	MAR	001	003	Inzwi lya umwina litabeleza mwihalaupa, 'Mubakanye inzila ya Simwine; mutende mwahita kuoloke.”'
@@ -1772,6 +1776,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Muva toole inzoka cha mayanza abo, mi ni heti ni va nywe chonse chihaya kete ni chi ve ihaye, Ka va vike mayanza he iwulu lya valwele, mi ka va hole.”
 041	MAR	016	019	Simwine chinga mana ku wamba ku vali, choku hindilwa ku iwulu mi choku ke ikala ku iyanza lya malyo lye Ireeza.
 041	MAR	016	020	Valutwani chi va yenda ni ku ka kutaza konse konse, mi Simwine cha tenda navo, mi ne cha kooza linzwi che imakazo zi vali kuyenda navo.
+#
+# BOOK	042	LUK	Luke	Luka
 042	LUK	001	001	Vangi vachi vava liki ku vika i nswanelo lye kande lyezo indava zichi zive zuzilizwa mukati ketu,
 042	LUK	001	002	uvu vo vulyo mu vava zituheli mi avo kuzwila ku matangizo ivali impanki ni vahikana ve ñusa.
 042	LUK	001	003	Cwale kwangu name ivali kuvoneka kuva hande - kuganisisa hande inzila ye indava yezo zintu kuzwila kuma tangizo - kuñola indava ye nswanelo yako iwe, Theophilus yo sepahala.
@@ -2921,6 +2927,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Ku ba tendahali kuti haba kuba fuyola aba siyi ni ku hindwa kwi wulu.
 042	LUK	024	052	Linu chiba mu lapelela kaku sanga ni ku bola kwa Jerusalema ke cha ku sanga.
 042	LUK	024	053	Chiba zwila ha busu mwi inkeleke ku temba Ireeza.
+#
+# BOOK	043	JOH	John	Johani
 043	JOH	001	001	Kumatangilo kuvali kwina linzwi, mi linzwi lyivena kwa Ireeza, mi linzwi ivali Ireeza.
 043	JOH	001	002	Ichi chiva kwina ku matangilo ni Ireeza.
 043	JOH	001	003	Zintu zonse ziva pangwa kwali, mi nikusena iye kakwina nanga chintu chonke chisena chapangwa chiva pangwa
@@ -3800,6 +3808,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Mi ichi chi wambo chi che zu lankana mu kati ka ba mwakwe, kuti kuti zuna mulutwana keti afwe.  Kono Jesu kena ba ti kwa Pitolosi kuti zumwi mu lutwana keti cho fwa, kono, “Heba ni ni wamba kuti ekale ku sikila he te ni bolele, chi nzi icho kwako?”
 043	JOH	021	024	Uzu nji mulutwana yo paka ka che zi zintu, mi ya ba ñoli izi zintu, mi twizi kuti ku paka kwa kwe kwe niti.”
 043	JOH	021	025	Kwina zimwi zintu zingi Jesu za ba tendi.  kambe chimwi ni chimwi chiba ñolwa hansi, Ni sepa kuti ni haibile inkanda yine niyesete niya wola kwi zula imbuka zete ni ziba ñolwa.
+#
+# BOOK	044	ACT	Acts	Mitendo
 044	ACT	001	001	Imbuka inibañoli kale, Tiofiliusi, ibawambi zonse zabatangi kutenda ni kuluta Jesu,
 044	ACT	001	002	kutwala izuba lyabatambulwa kwiwulu.  Ichi chibatendahali hamana kuha itaelo cha Luhuho Lujolola kuba Apositola babaketi.
 044	ACT	001	003	Kuzwa hakunyanda kwakwe, abalileti iye mwine nahala kubali ni bupaki buzuweka.  Mumazuba achita makumi wone abalibonahazi kubali, mi abawambi ziamana ni mubuso we Ireeza.
@@ -4806,6 +4816,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	Hamana kuwamba, maJuda nivaliyendela, nivava ni inkaani mukati kavo vene.
 044	ACT	028	030	Paulusi avahali zilimo zovele munzubo yakwe ya kulihila, nikuti avali ku tambula vonse vavali kwiza kwaali.
 044	ACT	028	031	Avali ku ruta muvuso wa Ireeza ni ku ruta zintu kuamana ni Simwine Jesu Keresite cha kuli tombola konse.  Kakwina yava kumuzimika.
+#
+# BOOK	045	ROM	Romans	Maroma
 045	ROM	001	001	Paulusi, muhikana wa Jesu Kreste, yava sumpwa kuva mu Apositola, niku kauhanyezwa hembali che ivangeli ye Ireeza.
 045	ROM	001	002	Iyi nje ivangeli yava sepisi inako ni seni kusika ca ma porofita mumanolo a njolola.
 045	ROM	001	003	Ku amana ni mwanakwe, yava zalwa kwi shika lya Davida chokuya ke nyama.
@@ -5239,6 +5251,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Linu intumbo zibe kwali yowola kumizimika kuya che ivangeli ni inkutazo za Jesu Kirisite,
 045	ROM	016	026	chakuya che insinulo ye inkunutu ibaungwilwe kuzwa ukoo, kono hanu chiya patululwa, kuya cha muñolelo wa chipolofita chize zibahala kwinkanda zonse, kuya che intaelo ya Ireeza wa kuya ku samani, cha kukuteka intumelo.
 045	ROM	016	027	Kwa Ireeza umwina yo talifite, cha Jesu Kirisite, kube ikanya isamani.  Amen.
+#
+# BOOK	046	1CO	1 Corinthians	1 Va Korinte
 046	1CO	001	001	Paulusi, ava sumpwa kwa Jesu Kreste ku va muapositola che tanto ya Ireeza, mi ni Sosthene mukwetu,
 046	1CO	001	002	kwi kereke ye Ireeza ya Makorinte, kwavo va va njolozwa ni Jesu Kreste, va supitwe ku va vantu va njolola.  Tu ñolela vulyo vonse avo va supa izina lya Simwine Jesu Kreste mu zivaka zonse, Simwine wavo ni wetu.
 046	1CO	001	003	Chishemo ni konzo zi ve kwenu kuzwilila kwe Reeza Muzazi wetu ni Simwine Jesu Kreste.
@@ -5676,6 +5690,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	Cho kuti zumwi kasaki Simwine, ka nyanswe, Simwine wetu, wize!
 046	1CO	016	023	Inse za Simwine Jesu zibe nanwe.
 046	1CO	016	024	Chisemo changu chibe nanwe mu bonse ka Jesu Kresite.
+#
+# BOOK	047	2CO	2 Corinthians	2 Makorinte
 047	2CO	001	001	Paulusi, muapositola wa Jesu Kreste che ntato ye Ireeza, mi Timoteya mukwetu, ku nkereke ye Ireeza ina mwa Korinte, ni kuva zumina vonse vena muchilalo cha Akaiya.
 047	2CO	001	002	Chisemo chive kwenu ni nkozo kuzwila kwe Ireeza ishetu ni Simwine wetu Jesu Kreste.
 047	2CO	001	003	Ireeza ni Ishetu, cha Jesu Kreste Mfumwetu a tembwe.  Nji yena Isii wa chisemo ni Ireeza wavo vonse va ombaombwa.
@@ -5933,6 +5949,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Muli lumelise mukati kenu cha kuli chunchuna ku jolola.
 047	2CO	013	013	Vonse va zumine va mi lumelisa.
 047	2CO	013	014	Mi musa wa Simwine Jesu Kirisite, ilato lya Ireeza, ni kuli kopanya kwa Luhuho Lujolola zive nanwe mu vonse.
+#
+# BOOK	048	GAL	Galatians	Agalatiya
 048	GAL	001	001	Paulo, Otumiwa- osati otumiwa kucoka ku banthu kapena kutumiwa na umunthu, koma mwa Yesu Kristu na Mulungu Atate, emuusha kwa akufwa-
 048	GAL	001	002	na anekwasu onse ali naneo, kuma chalichi yamu Agalatiya:
 048	GAL	001	003	Cisomo kwa mweo na mtendele kufuma kwa Mulungu Atate na Ambuye Yesu Kristu,
@@ -6081,6 +6099,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	Kwavo vonse ve te va haale cheyi mpunso, inkoozo ni chisemo chi ve kuvali, ni ha Isilaele ye Ireeza.
 048	GAL	006	017	Kuzwahanu sanzi ku waniki yo ni kataza, kakuti ni kulikite imaaka ya Kereste ha muvili wangu.
 048	GAL	006	018	Mi chisemo cha Simwine Jesu Kereste chive mu luhuho lwenu, vaakwangu.  Amen.
+#
+# BOOK	049	EPH	Ephesians	Maefese
 049	EPH	001	001	Paulusi, mu apostola wa Kresite Jesu che ntato ya Ireza, ku vantu ve Ireza va jolola mwa Efesiyasi mi basepahala mwa Kreste Jesu.
 049	EPH	001	002	Chishemo kwenu ni nkozo kuzwa kwa Ireza ishetu ni Simwine Kreste Jesu.
 049	EPH	001	003	Ireza nisi wa Simwine Jesu Kreste wetu a lumbekwe, ava tufuyoli ni mbuyoti zonse zo luhuho muzivaka ze wilu mwa kreste.
@@ -6236,6 +6256,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Niva mutuminizi kwenu ke lyinu ivaka, iri kuti mwi zive zintu zi amana iswe, mi awombe wombe inkulo zenu.
 049	EPH	006	023	Inkozo ive ku vazumine, ni rato mi ni ntumelo izwa kwa Ireza isi wetu ni Simwine Jesu Kreste.
 049	EPH	006	024	Chisemo chive navo vonse va saka Simwine Jesu Kreste ni rato lisa mani.
+#
+# BOOK	050	PHI	Philippians	Vafilipi
 050	PHI	001	001	Iswe ba Paulusi ni Timutea, bahikana ba Jesu Keresite, kwabana bonse babakungulwa cha Jesu Keresite bekele kwa Filipi, ni bakulwana ni madikoni.
 050	PHI	001	002	Chisemo chibe nanwe ni kozo izwa kwa Ireeza Ishetu ni Simwine wetu Jesu Keresite.
 050	PHI	001	003	Nilitumela kwa Mulimu wangu munimihupwila monse.
@@ -6340,6 +6362,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Mulumelise boonse kwa Jesu Keresite.  Bakwetu baninanabo bamilumelisa.
 050	PHI	004	022	Balumeli bonse kunu bamilumeli, sihulu benzubo ya Sesare.
 050	PHI	004	023	Chishemo cha Simwine Jesu Keresite chibe niluhuho lwenu.
+#
+# BOOK	051	COL	Colossians	Makolose
 051	COL	001	001	Paulusi, mu apositola wa Jesu Keresite che tanto ya Ireza, ni Timotea muzwale wetu,
 051	COL	001	002	ku va lumere ni mizwale yi sepahala mwa Keresite vena kwa Makolose.  Chisemo chive kwenu, ni koozo izwa kwe Ireza i Shetu.
 051	COL	001	003	Tu ha vuitumero kwa Ireza, Isi wa Simwine we tu Jesu Keresite, mi inako yonse tulaperera inwe.
@@ -6435,6 +6459,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Cwale ili iñolo chi lyaka valiwa mukati kenu, mu livale ni mu nkereke i vena Laodesiya, ni ku vona kuti hape nanwe muvala iñolo lizwa kwa Leodesiya.
 051	COL	004	017	Mu wambile Archippusi, “Lole ku musevezi wo va tambuli kwa Simwine, kuti u wi zuzilize.”
 051	COL	004	018	Izi intumeriso zina ni yanza lyangu ni mwine-Paulusi.  Hupule mahaka angu.  Chishemo cive nawe.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Matesolonika
 052	1TH	001	001	Paulusi, Silvanus, ni Timotea ku nkereke i vena Matesolonika mwe Ireza Ishetu ni Simwine Jesu Keresite.  Chishemo ni nkozo zive nenwe.
 052	1TH	001	002	Inako yonse tuha vu itumero kwa Ireza chenu mwense, chi tu mi sumpa mu ntapero.
 052	1TH	001	003	Tu zeza cha ku sa siya havusu vwa Ireza wetu ni Isi mitendo yenu ye ntumero, mutendo ye rato, ni kuliverera kwe nsepo kwa ku vusu mwa Simwine wetu Jesu Keresite.
@@ -6524,6 +6550,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Mulumerise mi zwale vonse cho kuchuchuna ku jolola.
 052	1TH	005	027	Ni kumbira kwenu cha Simwine kuti ili ñolo livalirwe mizwale vonse.
 052	1TH	005	028	Mi chisemo cha Simwine Jesu Kerisite chi ve nanwe.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Mateselonika
 053	2TH	001	001	Paulusi, Siluvinia ni Timoti, kwi keleke ya Matesolonika mwe Ireeza Ishwetu ni Simweni Jesu Kirisite.
 053	2TH	001	002	A chishemo chive na nwe ni inkozo izwa kwe Ireeza Ishetu ni Simwine Jesu Kirisite.
 053	2TH	001	003	Tuswanela inako yonse kuli tumela kwe Ireeza chenu, vakweetu.  Ichi chintu chi swanele hande, kakuti ntumelo yenu ikula ahulu, mi ni lato mukati kenu li kwatinsene hamwina.
@@ -6571,6 +6599,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	Mulimu ireeza we kozo iye mwine a mihe i kozo i nako yose, mwi nzila zonse.
 053	2TH	003	017	Mulimu a ve ninwe mwese.  U ku nje ku rumeresa kwangu, Paulusi, che yaza lyangu, nje chi supo cangu mwi ñolo lyimwe ne lyimwe.  Bo buti muni mu ñolela.
 053	2TH	003	018	Chi shemo nca mulimu Jeeso Kilisite chi ve nanwe mu vose.
+#
+# BOOK	054	1TI	1 Timothy	1 Timotea
 054	1TI	001	001	Paulusi, muapositola wa Chrisite Jesu kuya che intaelo ya Ireeza mu hazi wetu ni Chrisite Jesu i nsepo yetu,
 054	1TI	001	002	kwa Timotea, mwana we niti mwi ntumelo: Chisemo, inse ni nkozo izwa kwa Ireeza Ishetu ni Chrisite Jesu Simwine wetu.
 054	1TI	001	003	Ubu muniba kukumbilili kuti upange hani bakukaya kwa Masedonia, wikale mwa Efese kuti uwole kuha intaelo kubamwi bantu kuti sanzi baruti intuto ingi.
@@ -6684,6 +6714,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Mweyo, inzira, muvali vikire musumo mulotu wezo zikezite, iri kuli niva kwatirire kuvuhalo sakata.
 054	1TI	006	020	Timoteya, uvavalere icho chiva hewa kwako.  Uzwe kwi ngambolo zo buholo ni kani zisa tusi chimwi checo chiva supa kuti ingana.
 054	1TI	006	021	Vamwi vantu vawamba inzi zintu mi chivava zwi mwi tumero.  Mi chishemo chive nawe.
+#
+# BOOK	055	2TI	2 Timothy	2 Timotea
 055	2TI	001	001	Paulusi, muapositola wa Jesu Keresite chetato ye Ireeza, chakuya chesepiso ya vuhalo bwina mwa Keresite Jesu,
 055	2TI	001	002	kwa Timotea, mwanangu yo sakahala: Chisemo, inse, ni inkozo izwilila kwa Ireeza Tayo ni Keresite Jesu Simwene wetu.
 055	2TI	001	003	Ni litumera kwe Ireeza, uzo u ni vasebelezi kuzwililila ku basukulu wa vesukulu wetu, chakuya chezwalo lijolola, sina ha ni zwilile habusu kukuzeza mwitapelo zangu musihali ni masiku.
@@ -6767,6 +6799,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erasitusi avashali kwa Makorite.  kono nivakasiyiyi Trifimosi kwa Mileta nalwala.
 055	2TI	004	021	Ulike mo wolera kukeza maliha ni aseni kusika.  Eubulo uku lumelisa, Ni Pendenisi, Linasi, kalaundia, ni mizwale yonse.
 055	2TI	004	022	Imi Simwine ave ni luhuho lwako, Nichisemo chive nanwe.
+#
+# BOOK	056	TIT	Titus	Tite
 056	TIT	001	001	Paulusi, mutanga we Ereenza ni mutumwa wa Jesu Kereste, ke tumelo ye ereenza ni Vatu Vaketetwe ni zivo ye niti izumizana ni vurumeri.
 056	TIT	001	002	Iva Vena i sepo yo vuhalo vusamani vwe Ereenza, iye a sa chengi, ava sepisi pili izinako niziseni kuva kwateni.
 056	TIT	001	003	Ke nako iswanera, cha patulula lizwi lyakwe lyava nihi kuti ni lilete.  Ni va tendi vuti kuya ke tayero ye Ereenza Muhazi wentu.
@@ -6813,6 +6847,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	U hwere ni ku tuma Zenasi, i chaziva mu mulao, ni Apolosi, cho mukwa ukuta kuti kanji vavuli chimwi.
 056	TIT	003	014	Vantu ventu vaswanera kulituta kuva muzintu ze mitendo milotu isaka zintu haho iri kuti kanji ve kali nivasena misero.
 056	TIT	003	015	Vonse avo vena name vaku lumerisa.  Ulumerise avo va tusaka mwi tumero.  Chishemo chive nanwe mwenze.
+#
+# BOOK	057	PHM	Philemon	Filimoni
 057	PHM	001	001	Paulusi, muhikana wa Jesu kereste, ni mukulwe Timoteya ni Filimoni, mulikanetu yo sakiwa, mi ye tuseveza naye,
 057	PHM	001	002	ni Alufeya nchizyetu, ni Alukipusi i sole kuninetu, ni ku nkeleke i kopanela munzubo yako.
 057	PHM	001	003	Chisemo chi ve kwenu ni nkozo kuzwila kwe Reeza Isheetu ni Jesu Kereste Simwine wetu.
@@ -6838,6 +6874,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Epafrasi, mukwangu mwintolongo cha Jesu Kresite, u milumelisa.
 057	PHM	001	024	Ni Mareka, ni Aristarko, Damasi, ni Luka, va likani vangu kumusevezi.
 057	PHM	001	025	Chisemo cha Simwine wetu Jesu Kresite chive ni luhuho lwenu.  Amen.
+#
+# BOOK	058	HEB	Hebrews	Maheberu
 058	HEB	001	001	Kuntanzi Ireeza abawambi kubashemi betu chabapolofita, chenako ziingi ni munzila zishelene.
 058	HEB	001	002	Kono munzila zamazuba amanimani, abawambi kwetu cha Mwanakwe yabaketi, kuba swaana wazintu zonse.  Ireeza hape ababumbi Inkanda chakwe.
 058	HEB	001	003	Nji yobenyisa ikanya ye Ireeza, muchibumbantu chena muchili.  Mane uwondise zintu zonse hamwina chalinzwi lyaziho zakwe.  Heti chamana kujoloza zive, nekala hansi kwiyanza lyabulyo lya Nfumwetu wakwiwulu.
@@ -7141,6 +7179,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Mwizibe kuti mukwetu Timotea cha lukululwa i ye yete ni mibone naye heba mwekeze hanu.
 058	HEB	013	024	Mulumelise bayendisi benu bonse ni bazumine bonse.  Na bo bena kwa Itali ba milumelisa.
 058	HEB	013	025	Chisemo cheleza chi be nanwe mubonse.
+#
+# BOOK	059	JAM	James	Jakovo
 059	JAM	001	001	Jakovo, muhikana we Ireeza ni wa Simwine Jesu Kresite, ku mishovo ikwanisa iyanza ni yovele ahasene: Ni lumelisa.
 059	JAM	001	002	Mwihinde kiti ive kusanga, vakwangu, hamu hita mu matata mangi.
 059	JAM	001	003	Mwizi kuti kulikiwa kwe intumelo yenu kuleta ku lileta.
@@ -7249,6 +7289,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Mi Elija aba lapeli hape.  Iwulu cilya leta invula, mi inkanda chiya leta zichelo.
 059	JAM	005	019	Ba kwangu, heba zumwi kwenu kezi buniti, imi zumwi umu boza,
 059	JAM	005	020	heba kuti muntu u ku sanduka mueza libi mwi nzila yakwe ifosahele, uhaza buhalo bwakwe kwifu, no ku fupika zibi cha bungi.
+#
+# BOOK	060	1PE	1 Peter	1 Petorosi
 060	1PE	001	001	Petorosi, mwapositola wa Jesu Kirisite, kuva yedi ve nako, vava kwetwa, mukati kose ka Potiasi, Magalatia, Cappadocia, Asia, ni Bathiania.
 060	1PE	001	002	Cho kutenda kezivo yokuvusu ye Ireenza Ishetu.  Ivali cho kuchenisa ni Luhuwo lo kuzumina ni kwi tilela malaha a Jesu Krisite.  Linu chisemo chive ni we, ni kozo yako iyekeze.
 060	1PE	001	003	Ke Ireenza ni Esi wa Jesu Krisite a fulyolwe.  Muvukando bwe chishemo chakwe, cha tuha ku zwala cihya ke sepo yo kuyola.  Ichi chiyolo chi keza kezila yo kuvuka kwa Jesu Krisite kuva fwile.
@@ -7354,6 +7396,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Ni zuminina Silvanus sina muzwale yo sepahala, mi chi ni va miñolera chovu fuhi chakwe.  Ni mi lumerisa mi nipaka kwenu kuti ziniva miñoleri njo vuniti bwe chishemo che Ireza.  Muzimane mwateni.
 060	1PE	005	013	Mukulwakazi wina mwa Vavilona, yo ketetwe hamwina nanwe, umi lumerisa.  Hamwina ni Mareka, mwanangu we chikwame, umi lumerisa.
 060	1PE	005	014	Mulumerise zumwi ni zumwi che michuchuno ye rato.  Mi inkozo ive kwenu mwense vena mwa Keresite.
+#
+# BOOK	061	2PE	2 Peter	2 Petorosi
 061	2PE	001	001	Simone Pitolosi, muhikana ni mu apositola wa Jesu Keresite, kwavo vava tambuli intumelo ya vutokwa i swana uvu neswe hatu va i tabuli, intumero mu ku chena kwa Ireza ni Muhazi Jesu Keresite.
 061	2PE	001	002	Chishemo ni nkozo chi werwe cha ku pima mu maano a Ireza ni Jesu Simwine wetu.
 061	2PE	001	003	Zintu zonse ku amana maata a hitilila cha vuhalo ni vu Ireza ziva hewa kwetu cha maano a Ireza, ya vatu sumpili che nkanya yakwe ni vulotu.
@@ -7415,6 +7459,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Paulusi uwamba chezi zintu muwonse mañolo akwe, muali mwina zintu zi kukutu ku kuzizuwisisa.  Vakwame va sezi mi ni va sawondeki mwezi zintu, sina havapanga vulyo zimwi intimana, kwi insinyeho yavo.
 061	2PE	003	017	Kuzwaho, vasakiwa, sina hamwizi izi zintu, mulivukeleze njikuti kanzi muzwiswa cha vuchengi bwa vantu vafokola mi muzovelwe ku sepahala kwenu.
 061	2PE	003	018	Kono mukule mu chishemo ni nzivo ya Simwine ni Muhazi wetu Jesu Kirisite.  Mi ikanya ive kwali konse hanu ni kuya kuvusu uko.  Kuvevulyo!
+#
+# BOOK	062	1JO	1 John	1 Johani
 062	1JO	001	001	China chivena kuma tangilo-chi tu vazuwi, chi tuva voni ni menso etu, chi tuva loli hateni, mi etu mayanza ava kwati- kuya kache nzwi lya vuhalo.
 062	1JO	001	002	Hape, vuhalo vuve zi vankaniswa, mi tuva vu voni, mi twina vupaki vwaza teni.  Twi zi vahaza kwenu za vuhalo vu ya kule, vu vena ni Tayo, mi vu ve zibahazwa kwe tu.
 062	1JO	001	003	China chitu va voni ni ku zuwa tu chi wamba kwenu nanwe, nji kuti nanwe muve ni chilikani na swe.  Chi likani chetu china ni Tayo ni mwana kwe, Jesu Kirisite.
@@ -7520,6 +7566,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Twizi kuti tuzwa kwa Ireeza, Mi twizi kuti lyonse ifasi li wila kozo muvilala.
 062	1JO	005	020	Kono twizi kuti Mwana we Ireeza avezi mi ava tuhi inkutwisiso nji kuti twizive uzo we niti.  Mi hape, twina mozo wa vuniti, mu mwana kwe Jesu Kirisite.  Njiye Ireeza we niti ni vuhalo vusa mani.
 062	1JO	005	021	Bana, muli zwise kuzi swaniso.
+#
+# BOOK	063	2JO	2 John	2 Johani
 063	2JO	001	001	Kuzwa kumukulwana kuya kumwanakazi yoketetwe nivana vakwe, uzo unisaka mubuniti- mi isiñi fera ime, Linu nikwavo bonse vezi buniti-
 063	2JO	001	002	Vakenyi chavuniti bwikalilile kwentu nintato iyenda kusamani.
 063	2JO	001	003	Imi chisemu, kuluka, inkozo muive naswe niku nsuna kuzwa kwa Ireeza kuzwa kwe Shetu kuzwila kwa Jesu Kereste, mwana weshetu, muvuniti nirato.
@@ -7533,6 +7581,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	Mukuti iyemwine yo mutambula uwanika muchive cha mitendo yakwe.
 063	2JO	001	012	Nikwete zintu zingi zinilukela kuminolela, nina zintu zingi kono kani nsuni kuzi nola hepapili ni inke.  Nihakuvabulyo, nilakaza kwiza kwenu zeni wambole nitulilolete, Ilikuti kusanga kwentu.
 063	2JO	001	013	Bana vamwachako wachikazana vakurumelesa.
+#
+# BOOK	064	3JO	3 John	3 Johani
 064	3JO	001	001	Mukulwana ku yosakwa Gayusi, uzo ye ni saka mwiniti.
 064	3JO	001	002	Yosakwa, Ni rapela kuti u zwire havusu muzintu zonse mi uve ni bwiketo, sina luhuho lwako halushiyeme.
 064	3JO	001	003	Chobulyo ni vatavi hahulu mizwale ha vabakezi kuku niha vupaki bweiniti yako, sina hauyenda mwiniti.
@@ -7547,6 +7597,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Demetriusi a vapepwa na pakwa kuvantu vonse ni kwiniti iyo yine.  Naswe bulyo tupaka, mi mwizi kuti vupaki bwetu bweniti.
 064	3JO	001	013	Nivena zintu zingi zi ni wola kukuñolela, kono ka ni taveli kuziñola cha siñoliso ni inke.
 064	3JO	001	014	Ni libelele ku kuvona lyahanu, mi katuwambe menso cha menso.  Mi inkozo ive nawe.  Valikani va kurumelisa.  U rumelise valikani che zina.
+#
+# BOOK	065	JUD	Jude	Juda
 065	JUD	001	001	Juda, muhikana wa Jesu Chrisite, ni mwanche wa Jakobo, kwabo bansumpitwe, Basakiwa kwa Ireeza Fumwetu, mi babikilwe Jesu Chrisite:
 065	JUD	001	002	Mi chisemo ni nkozo, lato zibe zingi kwenu.
 065	JUD	001	003	Yosakiwa, niba kutabele kuku ñolela choku hazwa kutu kopanelwe, Ni swanela kuku ño kukolisa kwa ko kunyanda choku tundamena kulyila i ntumelo iba kenzi kuba lumeli bose.  Bamwi bakwame bali kopenye mukati kenu.
@@ -7572,6 +7624,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Muhaze bamwi kakuba zwisa mu mulilo.  Mutoye nihaiba chizwato che nyama.
 065	JUD	001	024	Linu kwali yenki yo wola kuti tusa kuku sawa, mi niku tuwolisa kuzimana habusu ye nkanya yakwe, nikusena kunyazahala nimwi ntabo,
 065	JUD	001	025	Kwa Ireeza yenke ni muhazi kuya ka Chrisite Jesu Simwine wetu, kube ni kanya, bulena, kubusa, ni mata, inako yose yamamani mani, linu, ni kuya kuma mani mani.  Amen.
+#
+# BOOK	066	REV	Revelation	Insinulo
 066	REV	001	001	iyi i nsinululo ya Jesu keresite iyo Ireeza aba muhi kubonisa ba hikana bakwe chiswanela ku tendahala nambwangu.  aba i zibankanisi caku tuma ingeloi lwakwa kumuhikana wakwe Joani.
 066	REV	001	002	Joani abahi bupaki ku amana ninzwi lya Ireeza mini cabu paki buba hewa kwa amana ni Jesu Kereste, zintu zonse za baboni.
 066	REV	001	003	Ba tohonolofezwe abo ba bala ca kuhuwa, mi nabo ba teeka kwinzwi lyakwe lya cipolofita, ba kuteka ci!  noletwe mwateni, mukuti inako ciyina hafuhi.

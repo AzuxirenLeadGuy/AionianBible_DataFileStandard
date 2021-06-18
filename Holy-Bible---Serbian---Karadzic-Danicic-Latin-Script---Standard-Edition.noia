@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Serbian---Karadzic-Danicic-Latin-Script---Standard-Edition.noia
-# File Size: 3859628     
-# File Date: 05/06/2021 19:30:42
+# File Size: 3861955     
+# File Date: 06/18/2021 11:05:11
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	Postanak
 001	GEN	001	001	U poèetku stvori Bog nebo i zemlju.
 001	GEN	001	002	A zemlja bješe bez oblièja i pusta, i bješe tama nad bezdanom; i duh Božji dizaše se nad vodom.
 001	GEN	001	003	I reèe Bog: neka bude svjetlost.  I bi svjetlost.
@@ -1556,6 +1558,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	I reèe Josif braæi svojoj: ja æu skoro umrijeti; ali æe vas zacijelo Bog pohoditi, i izvešæe vas iz ove zemlje u zemlju za koju se zakleo Avramu, Isaku i Jakovu.
 001	GEN	050	025	I zakle Josif sinove Izrailjeve i reèe: zaista æe vas pohoditi Bog; a vi onda odnesite kosti moje odavde.
 001	GEN	050	026	Potom umrije Josif, a bješe mu sto i deset godina; i pomazavši ga mirisima metnuše ga u kovèeg u Misiru.
+#
+# BOOK	002	EXO	Exodus	Izlazak
 002	EXO	001	001	Ovo su imena sinova Izrailjevijeh koji doðoše u Misir, doðoše s Jakovom, svaki sa svojom porodicom:
 002	EXO	001	002	Ruvim, Simeun, Levije i Juda,
 002	EXO	001	003	Isahar, Zavulon i Venijamin,
@@ -2769,6 +2773,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	A kad se podizaše oblak sa šatora, tada polažahu sinovi Izrailjevi, dokle god putovahu.
 002	EXO	040	037	A kad se ne podizaše oblak, onda ni oni ne polažahu do dana kad se podiže.
 002	EXO	040	038	Jer oblak Gospodnji bješe na šatoru danju, a noæu oganj bješe na njemu pred oèima svega doma Izrailjeva, dokle god putovahu.
+#
+# BOOK	003	LEV	Leviticus	Levitski Zakonik
 003	LEV	001	001	I viknu Gospod Mojsija, i reèe mu iz šatora od sastanka govoreæi:
 003	LEV	001	002	Kaži sinovima Izrailjevim, i reci im: kad ko izmeðu vas hoæe da prinese Gospodu žrtvu od stoke, prinesite žrtvu svoju od goveda ili od ovaca ili od koza.
 003	LEV	001	003	Ako mu je žrtva paljenica od goveda, neka prinese muško, zdravo; na vratima šatora od sastanka neka je prinese drage volje pred Gospodom.
@@ -3628,6 +3634,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	I desetak od goveda i od sitne stoke, koje doðe pod štap pastirski deseto, da je sveto Gospodu.
 003	LEV	027	033	Da se ne bira dobro ni rðavo, ni da se mijenja; ako li bi se kakogod promijenilo, onda neka bude i ono i drugo promijenjeno sveta stvar, i da se ne otkupi.
 003	LEV	027	034	Ovo su zapovjesti koje zapovjedi Gospod Mojsiju za sinove Izrailjeve na gori Sinajskoj.
+#
+# BOOK	004	NUM	Numbers	Brojevi
 004	NUM	001	001	Još reèe Gospod Mojsiju u pustinji Sinajskoj u šatoru od sastanka prvi dan drugoga mjeseca druge godine po izlasku njihovu iz zemlje Misirske, govoreæi:
 004	NUM	001	002	Izbrojte sav zbor sinova Izrailjevih po porodicama njihovijem i po domovima otaca njihovijeh i po imenima njihovijem, sve muškinje, glavu po glavu,
 004	NUM	001	003	Od dvadeset godina i više, sve koji mogu iæi na vojsku u Izrailju, izbrojte ih po èetama njihovijem ti i Aron;
@@ -4916,6 +4924,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	Jer Mala i Tersa i Egla i Melha i Nuja, kæeri Salpadove, udadoše se za sinove strièeva svojih,
 004	NUM	036	012	U porodice sinova Manasije sina Josifova udadoše se, i osta našljedstvo njihovo u plemenu porodice oca njihova.
 004	NUM	036	013	To su zapovijesti i zakoni, koje zapovjedi Gospod preko Mojsija sinovima Izrailjevijem u polju Moavskom na Jordanu prema Jerihonu.
+#
+# BOOK	005	DEU	Deuteronomy	Ponovljeni Zakon
 005	DEU	001	001	Ovo su rijeèi koje govori Mojsije svemu Izrailju s onu stranu Jordana, u pustinji, u polju prema Crvenome Moru, izmeðu Farana i Tofola i Lovona i Asirota i Dizava,
 005	DEU	001	002	Jedanaest dana hoda od Horiva preko gore Sira do Kadis-Varnije.
 005	DEU	001	003	A bješe èetrdesete godine prvi dan jedanaestoga mjeseca, kad Mojsije kaza sinovima Izrailjevijem sve što mu bješe zapovjedio Gospod da im kaže,
@@ -5875,6 +5885,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	Ali ne usta više prorok u Izrailju kao Mojsije, kojega Gospod pozna licem k licu,
 005	DEU	034	011	U svijem znacima i èudesima, za koja ga posla Gospod da ih uèini u zemlji Misirskoj na Faraonu i na svijem slugama njegovijem i na svoj zemlji njegovoj,
 005	DEU	034	012	I u svijem djelima krjepke ruke i u svijem strahotama velikim, koje uèini Mojsije pred svijem Izrailjem.
+#
+# BOOK	006	JOS	Joshua	Isus Navin
 006	JOS	001	001	A po smrti Mojsija sluge Gospodnjega reèe Gospod Isusu sinu Navinu, sluzi Mojsijevu, govoreæi:
 006	JOS	001	002	Mojsije sluga moj umrije; zato sada ustani, prijeði preko toga Jordana ti i sav taj narod u zemlju koju ja dajem sinovima Izrailjevijem.
 006	JOS	001	003	Svako mjesto na koje stupite stopama svojim dao sam vam, kao što rekoh Mojsiju.
@@ -6533,6 +6545,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 006	JOS	024	031	I služi Izrailj Gospodu svega vijeka Isusova i svega vijeka starješina, koje dugo živješe iza Isusa i koje znahu sva djela Gospodnja, koja uèini Izrailju.
 006	JOS	024	032	I kosti Josifove, koje donesoše sinovi Izrailjevi iz Misira, pogreboše u Sihemu, u dijelu polja koje je kupio Jakov od sinova Emora oca Sihemova za sto novaca; i biše u sinova Josifovijeh u našljedstvu njihovu.
 006	JOS	024	033	I Eleazar sin Aronov umrije, i pogreboše ga na brdu Finesa sina njegova, koje mu bješe dano u gori Jefremovoj.
+#
+# BOOK	007	JDG	Judges	Sudije
 007	JDG	001	001	A po smrti Isusovoj upitaše sinovi Izrailjevi Gospoda govoreæi: ko æe izmeðu nas iæi prvi na Hananeje da se bije s njima?
 007	JDG	001	002	I Gospod reèe: Juda neka ide; eto dao sam mu zemlju u ruke.
 007	JDG	001	003	A Juda reèe Simeunu bratu svojemu: hajde sa mnom na moj dio da se bijemo s Hananejima; pak æu i ja iæi s tobom na tvoj dio.  I poðe Simeun s njim.
@@ -7151,6 +7165,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 007	JDG	021	023	Tada sinovi Venijaminovi uèiniše tako, i dovedoše žene prema broju svom izmeðu igraèica koje oteše, i otišavši vratiše se na našljedstvo svoje, i sazidaše opet gradove i naseliše se u njima.
 007	JDG	021	024	I tako razidoše se sinovi Izrailjevi odande u ono vrijeme svaki u svoje pleme i u porodicu svoju, i otidoše odande svaki na svoje našljedstvo.
 007	JDG	021	025	U ono vrijeme ne bješe cara u Izrailju; svaki èinjaše što mu bješe drago.
+#
+# BOOK	008	RUT	Ruth	Ruta
 008	RUT	001	001	A u ono vrijeme kad suðahu sudije bi glad u zemlji; i jedan èovjek iz Vitlejema Judina otide da živi kao došljak u zemlji Moavskoj sa ženom svojom i sa dva sina svoja.
 008	RUT	001	002	A ime tomu èovjeku bješe Elimeleh, a ženi mu ime Nojemina, a imena dvojice sinova njegovijeh Malon i Heleon; i bijahu Efraæani, iz Vitlejema Judina; i doðoše u zemlju Moavsku i nastaniše se ondje.
 008	RUT	001	003	Potom umrije Elimeleh muž Nojeminin i ona osta sa dva sina svoja.
@@ -7236,6 +7252,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 008	RUT	004	020	A Aminadav rodi Nasona; a Nason rodi Salmona;
 008	RUT	004	021	A Salmon rodi Voza; a Voz rodi Ovida;
 008	RUT	004	022	A Ovid rodi Jeseja; a Jesej rodi Davida.
+#
+# BOOK	009	1SA	1 Samuel	1. Samuelova
 009	1SA	001	001	Bijaše jedan èovjek iz Ramatajim-Sofima, iz gore Jefremove, kojemu ime bješe Elkana sin Jeroama, sina Eliva, sina Tova, sina Sufova, Efraæanin.
 009	1SA	001	002	I imaše dvije žene, jednoj bješe ime Ana a drugoj Fenina; i Fenina imaše djece, a Ana nemaše djece.
 009	1SA	001	003	I iðaše taj èovjek svake godine iz svojega grada da se pokloni i prinese žrtvu Gospodu nad vojskama u Silom; a ondje bijahu dva sina Ilijeva, Ofnije i Fines, sveštenici Gospodnji.
@@ -8046,6 +8064,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 009	1SA	031	011	A èuše stanovnici u Javisu Galadovu šta uèiniše Filisteji od Saula.
 009	1SA	031	012	I podigoše se svi ljudi hrabri, i išavši svu noæ skidoše tijelo Saulovo i tjelesa sinova njegovijeh sa zida Vet-sanskoga, pa se vratiše u Javis, i ondje ih spališe.
 009	1SA	031	013	I uzeše kosti njihove i pogreboše ih pod drvetom u Javisu, i postiše sedam dana.
+#
+# BOOK	010	2SA	2 Samuel	2. Samuelova
 010	2SA	001	001	A po smrti Saulovoj, kad se David vrati pobivši Amalike i osta u Siklagu dva dana,
 010	2SA	001	002	Treæega dana, gle, doðe jedan iz vojske Saulove razdrtijeh haljina i glave posute prahom; i došav k Davidu pade na zemlju i pokloni se.
 010	2SA	001	003	I reèe mu David: otkuda ideš?  A on mu reèe: iz okola Izrailjskoga utekoh.
@@ -8741,6 +8761,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 010	2SA	024	023	Sve to davaše caru Orna kao car, i reèe Orna caru: Gospod Bog tvoj neka te milostivo primi.
 010	2SA	024	024	A car reèe Orni: ne; nego æu kupiti od tebe po cijeni, niti æu prinijeti Gospodu Bogu svojemu žrtve paljenice poklonjene.  I tako kupi David gumno i volove za pedeset sikala srebra.
 010	2SA	024	025	I ondje naèini David oltar Gospodu, i prinese žrtve paljenice i žrtve zahvalne.  I Gospod se umilostivi zemlji, i presta pomor u Izrailju.
+#
+# BOOK	011	1KI	1 Kings	1. Kraljevima
 011	1KI	001	001	A car David ostarje i bi vremenit, i koliko ga pokrivahu haljinama ne mogaše se zagrijati.
 011	1KI	001	002	Tada mu rekoše sluge njegove: neka potraže caru gospodaru našemu mladu djevojku, pa ona neka stoji pred carem i dvori ga, i na krilu neka mu spava, da se zagrijeva car gospodar naš.
 011	1KI	001	003	I potražiše lijepu djevojku po svijem krajevima Izrailjskim, i naðoše Avisagu Sunamku, te je dovedoše caru.
@@ -9557,6 +9579,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 011	1KI	022	051	Ohozija sin Ahavov zacari se nad Izrailjem u Samariji sedamnaeste godine carovanja Josafatova nad Judom; i carova nad Izrailjem dvije godine.
 011	1KI	022	052	I èinjaše što je zlo pred Gospodom, i hoðaše putem oca svojega i putem matere svoje i putem Jerovoama sina Navatova, koji navede na grijeh Izrailja.
 011	1KI	022	053	I služaše Valu i klanjaše mu se, i gnjevljaše Gospoda Boga Izrailjeva sasvijem kako je èinio otac njegov.
+#
+# BOOK	012	2KI	2 Kings	2. Kraljevima
 012	2KI	001	001	A po smrti Ahavovoj odmetnuše se Moavci od Izrailja.
 012	2KI	001	002	A Ohozija pade kroz rešetku iz gornje sobe svoje u Samariji, i razbolje se; pa posla poslanike i reèe im: idite, pitajte Velzevula boga Akaronskoga hoæu li ozdraviti od ove bolesti.
 012	2KI	001	003	Ali anðeo Gospodnji reèe Iliji Tesviæaninu: ustani, izidi na susret poslanicima cara Samarijskoga i reci im: eda li nema Boga u Izrailju, te idete da pitate Velzevula boga u Akaronu?
@@ -10276,6 +10300,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 012	2KI	025	028	I lijepo govori s njim, i namjesti mu prijesto više prijestola drugih careva koji bijahu kod njega u Vavilonu.
 012	2KI	025	029	I promijeni mu haljine tamnièke, i on jeðaše svagda s njim svega vijeka svojega.
 012	2KI	025	030	I hrana mu se jednako davaše od cara svaki dan svega vijeka njegova do smrti njegove.
+#
+# BOOK	013	1CH	1 Chronicles	1. Dnevnika
 013	1CH	001	001	Adam, Sit, Enos,
 013	1CH	001	002	Kajinan, Maleleilo, Jared,
 013	1CH	001	003	Enoh, Matusal, Lameh,
@@ -11218,6 +11244,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 013	1CH	029	028	I umrije u dobroj starosti, sit života, bogatstva i slave; i zacari se Solomun sin njegov na njegovo mjesto.
 013	1CH	029	029	A djela cara Davida prva i pošljednja eno su zapisana u knjizi Samuila vidioca i u knjizi Natana proroka i u knjizi Gada vidioca,
 013	1CH	029	030	Sa svijem carovanjem njegovijem i silom njegovom i s vremenima koja proðoše preko njega i Izrailja i svijeh carevina zemaljskih.
+#
+# BOOK	014	2CH	2 Chronicles	2. Dnevnika
 014	2CH	001	001	I Solomun sin Davidov utvrdi se u carstvu svom, i Gospod Bog njegov bješe s njim, i uzvisi ga veoma.
 014	2CH	001	002	I Solomun reèe svemu Izrailju, tisuænicima i stotinicima i sudijama i svijem knezovima svega Izrailja, glavarima domova otaèkih,
 014	2CH	001	003	Te otidoše, Solomun i sav zbor s njim, na visinu koja bijaše u Gavaonu; jer ondje bijaše šator od sastanka Božijega, koji naèini Mojsije sluga Gospodnji u pustinji.
@@ -12040,6 +12068,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 014	2CH	036	021	Da se ispuni rijeè Gospodnja koju reèe ustima Jeremijinijem, dokle se zemlja ne izdovolji subotama svojim, jer poèivaše za sve vrijeme dokle bješe pusta, dokle se ne navrši sedamdeset godina.
 014	2CH	036	022	Ali prve godine Kira cara Persijskoga, da bi se ispunila rijeè Gospodnja koju reèe na usta Jeremijina, podiže Gospod duh Kira cara Persijskoga, te oglasi po svemu carstvu svojemu i raspisa govoreæi:
 014	2CH	036	023	Ovako veli Kir car Persijski: sva carstva zemaljska dao mi je Gospod Bog nebeski, i on mi je zapovjedio da mu sazidam dom u Jerusalimu u Judeji.  Ko je izmeðu vas od svega naroda njegova?  Gospod Bog njegov neka bude s njim, pa nek ide.
+#
+# BOOK	015	EZR	Ezra	Ezra
 015	EZR	001	001	Prve godine Kira cara Persijskoga, da bi se ispunila rijeè Gospodnja, koju reèe na usta Jeremijina, podiže Gospod duh Kira cara Persijskoga, te oglasi po svemu carstvu svojemu i raspisa govoreæi:
 015	EZR	001	002	Ovako veli Kir car Persijski: sva carstva zemaljska dao mi je Gospod Bog nebeski, i on mi je zapovjedio da mu sazidam dom u Jerusalimu u Judeji.
 015	EZR	001	003	Ko je izmeðu vas od svega naroda njegova?  Bog nebeski neka bude s njim, pa nek ide u Jerusalim u Judeji, i neka zida dom Gospoda Boga Izrailjeva, Boga koji je u Jerusalimu.
@@ -12320,6 +12350,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 015	EZR	010	042	Salum, Amarija, Josif;
 015	EZR	010	043	Od sinova Nevovijeh: Jesilo, Matanija, Zavad, Zevina, Jadav, Joilo i Venaja.
 015	EZR	010	044	Svi se ovi bijahu oženili tuðinkama i neke izmeðu njih bijahu i djecu izrodile.
+#
+# BOOK	016	NEH	Nehemiah	Nehemija
 016	NEH	001	001	Rijeèi Nemije sina Ahalijina.  Mjeseca Hisleva godine dvadesete kad bijah u Susanu gradu,
 016	NEH	001	002	Doðe Ananije jedan od braæe moje s nekima iz Judeje; i zapitah ih za Judejce, za ostatak što bješe ostao od ropstva, i za Jerusalim.
 016	NEH	001	003	A oni mi rekoše: ostatak što osta od ropstva ondje u zemlji, u velikoj je nevolji i sramoti, i zid je Jerusalimski razvaljen i vrata su mu ognjem popaljena.
@@ -12726,6 +12758,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 016	NEH	013	029	Pomeni ih, Bože moj, što oskvrniše sveštenstvo i zavjet sveštenièki i Levitski.
 016	NEH	013	030	I tako ih oèistih od svijeh tuðinaca, i opet postavih redove sveštenièke i Levitske, svakoga na posao njegov,
 016	NEH	013	031	I da se donose drva za žrtve na rokove, i prvine.  Pomeni me, Bože moj, na dobro.
+#
+# BOOK	017	EST	Esther	Jestira
 017	EST	001	001	U vrijeme Asvirovo, a taj Asvir carovaše od Indije do Etiopije u sto i dvadeset i sedam zemalja,
 017	EST	001	002	U to vrijeme, kad sjeðaše car Asvir na prijestolu carstva svojega u Susanu carskom gradu,
 017	EST	001	003	Treæe godine carovanja svojega uèini gozbu svijem knezovima svojim i slugama svojim, te bijaše kod njega sila Persijska i Midska, vlastelji i upravitelji zemaljski;
@@ -12893,6 +12927,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 017	EST	010	001	Potom car Asvir udari danak na zemlju i na ostrva morska.
 017	EST	010	002	A sva djela vlasti njegove i sile, i pripovijest o velièini Mardohejevoj kako ga je car uèinio velikim, to je napisano u knjizi dnevnika careva Midskih i Persijskih.
 017	EST	010	003	Jer Mardohej Judejac bješe drugi do cara Asvira i velik u Judejaca i mio mnoštvu braæe svoje starajuæi se za dobro svojemu narodu i govoreæi za sreæu svega sjemena svojega.
+#
+# BOOK	018	JOB	Job	Jov
 018	JOB	001	001	Bijaše èovjek u zemlji Uzu po imenu Jov; i taj èovjek bijaše dobar i pravedan, i bojaše se Boga, i uklanjaše se oda zla.
 018	JOB	001	002	I rodi mu se sedam sinova i tri kæeri.
 018	JOB	001	003	I imaše stoke sedam tisuæa ovaca i tri tisuæe kamila i pet stotina jarmova volova i pet stotina magarica, i èeljadi veoma mnogo; i bijaše taj èovjek najveæi od svijeh ljudi na istoku.
@@ -13963,6 +13999,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 018	JOB	042	015	I ne nahoðaše se u svoj zemlji tako lijepijeh djevojaka kao kæeri Jovove, i otac im dade našljedstvo meðu braæom njihovom.
 018	JOB	042	016	I poslije poživje Jov sto i èetrdeset godina, i vidje sinove i unuke do èetvrtoga koljena.
 018	JOB	042	017	I umrije Jov star i sit života.
+#
+# BOOK	019	PSA	Psalms	Psalmi
 019	PSA	001	001	Blago èovjeku koji ne ide na vijeæe bezbožnièko, i na putu grješnièkom ne stoji, i u društvu nevaljalijeh ljudi ne sjedi,
 019	PSA	001	002	Nego mu je omilio zakon Gospodnji i o zakonu njegovu misli dan i noæ!
 019	PSA	001	003	On je kao drvo usaðeno kraj potoka, koje rod svoj donosi u svoje vrijeme, i kojemu list ne vene: što god radi, u svemu napreduje.
@@ -16424,6 +16462,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	Hvalite ga s bubnjem i veseljem, hvalite ga uz žice i organ.
 019	PSA	150	005	Hvalite ga uz jasne kimvale, hvalite ga uz kimvale gromovne.
 019	PSA	150	006	Sve što diše neka hvali Gospoda!  Aliluja!
+#
+# BOOK	020	PRO	Proverbs	Poslovice
 020	PRO	001	001	Prièe Solomuna sina Davidova, cara Izrailjeva,
 020	PRO	001	002	Da se poznaje mudrost i nastava, da se razumiju rijeèi razumne,
 020	PRO	001	003	Da se prima nastava u razumu, u pravdi, u sudu i u svemu što je pravo,
@@ -17339,6 +17379,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 020	PRO	031	029	Mnoge su žene bile vrsne, ali ti ih nadvišuješ sve.
 020	PRO	031	030	Ljupkost je prijevarna i ljepota tašta; žena koja se boji Gospoda, ona zaslužuje pohvalu.
 020	PRO	031	031	Podajte joj od ploda ruku njezinijeh, i neka je hvale na vratima djela njezina.
+#
+# BOOK	021	ECC	Ecclesiastes	Propovednik
 021	ECC	001	001	Rijeèi propovjednika sina Davidova cara u Jerusalimu.
 021	ECC	001	002	Taština nad taštinama, veli propovjednik, taština nad taštinama, sve je taština.
 021	ECC	001	003	Kaka je korist èovjeku od svega truda njegova, kojim se trudi pod suncem?
@@ -17561,6 +17603,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 021	ECC	012	012	I tako, sine moj, èuvaj se onoga što je preko ovoga, jer nema kraja sastavljanju mnogih knjiga, i mnogo èitanje umor je tijelu.
 021	ECC	012	013	Glavno je svemu što si èuo: Boga se boj, i zapovijesti njegove drži, jer to je sve èovjeku.
 021	ECC	012	014	Jer æe svako djelo Bog iznijeti na sud i svaku tajnu, bila dobra ili zla.
+#
+# BOOK	022	SOL	Song of Solomon	Pesma nad pesmama
 022	SOL	001	001	Solomunova pjesma nad pjesmama.
 022	SOL	001	002	Da me hoæe poljubiti poljupcem usta svojih!  Jer je tvoja ljubav bolja od vina.
 022	SOL	001	003	Mirisom su tvoja ulja prekrasna; ime ti je ulje razlito; zato te ljube djevojke.
@@ -17678,6 +17722,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 022	SOL	008	012	Moj vinograd koji ja imam, preda mnom je.  Neka tebi, Solomune, tisuæa, i dvije stotine onima koji èuvaju rod njegov.
 022	SOL	008	013	Koja nastavaš u vrtovima!  drugovi slušaju glas tvoj, daj mi da ga èujem.
 022	SOL	008	014	Brže, dragi moj!  i budi kao srna ili kao jelenèe na gorama mirisnijem.
+#
+# BOOK	023	ISA	Isaiah	Isaija
 023	ISA	001	001	Utvara Isaije sina Amosova, koju vidje za Judu i za Jerusalim za vremena Ozije, Joatana, Ahaza i Jezekije, careva Judinijeh.
 023	ISA	001	002	Èujte, nebesa, i slušaj, zemljo; jer Gospod govori: sinove odgojih i podigoh, a oni se odvrgoše mene.
 023	ISA	001	003	Vo poznaje gospodara svojega i magarac jasle gospodara svojega, a Izrailj ne poznaje, narod moj ne razumije.
@@ -18970,6 +19016,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 023	ISA	066	022	Jer kao što æe nova nebesa i nova zemlja, što æu ja naèiniti, stajati preda mnom, veli Gospod, tako æe stajati sjeme vaše i ime vaše.
 023	ISA	066	023	I od mladine do mladine, i od subote do subote dolaziæe svako tijelo da se pokloni preda mnom, veli Gospod.
 023	ISA	066	024	I izlaziæe i gledaæe mrtva tjelesa onijeh ljudi koji se odmetnuše od mene; jer crv njihov neæe umrijeti i oganj njihov neæe se ugasiti, i biæe gad svakom tijelu.
+#
+# BOOK	024	JER	Jeremiah	Jeremija
 024	JER	001	001	Rijeèi Jeremije sina Helkijina izmeðu sveštenika koji bijahu u Anatotu u zemlji Venijaminovoj,
 024	JER	001	002	Kojemu doðe rijeè Gospodnja u vrijeme Josije sina Amonova, cara Judina, trinaeste godine carovanja njegova,
 024	JER	001	003	I u vrijeme Joakima sina Josijina, cara Judina, do svršetka jedanaeste godine carovanja Sedekije sina Josijina nad Judom, dok ne bi preseljen Jerusalim, petoga mjeseca.
@@ -20334,6 +20382,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 024	JER	052	032	I lijepo govori s njim, i namjesti mu prijesto više prijestola drugih careva koji bijahu kod njega u Vavilonu.
 024	JER	052	033	I promijeni mu haljine tamnièke, i on jeðaše svagda s njim svega vijeka svojega.
 024	JER	052	034	I hrana mu se jednako davaše od cara Vavilonskoga svaki dan svega vijeka njegova do smrti njegove.
+#
+# BOOK	025	LAM	Lamentations	Tužbalice
 025	LAM	001	001	Kako sjedi sam, posta kao udovica, grad koji bješe pun naroda!  velik meðu narodima, glava meðu zemljama potpade pod danak!
 025	LAM	001	002	Jednako plaèe noæu, i suze su mu na obrazima, nema nikoga od svijeh koji ga ljubljahu da ga potješi; svi ga prijatelji njegovi iznevjeriše, postaše mu neprijatelji.
 025	LAM	001	003	Iseli se Juda od muke i ljutoga ropstva; sjedi meðu narodima, ne nalazi mira; svi koji ga goniše stigoše ga u tjesnacu.
@@ -20488,6 +20538,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 025	LAM	005	020	Zašto hoæeš da nas zaboraviš dovijeka, da nas ostaviš zadugo?
 025	LAM	005	021	Obrati nas, Gospode, k sebi, i obratiæemo se; ponovi dane naše kako bijahu prije.
 025	LAM	005	022	Jer eda li æeš nas sasvijem odbaciti i gnjeviti se na nas veoma?
+#
+# BOOK	026	EZE	Ezekiel	Jezekilj
 026	EZE	001	001	Godine tridesete, mjeseca èetvrtoga, petoga dana, kad bijah meðu robljem na rijeci Hevaru, otvoriše se nebesa, i vidjeh utvare Božje.
 026	EZE	001	002	Petoga dana toga mjeseca, pete godine otkako se zarobi car Joahin,
 026	EZE	001	003	Doðe rijeè Gospodnja Jezekilju sinu Vuzijevu, svešteniku, u zemlji Haldejskoj na rijeci Hevaru, i ondje doðe ruka Gospodnja nada nj.
@@ -21761,6 +21813,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 026	EZE	048	033	I s južne strane èetiri tisuæe i pet stotina lakata da bude mjera, i troja vrata: jedna vrata Simeunova, jedna vrata Isaharova, jedna vrata Zavulonova;
 026	EZE	048	034	Sa zapadne strane èetiri tisuæe i pet stotina lakata, i troja vrata: jedna vrata Gadova, jedna vrata Asirova, jedna vrata Neftalimova.
 026	EZE	048	035	Unaokolo æe biti osamnaest tisuæa lakata, a ime æe gradu od toga dana biti: Gospod je tu.
+#
+# BOOK	027	DAN	Daniel	Danilo
 027	DAN	001	001	Godine treæe carovanja Joakima cara Judina doðe Navuhodonosor car Vavilonski na Jerusalim, i opkoli ga.
 027	DAN	001	002	I Gospod mu dade u ruku Joakima cara Judina i dio sudova doma Božijega, i odnese ih u zemlju Senar u dom boga svojega, i metnu sudove u riznicu boga svojega.
 027	DAN	001	003	I reèe car Asfenazu starješini svojih dvorana da dovede izmeðu sinova Izrailjevijeh, i od carskoga sjemena i od knezova
@@ -22118,6 +22172,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 027	DAN	012	011	A od vremena kad se ukine žrtva vazdašnja i postavi gnusoba pustošna, biæe tisuæa i dvjesta i devedeset dana.
 027	DAN	012	012	Blago onome koji pretrpi i doèeka tisuæu i tri stotine i trideset i pet dana.
 027	DAN	012	013	A ti idi ka kraju; i poèivaæeš i ostaæeš na dijelu svom do svršetka svojih dana.
+#
+# BOOK	028	HOS	Hosea	Osija
 028	HOS	001	001	Rijeè Gospodnja koja doðe Osiji sinu Veirijevu za vremena Ozije, Joatama, Ahaza i Jezekije careva Judinijeh i za vremena Jerovoama sina Joasova cara Izrailjeva.
 028	HOS	001	002	Kad Gospod poèe govoriti Osiji, reèe Gospod Osiji: idi, oženi se kurvom, i rodi kopilad, jer se zemlja prokurva otstupivši od Gospoda.
 028	HOS	001	003	I otide, i uze Gomeru kæer Divlaimsku, koja zatrudnje i rodi mu sina.
@@ -22315,6 +22371,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 028	HOS	014	007	Oni æe se vratiti i sjedjeti pod sjenom njegovijem, raðaæe kao žito i cvjetaæe kao vinova loza; spomen æe mu biti kao vino Livansko.
 028	HOS	014	008	Jefreme, šta æe mi više idoli?  Ja æu ga uslišiti i gledati; ja æu mu biti kao jela zelena; od mene je tvoj plod.
 028	HOS	014	009	Ko je mudar, neka razumije ovo; i razuman neka pozna ovo; jer su pravi putovi Gospodnji, i pravednici æe hoditi po njima, a prestupnici æe pasti na njima.
+#
+# BOOK	029	JOE	Joel	Joil
 029	JOE	001	001	Rijeè Gospodnja koja doðe Joilu sinu Fatuilovu.
 029	JOE	001	002	Èujte, starci; slušajte, svi stanovnici zemaljski; je li ovako što bilo za vašega vremena ili za vremena vaših otaca?
 029	JOE	001	003	Pripovijedajte to sinovima svojim, i sinovi vaši svojim sinovima, i njihovi sinovi potonjemu koljenu.
@@ -22388,6 +22446,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 029	JOE	003	019	Misir æe opustjeti, i Edomska æe biti pusta pustinja za nasilje uèinjeno sinovima Judinijem, jer proliše krv pravu u zemlji njihovoj.
 029	JOE	003	020	A Juda æe stajati dovijeka i Jerusalim od koljena do koljena.
 029	JOE	003	021	I oèistiæu krv njihovu, koje ne oèistih; i Gospod æe nastavati u Sionu.
+#
+# BOOK	030	AMO	Amos	Amos
 030	AMO	001	001	Rijeèi Amosa koji bijaše izmeðu pastira iz Tekuje, što vidje za Izrailja za vremena Ozije cara Judina i za vremena Jerovoama sina Joasova cara Izrailjeva, dvije godine prije trusa.
 030	AMO	001	002	Reèe dakle: Gospod æe riknuti sa Siona, i iz Jerusalima æe pustiti glas svoj, i tužiæe stanovi pastirski i posušiæe se vrh Karmilu.
 030	AMO	001	003	Ovako veli Gospod: za tri zla i za èetiri što uèini Damasak, neæu mu oprostiti, jer vrhoše Galad gvozdenom branom.
@@ -22534,6 +22594,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 030	AMO	009	013	Evo, idu dani, govori Gospod, kad æe oraè stizati žeteoca, i koji gazi grožðe sijaèa, i gore æe kapati slatkim vinom, a svi æe se humovi rastapati.
 030	AMO	009	014	I povratiæu roblje naroda svojega Izrailja, i opet æe sagraditi puste gradove i naseliæe se, i nasadiæe vinograde i piti vino iz njih, i naèiniæe vrtove i jesti rod iz njih.
 030	AMO	009	015	I posadiæu ih u zemlji njihovoj, i neæe se više išèupati iz zemlje svoje, koju im dadoh, govori Gospod Bog tvoj.
+#
+# BOOK	031	OBA	Obadiah	Ovadija
 031	OBA	001	001	Utvara Avdijeva.  Ovako veli Gospod Gospod za Edomsku: èusmo glas od Gospoda, i glasnik bi poslan k narodima: ustajte, da ustanemo na nju u boj.
 031	OBA	001	002	Gle, uèiniæu te malijem meðu narodima, biæeš vrlo prezren.
 031	OBA	001	003	Ponos srca tvojega prevari te, tebe, koji živiš u rasjelinama kamenijem, u visokom stanu svom, i govoriš u srcu svom: ko æe me oboriti na zemlju?
@@ -22555,6 +22617,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 031	OBA	001	019	I naslijediæe jug, goru Isavovu, i ravnicu, Filisteje; i naslijediæe polje Jefremovo i polje Samarijsko i Venijaminovo i Galad;
 031	OBA	001	020	I zarobljena vojska sinova Izrailjevijeh naslijediæe što je bilo Hananejsko do Sarepte; a roblje Jerusalimsko, što je u Sefaradu, naslijediæe južne gradove.
 031	OBA	001	021	I izbavitelji æe izaæi na goru Sion da sude gori Isavovoj, i carstvo æe biti Gospodnje.
+#
+# BOOK	032	JON	Jonah	Jona
 032	JON	001	001	Doðe rijeè Gospodnja Joni sinu Amatijevu govoreæi:
 032	JON	001	002	Ustani, idi u Nineviju grad veliki, i propovijedaj protiv njega, jer izaðe zloæa njihova preda me.
 032	JON	001	003	A Jona usta da bježi u Tarsis od Gospoda, i sišav u Jopu naðe laðu koja iðaše u Tarsis, i plativ vozarinu uðe u nju da otide s njima u Tarsis od Gospoda.
@@ -22603,6 +22667,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 032	JON	004	009	A Bog reèe Joni: je li dobro što se srdiš tikve radi?  A on reèe: dobro je što se srdim do smrti.
 032	JON	004	010	A Gospod mu reèe: tebi je žao tikve, oko koje se nijesi trudio, i koje nijesi odgajio, nego jednu noæ uzraste a drugu noæ propade.
 032	JON	004	011	A meni da ne bude žao Ninevije, velikoga grada, u kom ima više od sto i dvadeset tisuæa ljudi koji još ne znaju šta je desno šta li lijevo, i mnogo stoke?
+#
+# BOOK	033	MIC	Micah	Mihej
 033	MIC	001	001	Rijeè Gospodnja koja doðe Miheju Moreseæaninu za vremena Joatama, Ahaza i Jezekije, careva Judinijeh, što vidje za Samariju i za Jerusalim.
 033	MIC	001	002	Èujte, svi narodi, slušaj, zemljo i što je na njoj, i Gospod Bog da vam je svjedok, Gospod iz svete crkve svoje.
 033	MIC	001	003	Jer, gle, Gospod izlazi iz mjesta svojega, i siæi æe, i hodiæe po visinama zemaljskim.
@@ -22708,6 +22774,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 033	MIC	007	018	Ko je Bog kao ti?  koji prašta bezakonje i prolazi prijestupe ostatku od našljedstva svojega, ne drži dovijeka gnjeva svojega, jer mu je mila milost.
 033	MIC	007	019	Opet æe se smilovati na nas; pogaziæe naša bezakonja; baciæeš u dubine morske sve grijehe njihove.
 033	MIC	007	020	Pokazaæeš istinu Jakovu, milost Avramu, kako si se zakleo ocima našim u staro vrijeme.
+#
+# BOOK	034	NAH	Nahum	Naum
 034	NAH	001	001	Breme Nineviji; knjiga od utvare Nauma Elkošanina.
 034	NAH	001	002	Bog je revnitelj i Gospod je osvetnik; osvetnik je Gospod i gnjevi se; Gospod se sveti protivnicima svojim, i drži gnjev prema neprijateljima svojim.
 034	NAH	001	003	Gospod je spor na gnjev i velike je moæi; ali nikako ne pravda krivca; put je Gospodnji u vihoru i buri, i oblaci su prah od nogu njegovijeh.
@@ -22755,6 +22823,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 034	NAH	003	017	Glavari su tvoji kao skakavci i vojvode tvoje kao veliki skakavci, koji padaju po plotovima kad je studeno, a kad sunce grane, odlijeæu, i mjesto im se ne poznaje gdje bjehu.
 034	NAH	003	018	Zadrijemaše tvoji pastiri, care Asirski, polijegaše junaci tvoji, narod se tvoj rasprša po gorama, i nema nikoga da ih zbere.
 034	NAH	003	019	Nema lijeka polomu tvom, ljuta je rana tvoja; ko god èuje glas o tebi, pljeskaæe rukama nad tobom, jer koga nije stizala zloæa tvoja jednako?
+#
+# BOOK	035	HAB	Habakkuk	Avakum
 035	HAB	001	001	Breme koje vidje prorok Avakum.
 035	HAB	001	002	Dokle æu, Gospode, vapiti a ti neæeš da èuješ?  dokle æu ti vikati: nasilje!  a ti neæeš da izbaviš?
 035	HAB	001	003	Zašto puštaš da vidim bezakonje, i da gledam muku i grabež i nasilje pred sobom, i kako podižu svaðu i raspru?
@@ -22811,6 +22881,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 035	HAB	003	017	Jer smokva neæe cvasti, niti æe biti roda na lozi vinovoj; rod æe maslinov prevariti, i njive neæe dati hrane, ovaca æe nestati iz tora, i goveda neæe biti u oboru.
 035	HAB	003	018	Ali æu se ja radovati u Gospodu, veseliæu se u Bogu spasenja svojega.
 035	HAB	003	019	Gospod je Gospod (sila) moja, i daæe mi noge kao u košute, i vodiæe me po visinama mojim.  Naèelniku pjevaèkom uz žice moje.
+#
+# BOOK	036	ZEP	Zephaniah	Sofonija
 036	ZEP	001	001	Rijeè Gospodnja koja doðe Sofoniji sinu Husija sina Godolije sina Amarije sina Jezekijina, za vremena Josije sina Amonova, cara Judina.
 036	ZEP	001	002	Sve æu uzeti sa zemlje, govori Gospod;
 036	ZEP	001	003	Uzeæu ljude i stoku, uzeæu ptice nebeske i ribe morske i sablazni s bezbožnicima, i istrijebiæu ljude sa zemlje, govori Gospod.
@@ -22864,6 +22936,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 036	ZEP	003	018	Koji tuže za praznicima, sabraæu ih, koji su iz tebe, radi teške sramote koja je na tebi.
 036	ZEP	003	019	Gle, uništiæu u ono vrijeme sve koji te muèe, i izbaviæu hrome i sabrati odagnane, i dobaviæu im hvalu i slavu po svoj zemlji, gdje su bili pod sramotom.
 036	ZEP	003	020	U ono vrijeme dovešæu vas, u ono vrijeme sabraæu vas; jer æu vam dobaviti slavu i hvalu po svijem narodima na zemlji, kad povratim roblje vaše pred vašim oèima, govori Gospod.
+#
+# BOOK	037	HAG	Haggai	Agej
 037	HAG	001	001	Druge godine cara Darija šestoga mjeseca prvoga dana doðe rijeè Gospodnja preko Ageja proroka Zorovavelju sinu Salatilovu, upravitelju Judejskom, i Isusu sinu Josedekovu, poglavaru sveštenièkom, govoreæi:
 037	HAG	001	002	Ovako veli Gospod nad vojskama govoreæi: taj narod govori: još nije došlo vrijeme, vrijeme da se sazida dom Gospodnji.
 037	HAG	001	003	Zato doðe rijeè Gospodnja preko Ageja proroka govoreæi:
@@ -22902,6 +22976,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 037	HAG	002	021	Kaži Zorovavelju upravitelju Judejskom, i reci: ja æu potresti nebo i zemlju;
 037	HAG	002	022	I prevaliæu prijesto carstvima, i satræu silu carstvima narodnijem, prevaliæu kola i one koji sjede na njima, i popadaæe konji i konjici, svaki od maèa brata svojega.
 037	HAG	002	023	U to vrijeme, govori Gospod nad vojskama, uzeæu tebe, Zorovavelju, sine Salatilov, slugo moj, govori Gospod, i postaviæu te kao peèat; jer sam te izabrao, govori Gospod nad vojskama.
+#
+# BOOK	038	ZEC	Zechariah	Zaharija
 038	ZEC	001	001	Osmoga mjeseca druge godine Darijeve, doðe rijeè Gospodnja proroku Zahariji sinu Varahije sina Idova govoreæi:
 038	ZEC	001	002	Gospod se vrlo razgnjevi na oce vaše.
 038	ZEC	001	003	Zato im reci: ovako veli Gospod nad vojskama: vratite se k meni, govori Gospod nad vojskama, i ja æu se vratiti k vama, veli Gospod nad vojskama.
@@ -23113,6 +23189,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 038	ZEC	014	019	Taki æe biti grijeh Misircima i grijeh svijem narodima koji ne bi dolazili da praznuju praznik sjenica.
 038	ZEC	014	020	U taj æe dan biti na zvoncima konjskim: svetinja Gospodu; i lonci æe u domu Gospodnjem biti kao zdjele pred oltarom;
 038	ZEC	014	021	I svi æe lonci u Jerusalimu i u Judi biti svetinja Gospodu nad vojskama, i svi koji hoæe da prinesu žrtvu dolazeæi uzimaæe ih i kuhati u njima; i u taj dan neæe više biti Hananejca u domu Gospoda nad vojskama.
+#
+# BOOK	039	MAL	Malachi	Malahija
 039	MAL	001	001	Breme rijeèi Gospodnje Izrailju preko Malahije.
 039	MAL	001	002	Ljubim vas, veli Gospod; a vi govorite: u èem nas ljubiš?  Ne bješe li Isav brat Jakovu?  govori Gospod; ali Jakova ljubih.
 039	MAL	001	003	A na Isava mrzih; zato gore njegove opustih i našljedstvo njegovo dadoh zmajevima iz pustinje.
@@ -23168,6 +23246,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 039	MAL	004	004	Pamtite zakon Mojsija sluge mojega, kojemu zapovjedih na Horivu za svega Izrailja uredbe i zakone.
 039	MAL	004	005	Evo, ja æu vam poslati Iliju proroka prije nego doðe veliki i strašni dan Gospodnji;
 039	MAL	004	006	I on æe obratiti srce otaca k sinovima, i srce sinova k ocima njihovijem, da ne doðem i zatrem zemlju.
+#
+# BOOK	040	MAT	Matthew	Mateju
 040	MAT	001	001	Pleme Isusa Hrista, sina Davida Avraamova sina.
 040	MAT	001	002	Avraam rodi Isaka.  A Isak rodi Jakova.  A Jakov rodi Judu i braæu njegovu.
 040	MAT	001	003	A Juda rodi Faresa i Zaru s Tamarom.  A Fares rodi Esroma.  A Esrom rodi Arama.
@@ -24239,6 +24319,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	I pristupivši Isus reèe im govoreæi: dade mi se svaka vlast na nebu i na zemlji.
 040	MAT	028	019	Idite dakle i nauèite sve narode krsteæi ih va ime oca i sina i svetoga Duha,
 040	MAT	028	020	Uèeæi ih da sve drže što sam vam zapovijedao; i evo ja sam s vama u sve dane do svršetka vijeka.  Amin.
+#
+# BOOK	041	MAR	Mark	Marku
 041	MAR	001	001	Poèetak jevanðelja Isusa Hrista sina Božijega.
 041	MAR	001	002	Kao što stoji u proroka: evo ja šaljem anðela svojega pred licem tvojijem, koji æe pripraviti put tvoj pred tobom.
 041	MAR	001	003	Glas onoga što vièe u pustinji: pripravite put Gospodnji, poravnite staze njegove.
@@ -24917,6 +24999,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Uzimaæe zmije u ruke, ako i smrtno što popiju, neæe im nauditi; na bolesnike metaæe ruke, i ozdravljaæe.
 041	MAR	016	019	A Gospod pošto im izgovori uze se na nebo, i sjede Bogu s desne strane.
 041	MAR	016	020	A oni iziðoše i propovijedaše svuda, i Gospod ih potpomaga, i rijeè potvrðiva znacima koji su se potom pokazivali.  Amin.
+#
+# BOOK	042	LUK	Luke	Luki
 042	LUK	001	001	Buduæi da mnogi poèeše opisivati dogaðaje koji se ispuniše meðu nama,
 042	LUK	001	002	Kao što nam predaše koji isprva sami vidješe i sluge rijeèi biše:
 042	LUK	001	003	Namislih i ja, ispitavši sve od poèetka, po redu pisati tebi, èestiti Teofile,
@@ -26068,6 +26152,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	I kad ih blagosiljaše, otstupi od njih, i uznošaše se na nebo.
 042	LUK	024	052	I oni mu se pokloniše, i vratiše se u Jerusalim s velikom radošæu.
 042	LUK	024	053	I bijahu jednako u crkvi hvaleæi i blagosiljajuæi Boga.  Amin.
+#
+# BOOK	043	JOH	John	Jovanu
 043	JOH	001	001	U poèetku bješe rijeè, i rijeè bješe u Boga, i Bog bješe rijeè.
 043	JOH	001	002	Ona bješe u poèetku u Boga.
 043	JOH	001	003	Sve je kroz nju postalo, i bez nje ništa nije postalo što je postalo.
@@ -26947,6 +27033,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Onda iziðe ova rijeè meðu braæom da onaj uèenik neæe umrijeti; ali Isus ne reèe njemu da neæe umrijeti, nego: ako hoæu da ostane dok ja ne doðem, što je tebi do toga?
 043	JOH	021	024	Ovo je onaj uèenik koji svjedoèi za ovo, koji i napisa ovo: i znamo da je svjedoèanstvo njegovo istinito.
 043	JOH	021	025	A ima i drugo mnogo što uèini Isus, koje kad bi se redom popisalo, ni u sami svijet, mislim, ne bi mogle stati napisane knjige.  Amin.
+#
+# BOOK	044	ACT	Acts	Dela apostolska
 044	ACT	001	001	Prvu sam ti knjigu napisao o svemu, o Teofile, što poèe Isus i tvoriti i uèiti
 044	ACT	001	002	Do dana kad se uznese, pošto Duhom svetijem zapovjedi apostolima koje izabra,
 044	ACT	001	003	Pred kojima i po stradanju svome pokaza sebe živa mnogijem i istinitijem znacima, i javlja im se èetrdeset dana, i govori o carstvu Božijemu.
@@ -27954,6 +28042,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	I kad on ovo reèe, otidoše Jevreji prepiruæi se meðu sobom.
 044	ACT	028	030	A Pavle ostade pune dvije godine o svome trošku, i doèekivaše sve koji mu dolažahu,
 044	ACT	028	031	Propovijedajuæi carstvo Božije, i uèeæi o Gospodu našemu Isusu Hristu slobodno, i niko mu ne branjaše.
+#
+# BOOK	045	ROM	Romans	Rimljanima
 045	ROM	001	001	Od Pavla, sluge Isusa Hrista, pozvanoga apostola izabranoga za jevanðelje Božije,
 045	ROM	001	002	Koje Bog naprijed obeæa preko proroka svojijeh u svetijem pismima
 045	ROM	001	003	O sinu svojemu, koji je po tijelu roðen od sjemena Davidova,
@@ -28387,6 +28477,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	A onome koji vas može utvrditi po jevanðelju mojemu i propovijedanju Isusa Hrista, po otkrivenju tajne koja je bila sakrivena od postanja svijeta,
 045	ROM	016	026	A sad se javila i obznanila kroz pisma proroèka, po zapovijesti vjeènoga Boga, za poslušanje vjere meðu svima neznabošcima,
 045	ROM	016	027	Jedinome premudrome Bogu, kroz Isusa Hrista, slava vavijek.  Amin.
+#
+# BOOK	046	1CO	1 Corinthians	1 Korinæanima
 046	1CO	001	001	Od Pavla, voljom Božijom pozvanoga apostola Isusa Hrista, i od Sostena brata,
 046	1CO	001	002	Crkvi Božijoj koja je u Korintu, osveæenima u Hristu Isusu, pozvanima svetima, sa svima koji prizivlju ime Gospoda našega Isusa Hrista na svakome mjestu i njihovome i našemu:
 046	1CO	001	003	Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
@@ -28824,6 +28916,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	Ako ko ne ljubi Gospoda Isusa Hrista da bude proklet, maran ata.
 046	1CO	016	023	Blagodat Gospoda našega Isusa Hrista s vama;
 046	1CO	016	024	I ljubav moja sa svima vama u Hristu Isusu.  Amin.
+#
+# BOOK	047	2CO	2 Corinthians	2 Korinæanima
 047	2CO	001	001	Od Pavla, apostola Isusa Hrista po volji Božijoj i brata Timotija crkvi Božijoj u Korintu, sa svima svetima koji su u svoj Ahaji:
 047	2CO	001	002	Blagodat vam i mir od Boga oca našega, i Gospoda Isusa Hrista.
 047	2CO	001	003	Blagosloven Bog i otac Gospoda našega Isusa Hrista, otac milosti i Bog svake utjehe,
@@ -29081,6 +29175,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Pozdravite jedan drugoga cjelivom svetijem.
 047	2CO	013	013	Pozdravljaju vas svi sveti.
 047	2CO	013	014	Blagodat Gospoda našega Isusa Hrista i ljubav Boga i oca i zajednica svetoga Duha sa svima vama.  Amin.
+#
+# BOOK	048	GAL	Galatians	Galaæanima
 048	GAL	001	001	Pavle apostol, ni od ljudi, ni kroz èovjeka, nego kroz Isusa Hrista i Boga oca, koji ga vaskrse iz mrtvijeh,
 048	GAL	001	002	I sva braæa koja su sa mnom, crkvama Galatijskijem:
 048	GAL	001	003	Blagodat vam i mir od Boga oca i Gospoda našega Isusa Hrista,
@@ -29230,6 +29326,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	I koliko ih god po ovome pravilu žive, na njima biæe mir i milost, i na Izrailju Božijemu.
 048	GAL	006	017	Više da mi niko ne dosaðuje, jer ja rane Gospoda Isusa na tijelu svojemu nosim.
 048	GAL	006	018	Blagodat Gospoda našega Isusa Hrista sa duhom vašijem, braæo.  Amin.
+#
+# BOOK	049	EPH	Ephesians	Efežanima
 049	EPH	001	001	Od Pavla, po volji Božijoj apostola Isusa Hrista, svetima koji su u Efesu, i vjernima u Hristu Isusu:
 049	EPH	001	002	Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
 049	EPH	001	003	Blagosloven Bog i otac Gospoda našega Isusa Hrista, koji nas je blagoslovio svakijem blagoslovom duhovnijem na nebesima kroz Hrista;
@@ -29385,6 +29483,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Kojega poslah k vama za to isto da znate kako smo mi, i da utješi srca vaša.
 049	EPH	006	023	Mir braæi i ljubav s vjerom od Boga oca i Gospoda Isusa Hrista.
 049	EPH	006	024	Blagodat sa svima koji ljube Gospoda našega Isusa Hrista jednako.  Amin.
+#
+# BOOK	050	PHI	Philippians	Filipljanima
 050	PHI	001	001	Od Pavla i Timotija, slugu Isusa Hrista, svima svetima u Hristu Isusu koji su u Filibi, s vladikama i ðakonima:
 050	PHI	001	002	Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
 050	PHI	001	003	Zahvaljujem Bogu svojemu kad se god opomenem vas,
@@ -29489,6 +29589,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Pozdravite svakoga svetog u Hristu Isusu.  Pozdravljaju vas braæa što su sa mnom.
 050	PHI	004	022	Pozdravljaju vas svi sveti, a osobito koji su iz doma Æesareva.
 050	PHI	004	023	Blagodat Gospoda našega Isusa Hrista sa svima vama.  Amin.
+#
+# BOOK	051	COL	Colossians	Kološanima
 051	COL	001	001	Od Pavla, po volji Božijoj apostola Isusa Hrista i brata Timotija,
 051	COL	001	002	Svetima koji su u Kolosima i vjernoj braæi u Hristu Isusu: blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
 051	COL	001	003	Zahvaljujemo Bogu i ocu Gospoda svojega Isusa Hrista, moleæi se svagda za vas,
@@ -29584,6 +29686,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	I kad se ova poslanica proèita kod vas, uèinite da se proèita i u Laodikijskoj crkvi, i onu što je pisana u Laodikiju da i vi proèitate.
 051	COL	004	017	I kažite Arhipu: gledaj na službu koju si primio u Gospodu da je dovršiš.
 051	COL	004	018	Pozdrav mojom rukom Pavlovom.  Opominjite se mojijeh okova.  Blagodat sa svima vama.  Amin.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Solunjanima
 052	1TH	001	001	Od Pavla i Silvana i Timotija crkvi Solunskoj u Bogu ocu i Gospodu Isusu Hristu: blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
 052	1TH	001	002	Zahvaljujemo Bogu svagda za sve vas spominjuæi vas u molitvama svojima,
 052	1TH	001	003	I spominjuæi bez prestanka vaše djelo vjere, i trud ljubavi, i trpljenje nada Gospoda našega Isusa Hrista, pred Bogom i ocem našijem,
@@ -29673,6 +29777,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Pozdravite braæu svu cijelivom svetijem.
 052	1TH	005	027	Zaklinjem vas Gospodom da proèitate ovu poslanicu pred svom braæom svetom.
 052	1TH	005	028	Blagodat Gospoda našega Isusa Hrista s vama.  Amin.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Solunjanima
 053	2TH	001	001	Od Pavla i Silvana i Timotija crkvi Solunskoj u Bogu ocu našemu i Gospodu Isusu Hristu:
 053	2TH	001	002	Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista.
 053	2TH	001	003	Dužni smo svagda zahvaljivati Bogu za vas, braæo, kao što treba; jer raste vrlo vjera vaša, i množi se ljubav svakoga vas meðu vama,
@@ -29720,6 +29826,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	A sam Gospod mira da vam da mir svagda u svakom dogaðaju.  Gospod sa svima vama.
 053	2TH	003	017	Pozdrav mojom rukom Pavlovom, koje je znak u svakoj poslanici, ovako pišem:
 053	2TH	003	018	Blagodat Gospoda našega Isusa Hrista sa svima vama.  Amin.
+#
+# BOOK	054	1TI	1 Timothy	1 Timoteju
 054	1TI	001	001	Od Pavla, apostola Isusa Hrista, po zapovijesti Boga spasa našega i Gospoda Isusa Hrista, nada našega,
 054	1TI	001	002	Timotiju, pravome sinu u vjeri, blagodat, milost, mir od Boga oca našega i Hrista Isusa Gospoda našega.
 054	1TI	001	003	Kao što te molih da ostaneš u Efesu, kad iðah u Maæedoniju, da zapovjediš nekima da ne uèe drukèije,
@@ -29833,6 +29941,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Sabirajuæi sebi temelj dobar za unapredak, da prime život vjeèni.
 054	1TI	006	020	O Timotije!  saèuvaj što ti je predano, kloni se poganijeh praznijeh razgovora i prepiranja lažno nazvanoga razuma,
 054	1TI	006	021	Kojijem se neki hvaleæi otpadoše od vjere.  Blagodat s tobom.  Amin.
+#
+# BOOK	055	2TI	2 Timothy	2 Timoteju
 055	2TI	001	001	Od Pavla, apostola Isusa Hrista po volji Božijoj za obeæanje života u Isusu Hristu,
 055	2TI	001	002	Timotiju, ljubaznome sinu, blagodat, milost, mir od Boga oca i Hrista Isusa Gospoda našega.
 055	2TI	001	003	Zahvaljujem Bogu, kojemu služim od praroditelja èistom savjesti, što bez prestanka imam spomen za tebe u molitvama svojijem dan i noæ,
@@ -29916,6 +30026,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erast osta u Korintu.  A Trofima ostavih u Miletu bolesna.
 055	2TI	004	021	Postaraj se da doðeš prije zime.  Pozdravlja te Euvul, i Pud, i Lin, i Klaudija, i braæa sva.
 055	2TI	004	022	Gospod Isus Hristos sa duhom tvojijem.  Blagodat s vama.  Amin.
+#
+# BOOK	056	TIT	Titus	Titu
 056	TIT	001	001	Od Pavla, sluge Božijega, a apostola Isusa Hrista po vjeri izbranijeh Božijih, i po poznanju istine pobožnosti,
 056	TIT	001	002	Za nad vjeènoga života, koji obeæa nelažni Bog prije vremena vjeènijeh,
 056	TIT	001	003	A javi u vremena svoja rijeè svoju propovijedanjem, koje je meni povjereno po zapovijesti spasitelja našega Boga,
@@ -29962,6 +30074,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Zinu zakonika i Apola lijepo opremi da imaju sve što im treba.
 056	TIT	003	014	Ali i naši neka se uèe napredovati u dobrijem djelima, ako gdje bude od potrebe da ne budu bez roda.
 056	TIT	003	015	Pozdravljaju te svi koji su sa mnom.  Pozdravi sve koji nas ljube u vjeri.  Blagodat sa svima vama.  Amin.
+#
+# BOOK	057	PHM	Philemon	Filemonu
 057	PHM	001	001	Od Pavla, sužnja Isusa Hrista, i Timotija brata, Filimonu ljubaznome i pomagaèu našemu,
 057	PHM	001	002	I Apfiji, sestri ljubaznoj, i Arhipu, našemu drugaru u vojevanju, i domašnjoj tvojoj crkvi:
 057	PHM	001	003	Blagodat vam i mir od Boga oca našega, i Gospoda Isusa Hrista.
@@ -29987,6 +30101,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Pozdravlja te Epafras koji je sa mnom sužanj u Hristu Isusu,
 057	PHM	001	024	Marko, Aristarh, Dimas, Luka, pomagaèi moji.
 057	PHM	001	025	Blagodat Gospoda našega Isusa Hrista sa duhom vašijem.  Amin.
+#
+# BOOK	058	HEB	Hebrews	Jevrejima
 058	HEB	001	001	Bog koji je negda mnogo puta i razliènijem naèinom govorio ocevima preko proroka,
 058	HEB	001	002	govori i nama u pošljedak dana ovijeh preko sina, Kojega postavi našljednika svemu, kroz kojega i svijet stvori.
 058	HEB	001	003	Koji buduæi sjajnost slave i oblièje biæa njegova, i noseæi sve u rijeèi sile svoje, uèinivši sobom oèišæenje grijeha našijeh, sjede s desne strane prijestola velièine na visini,
@@ -30290,6 +30406,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Znajte da je otišao naš brat Timotije, s kojijem, ako skoro doðe, vidjeæu vas.
 058	HEB	013	024	Pozdravite sve uèitelje svoje i sve svete.  Pozdravljaju vas braæa, koja su iz Talijanske.
 058	HEB	013	025	Blagodat sa svima vama.  Amin.
+#
+# BOOK	059	JAM	James	Jakovljeva
 059	JAM	001	001	Od Jakova, Boga i Gospoda Isusa Hrista sluge, svima dvanaest koljena rasijanijem po svijetu pozdravlje.
 059	JAM	001	002	Svaku radost imajte, braæo moja, kad padate u razliène napasti,
 059	JAM	001	003	Znajuæi da kušanje vaše vjere gradi trpljenje;
@@ -30398,6 +30516,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	I opet se pomoli i nebo dade dažd, i zemlja iznese rod svoj.
 059	JAM	005	019	Braæo!  ako ko od vas zaðe s puta istine, i obrati ga ko,
 059	JAM	005	020	Neka zna da æe onaj koji obrati grješnika s krivoga puta njegova spasti dušu od smrti, i pokriti mnoštvo grijeha.
+#
+# BOOK	060	1PE	1 Peter	1 Petrova
 060	1PE	001	001	Od Petra, apostola Isusa Hrista, izbranijem došljacima, rasijanijem po Pontu, Galatiji, Kapadokiji, Aziji i Vitiniji;
 060	1PE	001	002	Po proviðenju Boga oca, svetinjom Duha dovedenijem u poslušanje i kropljenje krvi Isusa Hrista: da vam se umnoži blagodat i mir.
 060	1PE	001	003	Blagosloven Bog i otac Gospoda našega Isusa Hrista, koji nas po velikoj milosti svojoj prerodi za živ nad vaskrsenijem Isusa Hrista iz mrtvijeh,
@@ -30503,6 +30623,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Po Silvanu, vašemu vjernom bratu, kao što mislim, pišem vam ovo malo, svjetujuæi i svjedoèeæi da je ovo prava blagodat Božija u kojoj stojite.
 060	1PE	005	013	Pozdravlja vas crkva s vama izbrana u Vavilonu, i Marko sin moj.
 060	1PE	005	014	Pozdravite jedan drugoga cjelivom ljubavi.  Mir vam svima u Hristu Isusu.  Amin.
+#
+# BOOK	061	2PE	2 Peter	2 Petrova
 061	2PE	001	001	Od Simona Petra, sluge i apostola Isusa Hrista, onima što su primili s nama jednu èasnu vjeru u pravdi Boga našega i spasa Isusa Hrista:
 061	2PE	001	002	Blagodat i mir da vam se umnoži poznavanjem Boga i Hrista Isusa Gospoda našega.
 061	2PE	001	003	Buduæi da su nam sve božanstvene sile njegove, koje trebaju k životu i pobožnosti, darovane poznanjem onoga koji nas pozva slavom i dobrodjetelju,
@@ -30564,6 +30686,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Kao što govori o ovome i u svima svojijem poslanicama, u kojima imaju neke stvari teške razumjeti, koje nenauèeni i neutvrðeni izvræu, kao i ostala pisma, na svoju pogibao.
 061	2PE	003	017	A vi dakle, ljubazni, znajuæi naprijed, èuvajte se da prijevarom bezakonika ne budete odvedeni s njima, i ne otpadnete od svoje tvrðe;
 061	2PE	003	018	Nego napredujte u blagodati i u poznanju Gospoda našega i spasa Isusa Hrista.  Njemu slava i sad i u vjeèna vremena.  Amin.
+#
+# BOOK	062	1JO	1 John	1 Jovanova
 062	1JO	001	001	Što bješe ispoèetka, što èusmo, što vidjesmo oèima svojima, što razmotrismo i ruke naše opipaše, o rijeèi života:
 062	1JO	001	002	I život se javi, i vidjesmo, i svjedoèimo, i javljamo vam život vjeèni, koji bješe u oca, i javi se nama;
 062	1JO	001	003	Što vidjesmo i èusmo to javljamo vama da i vi s nama imate zajednicu; a naša je zajednica s ocem i sa sinom njegovijem Isusom Hristom.
@@ -30669,6 +30793,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Znamo da smo od Boga i sav svijet leži u zlu.
 062	1JO	005	020	A znamo da sin Božij doðe, i dao nam je razum da poznamo Boga istinoga, i da budemo u istinome sinu njegovom Isusu Hristu.  Ovo je istini Bog i život vjeèni.
 062	1JO	005	021	Djeèice!  èuvajte se od neznaboštva.  Amin.
+#
+# BOOK	063	2JO	2 John	2 Jovanova
 063	2JO	001	001	Od starješine izbranoj gospoði i djeci njezinoj, koju ja ljubim vaistinu, i ne samo ja nego svi koji poznaše istinu,
 063	2JO	001	002	Za istinu koja u nama stoji i biæe s nama dovijeka:
 063	2JO	001	003	Da bude s vama blagodat, milost, mir od Boga oca i od Gospoda Isusa Hrista, sina oèina, u istini i u ljubavi.
@@ -30682,6 +30808,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	Jer ko se upita s njim, prima dijel u njegovijem zlijem djelima.
 063	2JO	001	012	Mnogo bih vam imao pisati, ali ne htjedoh hartijom i mastilom; jer se nadam da æu doæi k vama i iz usta govoriti, da radost vaša bude ispunjena.
 063	2JO	001	013	Pozdravljaju te djeca tvoje sestre izbrane.  Amin.
+#
+# BOOK	064	3JO	3 John	3 Jovanova
 064	3JO	001	001	Od starješine Gaju ljubaznome, kojega ja ljubim vaistinu.
 064	3JO	001	002	Ljubazni!  molim se Bogu da ti u svemu bude dobro, i da budeš zdrav, kao što je tvojoj duši dobro.
 064	3JO	001	003	Obradovah se vrlo kad doðoše braæa i posvjedoèiše tvoju istinu, kako ti u istini živiš.
@@ -30696,6 +30824,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Dimitriju svjedoèiše svi, i sama istina; a i mi svjedoèimo; i znate da je svjedoèanstvo naše istinito.
 064	3JO	001	013	Mnogo imadoh da pišem; ali neæu mastilom i perom da ti pišem;
 064	3JO	001	014	Nego se nadam da æu te skoro vidjeti, i iz usta govoriti.  Mir ti!  pozdravljaju te prijatelji.  Pozdravi prijatelje po imenu.  Amin.
+#
+# BOOK	065	JUD	Jude	Judina
 065	JUD	001	001	Od Jude, Isusa Hrista sluge, a brata Jakovljeva, zvanima, koji su osveæeni Bogom ocem i održani Isusom Hristom:
 065	JUD	001	002	Milost i mir i ljubav da vam se umnoži.
 065	JUD	001	003	Ljubazni!  starajuæi se jednako da vam pišem za opšte vaše spasenije, bi mi potrebno da vam pišem moleæi da se borite za pravednu vjeru, koja je jedanput dana svetima.
@@ -30721,6 +30851,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	A jedne strahom izbavljajte i iz ognja vadite; a karajte sa strahom, mrzeæi i na haljinu opoganjenu od tijela.
 065	JUD	001	024	A onome koji vas može saèuvati bez grijeha i bez mane, i postaviti prave pred slavom svojom u radosti,
 065	JUD	001	025	Jedinome premudrome Bogu i spasu našemu, kroz Isusa Hrista Gospoda našega, slava i velièanstvo, država i vlast prije sviju vijekova i sad i u sve vijekove.  Amin.
+#
+# BOOK	066	REV	Revelation	Apokalipsa
 066	REV	001	001	Otkrivenje Isusa Hrista, koje dade njemu Bog, da pokaže slugama svojima šta æe skoro biti, i pokaza, poslavši po anðelu svojemu sluzi svojemu Jovanu,
 066	REV	001	002	Koji svjedoèi rijeè Božiju i svjedoèanstvo Isusa Hrista, i šta god vidje.
 066	REV	001	003	Blago onome koji èita i onima koji slušaju rijeèi proroštva, i drže što je napisano u njemu; jer je vrijeme blizu.

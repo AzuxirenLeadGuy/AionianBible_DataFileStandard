@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---English---Brenton-English-Septuagint---Standard-Edition.noia
-# File Size: 3574489     
-# File Date: 05/06/2021 19:13:02
+# File Size: 3575803     
+# File Date: 06/18/2021 10:47:13
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	001	GEN	Genesis	Genesis
 001	GEN	001	001	In the beginning God made the heaven and the earth.
 001	GEN	001	002	But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 001	GEN	001	003	And God said, Let there be light, and there was light.
@@ -1552,6 +1554,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 001	GEN	050	024	And Joseph spoke to his brethren, saying, I die, and God will surely visit you, and will bring you out of this land to the land concerning which God sware to our fathers, Abraam, Isaac, and Jacob.
 001	GEN	050	025	And Joseph adjured the sons of Israel, saying, At the visitation with which God shall visit you, then ye shall carry up my bones hence with you.
 001	GEN	050	026	And Joseph died, aged an hundred and ten years; and they prepared his corpse, and put him in a coffin in Egypt.
+#
+# BOOK	002	EXO	Exodus	Exodus
 002	EXO	001	001	These are the names of the sons of Israel that came into Egypt together with Jacob their father; they came in each with their whole family.
 002	EXO	001	002	Ruben, Simeon, Levi, Judas,
 002	EXO	001	003	Issachar, Zabulon, Benjamin,
@@ -2724,6 +2728,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 002	EXO	040	036	And when the cloud went up from the tabernacle, the children of Israel prepared to depart with their baggage.
 002	EXO	040	037	And if the cloud went not up, they did not prepare to depart, till the day when the cloud went up.
 002	EXO	040	038	For a cloud was on the tabernacle by day, and fire was on it by night before all Israel, in all their journeyings.
+#
+# BOOK	003	LEV	Leviticus	Leviticus
 003	LEV	001	001	And the Lord called Moses again and spoke to him out of the tabernacle of witness, saying, Speak to the children of Israel, and thou shalt say to them,
 003	LEV	001	002	If [any] man of you shall bring gifts to the Lord, ye shall bring your gifts of the cattle and of the oxen and of the sheep.
 003	LEV	001	003	If his gift be a whole-burnt-offering, he shall bring an unblemished male of the herd to the door of the tabernacle of witness, he shall bring it as acceptable before the Lord.
@@ -3583,6 +3589,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 003	LEV	027	032	And every tithe of oxen, and of sheep, and whatsoever may come in numbering under the rod, the tenth shall be holy to the Lord.
 003	LEV	027	033	Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.
 003	LEV	027	034	These are the commandments which the Lord commanded Moses for the sons of Israel in mount Sina.
+#
+# BOOK	004	NUM	Numbers	Numbers
 004	NUM	001	001	And the Lord spoke to Moses in the wilderness of Sina, in the tabernacle of witness, on the first day of the second month, in the second year of their departure from the land of Egypt, saying,
 004	NUM	001	002	Take the sum of all the congregation of Israel according to their kindreds, according to the houses of their fathers' families, according to their number by their names, according to their heads: every male
 004	NUM	001	003	from twenty years old and upwards, every one that goes forth in the forces of Israel, take account of them with their strength; thou and Aaron take account of them.
@@ -4870,6 +4878,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 004	NUM	036	011	So Thersa, and Egla, and Melcha, and Nua, and Malaa, the daughters of Salpaad, married their cousins;
 004	NUM	036	012	they were married [to men] of the tribe of Manasse of the sons of Joseph; and their inheritance was attached to the tribe of their father's family.
 004	NUM	036	013	These [are] the commandments, and the ordinances, and the judgments, which the Lord commanded by the hand of Moses, at the west of Moab, at Jordan by Jericho.
+#
+# BOOK	005	DEU	Deuteronomy	Deuteronomy
 005	DEU	001	001	These [are] the words which Moses spoke to all Israel on this side Jordan in the desert towards the west near the Red Sea, between Pharan Tophol, and Lobon, and Aulon, and the gold works.
 005	DEU	001	002	[It is] a journey of eleven days from Choreb to mount Seir as far as Cades Barne.
 005	DEU	001	003	And it came to pass in the fortieth year, in the eleventh month, on the first [day] of the month, Moses spoke to all the children of Israel, according to all things which the Lord commanded him for them:
@@ -5827,6 +5837,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 005	DEU	034	010	And there rose up no more a prophet in Israel like Moses, whom the Lord knew face to face,
 005	DEU	034	011	in all the signs and wonders, which the Lord sent him to work in Egypt on Pharao, and his servants, and all his land;
 005	DEU	034	012	the great wonders, and the mighty hand which Moses displayed before all Israel.
+#
+# BOOK	006	JOS	Joshua	Joshua
 006	JOS	001	001	And it came to pass after the death of Moses, that the Lord spoke to Joshua the son of Naue, the minister of Moses, saying,
 006	JOS	001	002	Moses my servant is dead; now then arise, go over Jordan, thou and all this people, into the land, which I give them.
 006	JOS	001	003	Every spot on which ye shall tread I will give it to you, as I said to Moses.
@@ -6475,6 +6487,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 006	JOS	024	031	And Israel served the Lord all the days of Joshua, and all the days of the elders that lived as long as Joshua, and all that knew all the works of the Lord which he wrought for Israel.
 006	JOS	024	032	And the children of Israel brought up the bones of Joseph out of Egypt, and buried [them] in Sicima, in the portion of the land which Jacob bought of the Amorites who dwelt in Sicima for a hundred ewe-lambs; and he gave it to Joseph for a portion.
 006	JOS	024	033	And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.  In that day the children of Israel took the ark of God, and carried it about among them; and Phinees exercised the priest's office in the room of Eleazar his father till he died, and he was buried in his own place Gabaar: but the children of Israel departed every one to their place, and to their own city: and the children of Israel worshipped Astarte, and Astaroth, and the gods of the nations round about them; and the Lord delivered them into the hands of Eglom king of Moab and he ruled over them eighteen years.
+#
+# BOOK	007	JDG	Judges	Judges
 007	JDG	001	001	And it came to pass after the death of Joshua, that the children of Israel enquired of the Lord, saying, Who shall go up for us first against the Chananites, to fight against them?
 007	JDG	001	002	And the Lord said, Judas shall go up: behold, I have delivered the land into his hand.
 007	JDG	001	003	And Judas said to his brother Symeon, Come up with me into my lot, and let us array ourselves against the Chananites, and I also will go with thee into thy lot: and Symeon went with him.
@@ -7093,6 +7107,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 007	JDG	021	023	And the children of Benjamin did so; and they took wives according to their number from the dancers whom they seized: and they went and returned to their inheritance, and built the cities, and dwelt in them.
 007	JDG	021	024	And the children of Israel went thence at that time every man to his tribe and his kindred; and they went thence every man to his inheritance.
 007	JDG	021	025	And in those days there was no king in Israel; every man did that which was right in his own sight.
+#
+# BOOK	008	RUT	Ruth	Ruth
 008	RUT	001	001	And it came to pass when the judges ruled, that there was a famine in the land: and a man went from Bethleem Juda to sojourn in the land of Moab, he, and his wife, and his two sons.
 008	RUT	001	002	And the man's name [was] Elimelech, and his wife's name Noemin, and the names of his two sons Maalon and Chelaion, Ephrathites of Bethleem of Juda: and they came to the land of Moab, and remained there.
 008	RUT	001	003	And Elimelech the husband of Noemin died; and she was left, and her two sons.
@@ -7178,6 +7194,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 008	RUT	004	020	And Aminadab begot Naasson; and Naasson begot Salmon.
 008	RUT	004	021	And Salmon begot Booz; and Booz begot Obed.
 008	RUT	004	022	And Obed begot Jessae; and Jessae begot David.
+#
+# BOOK	009	1SA	1 Samuel	Kings I
 009	1SA	001	001	There was a man of Armathaim Sipha, of mount Ephraim, and his name [was] Helkana, a son of Jeremeel the son of Elias the son of Thoke, in Nasib Ephraim.
 009	1SA	001	002	And he [had] two wives; the name of the one [was] Anna, and the name of the second Phennana.  And Phennana had children, but Anna had no child.
 009	1SA	001	003	And the man went up from year to year from his city, from Armathaim, to worship and sacrifice to the Lord God of Sabaoth at Selom: and [there were] Heli and his two sons Ophni and Phinees, the priests of the Lord.
@@ -7987,6 +8005,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 009	1SA	031	011	And the inhabitants of Jabis Galaad hear what the Philistines did to Saul.
 009	1SA	031	012	And they rose up, [even] every man of might, and marched all night, and took the body of Saul and the body of Jonathan his son from the wall of Baethsam; and they bring them to Jabis, and burn them there.
 009	1SA	031	013	And they take their bones, and bury them in the field that is in Jabis, and fast seven days.
+#
+# BOOK	010	2SA	2 Samuel	Kings II
 010	2SA	001	001	And it came to pass after Saul was dead, that David returned from smiting Amalec, and David abode two days in Sekelac.
 010	2SA	001	002	And it came to pass on the third day, that, behold, a man came from the camp, from the people of Saul, and his garments were rent, and earth [was] upon his head: and it came to pass when he went in to David, that he fell upon the earth, and did obeisance to him.
 010	2SA	001	003	And David said to him, Whence comest thou?  and he said to him, I have escaped out of the camp of Israel.
@@ -8682,6 +8702,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 010	2SA	024	023	Orna gave all to the king: and Orna said to the king, The Lord thy God bless thee.
 010	2SA	024	024	And the king said to Orna, Nay, but I will surely buy it of thee at a fair price, and I will not offer to the Lord my God a whole-burnt-offering for nothing.  So David purchased the threshing-floor and the oxen for fifty shekels of silver.
 010	2SA	024	025	And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and Solomon made an addition to the altar afterwards, for it was little at first.  And the Lord hearkened to the land, and the plague was stayed from Israel.
+#
+# BOOK	011	1KI	1 Kings	Kings III
 011	1KI	001	001	And king David [was] old and advanced in days, and they covered him with clothes, and he was not warmed.
 011	1KI	001	002	And his servants said, Let them seek for the king a young virgin, and she shall wait on the king, and cherish him, and lie with him, and my lord the king shall be warmed.
 011	1KI	001	003	So they sought for a fair damsel out of all the coasts of Israel; and they found Abisag the Somanite, and they brought her to the king.
@@ -9424,6 +9446,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 011	1KI	022	051	And Ochozias son of Achaab reigned over Israel in Samaria: in the seventeenth year of Josaphat king of Juda, Ochozias son of Achaab reigned over Israel in Samaria two years.
 011	1KI	022	052	And he did that which was evil in the sight of the Lord, and walked in the way of Achaab his father, and in the way of Jezabel his mother, and in the sins of the house of Jeroboam the son of Nabat, who caused Israel to sin.
 011	1KI	022	053	And he served Baalim, and worshipped them, and provoked the Lord God of Israel, according to all that had been done before him.
+#
+# BOOK	012	2KI	2 Kings	Kings IV
 012	2KI	001	001	And Moab rebelled against Israel after the death of Achaab.
 012	2KI	001	002	And Ochozias fell through the lattice that was in his upper chamber in Samaria and was sick; and he sent messengers, and said to them, Go and enquire of Baal fly, the god of Accaron, whether I shall recover of this my sickness.  And they went to enquire of him.
 012	2KI	001	003	And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, [Is it] because there is no God in Israel, [that] ye go to enquire of Baal fly, the God of Accaron?  but [it shall] not [be] so.
@@ -10143,6 +10167,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 012	2KI	025	028	And he spoke kindly to him, and set his throne above the thrones of the kings that were with him in Babylon;
 012	2KI	025	029	And changed his prison garments: and he ate bread continually before him all the days of his life.
 012	2KI	025	030	And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
+#
+# BOOK	013	1CH	1 Chronicles	Chronicles I
 013	1CH	001	001	Adam, Seth, Enos,
 013	1CH	001	002	and Cainan, Maleleel, Jared,
 013	1CH	001	003	Enoch, Mathusala, Lamech,
@@ -11073,6 +11099,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 013	1CH	029	028	And he died in a good old age, full of days, in wealth, and glory: and Solomon his son reigned in his stead.
 013	1CH	029	029	And the rest of the acts of David, the former and the latter, are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer,
 013	1CH	029	030	concerning all his reign, and his power, and the times which went over him, and over Israel, and over all the kingdoms of the earth.
+#
+# BOOK	014	2CH	2 Chronicles	Chronicles II
 014	2CH	001	001	And Solomon the son of David was established over his kingdom, and the Lord his God was with him, and increased him exceedingly.
 014	2CH	001	002	And Solomon spoke to all Israel, to the captains of thousands, and to the captains of hundreds, and to the judges, and to all the rulers over Israel, even the heads of the families;
 014	2CH	001	003	and Solomon and all the congregation went to the high place that was in Gabaon, where was God's tabernacle of witness, which Moses the servant of the Lord made in the wilderness.
@@ -11893,6 +11921,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 014	2CH	036	021	That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting [and] sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
 014	2CH	036	022	In the first year of Cyrus king of the Persians, after the fulfillment of the word of the Lord by the mouth of Jeremias, the Lord stirred up the spirit of Cyrus king of the Persians, and told him to make proclamation in writing throughout all his kingdom, saying,
 014	2CH	036	023	Thus says Cyrus king of the Persians to all the kingdoms of the earth, The Lord God of heaven has given me [power], and he has commanded me to build a house to him in Jerusalem, in Judea.  Who [is there] of you of all his people?  His God shall be with him, and let him go up.
+#
+# BOOK	015	EZR	Ezra	Ezra
 015	EZR	001	001	Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
 015	EZR	001	002	Thus said Cyrus king of the Persians, The Lord God of heaven has given me all the kingdoms of the earth, and he has given me a charge to build him a house in Jerusalem that is in Judea.
 015	EZR	001	003	Who [is] there among you of all his people?  for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he [is] the God that is in Jerusalem.
@@ -12173,6 +12203,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 015	EZR	010	042	and Sellum, Amaria, Joseph.
 015	EZR	010	043	Of the sons of Nabu; Jael, Matthanias, Zabad, Zebennas, Jadai, and Joel, and Banaia.
 015	EZR	010	044	All these had taken strange wives, and had begotten sons of them.
+#
+# BOOK	016	NEH	Nehemiah	Nehemiah
 016	NEH	001	001	The words of Neemias the son of Chelcia.  And it came to pass in the month Chaseleu, of the twentieth year, that I was in Susan the palace.
 016	NEH	001	002	And Anani, one of my brethren, came, he and [some] men of Juda; and I asked them concerning those that had escaped, who had been left of the captivity, and concerning Jerusalem.
 016	NEH	001	003	And they said to me, The remnant, [even] those that are left of the captivity, [are] there in the land, in great distress and reproach: and the walls of Jerusalem [are] thrown down, and its gates are burnt with fire.
@@ -12562,6 +12594,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 016	NEH	013	029	Remember them, O God, for their [false] connection with the priesthood, and [the breaking] the covenant of the priesthood, and [for defiling] the Levites.
 016	NEH	013	030	So I purged them from all foreign connection, and established courses for the priests and the Levites, [every] man according to his work.
 016	NEH	013	031	And the offering of the wood-bearers [was] at certain set times, and in the [times of the] first-fruits.  Remember me, O our God, for good.
+#
+# BOOK	017	EST	Esther	Esther
 017	EST	001	001	And it came to pass after these things in the days of Artaxerxes, —(this Artaxerxes ruled over a hundred and twenty-seven provinces from India)—
 017	EST	001	002	in those days, when king Artaxerxes was on the throne in the city of Susa,
 017	EST	001	003	in the third year of his reign, he made a feast to his friends, and the other nations, and to the nobles of the Persians and Medes, and the chief of the satraps.
@@ -12726,6 +12760,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 017	EST	010	001	And the king levied [a tax] upon [his] kingdom both by land and sea.
 017	EST	010	002	And [as for] his strength and valour, and the wealth and glory of his kingdom, behold, they are written in the book of the Persians and Medes, for a memorial.
 017	EST	010	003	And Mardochæus was viceroy to king Artaxerxes, and was a great man in the kingdom, and honoured by the Jews, and passed his life beloved of all his nation.  [And Mardochæus said, These things have been done of God.  For I remember the dream which I had concerning these matters: for not one particular of them has failed.  [There was] the little fountain, which became a river, and there was light, and the sun, and much water.  The river is Esther, whom the king married, and made queen.  And the two serpents are I and Aman.  And the nations are those [nations] that combined to destroy the name of the Jews.  But [as for] my nation, this is Israel, [even] they that cried to God, and were delivered: for the Lord delivered his people, and the Lord rescued us out of all these calamities; and God wrought such signs and great wonders as have not been done among the nations.  Therefore did he ordain two lots, one for the people of God, and one for all the [other] nations.  And these two lots came for an appointed season, and for a day of judgment, before God, and for all the nations.  And God remembered his people, and vindicated his inheritance.  And they shall observe these days, in the month Adar, on the fourteenth and on the fifteenth [day] of the month, with an assembly, and joy and gladness before God, throughout the generations for ever among his people Israel.  In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said that he was a priest and a Levite, and Ptolemy his son, brought in the published letter of Phruræ, which they said existed, and [which] Lysimachus the son of Ptolemy, who was in Jerusalem, had interpreted.]
+#
+# BOOK	018	JOB	Job	Job
 018	JOB	001	001	There was a certain man in the land of Ausis, whose name [was] Job; and than man was true, blameless, righteous, [and] godly, abstaining from everything evil.
 018	JOB	001	002	And he had seven sons and three daughters.
 018	JOB	001	003	And his cattle consisted of seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred she-asses in the pastures, and a very great household, and he had a great husbandry on the earth; and that man was [most] noble of the [men] of the east.
@@ -13795,6 +13831,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 018	JOB	042	015	And there were not found in comparison with the daughters of Job, fairer [women] than they in all the world: and their father gave them an inheritance among their brethren.
 018	JOB	042	016	And Job lived after [his] affliction a hundred and seventy years: and all the years he lived were two hundred and forty: and Job saw his sons and his sons' sons, the fourth generation.
 018	JOB	042	017	And Job died, an old man and full of days.
+#
+# BOOK	019	PSA	Psalms	Psalms
 019	PSA	001	001	Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of evil men.
 019	PSA	001	002	But his pleasure is in the law of the Lord; and in his law will he meditate day and night.
 019	PSA	001	003	And he shall be as a tree planted by the brooks of waters, which shall yield its fruit in its season, and its leaf shall not fall off; and whatsoever he shall do shall be prospered.
@@ -16254,6 +16292,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 019	PSA	150	004	Praise him with timbrel and dance: praise him with stringed instruments and the organ.
 019	PSA	150	005	Praise him with melodious cymbals: praise him with loud cymbals.
 019	PSA	150	006	Let every thing that has breath praise the Lord.
+#
+# BOOK	020	PRO	Proverbs	Proverbs
 020	PRO	001	001	The Proverbs of Solomon son of David, who reigned in Israel;
 020	PRO	001	002	to know wisdom and instruction, and to perceive words of understanding;
 020	PRO	001	003	to receive also hard saying, and to understand true justice, and [how] to direct judgment;
@@ -17145,6 +17185,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 020	PRO	031	029	Many daughters have obtained wealth, many have wrought valiantly; but thou hast exceeded, thou hast surpassed all.
 020	PRO	031	030	Charms are false, and woman's beauty is vain: for it is a wise woman that is blessed, and let her praise the fear the Lord.
 020	PRO	031	031	Give her of the fruit of her lips; and let her husband be praised in the gates.
+#
+# BOOK	021	ECC	Ecclesiastes	Ecclesiastes
 021	ECC	001	001	The words of the Preacher, the son of David, king of Israel in Jerusalem.
 021	ECC	001	002	Vanity of vanities, said the Preacher, vanity of vanities; all is vanity.
 021	ECC	001	003	What advantage [is there] to a man in all his labour that he takes under the sun?
@@ -17367,6 +17409,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 021	ECC	012	012	And moreover, my son, guard thyself by means of them: of making many books there is no end; and much study is a weariness of the flesh.
 021	ECC	012	013	Hear the end of the matter, the sun: Fear God, and keep his commandments: for this is the whole man.
 021	ECC	012	014	For God will bring every work into judgment, with everything that has been overlooked, whether [it be] good, or whether [it be] evil.
+#
+# BOOK	022	SOL	Song of Solomon	Song of Songs
 022	SOL	001	001	The Song of songs, which is Solomon's.
 022	SOL	001	002	Let him kiss me with the kisses of his mouth: for thy breasts are better than wine.
 022	SOL	001	003	And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
@@ -17484,6 +17528,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 022	SOL	008	012	My vineyard, even mine, is before me; Solomon [shall have] a thousand, and they that keep its fruit two hundred.
 022	SOL	008	013	Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear [it].
 022	SOL	008	014	Away, my kinsman, and be like a doe or a fawn on the mountains of spices.
+#
+# BOOK	023	ISA	Isaiah	Esias
 023	ISA	001	001	The vision which Esaias the son of Amos saw, which he saw against Juda, and against Jerusalem, in the reign of Ozias, and Joatham, and Achaz, and Ezekias, who reigned over Judea.
 023	ISA	001	002	Hear, O heaven, and hearken, O earth: for the Lord has spoken, [saying], I have begotten and reared up children, but they have rebelled against me.
 023	ISA	001	003	The ox knows his owner, and the ass his master's crib: but Israel does not know me, and the people has not regarded me.
@@ -18769,6 +18815,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 023	ISA	066	022	For as the new heaven and the new earth, which I make, remain before me, saith the Lord, so shall your seed and your name continue.
 023	ISA	066	023	And it shall come to pass from month to month, and from sabbath to sabbath, [that] all flesh shall come to worship before me in Jerusalem, saith the Lord.
 023	ISA	066	024	And they shall go forth, and see the carcasses of the men that have transgressed against me: for their worm shall not die, and their fire shall not be quenched; and they shall be a spectacle to all flesh.
+#
+# BOOK	024	JER	Jeremiah	Jeremias
 024	JER	001	001	The word of God which came to Jeremias the [son] of Chelcias, of the priests, who dwelt in Anathoth in the land of Benjamin:
 024	JER	001	002	[accordingly] as the word of God came to him in the days of Josias son of Amos king of Juda, in the thirteenth year of his reign.
 024	JER	001	003	And it was in the days of Joakim, son of Josias king of Juda, until the eleventh year of Sedekias king of Juda, [even] until the captivity of Jerusalem in the fifth month.
@@ -20068,6 +20116,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 024	JER	052	032	and spoke kindly to him, and set his throne above the kings that were with him in Babylon,
 024	JER	052	033	and changed his prison garments: and he ate bread continually before him all the days that he lived.
 024	JER	052	034	And his appointed portion was given him continually by the king of Babylon from day to day, until the day when he died.
+#
+# BOOK	025	LAM	Lamentations	Lamentations
 025	LAM	001	001	And it came to pass, after Israel was taken captive, and Jerusalem made desolate, [that] Jeremias sat weeping, and lamented [with] this lamentation over Jerusalem, and said, ALEPH.  How does the city that was filled with people sit solitary!  she is become as a widow: she that was magnified among the nations, [and] princess among the provinces, has become tributary.
 025	LAM	001	002	BETH.  She weeps sore in the night, and her tears are on her cheeks; and there is none of all her lovers to comfort her: all that were her friends have dealt deceitfully with her, they are become her enemies.
 025	LAM	001	003	GIMEL.  Judea is gone into captivity by reason of her affliction, and by reason of the abundance of her servitude: she dwells among the nations, she has not found rest: all her pursuers have overtaken her between her oppressors.
@@ -20221,6 +20271,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 025	LAM	005	020	Wherefore wilt thou utterly forget us, and abandon us a long time?
 025	LAM	005	021	Turn us, O Lord, to thee, and we shall be turned; and renew our days as before.
 025	LAM	005	022	For thou hast indeed rejected us; thou hast been very wroth against us.
+#
+# BOOK	026	EZE	Ezekiel	Jezekiel
 026	EZE	001	001	Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 026	EZE	001	002	On the fifth day of the month; this was the fifth year of the captivity of king Joakim.
 026	EZE	001	003	And the word of the Lord came to Jezekiel the priest, the son of Buzi, in the land of the Chaldeans, by the river of Chobar; and the hand of the Lord was upon me.
@@ -21486,6 +21538,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 026	EZE	048	033	And southward, four thousand and five hundred by measure: and three gates; the gate of Symeon, one, and the gate of Issachar, one, and the gate of Zabulon, one.
 026	EZE	048	034	And westward, four thousand and five hundred by measure: [and] three gates; the gate of Gad, one, and the gate of Asser, one, and the gate of Nephthalim, one.
 026	EZE	048	035	The circumference, eighteen thousand [measures]: and the name of the city, from the day that it shall be finished, shall be the name thereof.
+#
+# BOOK	027	DAN	Daniel	Daniel
 027	DAN	001	001	In the third year of the reign of Joakim king of Juda, came Nabuchodonosor king of Babylon to Jerusalem, and besieged it.
 027	DAN	001	002	And the Lord gave into his hand Joakim king of Juda, and part of the vessels of the house of God: and he brought them into the land of Sennaar to the house of his god; and he brought the vessels into the treasure-house of his god.
 027	DAN	001	003	And the king told Asphanez his chief eunuch, to bring in [some] of the captive children of Israel, and of the seed of the kingdom, and of the princes;
@@ -21843,6 +21897,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 027	DAN	012	011	And from the time of the removal of the perpetual sacrifice, when the abomination of desolation shall be set up, [there shall be] a thousand two hundred and ninety days.
 027	DAN	012	012	Blessed is he that waits, and comes to the thousand three hundred and thirty-five days.
 027	DAN	012	013	But go thou, and rest; for [there are] yet days and seasons to the fulfilment of the end; and thou shalt stand in thy lot at the end of the days.
+#
+# BOOK	028	HOS	Hosea	Osee
 028	HOS	001	001	The word of the Lord which came to Osee the son of Beeri, in the days of Ozias, and Joatham, and Achaz, and Ezekias, kings of Juda, and in the days of Jeroboam son of Joas, king of Israel.
 028	HOS	001	002	The beginning of the word of the Lord by Osee.  And the Lord said to Osee, Go, take to thyself a wife of fornication, and children of fornication: for the land will surely go a-whoring in departing from the Lord.
 028	HOS	001	003	So he went and took Gomer, daughter of Debelaim; and she conceived, and bore him a son.
@@ -22040,6 +22096,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 028	HOS	014	007	They shall return, and dwell under his shadow: they shall live and be satisfied with corn, and he shall flower as a vine: his memorial shall be to Ephraim as the wine of Libanus.
 028	HOS	014	008	What [has] he to do any more with idols?  I have afflicted him, and I will strengthen him: I am as a leafy juniper tree.  From me is thy fruit found.
 028	HOS	014	009	Who is wise, and will understand these things?  or prudent, and will know them?  for the ways of the Lord are straight, and the righteous shall walk in them: but the ungodly shall fall therein.
+#
+# BOOK	029	JOE	Joel	Joel
 029	JOE	001	001	The word of the Lord which came to Joel the son of Bathuel.
 029	JOE	001	002	Hear these [words], ye elders, and hearken all ye that inhabit the land.  Have such things happen in your days, or in the days of your fathers?
 029	JOE	001	003	Tell your children concerning them, and [let] your children [tell] their children, and their children another generation.
@@ -22113,6 +22171,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 029	JOE	003	019	Egypt shall be a desolation, and Idumea shall be a desolate plain, because of the wrongs of the children of Juda, because they have shed righteous blood in their land.
 029	JOE	003	020	But Judea shall be inhabited for ever, and Jerusalem to all generations.
 029	JOE	003	021	And I will make inquisition for their blood, and will by no means leave it unavenged: and the Lord shall dwell in Sion.
+#
+# BOOK	030	AMO	Amos	Amos
 030	AMO	001	001	The words of Amos which came [to him] in Accarim out of Thecue, which he saw concerning Jerusalem, in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel, two years before the earthquake.
 030	AMO	001	002	And he said, The Lord has spoken out of Sion, and has uttered his voice out of Jerusalem; and the pastures of the shepherds have mourned, and the top of Carmel is dried up.
 030	AMO	001	003	And the Lord said, For three sins of Damascus, and for four, I will not turn away from it; because they sawed with iron saws the women with child of the Galaadites.
@@ -22259,6 +22319,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 030	AMO	009	013	Behold, the days come, saith the Lord, when the harvest shall overtake the vintage, and the grapes shall ripen at seedtime; and the mountains shall drop sweet wine, and all the hills shall be planted.
 030	AMO	009	014	And I will turn the captivity of my people Israel, and they shall rebuild the ruined cities, and shall inhabit [them]; and they shall plant vineyards, and shall drink the wine from them; and they shall form gardens, and eat the fruit of them.
 030	AMO	009	015	And I will plant them on their land, and they shall no more be plucked up from the land which I have given them, saith the Lord God Almighty.
+#
+# BOOK	031	OBA	Obadiah	Obdias
 031	OBA	001	001	The vision of Obdias.  Thus saith the Lord God to Idumea; I have heard a report from the Lord, and he has sent forth a message to the nations.
 031	OBA	001	002	Arise ye, and let us rise up against her to war.
 031	OBA	001	003	Behold, I have made thee small among the Gentiles: thou art greatly dishonoured.  The pride of thine heart has elated thee, dwelling [as thou dost] in the holes of the rocks, [as one that] exalts his habitation, saying in his heart, Who will bring me down to the ground?
@@ -22280,6 +22342,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 031	OBA	001	019	And they [that dwell] in the south shall inherit the mount of Esau, and they in the plain the Philistines: and they shall inherit the mount of Ephraim, and the plain of Samaria, and Benjamin, and the land of Galaad.
 031	OBA	001	020	And this [shall be] the domain of the captivity of the children of Israel, the land of the Chananites as far as Sarepta; and the captives of Jerusalem [shall inherit] as far as Ephratha; they shall inherit the cities of the south.
 031	OBA	001	021	And they that escape shall come up from mount Sion, to take vengeance on the mount of Esau; and the kingdom shall be the Lord's.
+#
+# BOOK	032	JON	Jonah	Jonas
 032	JON	001	001	Now the word of the Lord came to Jonas the son of Amathi, saying,
 032	JON	001	002	Rise, and go to Nineve, the great city, and preach in it; for the cry of its wickedness is come up to me.
 032	JON	001	003	But Jonas rose up to flee to Tharsis from the presence of the Lord.  And he went down to Joppa, and found a ship going to Tharsis: and he paid his fare, and went up into it, to sail with them to Tharsis from the presence of the Lord.
@@ -22328,6 +22392,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 032	JON	004	009	And God said to Jonas, Art thou very much grieved for the gourd?  And he said, I am very much grieved, even to death.
 032	JON	004	010	And the Lord said, Thou hadst pity on the gourd, for which thou has not suffered, neither didst thou rear it; which came up before night, and perished before [another] night:
 032	JON	004	011	and shall not I spare Nineve, the great city, in which dwell more than twelve myriads of human beings, who do not know their right hand or their left hand; and [also] much cattle?
+#
+# BOOK	033	MIC	Micah	Michaeas
 033	MIC	001	001	And the word of the Lord came to Michaeas the son of Morasthi, in the days of Joatham, and Achaz, and Ezekias, kings of Juda, concerning what he saw regarding Samaria and Jerusalem.
 033	MIC	001	002	Hear [these] words, ye people; and let the earth give heed, and all that are in it: and the Lord God shall be among you for a testimony, the Lord out of his holy habitation.
 033	MIC	001	003	For, behold, the Lord comes forth out of his place, and will come down, and will go upon the high places of the earth.
@@ -22433,6 +22499,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 033	MIC	007	018	Who is a God like thee, cancelling iniquities, and passing over the sins of the remnant of his inheritance?  and he has not kept his anger for a testimony, for he delights in mercy.
 033	MIC	007	019	He will return and have mercy upon us; he will sink our iniquities, and they shall be cast into the depth of the sea, [even] all our sins.
 033	MIC	007	020	He shall give blessings truly to Jacob, and mercy to Abraam, as thou swarest to our fathers, according to the former days.
+#
+# BOOK	034	NAH	Nahum	Naum
 034	NAH	001	001	The burden of Nineve: the book of the vision of Naum the Elkesite.
 034	NAH	001	002	God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.
 034	NAH	001	003	The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
@@ -22480,6 +22548,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 034	NAH	003	017	Thy mixed [multitude] has suddenly departed as the grasshopper, as the locust perched on a hedge in a frosty day; the sun arises, and it flies off, and knows not its place: woe to them!
 034	NAH	003	018	Thy shepherds have slumbered, the Assyrian king has laid low thy mighty men: thy people departed to the mountains, and there was none to receive [them].
 034	NAH	003	019	There is no healing for thy bruise; thy wound has rankled: all that hear the report of thee shall clap their hands against thee; for upon whom has not thy wickedness passed continually?
+#
+# BOOK	035	HAB	Habakkuk	Ambacum
 035	HAB	001	001	The burden which the prophet Ambacum saw.
 035	HAB	001	002	How long, O Lord, shall I cry out, and thou wilt not hearken?  [how long] shall I cry out to thee being injured, and thou wilt not save?
 035	HAB	001	003	Wherefore hast thou shown me troubles and griefs to look upon, misery and ungodliness?  judgment is before me, and the judge receives a reward.
@@ -22536,6 +22606,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 035	HAB	003	017	For [though] the fig-tree shall bear no fruit, and there shall be no produce on the vines; the labour of the olive shall fail, and the fields shall produce no food: the sheep have failed from the pasture, and there are no oxen at the cribs;
 035	HAB	003	018	yet I will exult in the Lord, I will joy in God my Saviour.
 035	HAB	003	019	The Lord God is my strength, and he will perfectly strengthen my feet; he mounts me upon high places, that I may conquer by his song.
+#
+# BOOK	036	ZEP	Zephaniah	Sophonias
 036	ZEP	001	001	The word of the Lord which came to Sophonias the son of Chusi, the son of Godolias, the son of Amorias, the son of Ezekias, in the days of Josias son of Amon, king of Juda.
 036	ZEP	001	002	Let there be an utter cutting off from the face of the land, saith the Lord.
 036	ZEP	001	003	Let man and cattle be cut off; let the birds of the air and the fishes of the sea be cut off; and the ungodly shall fail, and I will take away the transgressors from the face of the land, saith the Lord.
@@ -22588,6 +22660,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 036	ZEP	003	018	And I will gather thine afflicted ones.  Alas!  who has taken up a reproach against her?
 036	ZEP	003	019	Behold, I [will] work in thee for thy sake at that time, saith the Lord: and I will save her that was oppressed, and receive her that was rejected; and I will make them a praise, and honoured in all the earth.
 036	ZEP	003	020	And [their enemies] shall be ashamed at that time, when I shall deal well with you, and at the time when I shall receive you: for I will make you honoured and a praise among all the nations of the earth, when I turn back your captivity before you, saith the Lord.
+#
+# BOOK	037	HAG	Haggai	Aggaeus
 037	HAG	001	001	In the second year of Darius the king, in the sixth month, on the first [day] of the month, the word of the Lord came by the hand of the prophet Aggaeus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 037	HAG	001	002	Thus saith the Lord Almighty, saying, This people say, The time is not come to build the house of the Lord.
 037	HAG	001	003	And the word of the Lord came by the hand of the prophet Aggaeus, saying,
@@ -22626,6 +22700,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 037	HAG	002	021	Speak to Zorobabel the son of Salathiel, of the tribe of Juda, saying, I shake the heaven, and the earth, and the sea, and the dry [land];
 037	HAG	002	022	and I will overthrow the thrones of kings, and I will destroy the power of the kings of the nations; and I will overthrow chariots and riders; and the horses and their riders shall come down, every one by the sword striving against his brother.
 037	HAG	002	023	In that day, saith the Lord Almighty, I will take thee, O Zorobabel, the son of Salathiel, my servant, saith the Lord, and will make thee as a seal: for I have chosen thee, saith the Lord Almighty.
+#
+# BOOK	038	ZEC	Zechariah	Zacharias
 038	ZEC	001	001	In the eighth month, in the second year of [the reign of] Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 038	ZEC	001	002	The Lord has been very angry with your fathers.
 038	ZEC	001	003	And thou shalt say to them, Thus saith the Lord Almighty: Turn to me, saith the Lord of hosts, and I will turn to you, saith the Lord of hosts.
@@ -22837,6 +22913,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 038	ZEC	014	019	This shall be the sin of Egypt, and the sin of all the nations, whosoever shall not come up to keep the feast of tabernacles.
 038	ZEC	014	020	In that day there shall be upon the bridle of every horse Holiness to the Lord Almighty; and the caldrons in the house of the Lord shall be as bowls before the altar.
 038	ZEC	014	021	And every pot in Jerusalem and in Juda shall be holy to the Lord Almighty: and all that sacrifice shall come and take of them, and shall seethe [meat] in them: and in that day there shall be no more the Chananite in the house of the Lord Almighty.
+#
+# BOOK	039	MAL	Malachi	Malachias
 039	MAL	001	001	The burden of the word of the Lord to Israel by the hand of his messenger.  Lay [it], I pray you, to heart.
 039	MAL	001	002	I have loved you, saith the Lord.  And ye said, Wherein hast thou loved us?  Was not Esau Jacob's brother?  saith the Lord: yet I loved Jacob,
 039	MAL	001	003	and hated Esau and laid waste his borders, and made his heritage as dwellings of the wilderness?

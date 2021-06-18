@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Dombe---Dombe-Bible---Standard-Edition.noia
-# File Size: 1083840     
-# File Date: 05/06/2021 19:11:52
+# File Size: 1084797     
+# File Date: 06/18/2021 10:45:58
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Mateyo
 040	MAT	001	001	Ibbuku lyabansiku ba Jesu Kkilisito, mwana wakwe Devidi, mwana wakwe Abbulahamu.
 040	MAT	001	002	Abbulahamu wakali wisi wa Ayizeki, alakwe Ayizeki wisi wa Jakobu, alakwe Jakobo wisi wa Juda abakulana bakwe.
 040	MAT	001	003	Juda wakali wisi wa Pelezi a Zela kuli Tamala, Pelezi wisi Hezelani alakwe Hezelani wisi wa Lamu.
@@ -1094,6 +1096,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Jesu wakaza kuli mbabo akwaambula abo akuti, “Nguzu zyoonse ndakazipegwa kujulu aansi.
 040	MAT	028	019	Aboobo amwinke alimwi mukachite basikwiiya bamisyoobo yoonse.  Mukaba bbabbatizye muzina lya Taata, lya Mwana, alya Muuya Uusalala.
 040	MAT	028	020	Mubayiisye kulemeka zintu zyoonse nzindakamulayilila, amubone, ndilandinywe chiindi choonse, nikuba kusikila kumamanino.”
+#
+# BOOK	041	MAR	Mark	Makko
 041	MAR	001	001	Aya ngingawo matalikilo a makani mabotu a Jesu Kilisito, Mwana wa-Leza.
 041	MAR	001	002	Mbuli mbukulembedwe kuli Isaya musinsimi, “Mulange, ndatuma mutumwa kunembo lyabusyu bwake oyo ulolulamika nzila yako.
 041	MAR	001	003	Ijwi lya oyo uwompolola munkanda, “Mubambe inzila yaMwami; mululamike inzila yakwe”.
@@ -1771,6 +1775,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Bayoojata nzoka amaboko aabo, alimwi nibayoonywa chijaya, tachikwe kuyoobachisa pe, bayoobika maanza aabachiswa, alimwi bachiswa bayoopona.”
 041	MAR	016	019	Mpawo Mwami naakamana kubaambila, wakatolwa kujulu mpawo wakakukkala kuluboko lwalulyo lwa Leza.
 041	MAR	016	020	Mpawo basikwiiya bakazwa akuyookambawuka koonse koonse, alimwi Mwami wakabeeleka aabo akusiimya jwi lyakwe azitondeezyo zyakali aandilyo.
+#
+# BOOK	042	LUK	Luke	Lukka
 042	LUK	001	001	Biingi bakatola mulimu wakubikka antoomwe zintu zyakazuzikizigwa akati kesu,
 042	LUK	001	002	mbuli mbuzyakayinzigwa kizosika kulindiswe abaabo kuzwa chiindi bakali bakamboni alubo kabali bala bejwi.
 042	LUK	001	003	Chakabaanga nchibotu kulindime ambebo - nkaambo ndakachita mfunkununo izulide aatala azeezyo zyakachitika kuzwa kumatalikilo - kuti ndikulembele lugwalo, webo nomusongo Tiofilasi.
@@ -2921,6 +2927,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Zyakachitika kuti, naakachili kubalongezya, wakabasiya alimwi wakanyampwidwa kujulu.
 042	LUK	024	052	Aboobo bakamukomba, mpawo bakabweeda ku Jelusalemu mulukondo lupati.
 042	LUK	024	053	Bakakkala kabali muchikombelo kabalongezya Leza
+#
+# BOOK	043	JOH	John	Joni
 043	JOH	001	001	Kumatalikilo kwakali Ijwi, mpawo Ijwi wakali aaLeza, aboobo Ijwi wakali Leza.
 043	JOH	001	002	Ooyu wakali aaLeza kumatalikilo.
 043	JOH	001	003	Zyoonse zintu zyakaanzwa kwiindila mulinguwe, alimwi naatali nguwe nekutakwe chomwe chakaanzwa.
@@ -3800,6 +3808,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Lino aaka kaambo kakasaalila kuli babunyina, kuti ooyo sikwiiya takoyoofwa.  Pesi Jesu teensi wakateedi kuli Pita kuti ooyo sikwiiya takoyoofw, pesi, “Na ndayanda kuti ukkale kusikila ndaboola, niinzi eecho kulinduwe?”
 043	JOH	021	024	Ooyu ngonguwe sikwiiya uupa bukamboni aatala azint, alimwi iwakalemba zintu eezi, alimwi tulizi kuti bukamboni bwakwe mbwanchoonzyo.
 043	JOH	021	025	Kuli zintu zyiingi alubo Jesu nzyakachita.  Na chimwi achimwi chakalembwa aansi, ndibona kuti niiba nyika lwayo teyalikunokonzya pe kubamba magwalo anoli alembwa.
+#
+# BOOK	044	ACT	Acts	Nchito
 044	ACT	001	001	Tiyofilasi, lugwalo lutanzi ndundakalemba, ndakaamba zyoonse eezyo Jesu nzyakatalika kuchita akwiisya,
 044	ACT	001	002	mane kubuzuba mbwakatolwa kujulu, nakamana kupa mulalilo kwiinda mu Muuya Uusalala kuba tumwa mbakasalide.
 044	ACT	001	003	Nakamana kupenga, wakalitondezya lwakwe muzitondezyo zyiingi zizundikizya.  Wakaliyubununa kuli mbabo kwamazuba aali makumi aane, mpawo wakambula aatala aabwami bwa-Leza.
@@ -4807,6 +4817,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	Lino nakamba makani aya, bama Juda bakeenda alubo bakanyongana loko.
 044	ACT	028	030	Pawulu wakakkala minyaka ibiili mung'anda yakwe mwini yakuula.
 044	ACT	028	031	Wakali kukambawuka bwami bwa Leza, alubo wakalikuyiisya azya Mwami Jesu Kkilisito abusichaamba buzulide kakutakwe achimugulungania pe.
+#
+# BOOK	045	ROM	Romans	Ba Loma
 045	ROM	001	001	Pawulo, mulanda waJesu Kkilisito, wakayitwa kuti abe mu positoli, alimwi wakasalilwa kukuchita mulimu waLeza.
 045	ROM	001	002	Eli ndilyo vangeli ndyakasyomezya chiindi kwiinda mubasinsimi bakwe mumalembe aasalala.
 045	ROM	001	003	Zili aatala aMwana wakwe, wakazyalwa kuzwa kulunyungu lwaDeviti mukwiinda munyama.
@@ -5240,6 +5252,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Lino kuliyoyo ukonzya kukuchita usime mbuli makani angu mabotu akompolola kwaJesu Kkilisito, mbuli chiyubunizyo chensiiswa zyakasisikene kwachiindi chilamfu,
 045	ROM	016	026	pesi lino lyakayubununwa lyachitwa kuti lizibikane kwiinda akulemba kwaba sinsimi kunyika zyoonse, akulayilila kwaLeza bwinibwini, mukweeta kuteelela kwalusyomo.
 045	ROM	016	027	Kuliyooyo uchenjede Leza kwindilila aJesu Kkilisito, abulemu kutamani.  Ameni.
+#
+# BOOK	046	1CO	1 Corinthians	1 Ba Kkolinto
 046	1CO	001	001	Pawulo, wakayiitwa aKkilisito Jesu kuti abe Mutumwa kwiinda mukuyanda kwaLeza, aSositinesi mukwesu,
 046	1CO	001	002	kumbungano yaLeza iliku Kkolinto, abo bakasalazigwa muliKkilisitu Jesu akwambwa kuti mbantu basalala, antoomwe aboonse bali mumasena oonse abayiita zina lya Mwami Jesu Kkilisito, ulingonguwe Mwami waboandiswe.
 046	1CO	001	003	Ngamube aluzyalo a lumunoluzwa kuli Leza Taata aMwami Jesu Kkilisito.
@@ -5677,6 +5691,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	Kuti umwi katamuyandipe Mwami, ngatukwe.
 046	1CO	016	023	Luzyalo lwaMwami wesu Jesu alube andinywe.
 046	1CO	016	024	Luyando lwangu alube andinywe moonse kuli Kilisito Jesu.
+#
+# BOOK	047	2CO	2 Corinthians	2 Ba Kkolinto
 047	2CO	001	001	Pawulu apositolo waKkilisito Jesu mumaknze aLeza aTimoteyo mukulana wesu kumbungano yaLeza ilimuKkolinto, akubantu baleza boonse basalali muchisi choonse cheAkkasia.
 047	2CO	001	002	Luzyalo kaluba mulindinwe aluumuno buzwa kuli Leza Tata wesu aMwami Jesu Kkilisito.
 047	2CO	001	003	Alumbwe Leza aTata Mwami wesu Jesu Kkilisito.  Ngu Tata waluzyao aLeza wakumbulizya koonse.
@@ -5934,6 +5950,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Mujuzyanye alumyonto lusalala.
 047	2CO	013	013	Bantu basalali boonse baLeza balamujuzya.
 047	2CO	013	014	Luzyalo lwaMwaami Jesu Kkilisito, luyando lwaLeza, alimwi bulyidilano bwa Muuya Uusalala bukabe aandinywe moonse.
+#
+# BOOK	048	GAL	Galatians	Ba Galatiya
 048	GAL	001	001	Pawulu, mutumwa - uutali mutumwa uzwa kubantu naanka kwiinda mumilimo yabantu, pesi kwiindilila muli Jesu Kkilisito mpawo a Leza Taata, oyo wakamubusya kuzwa kubafu -
 048	GAL	001	002	mpawo aboonse balombe bali andime, muzibunga zyaku Galantiya:
 048	GAL	001	003	Luzyalo kulindinywe mpawo aluumuno luzwa kuli Leza taatesu mpawo a Mwami Jesu Kkilisito,
@@ -6083,6 +6101,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	Kuli boonse benda munzila eeyi, lumuuno aluzyalo alube alimbabo nikuba kulabo bana ba Izilayili wa Leza.
 048	GAL	006	017	Kuzwa lino kutabi uchindikazya pe, nkambo amubili wangu ndibwezede impa zya Jesu.
 048	GAL	006	018	Luzyalo lwaMwami Jesu Kkilisito alube amyuuya yanu, nobakwesu, Amen.
+#
+# BOOK	049	EPH	Ephesians	Ba Efeso
 049	EPH	001	001	Pawulu, mutumwa wa Kkilisito Jesu kwindila mukuyanda kwa Leza, muli Kkilisito Jesu.
 049	EPH	001	002	Luzyalo kuli ndinywe a lumuuno luzwa kuli Leza Taata wesu, a Mwami Jesu Kkilisito.
 049	EPH	001	003	Eelyo Leza a Taata wa Mwami Jesu Kkilisito ngatembawulwe, oyo wakatulongezya azyoonse zilongezyo zyamuuya mumasena aakujulu muli Kkilisito.
@@ -6238,6 +6258,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Ndakamutuma kulindinywe kulingaaya ya makanze, kuchitila kuti mukazibe mbutubede, alimwi kuchitila kuti akusungwazye myoyo yenu.
 049	EPH	006	023	Akube kuti lumuno lube kubakwesu, alimwi luyando alusyomo luzwa kuli Leza Taata a Mwami Jesu Kkilisitu.
 049	EPH	006	024	Luzyalo alube kuli boonse abo bayanda Mwami wesu Jesu Kkilisitu aluyando lutakwe kampenda.
+#
+# BOOK	050	PHI	Philippians	Ba Filipi
 050	PHI	001	001	Pawulu a Timoti, ibabelesi ba Kkilisito Jesu, ibabelekela bantu ba Leza basalala muli Jesu Kkilisito ibali ku Filipi, abeendelezi bapati abadikoni.
 050	PHI	001	002	Iluzyalo alumuno luzwa kuli Leza taata wesu a Mwami Jesu Kkilisito alube kulindinywe.
 050	PHI	001	003	Ndilumba Leza wangu chindi choonse nindimuyeeya.
@@ -6342,6 +6364,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Mujuzye boonse bazumina muli Kkilisito Jesu.  Balikumujuzya loko bakwesu mbindaabo.
 050	PHI	004	022	Bamujuzya boonse bazumini ba Leza baluleme bali kokuno, ikapati aabo bempuli ya Siiza.
 050	PHI	004	023	Iluzyalo lwa Mwami Jesu Kkilisito lube amyuuya yanu.  Amwi malembe mapati abasikale mumulaka wechi Giliki ayungizya kuti, Ameni, alimwi kuli amwi malembe aansiku muchiGiliki aalabbala eelyo kumamanino kwa lyoonse bbuku lya Chizuminano Chipya.  Alimwi kuli malembe mapati miingi aansiku muchi Giliki aatakwe Amen ku mamanino.
+#
+# BOOK	051	COL	Colossians	Ba Kkolose
 051	COL	001	001	Pawulu, mutumwa wa Kkilisito Jesu kwinda mubukanze bwa Leza, antomwe a Timoti mukwesu,
 051	COL	001	002	akubasalali ba Leza akubakwesu basyomekede muli Kkilisito baliku Kkolose.  Luzyalo lube anywe, aluumuno luzwa kuli Leza Taata wesu.
 051	COL	001	003	Tupa kulumba kuli Leza, wisi wa Mwami wesu Jesu Kkilisito, elyo tulamukombela kwalyoonse.
@@ -6437,6 +6461,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Olu lugwalo lwamana kubalwa kulindinywe, amuchite kuti lubalwe akulako kumbungano yabaku Layodikiya.
 051	COL	004	017	Amwambile Akkipa kuti, “Langa kabotu kumilimo njiwakatambula ku Mwami, kuti uyelede kuzuzikizya.”
 051	COL	004	018	Olu lujuzyo ndalulemba amaboko aangu - ndime Pawulu.  Kamuyeeya inketani zyangu.  Luzyalo alube anywebo.
+#
+# BOOK	052	1TH	1 Thessalonians	1 BaTesalonika
 052	1TH	001	001	Pawuli, Siluvanisi aTimoti, kumbungano yakuTesalonika muliLeza Taata aMwami Jesu Kkilisito.  Lino luzyalo alumuno alube kulindinywe kuzwa kuliLeza Taata aMwami Jesu Kkilisito
 052	1TH	001	002	Lyoonse tupa kulumba kuliLeza kamulimoonse mbuli mbutumwaamba kwalyonse munkombyo zyesu.
 052	1TH	001	003	Tulayeya kuti leza wesu aTaata kumulimu yalusyomo milimo yaluyando, ayabulindilizi mukulangilila muMwami Jesu Kkilisito.
@@ -6526,6 +6552,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Mujuzye bakwesu a nkisi isalala.
 052	1TH	005	027	Ndamulayilila chamoyo wonse kwinda muMwami kuti olu lugwalo lubalwe kubakwesu bonse.
 052	1TH	005	028	Iluzyalo lwaMwami Jesu Kkilisito lube anywebo.
+#
+# BOOK	053	2TH	2 Thessalonians	2 BaTesalonika
 053	2TH	001	001	Pawulu, aSilivansi, aTimoti, kumbungano yakuTesalonika muliLeza Taatesu aMwami Jesu Kkilisito.
 053	2TH	001	002	Luzyalo kulindinywe aluumuno luzwa kuliLeza Taatesu aMwami Jesu Kkilisito.
 053	2TH	001	003	Twelede kupa kulumba lyoonse kuliLeza nkambo kenu, nobakwesu, mbuli mbukwelede, nkaambo lusyomo lwanu lulikukkomena bwindilide abwindilide, alimwi aluyando nwebo ndumulalo kuli umwi awumwi lulikuyungizigwa.
@@ -6573,6 +6601,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	Lino Mwami walumuno lwakwe mwini amupe lumuno chiindi choonse munzila zyoonse.  Mwami abe andinywe moonse.
 053	2TH	003	017	Ime ndiPawulo, ndalemba ezi aluboko lwangu, chili chichitondezyo mumagwalo woonse ngindilemba.
 053	2TH	003	018	Luzyalo lwaMwami wesu Jesu Kkilisito lube andinywe moonse.  Ameni.
+#
+# BOOK	054	1TI	1 Timothy	1 Timoti
 054	1TI	001	001	Pawulu, mutumwa waKkilisito Jesu mbuli mumalayilile aLeza Mufutuli wesu a Kkilisito Jesu bulangilizi bwesu,
 054	1TI	001	002	kuli Timoti, mwanan mulombe wasimpe mulusyomo: Lizyalo, luse, a luumuno kuzwa kuli Leza Taata aKkilisito Jesu Mwaami wesu.
 054	1TI	001	003	Mbuli mbundakakusungwaazya kuti uchite aawo nindakali kuzwa kuya kuMasedoniya, syaala mu Efeso nkokuti ukonzye kulayilila bamwi bantu kutibatayiisyi iimwi njisyo iisiyene.
@@ -6686,6 +6716,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Munzila eeyo bayoolilondweda beni intalisyo mbotu yacheecho chizoosika, kuti bakalijatile buumi loko.
 054	1TI	006	020	Timiti, kkwabilila chakapegwa kulinduwe.  Kaka kubula bunaleza, kwaambula kutasalali amiyeeyo iikazyanya kulicheecho chibejelwa kuti nduzibo.
 054	1TI	006	021	Bamwi baalumi baamba eezi bakasweeka kuzwa kulusyomo.  Luzyalo lube aandinywe.
+#
+# BOOK	055	2TI	2 Timothy	2 Timoti
 055	2TI	001	001	Pawulo, mutumwa wa Kkilisito Jesu mukwiinda mu luyando lwaLeza, mukwiinda mu chisyomezyo cha buumi buli muli Kkilisito Jesu,
 055	2TI	001	002	kuli Timoti, mwana muyandwi: Luzyalo, lweetelelo a luumuno kuzwa kuli Leza Taata aKkilisito Jesu Mwaami wesu.
 055	2TI	001	003	Ndilumba Leza, ngwekomba kuzwa kuli bamataata, amoyo uutakwe kampenda, mbuli mbemuyeya munkombyo zyangu mansiku a sikati.
@@ -6769,6 +6801,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Elasitasi wakasyaala kuKkolinto, Pesi Tilofimasi ndakamusiya nkachisidwe kuMiletasi.
 055	2TI	004	021	Kosungwala kuboola nechitanasika chiindi champeyo.  Yubbulasi ulakujuzya, alakwe Pudensi, Linasi, Kkilawudiya aboonse bakkwesu.
 055	2TI	004	022	Mwami abe amuuya wako, luzyalo lube anduwe.
+#
+# BOOK	056	TIT	Titus	Tayitasi
 056	TIT	001	001	Pawulu, mulanda wa Leza alimwi mutumwa wa Jesu Kkilisito alusyomo lwabantu basalidwe ba Leza alimwi aluzibo lwanchoonzyo oolo luzuminana abuleza,
 056	TIT	001	002	abulangilizi bwabuumi bwalyoonse oobo Leza utabeji pe, mbwakasyomezya chiindi kakutana kwaba zyoonse pe.
 056	TIT	001	003	Muchindi cheelede wakayubununa jwi lyakwe mukwinda kunkambawuko ilinjiyo njindakapegwa mukwinda amukulayililwa a Leza mufutuli.
@@ -6815,6 +6849,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Ufwambane utume Zenasi, unikide kumilawu, antomwe a Apolosi, enzila yakuti batakabuli chintu.
 056	TIT	003	014	Bantu besungabayiiye kulinjizya lwabo beni kumilimu mibotu eyo ipa ziyandisi akufwambana alimwi kuti batabi bantu batazyali michelo.
 056	TIT	003	015	Boonse abo balandime balikumujuzya.  Mubajuzye bonse abo batuyanda mulusyomo.  Luzyalo alube anywebo moonse.
+#
+# BOOK	057	PHM	Philemon	Filimoni
 057	PHM	001	001	Pawulo, musungwa wa Kkilisito Jesu, amukwesu Timoti kuli Filimoni, mweenzuma uyandika kali mubelesima,
 057	PHM	001	002	alubo kuli Afia muchizi wesu, alubo kuli Akkifasi silumambama, alubo akumbungano ziswanana mun'anda yenu.
 057	PHM	001	003	Luzyalo alube kuli ndiwe aluumuno luzwa kuli Leza taatesu aMwami Jesu Kkilisito.
@@ -6840,6 +6876,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Epafulasi, musungwama muli Kkilisito Jesu, ulamujuuzya.
 057	PHM	001	024	AMakko alakwe, Alisitakkasi, Demasi, a Lukka mubelesima.
 057	PHM	001	025	Luzyalo lwa Mwami wesu Jesu Kkilisito lube amuuya wako.  Amen.
+#
+# BOOK	058	HEB	Hebrews	Ba Hibbulu
 058	HEB	001	001	Chiindi chakale Leza wakaambula kuli basikale besu kwiinda muba sinsimi muzyiindi zyiingi alimwi amunzila zyiingi.
 058	HEB	001	002	Pesi muli aaya mazuba aamamanino wakaambula kulindiswe kwiinda mumwana mulombe, ooyo ngwaakayimikizya kuti akabesikulya lukonowezintu zyoonse.  Nkwiindila mulinguwe alubo Leza wakachita bwaanze.
 058	HEB	001	003	We ngusikubalangala kwabulemu bwa Leza.  Bwiiminizi bulimbubo bwabwiime bwakwe.  Aboobo ulajata zinti zyoonse amwii ajwi lyamanguzu aakwe.  Naakamana kusanzya zibi, wakakkala aansi kululyo lwabupati kujulu.
@@ -7143,6 +7181,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	Muzibe mukwesu Timoti wangununwa, ooyo ngwesizawe kuzomubona kuti afwambana kusika.
 058	HEB	013	024	Mujuzye bazuluzi banu boonse antomwe abasalali abantu boonse baLeza.  Abo bazwa kuItali balokumujuzya.
 058	HEB	013	025	Luzyalo alube anywebo moonseni.
+#
+# BOOK	059	JAM	James	Jemusi
 059	JAM	001	001	Jemusi, mubelesi wa Leza a Mwami Jesu Kkilisito, kumusyobo yabantu ili kkumi ayibili imwayikide munyika: Injuzyo.
 059	JAM	001	002	Zyoonse muzibweze mbuli lukondo, nobakwesu, awo nimuyoswanana amakatazyo asiyenesiyene.
 059	JAM	001	003	Mulizi kuti kusunkwa kwalusyomo lwanu kuzyala banangatizi.
@@ -7251,6 +7291,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Mpawo Elayija wakakomba lubo.  Imajulu akapa imvula, alimwi inyika yakazyala michelo yaayo.
 059	JAM	005	019	Nobakwesu, kuti umwi akati kenu wasweka kukasimpe, alimwi umwi wamuboozya,
 059	JAM	005	020	Ooyo muntu welede kuziba kuti kufumbwa muntu uboozya sizibi kuzwa kubulewusi bwanzila yakwe uyomuvuna kuzwa kulufu, alimwi uyovumba mweelwe mupati wazibi.
+#
+# BOOK	060	1PE	1 Peter	Pita Mutaanzi
 060	1PE	001	001	Pita, mutumwa wa Jesu Kkilisito, kubenzu bamwaikilide kumanyika, ibasalidwe, koonse ku Pontasi, Galantiya, Kkapadosiya, Eziya, aku Bbitiniya.
 060	1PE	001	002	Eechi chilimumabambe amumakanze a Leza Taata, mukwinda mumubeleko usalazigwa a Muuya, kuti mumutelele alubo mukwinda mukusansailwa bulowa bwa Jesu Kkilisito.  Iluzyalo ngalube alindinywe, alubo lumuuno ngaluyungizizigwe kulindinywe.
 060	1PE	001	003	Akube kuti Leza wisi wa-Mwami Jesu Kkilisito alumbayizigwe!  Muluzyalo lwakwe lupati, wakatupa kuzyalwa kupya iswebo bulabulangizi bwabuponi kwinda mububuke bwa Jesu Kkilisito kuzwa kubafu.
@@ -7356,6 +7398,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Ndabweza Siluvenasi mbulimukwesu usyomekede, alubo ndalemba kulindinywe mubufwifwi kwindila mulinguwe.  Ndikumusungwazya akupa bukamboni kulindinywe kuti ezyo nzindakalemba masimpe aluzyalo lwa-Leza.  Amwimikile mulindilyo simpe.
 060	1PE	005	013	Mukayintu ulimu Bbabbiloni, oyo usalidwe antomwe andinywe, ulokumujuzya loko.  Antomwe a Makki, mwana wangu, ulamujuzya.
 060	1PE	005	014	Amujuzyanie alumyontano lwaluyando.  Iluzyalo alube kulindinywe moonseni nimuli muli-Kkilisito.
+#
+# BOOK	061	2PE	2 Peter	Pita Wabili
 061	2PE	001	001	Ndime Sayimoni Pita, ndemuzike nkendi mutumwa wa Jesu Kkilisito, kulibabo bakatambula lusyomo lwamubululami kwa Leza a Mufutuli wesu Jesu Kkilisito.
 061	2PE	001	002	Iluzyalo alumuuno ngaziyungizigwe mukuzibisya Leza a Jesu-Mwami wesu.
 061	2PE	001	003	Munguzu zyakwe zyabu Leza, zintu zyonse zyabuna Leza zyakapegwa kulindiswe kwinda mukumuziba lwakwe oyo iwakatwiita mubulemu bwakwe amukuzwidilila kwakwe.
@@ -7417,6 +7461,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Pawulu ulamba zintu zyonsezi mumagwalo akwe, kwakuti mukati kawo mozili zintu ziyumu kukumvwisisisya.  Nkabela batayiide abatakkalinkene balasandula sandula amwi magwalo, chakuli nyonyoona lwabo.
 061	2PE	003	017	Pele, nywebo nomuyandwa, mbokunga ezi zintu mulizizi kale, amukaliyaminine lwenu nkokuti tamukasowegwi abasilweeno batakwe mulawo mpawo mukaswekelwe lusyomo lwanu.
 061	2PE	003	018	Pesi kamuya bukomena kuluzyalo amuluzibo lwa Mwami a Mufutuli wesu Jesu Kkilisito.  Akube bulemu kulinguwe kwalyoonse sunu mane kukabe ikutamani.  Ameni!
+#
+# BOOK	062	1JO	1 John	1 Joni
 062	1JO	001	001	Echo chakazwa kumatalikilo - nchitwakamvwa, nchitwakabona amenso eesu, nchitwakalanga, alimwi maboko esu akachiguma - chilatala a Jwi lyabuumi.
 062	1JO	001	002	Alimwi, buumi bwakachitwa kuti buzibwe, alimwi twakabubona, tububeda bukamboni.  Tulikumwambila buumi ibutamani, bwakali a Taata, alimwi bwakazibisigwa kuli ndiswe.
 062	1JO	001	003	Echo nchitwabona akumvwa aswebo tumwambila nchiicho, kuti anywebo mube abulidilano andiswe.  Bulidilano bwesu buli a Taata alimwi aMwana wakwe Jesu Kkilisito.
@@ -7522,6 +7568,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Tulizi kuti tuzwa kwa Leza, alimwi tulizi kuti nyika yoonse ililede munguzu zyamubi.
 062	1JO	005	020	Pele tulizi kuti Mwana wa Leza wakaza alimwi wakatupa kumvwisisisya kuchitila kuti tumuzibe oyo wabwini.  Alimwi, tuli mulinguwe oyo wabwiini, mu Mwana wakwe Jesu Kkilisito.  Oyo ngo- Leza wabwini abuumi butamani.
 062	1JO	005	021	Nobana, amulitantamune kuzwa kumituni yazikozyanisyo.
+#
+# BOOK	063	2JO	2 John	2 Joni
 063	2JO	001	001	Kuzwa kumupati kaluya kumwanakazi musale abana bakwe, aabo mbeyanda mukasimpe - alubo kutalindime endikke, Pesi abalabo boonse bakaziba kasimpe -
 063	2JO	001	002	Nkambo kakasimpe kakkalilide mulindiswe elyo kanoli andiswe mane kukabe kutamani.
 063	2JO	001	003	Luzyalo, alwetelelo alumuuno zinoli aswebo kuzwa kuli Taata Leza akuzwa kuli Jesu Kkilisito, i Mwana wa Taata, mukasimpe amuluyando.
@@ -7535,6 +7583,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	Nkambo oyo umujuzya unoli wagwasyania awe kumilimo mibi.
 063	2JO	001	012	Ndilazyiingi zyakukulembela, pesi tandibede achiyandisyo ikuti ndizilembe mubbuku amuleende.  Nikuba boobo, ndila bulangizi bwakuza kuli nduwe elyo tuzowambule katulangene busyu kubusyu, nkokuti kukondwa kwesu kuzozuzikizigwe.
 063	2JO	001	013	Ibana bamuchizi wako musale balikukujuzya.
+#
+# BOOK	064	3JO	3 John	3 Joni
 064	3JO	001	001	Mupati kuli uyandika Gayiyasi, ooyo ngwenjanda chakasimpe.
 064	3JO	001	002	Oyandwa, Ndikukkombela ikuti zintu zyoonse zikwendele kabotu alubo upone kabotu, mbuli mbopona kabotu mumuuya wako.
 064	3JO	001	003	Nkambo ndakakondwa ndakabotelwa loko inzubo nizyakasika akupa bukamboni bwakasimpe kaako, mbuli mboyenda mukasimpe.
@@ -7549,6 +7599,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Demetiliyasi wakatambula bukamboni bubotu kuli boonse amukasimpe.  Alubo andiswe tuli bakamboni, alubo ayebo ulizi kuti bukamboni bwesu mbwakasimpe.
 064	3JO	001	013	Ndali ezyiingi zyakukulembela pesi nsikkonzyi kukulembela pe zyoonse empesele amulende.
 064	3JO	001	014	Pesi ndilangila kuzokubona lino lino, elyo tuzowambuula katulangene.  Lumuno alube ayebo.  Benzuma balikumujuzya.  Ujuzye ibeenzuma oko muzina.
+#
+# BOOK	065	JUD	Jude	Judi
 065	JUD	001	001	Judi, mulanda wa Jesu Kkilisito amunyina wa Jemusi, kuli baabo bayitidwe, bayandwa muli Leza Taata babikidwe akaambo ka Jesu Kkilisito.
 065	JUD	001	002	Luse aluumuno aluyando aluvuzigwe kuli ndinywe.
 065	JUD	001	003	Nibayandwa, kandichili kubika nguzu zyoonse kumulembela aatala alufutuko luzibikene, ndakaba akumulembela nywebo kandimusumpula kuti mukakatile loko lusyomo lwakaabilwa boonse bantu ba Leza basalala.
@@ -7574,6 +7626,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Futula bamwi akubagwisya kuzwa mumulilo.  Kuli bamwi amube aaluse lwakuyoowa.  Choonzyo nikuba chisamo chasofwazigwa amubili.
 065	JUD	001	024	Lino kuliyooyo umukasya kuzwa mukuwa amukuchita kuti mwiimikile kunembo lyabulemu bwabuliwo butakwe bubi mbubakwaamba alukondo lupati,
 065	JUD	001	025	kuli Leza luzutu mufutuli wesu mukwiinda muli Jesu Kkilisito Mwami wesu, akube bulemu, bupati anguzu, abwami, zyiindi zyoonse zyakaliwo, lino akwalyoonse.  Amen.
+#
+# BOOK	066	REV	Revelation	Chiyubunuzyo
 066	REV	001	001	Eechi nchiyunuzyo cha Jesu Kkilisito eecho Leza nchakamupa kuti atondeezye balanda bakwe zintu zizochika chakufwambaana, wakazibisya makani aaya watuma angelo kumulanda wakwe Joni.
 066	REV	001	002	Joni wakalungulula makani aa Leza abukamboni bwa Jesu Kkilisito, azintu zyoonse nzyakabona.
 066	REV	001	003	Uli aacholwe uubala businsimi oobu ajwi pati abaabo balemeka zilembedwe mulimbubo, nkaambo chiindi chaba aafwiifwi.

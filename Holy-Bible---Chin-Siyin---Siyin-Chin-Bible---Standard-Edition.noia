@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Chin-Siyin---Siyin-Chin-Bible---Standard-Edition.noia
-# File Size: 1156246     
-# File Date: 05/06/2021 19:10:48
+# File Size: 1157175     
+# File Date: 06/18/2021 10:44:49
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	040	MAT	Matthew	Matthew
 040	MAT	001	001	Abraham le David i suan ahi, Jesus Christ i khang thu sia hibang a hihi.
 040	MAT	001	002	Abraham tapa Isaac; Isaac tapa Jacob; Jacob tapa Judah le a suapuite;
 040	MAT	001	003	Judah le Tamar tapa te Perez le Zerah, Perez ta Hezron; Hezron tapa Aram,
@@ -1094,6 +1096,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 040	MAT	028	018	Jesus hongpai a, amate tung ah, Van le lei thuneina theampo hongpia siat zo hi.
 040	MAT	028	019	Tua a hiciang note pai tavun a, minam theampo te hil tavun, Pa, Tapa le Tha Thiangtho min taw tuiphumna pia tavun:
 040	MAT	028	020	Keima i kong thupiak teng theampo a vekpi zui tu in hil tavun: taciang en vun, leitung bo dong in a tawntung keima in kong ompui hi, ci hi.  Amen.
+#
+# BOOK	041	MAR	Mark	Mark
 041	MAR	001	001	Pathian Tapa Jesus Christ lungdamna thu a kipatna in;
 041	MAR	001	002	Kamsang te in a sonkholsa bangma in, en vun, na pai natu lampi a pua tu in, ka kamtaipa na mai ah sawl khi hi.
 041	MAR	001	003	Senneal ngam sung ah a au aw khat in, Topa lampi puakhol vun a, tangsak vun.
@@ -1772,6 +1776,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 041	MAR	016	018	Ngul te zong man tu uh a; ngu a ne hial uh zong, bangma tat ngawl tu hi; cina te tung ah a khut uh te nga tu uh a, dam tu hi,
 041	MAR	016	019	Topa in amate thu a son zawkciang in, Ama sia van ah ki la to a, Pathian ziatsang ah to hi.
 041	MAR	016	020	Amate pai uh a, mun theampo ah thuhil uh hi, Topa sia amate taw naseam a, a thuhil na uh te nalamdang te in zui in kipsak hi.  Amen.
+#
+# BOOK	042	LUK	Luke	Luke
 042	LUK	001	001	Kote sung ah thu piang te sia mitampi in a ban a ban in at zo a, tua thu tangkona te sia ka up bel uh a hihi,
 042	LUK	001	002	A kipatcil pan in mitmu tetti te le Pathian kamal naseam te i hong son bang in a ki at a hihi;
 042	LUK	001	003	A masabel pan in thu theampo a cialcing in he ka hikom, na tung ah a ban a ban in hong at leng pha tu hi, ci ngaisun khi hi, a thupibel Theofilas awng,
@@ -2923,6 +2929,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	051	Thupha a piak laitak in, amate kung pan kikhen a, vantung ah ki lato hi.
 042	LUK	024	052	Amate in Jesus a biak zawk uh ciang in, Jerusalem ah lungdamna lianpi taw heakkik tek uh hi:
 042	LUK	024	053	Amate tatsat ngawl in biakinn sung ah om uh a, Pathian pok in thupha pia tek uh hi.  Amen.
+#
+# BOOK	043	JOH	John	John
 043	JOH	001	001	A kipatcil in Thu om hi, tua thu sia Pathian taw omkhawm a, tua Thu in Pathian a hihi.
 043	JOH	001	002	Tua thu sia a kipatcil in Pathian taw omkhawm hi.
 043	JOH	001	003	Na theampo Ama vawt a hihi; a kivawt theampo sung ah Ama kihel ngawl in a kivawt khatzong a om bua hi.
@@ -3802,6 +3810,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 043	JOH	021	023	Tua zawkciang in, tua a nungzui pa sia thi ngawl tu hi, ci thu suapui te sung ah hong kizel hi: ahihang Jesus in, ama sia thi ngawl tu hi, ci ngawl hi; ahihang, ka thet dong om tu in ka dei le, nang atu bang poimaw ziam?  a ci hi zaw hi.
 043	JOH	021	024	Hi a nungzui pa sia, hi thu te tetti pan nate a at pa a hihi: taciang hi tettipan na sia a man a hihi, ci ka he hi.
 043	JOH	021	025	Jesus i sep na dang tampi om lai hi, ta te sia khatsim at siat leang, leitung ah tua thu at natu laibu te ta zo ngawl tu hi, ci ka ngaisun hi.  Amen.
+#
+# BOOK	044	ACT	Acts	Sawltakte
 044	ACT	001	001	Theophilus awng, amasa laibu ka atna sung ah, Jesus i sep le a hilna theampo a kipat pan in,
 044	ACT	001	002	Ama a ki lakto ni dong, tuazawk Tha Thiangtho tungtawn in a tealsa sawltak te tung ah thupia hi:
 044	ACT	001	003	A thuak zawkciang in sawltak te in ni sawm li sung Ama mu uh a, Pathian kumpingam taw kisai thu te son hi, Ama nungta tatak hi, ci tetti kho tampi taw lak hi:
@@ -4809,6 +4819,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 044	ACT	028	029	Paul in hi thu te a son zawkciang in, Judah mite pai uh a, amate sung ah nasiatak in thu kikum uh hi.
 044	ACT	028	030	Paul sia a sap tawm inn ah kum ni sung om hi, taciang a kung ah hongpai theampo sang a,
 044	ACT	028	031	Pathian kumpingam thupha hil le Topa Jesus Christ taw kisai thu te hangsantak in hil a, kuama in kham ngawl hi.
+#
+# BOOK	045	ROM	Romans	Romans
 045	ROM	001	001	Jesus Christ i sal, Sawltak a hi tu in a ki samtuam le Pathian lungdamna thupha atu koituam, keima Paul in,
 045	ROM	001	002	Laithiangtho sung ah Ama kamsang te taw in hong kamciam sa,
 045	ROM	001	003	A Tapa, i Topa Jesus Christ thu taw kisai in, Ama sia cilesa taw in David suan sung pan piang a hihi;
@@ -5242,6 +5254,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	025	Keima lungdamna le Jesus Christ i thuhilna bang in Ama sung ah hong kipsak vangletna sia, tu in thuku pualak hun hi a, tua thu sia leitung piancil pan kipan in thuku in a kikoi a hihi.
 045	ROM	016	026	Ahihang tu in kamsang te laithiangtho tungtawn in kilaak zo a, tawntung Pathian i thupiak bang in minam theampo tung ah upna thunitna atu in ki hesak zo h:
 045	ROM	016	027	Ama bek a ciim Pathian tung ah Jesus Christ tungtawn in minthanna kip tawntung tahen!  Amen.
+#
+# BOOK	046	1CO	1 Corinthians	1 Corinth
 046	1CO	001	001	Pathian deina tungtawn in Jesus Christ i sawltak a hi tu in a kisam keima Paul le ka suapui pa Sosthenes in,
 046	1CO	001	002	Christ Jesus in thiangthosak a, mithiangtho te ci a ki sam, Corinth a om Pathian pawlpi le mun tatuam a i Topa Jesus Christ min a sam theampo tung ah:
 046	1CO	001	003	I Pa Pathian le Topa Jesus Christ kung pan in hesuakna le thinnopna sia note tung ah hong om tahen.
@@ -5679,6 +5693,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 046	1CO	016	022	Mi khat po in Topa Jesus Christ a it bale, hamsiatna thuak tahen, Maranatha.
 046	1CO	016	023	Topa Jesus Christ hesuakna sia note taw om tahen.
 046	1CO	016	024	Christ Jesus sung ah a om note theampo tung ah ka itna om tahen.  Amen.
+#
+# BOOK	047	2CO	2 Corinthians	2 Corinth
 047	2CO	001	001	Pathian deina tungtawn in Jesus Christ i sawltak keima Paul le i suapui pa Timothy in, Corinth a om Pathian pawlpi le Achaia ngamsung ah mithiangtho theampo tung ah:
 047	2CO	001	002	I Pa Pathian le Topa Jesus Christ tung pan hesuakna le thinnopna sia note tung ah hong om tahen.
 047	2CO	001	003	Pathian, i Topa Jesus Christ i Pa, hesuakna i Pa le henepna theampo i Pathian in pokna thupha nga tahen;
@@ -5936,6 +5952,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	012	Khat le khat a thiangtho ki napna taw ki nukset vun.
 047	2CO	013	013	Mi thiangtho theampo in hong paupui hi.
 047	2CO	013	014	Topa Jesus Christ i thuthiamna, Pathian i itna le Tha Thiangtho i kipawlkhop na sia note theam po tung ah hong om tahen.  Amen.
+#
+# BOOK	048	GAL	Galatians	Galatia
 048	GAL	001	001	Mihing te sungpan hi ngawl, mihing tungtawn zong hi ngawl, ahihang Jesus Christ le Ama sia thina pan a thokiksak Pa Pathian tungtawn in sawltak a hi Paul;
 048	GAL	001	002	Taciang ka kung ah a om suapui te in, Galati a om pawlpi te tung ah:
 048	GAL	001	003	Pa Pathian le i Topa Jesus Christ tung pan thuthiamna le thinnopna hong om tahen,
@@ -6085,6 +6103,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 048	GAL	006	016	Taciang hi thukham bang in a nungta theampo le Pathian i Israel te tung ah thinnopna le hesuakna om tahen.
 048	GAL	006	017	Tu pan kipan in kuama in hong nawngkaisak heak tahen: banghangziam cile ka pumpi ah Topa Jesus i ceptena meima pawn te om hi.
 048	GAL	006	018	Suapui te awng, i Topa Jesus Christ i thuthiamna sia na thaa uh taw hong om khawm tahen.  Amen.
+#
+# BOOK	049	EPH	Ephesians	Ephisus
 049	EPH	001	001	Pathian deina bang in Jesus Christ i sawltak keima Paul in, Christ Jesus sung ah a thuman le Ephisa a om mithiangtho te:
 049	EPH	001	002	I Pa Pathian le Topa Jesus Christ kung pan thuthiamna le thinnopna sia note tung ah hong om tahen.
 049	EPH	001	003	Ih Topa Jesus Christ i Pa le Pathian tung ah lungdam ko tawng!  Banghangziam cile Christ taw kipumkhatna sung ah ama in eite sia vantung ngam taw kisai thupha theampo hong pia hi.
@@ -6240,6 +6260,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 049	EPH	006	022	Ama sia ka thu le la te hong hesak tu le, na thinsung uh he nanepna na nga thei natu, tupna taw note kung ah kong paisak a hihi.
 049	EPH	006	023	Suapui te tung ah, Pa Pathian le Topa Jesus Christ tung pan thinnopna le itna sia upna taw hong om tahen.
 049	EPH	006	024	I Topa Jesus Christ sia citakna taw a it te theampo tung ah thuthiamna hong om tahen.  Amen.
+#
+# BOOK	050	PHI	Philippians	Philipi
 050	PHI	001	001	Jesus Christ i sal te, Paul le Timothy in, Philippi a om Christ Jesus sung ah mithiangtho te, husya te le pawlpi upa te:
 050	PHI	001	002	I Pa Pathian le Topa Jesus Christ tung pan thuthiamna le thinnopna sia note tung ah hong om tahen.
 050	PHI	001	003	Note kong phaw sim in ka Pathian ka pok hi,
@@ -6344,6 +6366,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 050	PHI	004	021	Christ Jesus sung ah mithiangtho khatsim nukset vun.  Keima taw a om suapui te in hong paupui hi.
 050	PHI	004	022	Mi thiangtho theampo in hong paupui hi, a tuan in Ceasar innkuanpui te in hong paupui hi.
 050	PHI	004	023	I Topa Jesus Christ i thuthiamna sia note theampo tung ah hong om tahen.  Amen.
+#
+# BOOK	051	COL	Colossians	Colossae
 051	COL	001	001	Pathian deina tungtawn in Jesus Christ i sawltak Paul le i suapui pa Timothy,
 051	COL	001	002	Colossae a om mithiangtho te le Christ sung ah a thuman suapui te: I Pa Pathian le Topa Jesus Christ tung pan in thuthiamna le thinnopna note tung ah hong om tahen.
 051	COL	001	003	Pathian le i Topa Jesus Christ i Pa tung ah,
@@ -6439,6 +6463,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 051	COL	004	016	Taciang hi laithak sia noma sung ah na sim zawk uh ciang in, Laodicea pawlpi te zong in sim tahen; taciang note zong Laodicea te kung pan laithak sia na sim vun.
 051	COL	004	017	Taciang Archippus kung ah, Topa sung ah na san nasep khuangkhim tu in ki nging in, ci na son vun.
 051	COL	004	018	Keima Paul in paupui na sia ka khut taw ka at a hihi.  Ka thongtakna na phawk nginge vun.  Note tung ah thuthiamna om tahen.  Amen.
+#
+# BOOK	052	1TH	1 Thessalonians	1 Thessalonica
 052	1TH	001	001	Paul, Silas le Timothy te in, Pa Pathian le Topa Jesus Christ sung a om Thessalonica pawlpi te tung ah: i Pa Pathian le Topa Jesus Christ tung pan in thuthiamna le thinnopna note tung ah om tahen.
 052	1TH	001	002	Note theampo atu in Pathian tung ah tatsat ngawl in lungdam ka ko uh hi, ka thunget na uh sung ah hong pawk tawntung khu hi;
 052	1TH	001	003	I Pa Pathian mai ah na upna uh taw na sep na uh, itna taw in na sep uh te le i Topa Jesus Christ sung ah na lametna uh taw na thuakzawkna uh te kong phawk tawntung uh hi;
@@ -6528,6 +6554,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 052	1TH	005	026	Suapui te theampo sia a thiangtho kinap na taw na nukset vun.
 052	1TH	005	027	Hi laithak sia a thiangtho suapui theampo tung ah sim tu in Topa min taw kong vaitha hi.
 052	1TH	005	028	I Topa Jesus Christ thuthiamna note tung ah hong om tahen.  Amen.
+#
+# BOOK	053	2TH	2 Thessalonians	2 Thessalonica
 053	2TH	001	001	Paul, Silas le Timothy te in i Pa Pathian le Topa Jesus Christ sung ah a om Thessalonica pawlpi te tung ah:
 053	2TH	001	002	Pa Pathian le Topa Jesus Christ tung pan thuthiamna le thinnopna sia note tung ah hong om tahen.
 053	2TH	001	003	Suapui te awng, note atu in Pathian sia a tawntung in lungdam i ko hamtang tu a hihi, banghangziam cile note upna sia nasiatak in khang a, khat le khat na ki itna uh zong khang hi;
@@ -6575,6 +6603,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 053	2TH	003	016	Tu in thinnopna Topa in a tatuam taw in tatsat ngawl thinnopna hong pia tahen.  Note theampo taw Topa hong om khawm tahen.
 053	2TH	003	017	Keima Paul in note paupuina sia ka khut vateak taw in ka at hi, tua thu sia ka laithak khatsim i heaksakna a hihi:
 053	2TH	003	018	I Topa Jesus Christ thuthiamna sia note theampo tung ah hong om tahen.  Amen.
+#
+# BOOK	054	1TI	1 Timothy	1 Timothy
 054	1TI	001	001	I lametna Topa Jesus Christ le eite hong tan Pathian i thupiakna tungtawn in Jesus Christ i sawltak Paul in;
 054	1TI	001	002	Upna sung ah ka tapa tatak Timothy tung ah: i Pa Pathian le i Topa Jesus Christ tung pan in thuthiamna, hesuakna le thinnopna hong om tahen.
 054	1TI	001	003	Mi pawlkhat te hilna dang hil ngawl tu in, na vaithak thei na tu, Macedonia ka pai lai in, Ephesus ah om nginge tu in nangma kong thum zo hi,
@@ -6688,6 +6718,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 054	1TI	006	019	Amate atu in hongpai pheang tu hun sung ah doppha kip khol khol a, tawntung nuntakna sia kho let tu hi.
 054	1TI	006	020	Timothy awng, na tung ah hong ki ap te keamcing in, Pathian thusimngawl le mannung ngawl kammal te, a man ngawl in heakna langpan nate pial in;
 054	1TI	006	021	Pawlkhat in upna taw kisai in hil khial uh hi.  Na tung ah thuthiamna hong om tahen.  Amen.
+#
+# BOOK	055	2TI	2 Timothy	1 Timothy
 055	2TI	001	001	Christ Jesus sung ah nuntakna kamciam bang in, Pathian deina tungtawn in Jesus Christ i sawltak keima Paul in,
 055	2TI	001	002	Ka it ka tapa Timothy: na tung ah Pa Pathian le i Topa Jesus Christ tung pan thuthiamna, hesuakna le thinnopna hong om tahen.
 055	2TI	001	003	Pu le pa te hun pan kipan in a thiangtho khentel theina taw a na ka sep Pathian ka pok hi, sun le zan in ka thunget na theampo sung ah nangma sia tatsat ngawl in hong phawk tawntung khi hi;
@@ -6771,6 +6803,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 055	2TI	004	020	Erastus sia Corinth ah om a: ahihang Trophimus sia a cina ahikom in Miletus ah ka nusia hi.
 055	2TI	004	021	Phalbi ma in ka kung pai tu in hanciam in.  Eubulus, Pudens, Linas, Claudia le suapui theampo in hong paupui hi.
 055	2TI	004	022	Topa Jesus Christ sia na thaa taw om tahen.  Thuthiamna na tung ah hong om tahen.  Amen.
+#
+# BOOK	056	TIT	Titus	Taitus
 056	TIT	001	001	Paul, Pathian i tealna te upna bang in, Pathianmi hina zui in thuman a lungkimpui Pathian i sal le Jesus Christ i sawltak;
 056	TIT	001	002	Tawntung nuntakna i lametna sung ah, leilot thu son ngawl Pathian in leitung kipatcil ma in a kamciam sa;
 056	TIT	001	003	A hun a cin ciang in Ama thu sia thuhilna tungtawn in hong kilang a, eite hong tan Pathian i thupiakna bang in keima tung ah hong ap hi;
@@ -6817,6 +6851,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 056	TIT	003	013	Sitnipa Zenas le Apollos te sia amate khualhaw na mun ah hanciam in hawpui in a, amate tung ah bangma kisapna omsak heak in.
 056	TIT	003	014	Taciang i mihing te zong nga nei ngawl te a hi ngawl natu le a kisam na mun ah zak tu in nasep pha te tatsat ngawl in sin ta hen.
 056	TIT	003	015	Ka kung a om te theampo in hong paupui hi.  Upna sung ah hong itte paupui in.  Note theampo tung ah thuthiamna hong om tahen.  Amen.
+#
+# BOOK	057	PHM	Philemon	Philemon
 057	PHM	001	001	Jesus Christ hang in thong a tak keima Paul le i suapui Timothy in ka it mama uh le ka naseppui uh a hi Philemon,
 057	PHM	001	002	Ka it mama uh Apphia, ka ngalkap seppui Archippus le na inn a om pawlpi te tung ah:
 057	PHM	001	003	I Pa Pathian le Topa Jesus Christ tung pan thuthiamna le thinnopna hong om tahen.
@@ -6842,6 +6878,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 057	PHM	001	023	Christ Jesus hang in ka thongtakpui Epaphras;
 057	PHM	001	024	Ka naseppui Marcus, Aristarchus, Demas le Lucas te in hong nukset hi.
 057	PHM	001	025	I Topa Jesus Christ i hesuakna na tha taw hong om tahen.  Amen.
+#
+# BOOK	058	HEB	Hebrews	Hebrews
 058	HEB	001	001	A bosa hun tampi le thukham a tatuam taw kamsang te zang in pu le pa te tung ah thu a hil Pathian in,
 058	HEB	001	002	Hi ni tawpkhak sung ah a Tapa tungtawn in eite tung ah thu hong hil hi, Ama sia na theampo ngamhlua tu in a kikoi hi a, Ama tungtawn in leitung zong vawt hi;
 058	HEB	001	003	Ama sia Pathian minthanna i khuavak le a mimal hina a kilangsak pa a hihi, vangletna taw a kidim a kammal taw na theampo khotak in len a, eite mawna theampo sia Ama tatak in hong thianthosak zawkciang, a sang na mun, Vanglian pipa ziatsang ah to hi;
@@ -7145,6 +7183,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 058	HEB	013	023	I suapui pa Timothy sia suatakna pia zo hi, ci he tavun; a hai ngawl in hongpai ahile ama taw kong mu tu uh hi.
 058	HEB	013	024	Mi thiangtho te le note hong uk te nukset vun.  Italy a om te in zong hong paupui hi.
 058	HEB	013	025	Note theampo tung ah thuthiamna hong om tahen.  Amen.
+#
+# BOOK	059	JAM	James	James
 059	JAM	001	001	Pathian le Topa Jesus Christ i naseam keima James in mun tatuam ah a ki thethang minam sawm le ni te nukset in kong paupui hi.
 059	JAM	001	002	Ka suapui te awng, ze-etna a tatuam na thuak uh ciang in, lungdamna bebek hi, ci ngaisun tavun;
 059	JAM	001	003	Na upna uh ze-etna in thuakzawkna hong piangsak hi.
@@ -7253,6 +7293,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 059	JAM	005	018	Taciang thu a ngetkik ciang in, van pan ngua zu a, leitang in nga le te piangsak kik hi.
 059	JAM	005	019	Suapui te awng, note sung ah khatpo in thuman pan in pial a, khatpo in a kaizawn ahile;
 059	JAM	005	020	Tua mawnei sia a khial na lampi pan a kaizawn kik peuma in a thaa thina pan ngum a, mawna tampi sealsak tu hi, ci phawk tahen.
+#
+# BOOK	060	1PE	1 Peter	1 Peter
 060	1PE	001	001	Jesus Christ i sawltak keima Peter in Pontus, Galatia, Cappadocia, Asia le Bithynia ngam mun tatuam ah a ki thethang siat peamta te,
 060	1PE	001	002	Pa Pathian in a heaksa bangma in hongteal, Thaa i thianthosak na le Jesus Christ thisan the na tungtawn in thu ni te: note tung ah thuthiamna le thinnopna hong khang tahen.
 060	1PE	001	003	Pathian le i Topa Jesus Christ i Pa tung ah thupha om tahen, Ama i a dimlet hesuakna hang in Jesus Christ sia thina pan thokiksak a, a nungta lametna nei tu in hong suaksak hi,
@@ -7358,6 +7400,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 060	1PE	005	012	Keima in note kong hanthotna, na dinmun uh sia Pathian i thuthiamna tatak hi, ci sia tettipang in hi lai a tomno in kong thak sia a thuman suapui Silvanus tung ah kong thak hi.
 060	1PE	005	013	Babylon a om pawlpi, note taw hong kiteal khawm te in hong paupui hi; taciang ka tapa Marcus in zong hong paupui hi.
 060	1PE	005	014	Itna i kinapna taw khat le khat ki nukset tavun.  Christ Jesus sung ah a om note theampo tung ah thinnopna hong om tahen.  Amen.
+#
+# BOOK	061	2PE	2 Peter	2 Peter
 061	2PE	001	001	Jesus Christ i sal le sawltak ahi keima Simon Peter in, Pathian le eite hong ngum Jesus Christ i thutang suana tungtawn in eite taw a manpha upna a sang te tung ah:
 061	2PE	001	002	Pathian le i Topa Jesus heakna tungtawn in note tung ah thuhtiamna le thinnopna hong khang tahen,
 061	2PE	001	003	A minthanna le phatna sung ah, Ama heakna tungtawn in hongsam pa in nuntakna le Pathian mi hina theampo te Pathian vangletna bang in hong pia zo hi:
@@ -7419,6 +7463,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 061	2PE	003	016	Ama laithak theampo sung ah, a tel haksa thu pawlkhat om hi, lai sin ngawl te le a kho ngawl te in laithiangtho dang sung ah mihing te in a khiakna khial in a telkhial uh bang in, amate le amate ki suksiat na suak tawntung hi.
 061	2PE	003	017	Tua ahikom ka it te awng, mihing pha ngawl te in a khialna taw hong makai ngawl in, note a kip a kho mun pan in na pu thei ngawl natu in, hi thu te hong hesak zo ahikom kidawm in om tavun.
 061	2PE	003	018	Ahihang hesuakna sung ah ahizong, ka Topa le Ngumpa Jesus Christ heakna sung ah ahizong in, khang tavun.  Ama tung ah minthanna sia tu le a tawntung in om paisuak tahen.  Amen.
+#
+# BOOK	062	1JO	1 John	1 Johan
 062	1JO	001	001	A kipat pan in i zak, i mit taw i mu, i et le i khut taw i tham, nuntakna Thu;
 062	1JO	001	002	Tua nuntakna sia hong kilang zo a, kote in ka mu uh hi, taciang tettipang in tua nuntakna thu kong lak uh hi, taciang kote tung ah hong kilang zo hi;
 062	1JO	001	003	Kote Pa le a Tapa Jesus Christ taw a kipawl takpi te ka hi uhkom in, note zong kote taw ki pawlkhopna nei tu in: ka mu uh le ka zak uh te sia note tung ah kong pualak uh hi.
@@ -7524,6 +7570,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 062	1JO	005	019	Eite Pathian neisa i hihi, ci le leitungbup sia ngitlona sung ah sial hi, ci i he hi.
 062	1JO	005	020	Pathian Tapa hongpai a, a thutang Pathian heakna ciimna hongpia hi, ci i he hi.  A thutang Pathian le a Tapa Jesus Christ sung ah i om hi.  Hi thu sia a thutang Pathian le tawntung nuntakna a hihi.
 062	1JO	005	021	Tano te awng, milim te kung pan in noma le noma ki keam tavun.  Amen.
+#
+# BOOK	063	2JO	2 John	2 Johan
 063	2JO	001	001	Upa pa in thutak sung ah ka it mama; keima bek hi ngawl in, thutak a he theampo in zong a it, tealtuam nupi nu le a tate tung ah;
 063	2JO	001	002	I sung ah om in, a tawntung in a om tu thutak hang in hong it khi hi.
 063	2JO	001	003	Pa Pathian kung pan a hi zong, Pathian Tapa Jesus Christ kung pan a hi zong, thutak le itna sung ah hesuakna, thuthiamna le thinnopna te note tung ah om tahen.
@@ -7537,6 +7585,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 063	2JO	001	011	Banghangziam cile ama sia Pathian min taw nukset in na paupui uh le thupha ngawl a vawt na ah a pawlpui suak tu nu hi.
 063	2JO	001	012	No kung ah kong at nop tam mama om lai napi, laina le laitui taw at ngawl tu khi hi: ahihang keima noma kung ah hongpai in, maitang kisi in ki paupui tu lamen khi hi, tabang in i lungdam na dim tu hi.
 063	2JO	001	013	Tealtuam na suapui nu i tate in zong nangma nukset in hong paupui hi.  Amen.
+#
+# BOOK	064	3JO	3 John	3 Johan
 064	3JO	001	001	Upa pa in ka it mama Gaias, thutak sung ah kong it:
 064	3JO	001	002	Ka it lawm awng, thin le lung na picin bangma in, na theampo ah na picin tu le na dam tu kong deisak hi.
 064	3JO	001	003	Nangma sia thutak sung ah na nuntak bangma in, na sung ah om thutak sia, suapui te hongpai in hong son uh ciang nasiatak in ka lungdam hi.
@@ -7551,6 +7601,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 064	3JO	001	012	Mi theampo sia Demetrius i tetti hi, thutak cikteak ama i tetti a hihi: kote zong ama sang pan tetti ka hi uh hi; kong son te maan hi, ci na he uh hi.
 064	3JO	001	013	No tung ah at tu tam mama nei khi hi, hikale laikung le laitui taw at ngawl tu khi hi.
 064	3JO	001	014	Ahihang hai ngawl in hong mu tu in ki um khi hi, maitang kisi in i ki paupui tu hi.  Thinnopna hong om tahen.  I lawm te in hong nukset hi.  Lawmte minlo in nukset in.
+#
+# BOOK	065	JUD	Jude	Jude
 065	JUD	001	001	Jesus Christ i naseam, James i suapuipa keima Jude in Pa Pathian i hong thianthosak na le Jesus Christ i hong kepna le hong saptuam te:
 065	JUD	001	002	Note tung ah hesuakna, thinnopna le itna te hong khang tahen.
 065	JUD	001	003	Ka it te awng, ih nei khop tek ngupna thu note tung ah thasan in kong at tu ciang in, mithiangtho te tung ah a ki ap khawm pai upna thu atu, hanciam in kepcing tu thu lai thak in note kong hanthot tu kisam hi.
@@ -7576,6 +7628,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 065	JUD	001	023	Cilesa deina taw a ki ninsak puansil nangawn ensan vun a, ngualdang te mei sung pan in dawkkik in; patau na taw hun vun.
 065	JUD	001	024	Tu in na liik ngawl natu in, hong keam thei a, ama minthanna mai ah lungdamna lianpi taw maw nei ngawl in note hong ap tu pa,
 065	JUD	001	025	Ama bek a ciim Pathian ahi Ngumpa tung ah minthanna, vangletna, thahatna le thuneina sia, a bo sa hun theampo sung, tu le a tawntung in om tahen.  Amen.
+#
+# BOOK	066	REV	Revelation	Thupualakna
 066	REV	001	001	Jesus Christ thupualakna, a hai ngawl in hong piang tatak tu, Jesus Christ in a sal te lak tu in Pathian i a ap thu te sia vantungmi sawl a, a sal John tung ah hesak hi:
 066	REV	001	002	John i Pathian kammal a ceptena, Jesus Christ tettipanna le a mu thu theampo tettipang hi.
 066	REV	001	003	Hi mailamthu pualak nate sim a, a ngai te le a ki at theampo a zui te thuphatoai a hihi: banghangziam cile a hun hong nai zo hi.

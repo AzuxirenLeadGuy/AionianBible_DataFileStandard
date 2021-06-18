@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Standard-Edition.noia
-# File Size: 165291      
-# File Date: 05/06/2021 19:30:21
+# File Size: 165725      
+# File Date: 06/18/2021 11:04:48
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2021
@@ -23,6 +23,8 @@
 # Bible Format: Standard formatting without annotation
 #
 INDEX	BOOK	CHAPTER	VERSE	TEXT
+#
+# BOOK	042	LUK	Luke	Luka
 042	LUK	001	001	Cenimeja Teofile.  Sar so džane, but džene lelje te pisinen oto događaja zako save o Devel dinđa plo lafi, a save pherdile maškar amende.
 042	LUK	001	002	On pisinde adalestar palo adava sar so o manuša, kola dikhle adala događaja, vaćerde amenđe.  Adala manuša dikhle adava pana oto anglunipe e Mesijasere dživdipastar ki phuv.  On ule sluge e Devlesere te sikaven amen o lafi e Mesijastar.
 042	LUK	001	003	Ađahar hem me, palo so oto anglunipe šukar ispitujinđum sa adava, mangljum tuće sa palo redo te pisinav.
@@ -80,7 +82,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	001	055	e Avraamese hem lesere potomkose zauvek, sar so dinđa plo lafi amare pradadenđe.”
 042	LUK	001	056	I Marija ačhili e Jelisavetaja đi ko trin masek, i tegani irinđa pe čhere.
 042	LUK	001	057	A e Jelisavetaće alo o dive te bijani, i bijanđa murše.
-042	LUK	001	058	Ked lakoro jeri hem lakere komšije šunde so o Devel ćerđa laće baro šukaripe, radujinde pe olaja.
+042	LUK	001	058	Ked lakoro jeri hem lakere komšije šunde so o Gospod ćerđa laće baro šukaripe, radujinde pe olaja.
 042	LUK	001	059	A ked e čhavore inele ofto dive, koro Zaharija čedinde pe o manuša zako obreziba e čhavoresoro.  I mangle te den le lesere dadesoro anav–Zaharija,
 042	LUK	001	060	ali i Jelisaveta phenđa: “Na!  Lesoro anav ka ovel Jovan!”
 042	LUK	001	061	A on phende laće: “Niko te jerjestar na vičini pe ađahar.”
@@ -198,7 +200,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	004	003	I o beng phenđa lese: “Te injan o Čhavo e Devlesoro, vaćer akale barese te ovel maro.”
 042	LUK	004	004	A o Isus phenđa lese: “Pisimei ko Sveto Lil: ‘O manuš na ka živini samo oto maro.’”
 042	LUK	004	005	I o beng legarđa le ko učo than hem mothovđa lese đijekh carstvo e phuvjakoro otojekhvar,
-042	LUK	004	006	i phenđa lese: “Tuće ka dav sa akava zoralipe hem i slava olengiri adalese soi maje dindi, i dava la kase me mangava.
+042	LUK	004	006	i o beng phenđa lese: “Tuće ka dav sa akava zoralipe hem i slava olengiri adalese soi maje dindi, i dava la kase me mangava.
 042	LUK	004	007	Adalese, te peljan ko kočija angla mande, sa ka ovel klo.”
 042	LUK	004	008	I o Isus phenđa lese: “Pisimei ko Sveto Lil: ‘Per ko kočija samo e Gospodese, te Devlese, hem samo ole kande!’”
 042	LUK	004	009	I o beng anđa le ko Jerusalim hem čhivđa le upro najučo than e Hramesoro hem phenđa lese: “Te injan e Devlesoro Čhavo, frde tut akatar tele!
@@ -472,7 +474,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	009	039	O bišukar duho but puti prelela le hem otojekhvar vrištini; frdela le ano grčevija hem ikljola lestar pena taro muj; uništini le hem skoro nisar na ačhaj le.
 042	LUK	009	040	I molinđum te učenikonen te ispudinen e bišukare duho mle čhavestar, ali on našti ine.”
 042	LUK	009	041	A o Isus phenđa: “O, biverakere hem rumime manušalen!  Sa edobor vreme injum tumencar, a palem na verujinena.  Pučav man pana kobor valjani te trpinav tumen.  Ana te čhave akari!”
-042	LUK	009	042	I sar o čhavoro avela ine đi o Isus, o bišukar duho frdinđa le ki phuv ano grčevija.  A o Isus naredinđa e melale duhose te cidel pe e čhavorestar, sasljarđa e čhavore hem phenđa lesere dadese: “Ače to čhavo”.
+042	LUK	009	042	I sar o čhavoro avela ine đi o Isus, o bišukar duho frdinđa le ki phuv ano grčevija.  A o Isus naredinđa e melale duhose te cidel pe e čhavorestar, sasljarđa e čhavore hem phenđa lesere dadese: “Ače to čhavo.”
 042	LUK	009	043	Tegani sare inele začudime so dikhle e Devlesoro baro zoralipe.  Sar sare čudinena pe ine zako adava so ćerđa o Isus, ov phenđa ple učenikonenđe:
 042	LUK	009	044	“Šunen šukar akala lafija: Me, o Čhavo e Manušesoro, valjani te ovav predime ano vasta e bišukare manušengere.”
 042	LUK	009	045	Ali o učenici na xalile so o Isus manglja te vaćeri adaleja.  Adava inele olendar garavdo sar te na xaljoven le, a darandile te pučen le so adaleja manglja te vaćeri lenđe.
@@ -487,7 +489,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	009	054	A dikhindoj adava o učenici o Jakov hem o Jovan, pučle e Isuse: “Gospode, mangeja li te phena te huljel taro nebo i jag hem sa te tharel len?”
 042	LUK	009	055	A o Isus irinđa pe hem phenđa lenđe da nane šukar so ađahar mislinena.
 042	LUK	009	056	I ov hem lesere učenici džele ko aver gav.
-042	LUK	009	057	I sar o učenici hem o Isus džana ine dromeja, nesavo manuš alo hem phenđa e Isusese: “Ka džav tuja kaj god tu džaja”.
+042	LUK	009	057	I sar o učenici hem o Isus džana ine dromeja, nesavo manuš alo hem phenđa e Isusese: “Ka džav tuja kaj god tu džaja.”
 042	LUK	009	058	A o Isus phenđa lese: “E lisicen isi jame hem e čirikljen gnezdija, a o Čhavo e Manušesoro nane le kaj te pašljari plo šero.”
 042	LUK	009	059	A avere manušese phenđa: “Phir pala mande!”  A ov phenđa: “Aš samo, Gospode, te parunav mle dade.”
 042	LUK	009	060	Tegani o Isus phenđa lese: “Muk o mule te parunen ple mulen, a tu dža vaćer oto carstvo e Devlesoro.”
@@ -539,9 +541,9 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	011	002	Tegani o Isus phenđa lenđe: “Ked molinena, vaćeren: “Dade Devla!  Barjaraja to sveto anav!  To carstvo te avel!
 042	LUK	011	003	De amen maro đijekh dive!
 042	LUK	011	004	Oprostin amenđe amare greja sar so hem amen oprostinaja đijekhese kova grešinđa premala amende!  Hem cide amen taro iskušenje!”
-042	LUK	011	005	Tegani o Isus phenđa lenđe: “Zamislinen da ki ekvaš i rat džana koro tumaro amal te phenen lese: 'Amala, te de man trin mare, i ka irinav će.
-042	LUK	011	006	Mlo amal alo oto drom kora mande, a nane man so te ikalav anglo leste!'
-042	LUK	011	007	A ov od andral te phenel: 'Ma uznemirin man!  O udarai phandle, a mle čhavorei mancar ko than e pašljojbnasoro hem sovena.  Našti akana te uštav te dav tut!'
+042	LUK	011	005	Tegani o Isus phenđa lenđe: “Zamislinen da ki ekvaš i rat džana koro tumaro amal te phenen lese: ‘Amala, te de man trin mare, i ka irinav će.
+042	LUK	011	006	Mlo amal alo oto drom kora mande, a nane man so te ikalav anglo leste!’
+042	LUK	011	007	A ov od andral te phenel: ‘Ma uznemirin man!  O udarai phandle, a mle čhavorei mancar ko than e pašljojbnasoro hem sovena.  Našti akana te uštav te dav tut!’
 042	LUK	011	008	Vaćerava tumenđe: te na uštino te del le adalese soi lesoro amal, ka uštel hem ka del le sa so valjani adalese so lesere amale nane lađ te ovel uporno.
 042	LUK	011	009	Vaćerava tumenđe: Mangen hem ka del pe tumenđe!  Roden hem ka arakhen!  Khuven hem ka phravel pe tumenđe!
 042	LUK	011	010	Adalese so đijekh kova mangela, primini; hem kova rodela, arakhi; hem kova khuvela, ka ovel lese phravdo.
@@ -558,7 +560,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	011	021	O Isus phenđa hem akava: “Ked okova kovai zoralo hem naoružime pazini plo boro, lesoro barvalipei osigurime.
 042	LUK	011	022	Ali ked avela o po zoralo lestar, ka pobedini le hem ka lel lesoro oružje upro savo inole nada hem ka ulaj plencar adava so lelja e bizoralestar.
 042	LUK	011	023	Kova nane mancar, ovi protiv mande.  I kova na čedela mancar, ov frdela.”
-042	LUK	011	024	Tegani o Isus phenđa: “Ked o melalo duho ikljola taro manuš, džala ko pusta thana hem rodela than kote šaj te odmorini.  Ked na arakhi le, vaćeri: 'Ka irinav man ano manuš kolestar ikliljum.'
+042	LUK	011	024	Tegani o Isus phenđa: “Ked o melalo duho ikljola taro manuš, džala ko pusta thana hem rodela than kote šaj te odmorini.  Ked na arakhi le, vaćeri: ‘Ka irinav man ano manuš kolestar ikliljum.’
 042	LUK	011	025	O bišukar duho irinđa pe hem arakhlja dai adava manuš sar čučo čher savoi šulavdo hem namestime.
 042	LUK	011	026	Tegani džala hem lela efta avere duhoven po bišukaren pestar hem đerdinena ano manuš hem ačhona adari.  I ko kraj adale manušese ovela po bišukar nego angleder.”
 042	LUK	011	027	I sar o Isus vaćeri ine adava, nesavi đuvli oto narodo vičinđa: “Bahtali i đuvli koja akharđa tut ano vođi hem dinđa tut čuči!
@@ -583,7 +585,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	011	046	A o Isus phenđa: “Jao hem tumenđe, učiteljalen e Mojsijasere zakonestar!  Čhivena upro manuša pharipe but pharo te akharen ađahar so dena len pravilja save našti te ićeren, a ni najeja na mangena te mrdinen te pomožinen lenđe te akharen adava pharipe.
 042	LUK	011	047	Jao tumenđe, adalese so vazdena spomenici e prorokonenđe kolen tumare pradada mudarde.
 042	LUK	011	048	Adaleja mothovena da odobrinena adava so ćerde tumare pradada: on mudarde len, a tumen vazdena lenđe spomenici.
-042	LUK	011	049	Adalese o Devel mudro vaćerđa tumendar: 'Ka bičhalav lenđe prorokonen hem apostolen.  Nekas olendar ka mudaren, a nekas ka jurinen.'
+042	LUK	011	049	Adalese o Devel mudro vaćerđa tumendar: ‘Ka bičhalav lenđe prorokonen hem apostolen.  Nekas olendar ka mudaren, a nekas ka jurinen.’
 042	LUK	011	050	Akala generacijatar ka rodel pe o rat sa e prorokonengoro savo thavdinđa pana taro ćeriba e phuvjakoro,
 042	LUK	011	051	pana taro rat e Aveljesoro sa đi o rat e Zaharijasoro, kova inele mudardo maškaro žrtveniko hem i svetinja ano Hram.  Oja, vaćerava tumenđe, akaja generacija ka ovel osudime zako adava rat so thavdinđa!”
 042	LUK	011	052	Jao tumenđe, učiteljalen e Mojsijasere zakonestar!  Adalese so e narodostar garavđen o ključo oto džandipe e Devlesere carstvostar.  Korkore na đerdinđen maškaro adava udar hem na mukljen te đerdinen ni okola kola mangle te đerdinen.”
@@ -605,10 +607,10 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	012	014	A o Isus phenđa lese: “Manušeja, ko čhivđa man te ovav sudija ili delioco upra tumende?
 042	LUK	012	015	Tegani phenđa sarijenđe: “Arakhen tumen hem ciden tumen tari pohlepa.  I sa edobor barvalipe te ovel e manuše, lesoro dživdipe na avela oto adava so isi le.”
 042	LUK	012	016	Tegani o Isus phenđa lenđe akaja paramiz: “Nesave barvale manušesiri phuv bijanđa but bijandipe.
-042	LUK	012	017	I ov mislinđa pe ana peste: 'So te ćerav?  Nane man edobor baro than kote te čhivav i žetva mli.'
-042	LUK	012	018	I phenđa: 'Akava ka ćerav!  Ka peravav mle purane šupe hem ka vazdav po bare, i adathe ka čhivav sa o điv hem sa soi mlo.
-042	LUK	012	019	Tegani ka vaćerav korkoro maje da isi man baro barvalipe bute beršenđe.  Ka šaj te odmorinav, te xav, te pijav, te uživinav!'
-042	LUK	012	020	Ali o Devel phenđa lese: 'Hulavona!  Akaja rat ka mere!  A sa adava so spreminđan, kasoro ka ovel?'
+042	LUK	012	017	I ov mislinđa pe ana peste: ‘So te ćerav?  Nane man edobor baro than kote te čhivav i žetva mli.’
+042	LUK	012	018	I phenđa: ‘Akava ka ćerav!  Ka peravav mle purane šupe hem ka vazdav po bare, i adathe ka čhivav sa o điv hem sa soi mlo.
+042	LUK	012	019	Tegani ka vaćerav korkoro maje da isi man baro barvalipe bute beršenđe.  Ka šaj te odmorinav, te xav, te pijav, te uživinav!’
+042	LUK	012	020	Ali o Devel phenđa lese: ‘Hulavona!  Akaja rat ka mere!  A sa adava so spreminđan, kasoro ka ovel?’
 042	LUK	012	021	Ađahari okolese kova pese čedela blago ki phuv, a na barvaljola okoleja soi šukar e Devlese ano jaćha.”
 042	LUK	012	022	Tegani o Isus phenđa ple učenikonenđe: “Adalese vaćerava tumenđe: ma oven zabrinuta zako tumaro dživdipe: ka ovel tumen li so te xan; ni zako tumaro telo: ka ovel tumen li so te hurjen.
 042	LUK	012	023	Adalese soi o dživdipe po bitno e xajbnastar hem tumaroi telo po bitno e šejendar.
@@ -633,7 +635,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	012	042	O Gospod o Isus phenđa: “Kovai, onda, verno hem mudro upravniko kas o gospodari ka čhivel upreder ple sluge te del len xajba ko vreme?
 042	LUK	012	043	Blago okole slugase kas lesoro gospodari, ked ka avel, ka arakhi sar ćerela ađahar.
 042	LUK	012	044	Čače vaćerava tumenđe, upreder sa o barvalipe plo ka čhivel le sar upravniko.
-042	LUK	012	045	A te vaćerđa adava sluga ana peste: 'Na ka avel pana mlo gospodari' i lela te marel avere slugen, hem te xal, te pijel hem te maćol,
+042	LUK	012	045	A te vaćerđa adava sluga ana peste: ‘Na ka avel pana mlo gospodari’ i lela te marel avere slugen, hem te xal, te pijel hem te maćol,
 042	LUK	012	046	lesoro gospodari ka avel tegani ked na ka očekujini le, ka čhinel le ko ekvaš hem ka čhivel le maškaro nevernici.
 042	LUK	012	047	A okova sluga kova džanđa i volja ple gospodaresiri, a na inele spremno ili na ćerđa pali e gospodaresiri volja, but mariba ka xal.
 042	LUK	012	048	A okova kova na džanđa e gospodaresiri volja, a ćerđa nešto zako savo avela lese kazna, xari mariba ka xal.  Kasei dindo but, but ka rodel pe lestar.  Kasei poverime but, više ka rodel pe lestar.”
@@ -654,9 +656,9 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	013	004	Ili okola dešofto upro kolende peli i kula ano Siloam hem mudarđa len, tumen li mislinena da on inele po bare grešnici sa e manušendar kola živinena ano Jerusalim?
 042	LUK	013	005	Na!  Ali te na obratinđen tumen taro tumare greja, sarijen tumen ka adžićeri propast!”
 042	LUK	013	006	Tegani o Isus vaćerđa lenđe akaja paramiz: “Inele nesave manuše smokva sadime pese ano vinograd.  I alo te rodel o bijandipe lakoro, ali na arakhlja le.
-042	LUK	013	007	Tegani phenđa e manušese so ćerela buti lese ano vinograd: 'Ače, trin berš sar avava te rodav bijandipe upri akaja smokva, ali na arakhava le.  Čhin la!  Sose te šućari i phuv?'
-042	LUK	013	008	A ov phenđa: 'Gospodarona, ačhav la pana akava berš.  Ka xandav la hem ka frdav laće đubrivo,
-042	LUK	013	009	i šaj ka bijani.  A te na bijanđa, ka čhine la.'”
+042	LUK	013	007	Tegani phenđa e manušese so ćerela buti lese ano vinograd: ‘Ače, trin berš sar avava te rodav bijandipe upri akaja smokva, ali na arakhava le.  Čhin la!  Sose te šućari i phuv?’
+042	LUK	013	008	A ov phenđa: ‘Gospodarona, ačhav la pana akava berš.  Ka xandav la hem ka frdav laće đubrivo,
+042	LUK	013	009	i šaj ka bijani.  A te na bijanđa, ka čhine la.’”
 042	LUK	013	010	I jekh savato sar o Isus sikaj ine ani jekh sinagoga,
 042	LUK	013	011	adari inele nesavi đuvli kola o bišukar duho ćerela ine te ovel banđardi dumeja.  Oj inele banđardi dešofto berš hem nisar našti ine te ispravini pe.
 042	LUK	013	012	Ked o Isus dikhlja la, vičinđa la kora peste hem phenđa laće: “Đuvlije, oslobodimi injan taro to nambormipe!”
@@ -672,17 +674,17 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	013	022	I sar o Isus džala ine ple dromeja đi ko Jerusalim, terđola ine ko dizja hem ko gava te sikaj e narodo.
 042	LUK	013	023	I ko jekh than, neko pučlja le: “Gospode, samo li xari manuša ka oven spasime?”  A o Isus phenđa lenđe:
 042	LUK	013	024	“Den sa tumendar te đerdinen maškaro tesno udar e nebosoro adalese so but džene, vaćerava tumenđe, ka roden te đerdinen, ali na ka šaj.
-042	LUK	013	025	Ked o čherutno ka uštel hem ka phandel o udar, ka ovel kasno.  Tegani ka terđoven avri hem ka khuven ko udar vaćerindoj: 'Gospodarona, phrav amenđe!'  Ali ov ka phenel tumenđe: 'Na džanav kola injen.'
-042	LUK	013	026	Tegani ka phenen: 'Xaljam hem piljam tuja, hem tu sikavđan ko amare dizjengere droma.'
-042	LUK	013	027	A ov ka phenel: 'Vaćerava tumenđe da na pendžarava tumen.  Ciden tumen mandar, sare tumen so ćerena bišukaripe!'
+042	LUK	013	025	Ked o čherutno ka uštel hem ka phandel o udar, ka ovel kasno.  Tegani ka terđoven avri hem ka khuven ko udar vaćerindoj: ‘Gospodarona, phrav amenđe!’  Ali ov ka phenel tumenđe: ‘Na džanav kola injen.’
+042	LUK	013	026	Tegani ka phenen: ‘Xaljam hem piljam tuja, hem tu sikavđan ko amare dizjengere droma.’
+042	LUK	013	027	A ov ka phenel: ‘Vaćerava tumenđe da na pendžarava tumen.  Ciden tumen mandar, sare tumen so ćerena bišukaripe!’
 042	LUK	013	028	Tegani ka roven hem but ka xoljanen so ka dikhen e Avraame, e Isaake, e Jakove hem sa e prorokonen ano carstvo e Devlesoro, a tumen frdime avri.
 042	LUK	013	029	O manuša ka aven taro istok hem taro zapad, taro sever hem taro jug hem ka čhiven pe uzalo astali ki gozba ano carstvo e Devlesoro.
 042	LUK	013	030	Ače, okola kolai akana prva tegani ka oven ko zadnjo than, a okola kolen akate dikhena sar zadnjonen adari ka oven najbare.”
 042	LUK	013	031	I tegani nesave fariseja ale koro Isus hem phende lese: “Dža akatar, adalese so o caro o Irod mangela te mudari tut.”
-042	LUK	013	032	O Isus phenđa lenđe: “Džan hem vaćeren adala lisicaće: 'Ka ispudinav e demonen hem ka sasljarav avdive hem tejsa, a ko trito dive završinava.'
+042	LUK	013	032	O Isus phenđa lenđe: “Džan hem vaćeren adala lisicaće: ‘Ka ispudinav e demonen hem ka sasljarav avdive hem tejsa, a ko trito dive završinava.’
 042	LUK	013	033	Ali avdive, tejsa hem prektejsa valjani te džav mle dromeja, adalese so izgledini dai o Jerusalim than kote sa o proroci valjani te oven mudarde.
 042	LUK	013	034	Jerusalime, Jerusalime, tu savo mudareja e prorokonen hem frdeja bara upro okolende kolen bičhalđa tumenđe o Devel!  But puti mangljum te čedav te manušen sar i khani ple pilićken talo ple phaka, ali tumen na mangljen!
-042	LUK	013	035	Ače, to čher ka ovel napustime!  I vaćerava tumenđe da čače na ka dikhen man đikote na phenena: 'Blagoslovimei okova kova avela ano anav e Gospodesoro!'”
+042	LUK	013	035	Ače, to čher ka ovel napustime!  I vaćerava tumenđe da čače na ka dikhen man đikote na phenena: ‘Blagoslovimei okova kova avela ano anav e Gospodesoro!’”
 042	LUK	014	001	I ko jekh savato, o Isus inele vičime ko čher nesave farisejengere vođasoro te xal maro, i dželo.  Sare so inele adari, šukar ine posmatrinena le,
 042	LUK	014	002	adalese so anglo leste inele nesavo manuš kasere vasta hem o pre inele pherde pani.
 042	LUK	014	003	I o Isus pučlja e učiteljen e Mojsijasere zakonestar hem e farisejen: “Palo e Mojsijasoro zakoni, tromal pe li te sasljari pe namborme manuše ko savato ili na?”
@@ -691,28 +693,28 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	014	006	I na inolen so te phenen ko adava.
 042	LUK	014	007	Ked o Isus dikhlja sar o gostija kola ale te xan rodenafse anglune thana bešibnase, phenđa lenđe:
 042	LUK	014	008	“Ked injan vičime nekase ko bijav, ma beš ko najšukar than, adalese so šaj maškaro vičime isi nesavo manuš kovai po baro tutar.
-042	LUK	014	009	Tegani okova so vičinđa tut ka phenel će: 'De o than akalese.'  Tegani ka ove lađardo, i ka dža te dole o najpaluno than.
-042	LUK	014	010	Nego, ked injan vičime, dža hem beš ko najpaluno than.  Ked ka dikhel tut okova so vičinđa tut ka phenel će: 'Amala, ava beš ko po šukar than!'  Tegani sa o gostija ka dikhen kobor injan poštujime.
+042	LUK	014	009	Tegani okova so vičinđa tut ka phenel će: ‘De o than akalese.’  Tegani ka ove lađardo, i ka dža te dole o najpaluno than.
+042	LUK	014	010	Nego, ked injan vičime, dža hem beš ko najpaluno than.  Ked ka dikhel tut okova so vičinđa tut ka phenel će: ‘Amala, ava beš ko po šukar than!’  Tegani sa o gostija ka dikhen kobor injan poštujime.
 042	LUK	014	011	Adalese, ko pes povazdela, ka ovel peravdo; a o ponizna ka oven povazdime.”
 042	LUK	014	012	Tegani o Isus phenđa okolese so vičinđa le: “Ked vičineja gostonen ko ručko ili ki večera, ma vičin samo te amalen, te phraljen, te jerje, hem te barvale komšijen.  Te vičinđan olen, hem on tut ka vičinen ko xajba kora pumende te irinen će.
 042	LUK	014	013	Nego, ked vičineja ko xajba, vičin e čororen, e sakatimen, e bangen hem e kororen.
 042	LUK	014	014	Tegani ka ove blagoslovime, adalese so olen nane sar te irinen će.  A o Devel ka irini će tegani ked ka vazdel e pravednikonen taro mule.”
 042	LUK	014	015	Ked adava šunđa jekh okolendar so beštine uzalo astali, phenđa e Isusese: “Bahtaloi okova kova ka xal maro ano carstvo e Devlesoro!”
 042	LUK	014	016	A ko adava, o Isus phenđa lese: “Nesavo manuš ćerđa bari gozba hem vičinđa bute manušen.
-042	LUK	014	017	I ked sa inele ćerdo xajbnase, bičhalđa ple sluga te phenel e vičimenđe: 'Sai akana ćerdo xajbnase.  Aven!'
-042	LUK	014	018	Ali jekh pala avereste lelje te phenen lese sose našti te aven.  O prvo phenđa lese: 'Činđum njiva i valjani te džav te dikhav la.  Molinava tut, vaćer te gospodarese da adalese našti te avav.'
-042	LUK	014	019	O dujto phenđa: 'Samo so činđum deše guruven i džava te dikhav sar ka orinen.  Molinava tut, vaćer te gospodarese da adalese našti te avav.'
-042	LUK	014	020	O trito phenđa: 'Samo so leljum romnja i adalese našti te avav.'
-042	LUK	014	021	I o sluga irinđa pe hem phenđa sa adava ple gospodarese.  Tegani o gospodari xoljanđa i phenđa ple slugase: 'Siđar, ikljov ko droma e dizjakere hem ko trgija i ana akari e čororen, e sakatimen, e kororen hem e bangen.'
-042	LUK	014	022	Ked o sluga ćerđa adava, phenđa: 'Gospodarona, ćerđum ađahar sar so phenđan, ali pana isi thana.'
-042	LUK	014	023	I o gospodari phenđa lese: 'Ikljov avri tari diz ko droma hem ko staze hem terin e manušen te aven te ovel pherdo mlo čher.
-042	LUK	014	024	Vaćerava tumenđe da nijekh okole prvone manušendar kolai vičime na ka xal adava so ćerđum xajbnase.'”
+042	LUK	014	017	I ked sa inele ćerdo xajbnase, bičhalđa ple sluga te phenel e vičimenđe: ‘Sai akana ćerdo xajbnase.  Aven!’
+042	LUK	014	018	Ali jekh pala avereste lelje te phenen lese sose našti te aven.  O prvo phenđa lese: ‘Činđum njiva i valjani te džav te dikhav la.  Molinava tut, vaćer te gospodarese da adalese našti te avav.’
+042	LUK	014	019	O dujto phenđa: ‘Samo so činđum deše guruven i džava te dikhav sar ka orinen.  Molinava tut, vaćer te gospodarese da adalese našti te avav.’
+042	LUK	014	020	O trito phenđa: ‘Samo so leljum romnja i adalese našti te avav.’
+042	LUK	014	021	I o sluga irinđa pe hem phenđa sa adava ple gospodarese.  Tegani o gospodari xoljanđa i phenđa ple slugase: ‘Siđar, ikljov ko droma e dizjakere hem ko trgija i ana akari e čororen, e sakatimen, e kororen hem e bangen.’
+042	LUK	014	022	Ked o sluga ćerđa adava, phenđa: ‘Gospodarona, ćerđum ađahar sar so phenđan, ali pana isi thana.’
+042	LUK	014	023	I o gospodari phenđa lese: ‘Ikljov avri tari diz ko droma hem ko staze hem terin e manušen te aven te ovel pherdo mlo čher.
+042	LUK	014	024	Vaćerava tumenđe da nijekh okole prvone manušendar kolai vičime na ka xal adava so ćerđum xajbnase.’”
 042	LUK	014	025	I but manuša džana ine dromeja palo Isus.  Ov irinđa pe nakoro lende hem phenđa lenđe:
 042	LUK	014	026	“Te neko mangela te ovel mlo učeniko, valjani te volini man but više nego ple dade hem pla daja, pla romnja hem ple čhaven, ple phraljen hem ple phenjen, više nego plo dživdipe.  Te na ćerđa ađahar, našti te ovel mlo učeniko.
 042	LUK	014	027	Ko na akhari plo krsto hem na džala pala mande, našti te ovel mlo učeniko.
 042	LUK	014	028	Adalese so nijekh tumendar na ka lel ine te vazdel kula, a angleder adalestar te na bešel te računini o troško te dikhel ka šaj li te završini la.
 042	LUK	014	029	Te samo čhivđa o temelji, i na ačhola le love te završini đi o kraj, sare kola ka dikhen adava ka asan lese
-042	LUK	014	030	hem ka phenen: 'Akava manuš lelja te vazdel kula, a našti ine te završini la!'
+042	LUK	014	030	hem ka phenen: ‘Akava manuš lelja te vazdel kula, a našti ine te završini la!’
 042	LUK	014	031	Ili, kova caro ked džala te arakhi pe ko mariba avere caronencar, angleder adalestar na bešela te razmislini šukar ka šaj li ple deše hiljadencar te marel pe adaleja kova avela protiv leste ple biše hiljadencar?
 042	LUK	014	032	Te našti, ka bičhali ple manušen koro aver caro, sar pana na alo paše, te pučen le savei o uslovija zako mir.
 042	LUK	014	033	Ađahar da đijekh tumendar kova na mukela sa so isi le, našti te ovel mlo učeniko.”
@@ -723,40 +725,40 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	015	003	Adalese o Isus phenđa lenđe akaja paramiz:
 042	LUK	015	004	“Te nekas tumendar isi šel bakre i jekh olendar našaldilo, so ka ćerel?  Ka ačhaj e enjavardešuenjen ko jekh than hem ka džal te rodel e našalde bakre sa đikote na arakhi le.
 042	LUK	015	005	I ked ka arakhi le, ka radujini pe, ka čhivel le ko piče
-042	LUK	015	006	hem ka legari le čhere.  Tegani ka vičini ple amalen hem ple komšijen kora peste hem ka phenel lenđe: 'Radujinen tumen mancar!  Arakhljum mle našalde bakre.'
+042	LUK	015	006	hem ka legari le čhere.  Tegani ka vičini ple amalen hem ple komšijen kora peste hem ka phenel lenđe: ‘Radujinen tumen mancar!  Arakhljum mle našalde bakre.’
 042	LUK	015	007	Vaćerava tumenđe, ađahar da ano nebo ka ovel po bari radost zako jekh grešniko ked irini pe taro ple greja ko Devel nego li zako enjavardešuenja pravednici kola mislinena da na valjani te obratinen pe.”
 042	LUK	015	008	O Isus phenđa hem akava: “Ili te nesava đuvlja isi deš srebrna kovanice i jekh našali, so ka ćerel?  Ka tharel o svetlo, ka šulaj o čher hem šukar ka rodel i kovanica đikote na arakhi la.
-042	LUK	015	009	I ked ka arakhi la, ka vičini ple amalinjen hem ple komšiken kora peste hem ka phenel lenđe: 'Radujinen tumen mancar!  Arakhljum i kovanica savi našalđum.'
+042	LUK	015	009	I ked ka arakhi la, ka vičini ple amalinjen hem ple komšiken kora peste hem ka phenel lenđe: ‘Radujinen tumen mancar!  Arakhljum i kovanica savi našalđum.’
 042	LUK	015	010	Ađahar, vaćerava tumenđe, ovela radost maškaro anđelja e Devlesere zako jekh grešniko ked irini pe taro ple greja ko Devel.”
 042	LUK	015	011	I o Isus phenđa: “Jekhe manuše ine duj čhave.
-042	LUK	015	012	I o tikneder čhavo phenđa ple dadese: 'Dade, de man akana o kotor oto barvalipe klo so preperela maje.'  I ađahar o dad ulavđa lenđe plo barvalipe.
+042	LUK	015	012	I o tikneder čhavo phenđa ple dadese: ‘Dade, de man akana o kotor oto barvalipe klo so preperela maje.’  I ađahar o dad ulavđa lenđe plo barvalipe.
 042	LUK	015	013	I palo nekobor dive o tikneder čhavo čedinđa sa so inole, dželo ki durutni phuv hem adari xalja sa plo barvalipe ađahar so živinđa dilikane.
 042	LUK	015	014	Ked xalja sa o love, ulo baro bokhalipe ani adaja phuv i tegani na inole so te xal.
 042	LUK	015	015	I dželo te ćerel buti koro jekh manuš kova živinđa adari.  Adava manuš bičhalđa le pese ko polje te arakhi balen.
 042	LUK	015	016	O čhavo edobor inele bokhalo da manglja te xal adava so xana o bale, ali niko na dinđa le xajbnase.
-042	LUK	015	017	A ked lelja te razmislini šukar, phenđa: 'Mle dadesere bućarnen isi da buderi xajbnase, a me akate merava bokhatar!
-042	LUK	015	018	Ka irinav man koro mlo dad hem ka phenav lese: 'Dade, grešinđum anglo Devel hem angla tute!
-042	LUK	015	019	Na injum dostojno akana te vaćerav da injum klo čhavo.  Molinava tut, le man sar jekhe bućarne te ćerav buti kora tute.'
+042	LUK	015	017	A ked lelja te razmislini šukar, phenđa: ‘Mle dadesere bućarnen isi da buderi xajbnase, a me akate merava bokhatar!
+042	LUK	015	018	Ka irinav man koro mlo dad hem ka phenav lese: ‘Dade, grešinđum anglo Devel hem angla tute!
+042	LUK	015	019	Na injum dostojno akana te vaćerav da injum klo čhavo.  Molinava tut, le man sar jekhe bućarne te ćerav buti kora tute.’
 042	LUK	015	020	I lelja te džal koro plo dad.  Pana sar inele dur ple dadesere čherestar, lesoro dad dikhlja le sar avela.  Pelo e dadese žal, prastandilo đi leste, zagrlinđa le hem čumudinđa le.
-042	LUK	015	021	Tegani o čhavo phenđa: 'Dade, grešinđum anglo Devel hem angla tute!  Na injum dostojno akana te vaćerav da injum klo čhavo.'
-042	LUK	015	022	A o dad phenđa ple slugenđe: 'Sig anen o najšužo fostani hem hurjaven le!  Čhiven lese i angrustik ko naj hem o sandale ko pre!
+042	LUK	015	021	Tegani o čhavo phenđa: ‘Dade, grešinđum anglo Devel hem angla tute!  Na injum dostojno akana te vaćerav da injum klo čhavo.’
+042	LUK	015	022	A o dad phenđa ple slugenđe: ‘Sig anen o najšužo fostani hem hurjaven le!  Čhiven lese i angrustik ko naj hem o sandale ko pre!
 042	LUK	015	023	Anen okole thuljarde telco te čhinen, te xa hem te slavina,
-042	LUK	015	024	adalese so akava mlo čhavo inele mulo, a akana dživdilo, inele našaldo, a akanai arakhlo.'  I lelje te veselinen pe.
+042	LUK	015	024	adalese so akava mlo čhavo inele mulo, a akana dživdilo, inele našaldo, a akanai arakhlo.’  I lelje te veselinen pe.
 042	LUK	015	025	A o phureder čhavo ćerela ine buti ki njiva.  I ko iriba, alo paše uzalo čher i šunđa bašaliba hem čheliba.
 042	LUK	015	026	Tegani vičinđa jekhe sluga te pučel le so ulo adava.
-042	LUK	015	027	O sluga phenđa lese: 'To phral irinđa pe čhere.  To dad čhinđa e thuljarde telco adalese so dikhlja le dživde hem saste.'
+042	LUK	015	027	O sluga phenđa lese: ‘To phral irinđa pe čhere.  To dad čhinđa e thuljarde telco adalese so dikhlja le dživde hem saste.’
 042	LUK	015	028	I o phureder čhavo xoljanđa hem na manglja te đerdini ko čher.  Tegani lesoro dad iklilo hem molinđa le te đerdini.
-042	LUK	015	029	A ov phenđa ple dadese: 'Ače, sa edobor berša kandava tut sar robo hem niked na phagljum to lafi, a nijekhvar na dinđan man ni buzore te šaj mle amalencar te veselinav man.
-042	LUK	015	030	A ked alo akava čhavo klo, kova xalja to imanje e kurvencar, tu čhinđan lese thuljarde telco.'
-042	LUK	015	031	A lesoro dad phenđa lese: 'Mlo čhavo, tu stalno injan mancar.  I sa soi mlo–kloi.
-042	LUK	015	032	Ali, valjanđam ađahar te slavina hem te radujina amen adalese so akava, to phral, inele mulo, a akana dživdilo; inele našaldo, a akanai arakhlo!'”
+042	LUK	015	029	A ov phenđa ple dadese: ‘Ače, sa edobor berša kandava tut sar robo hem niked na phagljum to lafi, a nijekhvar na dinđan man ni buzore te šaj mle amalencar te veselinav man.
+042	LUK	015	030	A ked alo akava čhavo klo, kova xalja to imanje e kurvencar, tu čhinđan lese thuljarde telco.’
+042	LUK	015	031	A lesoro dad phenđa lese: ‘Mlo čhavo, tu stalno injan mancar.  I sa soi mlo–kloi.
+042	LUK	015	032	Ali, valjanđam ađahar te slavina hem te radujina amen adalese so akava, to phral, inele mulo, a akana dživdilo; inele našaldo, a akanai arakhlo!’”
 042	LUK	016	001	O Isus ple učenikonenđe vaćerđa akaja paramiz: “Jekhe barvale manuše ine upravniko kole tužinde da xalja lesoro barvalipe.
-042	LUK	016	002	I o barvalo vičinđa le hem phenđa lese: 'So šunava tutar adava?  Ana maje o spisko kote pisinđan mle lovendar adalese so našti više te ćere buti kora mande sar upravniko!'
-042	LUK	016	003	Tegani o upravniko phenđa ana peste: 'So ka ćerav ked mlo gospodari ka cidel man tari buti?  Na injum kaderi te xandav, a lađava te prosinav.
-042	LUK	016	004	Džanav so te ćerav te šaj o manuša priminen man pumenđe ano čhera ked ka ovav cidime tari buti.'
-042	LUK	016	005	I vičinđa sa ple gospodaresere dužnikonen, i phenđa e prvonese: 'Kobor aveja mle gospodarese?'
-042	LUK	016	006	A ov phenđa: 'Šel burija uljeja.'  Tegani o upravniko phenđa lese: 'Siđar le o lil klo hem čhiv da aveja lese pinda.'
-042	LUK	016	007	I pučlja avere: 'A tu kobor aveja mle gospodarese?'  A ov phenđa: 'Šel burija điveja.'  I olese da phenđa o upravniko: 'Le o lil klo hem čhiv da aveja lese oftovardeš.'
+042	LUK	016	002	I o barvalo vičinđa le hem phenđa lese: ‘So šunava tutar adava?  Ana maje o spisko kote pisinđan mle lovendar adalese so našti više te ćere buti kora mande sar upravniko!’
+042	LUK	016	003	Tegani o upravniko phenđa ana peste: ‘So ka ćerav ked mlo gospodari ka cidel man tari buti?  Na injum kaderi te xandav, a lađava te prosinav.
+042	LUK	016	004	Džanav so te ćerav te šaj o manuša priminen man pumenđe ano čhera ked ka ovav cidime tari buti.’
+042	LUK	016	005	I vičinđa sa ple gospodaresere dužnikonen, i phenđa e prvonese: ‘Kobor aveja mle gospodarese?’
+042	LUK	016	006	A ov phenđa: ‘Šel burija uljeja.’  Tegani o upravniko phenđa lese: ‘Siđar le o lil klo hem čhiv da aveja lese pinda.’
+042	LUK	016	007	I pučlja avere: ‘A tu kobor aveja mle gospodarese?’  A ov phenđa: ‘Šel burija điveja.’  I olese da phenđa o upravniko: ‘Le o lil klo hem čhiv da aveja lese oftovardeš.’
 042	LUK	016	008	I o gospodari pohvalinđa e nepoštenone upravniko so inele džando hem so ađahar postupinđa.  Akava mothoj dai o manuša oti akaja phuv po džande ko postupci premalo pumarende taro manuša oto svetlost.
 042	LUK	016	009	Vaćerava tumenđe: ćeren o manuša te oven tumare amala ađahar so ka pomožinen lenđe akale phuvjakere barvalipnaja, te šaj, ked na ka ovel tumenđe više korisno adava barvalipe, te oven primime ano večna čhera ano nebo.
 042	LUK	016	010	Kovai verno ano najtikore buća, ov ka ovel verno hem ano najbare; a kova nane pravedno ano najtikore buća, ov na ka ovel pravedno hem ano najbare.
@@ -773,24 +775,24 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	016	021	Ov but manglja te čaljari pe okolestar so ačhola ine palo xajba e barvalesoro.  I ko sa adava, sar pašljola ine angli kapija, đi o diline đukle avena ine hem ližinena lesere čirevija.
 042	LUK	016	022	Ked mulo o čororo, o anđelja legarde le e Avraamese ki angali.  I o barvalo da mulo hem inele parume.
 042	LUK	016	023	I ano than e mulengoro, ano bare muke, o barvalo vazdinđa ple jaćha hem odural dikhlja e Avraame hem e Lazare lese ani angali.
-042	LUK	016	024	Tegani vičinđa: 'Pradade Avraame, smilujin tut maje hem bičhal e Lazare te čhivel plo upruno kotor e najestar ano pani hem te avel te šudrari mli čhib, adalese so but injum mučime ani akaja jag.'
-042	LUK	016	025	A o Avraam phenđa: 'Mlo čhavo, setin tut da priminđan to šukaripe tuće ko dživdipe, a o Lazar plo bišukaripe.  A akanai e Lazarese šukar akate, a tu mučineja tut.
-042	LUK	016	026	Sem adava, isi bari provalija maškar amende hem tumende i te manglja neko te nakhel akatar kora tumende ili adathar kora amende, na ka šaj.'
-042	LUK	016	027	A o barvalo phenđa: 'Onda molinava tut, pradade Avraame, bičhal e Lazare mle dadese ko čher.
-042	LUK	016	028	Adari isi man pandž phralja.  Nek o Lazar vaćeri lenđe te irinen pe taro pumare greja ko Devel, te na aven hem on ko akava than e mukengoro.'
-042	LUK	016	029	A o Avraam phenđa: 'Isi len o Zakoni e Mojsijasoro hem o Lila e purane prorokonengere.  Nek šunen olen!'
-042	LUK	016	030	A ov phenđa: 'Nane adava dovoljno, pradade Avraame!  Ali te alo lenđe neko taro mule, ka obratinen pe.'
-042	LUK	016	031	I o Avraam phenđa lese: 'Te na šunde adava so pisinđa o Mojsije hem o proroci, na ka šunen ni te neko uštino taro mule.'”
+042	LUK	016	024	Tegani vičinđa: ‘Pradade Avraame, smilujin tut maje hem bičhal e Lazare te čhivel plo upruno kotor e najestar ano pani hem te avel te šudrari mli čhib, adalese so but injum mučime ani akaja jag.’
+042	LUK	016	025	A o Avraam phenđa: ‘Mlo čhavo, setin tut da priminđan to šukaripe tuće ko dživdipe, a o Lazar plo bišukaripe.  A akanai e Lazarese šukar akate, a tu mučineja tut.
+042	LUK	016	026	Sem adava, isi bari provalija maškar amende hem tumende i te manglja neko te nakhel akatar kora tumende ili adathar kora amende, na ka šaj.’
+042	LUK	016	027	A o barvalo phenđa: ‘Onda molinava tut, pradade Avraame, bičhal e Lazare mle dadese ko čher.
+042	LUK	016	028	Adari isi man pandž phralja.  Nek o Lazar vaćeri lenđe te irinen pe taro pumare greja ko Devel, te na aven hem on ko akava than e mukengoro.’
+042	LUK	016	029	A o Avraam phenđa: ‘Isi len o Zakoni e Mojsijasoro hem o Lila e purane prorokonengere.  Nek šunen olen!’
+042	LUK	016	030	A ov phenđa: ‘Nane adava dovoljno, pradade Avraame!  Ali te alo lenđe neko taro mule, ka obratinen pe.’
+042	LUK	016	031	I o Avraam phenđa lese: ‘Te na šunde adava so pisinđa o Mojsije hem o proroci, na ka šunen ni te neko uštino taro mule.’”
 042	LUK	017	001	O Isus phenđa ple učenikonenđe: “O iskušenja čače ka aven, ali pharo okolese prekala kaste avena!
 042	LUK	017	002	Olese ka ovel ine po šukar ki men te ovel lese phandlo baro bar hem te ovel frdime ano more, nego te ćerel jekh akale tikorendar te perel ano greh.
 042	LUK	017	003	Arakhen tumen!  Te grešinđa nesavi verno osoba, vaćer laće so adava nane šukar, a te pokajinđa pe, oprostin laće.
-042	LUK	017	004	I te efta puti ko dive grešini premala tute hem efta puti avela kora tute hem vaćeri će: 'Kajinav man', oprostin laće.”
+042	LUK	017	004	I te efta puti ko dive grešini premala tute hem efta puti avela kora tute hem vaćeri će: ‘Kajinav man’, oprostin laće.”
 042	LUK	017	005	O apostolja phende e Gospodese e Isusese: “De amen po bari vera!”
-042	LUK	017	006	A o Gospod phenđa: “Te isi tumen vera tikori sar zrno oti gorušica, ka phenen ine akale kaštese: 'Ikal tut oto koreno hem sadin tut ano more!'  I ka šunel tumen ine.
-042	LUK	017	007	Kova tumendar ka phenel ine ple slugase, kova xandela ili arakhi e bakren, ked irini pe tari njiva: 'Siđar ava akari hem beš te xas maro'?
-042	LUK	017	008	Na li angleder ine ka phenel lese: 'Ćer maje te xav, phand tut i kecelja hem kande man đikote xava hem pijava, a palo adava tu ka xas hem ka pije'?
+042	LUK	017	006	A o Gospod phenđa: “Te isi tumen vera tikori sar zrno oti gorušica, ka phenen ine akale kaštese: ‘Ikal tut oto koreno hem sadin tut ano more!’  I ka šunel tumen ine.
+042	LUK	017	007	Kova tumendar ka phenel ine ple slugase, kova xandela ili arakhi e bakren, ked irini pe tari njiva: ‘Siđar ava akari hem beš te xas maro’?
+042	LUK	017	008	Na li angleder ine ka phenel lese: ‘Ćer maje te xav, phand tut i kecelja hem kande man đikote xava hem pijava, a palo adava tu ka xas hem ka pije’?
 042	LUK	017	009	Na li valjani te zahvalini e slugase adalese so ćerđa adava so ine lese phendo?  Na valjani.
-042	LUK	017	010	Ađahar hem tumen, ked ćerena sa so phenđa tumenđe o Devel, vaćeren: 'Amen injam sluge kolenđe na valjani te zahvalini pe!  Ćerđam samo soi amari buti!'”
+042	LUK	017	010	Ađahar hem tumen, ked ćerena sa so phenđa tumenđe o Devel, vaćeren: ‘Amen injam sluge kolenđe na valjani te zahvalini pe!  Ćerđam samo soi amari buti!’”
 042	LUK	017	011	I sar o Isus džala ine nakori diz Jerusalim, nakhino maškari regija Samarija hem i regija Galileja.
 042	LUK	017	012	I sar đerdini ine ko nesavo gav, nakoro leste ale deš gubavci kola terdine po dur olestar
 042	LUK	017	013	hem vičinde: “Isuse, Gospodarona, smilujin tut amenđe!”
@@ -801,9 +803,9 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	017	018	Nijekh li olendar na aračhilo te irini pe hem te slavini e Devle, sem akava jekh kova čak nane ni Jevrejco?”
 042	LUK	017	019	I phenđa e manušese: “Ušti hem dža!  Ti vera spasinđa tut!”
 042	LUK	017	020	Jekh dive o fariseja pučle e Isuse ked ka avel o carstvo e Devlesoro.  O Isus phenđa lenđe: “O carstvo e Devlesoro na avela e znakonencar saven ka šaj te dikhen tumare jaćhencar.
-042	LUK	017	021	Na ka šaj te phenel pe: 'Ače akatei!'  ili 'Eče adari!'  Adalese soi o carstvo e Devlesoro maškara tumende!”
+042	LUK	017	021	Na ka šaj te phenel pe: ‘Ače akatei!’  ili ‘Eče adari!’  Adalese soi o carstvo e Devlesoro maškara tumende!”
 042	LUK	017	022	Tegani phenđa ple učenikonenđe: “Avela o vreme ked ka mangen te dikhen jekh oto dive ked me, o Čhavo e Manušesoro, ka vladinav sar caro, ali na ka šaj te dikhen.
-042	LUK	017	023	O manuša ka phenen tumenđe: 'Eče adari!'  ili 'Ače akatei!'  Ali ma džan olencar te roden man!
+042	LUK	017	023	O manuša ka phenen tumenđe: ‘Eče adari!’  ili ‘Ače akatei!’  Ali ma džan olencar te roden man!
 042	LUK	017	024	Adalese so o aviba e Manušesere Čhavesoro ko lesoro dive ka ovel sar i munja ked čhinela taro jekh krajo e nebosoro, a svetlini ko dujto.
 042	LUK	017	025	Ali angleder adalestar valjani but te patinav hem te ovav odbacime akala generacijatar.
 042	LUK	017	026	Hem sar so inele ano vreme ked o Noje živinđa, ađahar ka ovel hem ano vreme ked me, o Čhavo e Manušesoro, ka avav.
@@ -820,24 +822,24 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	017	037	I on pučle e Isuse: “Kaj, Gospode?”  A ov phenđa lenđe: “Kaj isi mulo telo, adari čedena pe o lešinarija.”
 042	LUK	018	001	Tegani o Isus vaćerđa ple učenikonenđe paramiz te sikaj len sar stalno valjani te molinen pe bizo te odustajinen.  Vaćerđa:
 042	LUK	018	002	“Inele nesavo sudija ani jekh diz.  Na darandilo e Devlestar hem na ačhilo lese đi o manuša.
-042	LUK	018	003	A inele hem nesavi udovica ani adaja diz.  Oj stalno avela ine koro leste hem molini le: 'De man pravda anglo okova kova tužini man!'
-042	LUK	018	004	Ov jekh vreme na manglja te pomožini laće.  Ali ked nakhlo nesavo vreme, phenđa korkoro pese: 'Iako na darava e Devlestar hem na ačhilo maje đi o manuša,
-042	LUK	018	005	ka dav pravda akala udovicaće, adalese so but puti avela kora mande, i te na avel više te dosadini man!'”
+042	LUK	018	003	A inele hem nesavi udovica ani adaja diz.  Oj stalno avela ine koro leste hem molini le: ‘De man pravda anglo okova kova tužini man!’
+042	LUK	018	004	Ov jekh vreme na manglja te pomožini laće.  Ali ked nakhlo nesavo vreme, phenđa korkoro pese: ‘Iako na darava e Devlestar hem na ačhilo maje đi o manuša,
+042	LUK	018	005	ka dav pravda akala udovicaće, adalese so but puti avela kora mande, i te na avel više te dosadini man!’”
 042	LUK	018	006	Tegani o Gospod o Isus phenđa: “Razmislinen adalestar so phenđa o nepravedno sudija!
 042	LUK	018	007	O Devel li naka del pravda ple birimenđe kola rat hem dive molinena le?  Ov li ka ačhaj len te adžićeren?
 042	LUK	018	008	Vaćerava tumenđe, ka del len pravda sigate.  Ali ked me, o Čhavo e Manušesoro, ka irinav ki phuv, ka arakhav li manušen kolen isi esavki vera?”
 042	LUK	018	009	Tegani o Isus vaćerđa akaja paramiz okolenđe kola mislinde dai pravedna, a averen dikhle sar po tikoren pumendar:
 042	LUK	018	010	“Duj manuša džele ko Hram te molinen pe: jekh fariseji, a o dujto cariniko.
-042	LUK	018	011	O fariseji, terdindoj, molinđa pestar: 'Devla, hvala će so na injum sar avera manuša: čora, nepravedna, preljubnici ili sar akava cariniko.
-042	LUK	018	012	Postinava duj puti ano kurko; dava će dešto kotor oto sa so priminava.'
-042	LUK	018	013	A o cariniko, terdindoj odural, na manglja ni te dikhel nakoro nebo, nego khuvela pe ine ko gruđa te mothoj pli tuga hem vaćeri: 'Devla, ov milosno maje, e grešnikose!'
+042	LUK	018	011	O fariseji, terdindoj, molinđa pestar: ‘Devla, hvala će so na injum sar avera manuša: čora, nepravedna, preljubnici ili sar akava cariniko.
+042	LUK	018	012	Postinava duj puti ano kurko; dava će dešto kotor oto sa so priminava.’
+042	LUK	018	013	A o cariniko, terdindoj odural, na manglja ni te dikhel nakoro nebo, nego khuvela pe ine ko gruđa te mothoj pli tuga hem vaćeri: ‘Devla, ov milosno maje, e grešnikose!’
 042	LUK	018	014	Vaćerava tumenđe: akava cariniko irinđa pe čhere opravdime anglo Devel, a na o fariseji!  Adalese so đijekh kova povazdela pe, ka ovel peravdo; a o ponizna ka oven povazdime.”
 042	LUK	018	015	O manuša anena ine anglo Isus pumare tikore čhavoren te čhivel ple vasta upro lende hem te blagoslovini len.  I ked o učenici dikhle adava, vaćerena lenđe ine te na ćeren adava.
 042	LUK	018	016	Ali o Isus vičinđa len angla peste vaćerindoj e učenikonenđe: “Muken e čhavoren te aven kora mande hem ma ispudinen len adalese so esavkenđe preperela o carstvo e Devlesoro!
 042	LUK	018	017	Čače vaćerava tumenđe, kova na primini o carstvo e Devlesoro sar adala čhavore, naka đerdini ano leste.”
 042	LUK	018	018	I nesavo šerutno e jevrejengoro pučlja e Isuse: “Učitelju šukareja, so valjani te ćerav te dobinav o večno dživdipe?”
 042	LUK	018	019	A o Isus phenđa lese: “Sose vičineja man šukareja?  Samoi o Devel šukar.
-042	LUK	018	020	O naredbe e Devlesere džane: 'Ma ćer preljuba!', 'Ma mudar!', 'Ma čor!', 'Ma svedočin xovavne!', 'Poštujin te dade hem te daja!'”
+042	LUK	018	020	O naredbe e Devlesere džane: ‘Ma ćer preljuba!’, ‘Ma mudar!’, ‘Ma čor!’, ‘Ma svedočin xovavne!’, ‘Poštujin te dade hem te daja!’”
 042	LUK	018	021	Tegani o šerutno phenđa: “Sa adava ićerava pana taro tikoripe.”
 042	LUK	018	022	Ko adava, o Isus phenđa lese: “Pana akava ačhola tut te ćere: biknin sa so isi tut, a o love de e čororenđe i ka adžićeri tut barvalipe ano nebo.  Tegani ava hem phir pala mande.”
 042	LUK	018	023	A ov ked šunđa adava, rastužisalo adalese so na manglja te biknel plo baro barvalipe.
@@ -873,25 +875,25 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	019	010	Me, o Čhavo e Manušesoro, aljum te rodav hem te spasinav e našalden!”
 042	LUK	019	011	But manuša šunena ine adava so o Isus vaćerđa.  I sar o Isus inele paše uzalo Jerusalim, o manuša mislinde da o carstvo e Devlesoro otojekhvar ka mothoj pe.  Adalese so ađahar mislinde, o Isus phenđa lenđe pana jekh paramiz:
 042	LUK	019	012	“Inele jekh ugledno manuš kova spremisalo te džal ki durutni phuv koro jekh baro vladari kova ka čhivel le zako caro upri lesiri phuv, a palo adava te irini pe čhere.
-042	LUK	019	013	I vičinđa ple deše slugen, dinđa len po ekvaš kilo srebro hem phenđa lenđe: 'Ćeren maje više love ađahar so ka ćeren buti adaleja đikote na avava.'  I dželo ko drom.
-042	LUK	019	014	A o manuša oti lesiri phuv mrzinde le i bičhalde pumare manušen koro baro vladari vaćerindoj: 'Na mangaja akale te ovel amaro caro.'
+042	LUK	019	013	I vičinđa ple deše slugen, dinđa len po ekvaš kilo srebro hem phenđa lenđe: ‘Ćeren maje više love ađahar so ka ćeren buti adaleja đikote na avava.’  I dželo ko drom.
+042	LUK	019	014	A o manuša oti lesiri phuv mrzinde le i bičhalde pumare manušen koro baro vladari vaćerindoj: ‘Na mangaja akale te ovel amaro caro.’
 042	LUK	019	015	Ked o ugledno manuš irinđa pe sar caro, terinđa te vičinen koro leste okole slugen, kolenđe dinđa love, te dikhel kobor love ćerde lese.
-042	LUK	019	016	O prvo sluga alo vaćerindoj: 'Gospodarona, oto love save dinđan man, ćerđum deš puti edobor.'
-042	LUK	019	017	I ov phenđa lese: 'But šukar.  Tu injan šukar sluga!  Adalese so injanle maje verno ko najxari, dava tut te vladine upro deš dizja!'
-042	LUK	019	018	O dujto sluga alo vaćerindoj: 'Gospodarona, oto love save dinđan man, ćerđum pandž puti edobor.'
-042	LUK	019	019	I lese phenđa: 'Dava tut te vladine upro pandž dizja!'
-042	LUK	019	020	O trito sluga alo vaćerindoj: 'Gospodarona, ače te love save dinđan man.  Garavđum len ano jekh kotor e šejengoro.
-042	LUK	019	021	Ćerđum ađahar adalese so darandiljum tutar so injan strogo manuš.  Leja so nane klo hem čedeja so avera manuša sejinđe.'
-042	LUK	019	022	A ov phenđa lese: 'Tu na injan šukar sluga!  Palo te lafija ka sudinav tut.  Te džanđan so injum strogo manuš, da lava so nane mlo hem čedava so avera sejinđe,
-042	LUK	019	023	sose onda na dinđan mle love ki kamata?  Đi akana ka ovel man ine više love save ka lav ine avindoj čhere.'
-042	LUK	019	024	Tegani phenđa okolenđe kola terdine uzalo leste: 'Len akale slugastar o love hem den len okolese kas isi deš puti edobor!'
-042	LUK	019	025	A on inele protiv hem phende: 'Ali, gospodarona, ole već isi pandž kilja srebro.'
-042	LUK	019	026	O caro phenđa: 'Dikhena da đijekhe kas isi, ka del pe lese pana, a okole kas nane ka lel pe lestar hem okova xari so isi le.
-042	LUK	019	027	A okolen mle dušmanjen, so na mangle te ovav lengoro caro, anen akari hem čhinen len angla mande!'”
+042	LUK	019	016	O prvo sluga alo vaćerindoj: ‘Gospodarona, oto love save dinđan man, ćerđum deš puti edobor.’
+042	LUK	019	017	I ov phenđa lese: ‘But šukar.  Tu injan šukar sluga!  Adalese so injanle maje verno ko najxari, dava tut te vladine upro deš dizja!’
+042	LUK	019	018	O dujto sluga alo vaćerindoj: ‘Gospodarona, oto love save dinđan man, ćerđum pandž puti edobor.’
+042	LUK	019	019	I lese phenđa: ‘Dava tut te vladine upro pandž dizja!’
+042	LUK	019	020	O trito sluga alo vaćerindoj: ‘Gospodarona, ače te love save dinđan man.  Garavđum len ano jekh kotor e šejengoro.
+042	LUK	019	021	Ćerđum ađahar adalese so darandiljum tutar so injan strogo manuš.  Leja so nane klo hem čedeja so avera manuša sejinđe.’
+042	LUK	019	022	A ov phenđa lese: ‘Tu na injan šukar sluga!  Palo te lafija ka sudinav tut.  Te džanđan so injum strogo manuš, da lava so nane mlo hem čedava so avera sejinđe,
+042	LUK	019	023	sose onda na dinđan mle love ki kamata?  Đi akana ka ovel man ine više love save ka lav ine avindoj čhere.’
+042	LUK	019	024	Tegani phenđa okolenđe kola terdine uzalo leste: ‘Len akale slugastar o love hem den len okolese kas isi deš puti edobor!’
+042	LUK	019	025	A on inele protiv hem phende: ‘Ali, gospodarona, ole već isi pandž kilja srebro.’
+042	LUK	019	026	O caro phenđa: ‘Dikhena da đijekhe kas isi, ka del pe lese pana, a okole kas nane ka lel pe lestar hem okova xari so isi le.
+042	LUK	019	027	A okolen mle dušmanjen, so na mangle te ovav lengoro caro, anen akari hem čhinen len angla mande!’”
 042	LUK	019	028	I ked vaćerđa lenđe adava, o Isus dželo nakoro Jerusalim phirindoj anglo ple učenici.
-042	LUK	019	029	Ked alo paše uzalo gava Vitfaga hem Vitanija, uzali gora vičimi E maslinakiri, bičhalđa duje učenikonen
+042	LUK	019	029	Ked alo paše uzalo gava Vitfaga hem Vitanija, uzali gora vičimi E maslinakiri, bičhalđa duje učenikonen”
 042	LUK	019	030	vaćerindoj: “Džan ko adava gav savoi angla tumende.  I ked ka đerdinen, ka arakhen phandle terne xere upro saveste pana nijekh manuš na beštino.  Phraven le hem anen le akari.
-042	LUK	019	031	Te neko pučlja tumen: 'Sose phravena le?', vaćeren lese: 'E Gospodarese valjani.'”
+042	LUK	019	031	Te neko pučlja tumen: ‘Sose phravena le?’, vaćeren lese: ‘E Gospodarese valjani.’”
 042	LUK	019	032	On džele hem arakhle ađahar sar so phenđa lenđe o Isus.
 042	LUK	019	033	I sar phravena ine e terne xere, o manuša, kasoro inele o terno xer, pučle len: “Sose phravena e terne xere?”
 042	LUK	019	034	A on phende: “E Gospodarese valjani.”
@@ -906,26 +908,26 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	019	043	Ka aven o dive ked te dušmanja ka čhiven će barikade, ka opkolinen tut hem taro sa o strane ka pritiskinen tut.
 042	LUK	019	044	Ka uništinen hem tut hem te dizutnen.  Naka ačhaven ni jekh bar ko lesoro than adalese so na pendžarđan o vreme ked o Devel alo te spasini tut.”
 042	LUK	019	045	Ked o Isus alo ano Jerusalim, đerdinđa ano boro e hramesoro hem lelja te ispudini adathar okolen so biknena.
-042	LUK	019	046	Phenđa lenđe: “Pisimei ko Sveto lil: 'O čher mlo ka ovel than kote o manuša ka molinen pe', a tumen ćerđen lestar 'than kote čedena pe o čora!'”
+042	LUK	019	046	Phenđa lenđe: “Pisimei ko Sveto lil: ‘O čher mlo ka ovel than kote o manuša ka molinen pe’, a tumen ćerđen lestar ‘than kote čedena pe o čora!’”
 042	LUK	019	047	I oto dive ko dive, o Isus sikavđa e manušen ano boro e hramesoro.  A o šerutne sveštenici hem o učitelja e Mojsijasere zakonestar zajedno e narodosere starešinencar rodena ine sar te ćeren o Isus te ovel mudardo,
 042	LUK	019	048	ali na arakhle so te ćeren adalese so sa o manuša pažljivo šunena ine lesoro sikaviba.
 042	LUK	020	001	I jekhvar sar o Isus sikaj ine e manušen ano boro e hramesoro hem vaćeri lenđe ine o Šukar lafi, ale uzalo leste o šerutne sveštenici, o učitelja e Mojsijasere zakonestar hem o starešine
 042	LUK	020	002	hem pučle le: “Vaćer amenđe kotar tuće pravo te ćere akava?  Ko dinđa tut pravo?”
 042	LUK	020	003	A o Isus phenđa lenđe: “Hem me tumen ka pučav nešto.  Vaćeren maje:
 042	LUK	020	004	Ko dinđa pravo e Jovanese te krstini e manušen, o Devel kovai ano nebo ili o manuša?”
-042	LUK	020	005	A on raspravinde pe maškara pumende vaćerindoj: “Te phenđam 'o Devel kovai ano nebo', ov ka pučel amen sose onda na verujinđam lese.
-042	LUK	020	006	A te phenđam 'o manuša', sa o manuša ka mudaren amen ađahar so ka frden bara upra amende, adalese soi uverime da o Jovan inele proroko.”
+042	LUK	020	005	A on raspravinde pe maškara pumende vaćerindoj: “Te phenđam ‘o Devel kovai ano nebo’, ov ka pučel amen sose onda na verujinđam lese.
+042	LUK	020	006	A te phenđam ‘o manuša’, sa o manuša ka mudaren amen ađahar so ka frden bara upra amende, adalese soi uverime da o Jovan inele proroko.”
 042	LUK	020	007	Adalese phende e Isusese da na džanen ko dinđa pravo e Jovanese.
 042	LUK	020	008	I o Isus phenđa lenđe: “Ni me onda na ka phenav tumenđe kotar maje pravo akava te ćerav.”
 042	LUK	020	009	Tegani o Isus lelja te vaćeri e narodose akaja paramiz: “Nesavo manuš sadinđa vinograd, iznajminđa le e vinogradarenđe hem dželo ko drom ko but vreme.
 042	LUK	020	010	I ked alo o vreme te čeden pe o drakha, bičhalđa e sluga koro vinogradarija te šaj den le oto bijandipe e drakhakoro sar so dogovorinde pe.  Ali o vinogradarija marde le hem bičhalde le palal čuče vastencar.
 042	LUK	020	011	I o gospodari bičhalđa avere sluga.  Ali on hem ole marde, lađarde le hem bičhalde le palal čuče vastencar.
 042	LUK	020	012	I palem o gospodari bičhalđa koro lende avere sluga.  A on ćerde le ko rata hem frdinde le avri taro vinograd.
-042	LUK	020	013	Tegani o gospodari oto vinograd mislinđa pe so te ćerel, i phenđa: 'Ka bičhalav lenđe mle mangle čhave.  Šaj ole ka poštujinen.'
-042	LUK	020	014	Ali ked o vinogradarija dikhle le, vaćerde maškara pumende: 'Akavai o nasledniko.  Hajde te mudara le hem amenđe te ačhol o nasledstvo.'
+042	LUK	020	013	Tegani o gospodari oto vinograd mislinđa pe so te ćerel, i phenđa: ‘Ka bičhalav lenđe mle mangle čhave.  Šaj ole ka poštujinen.’
+042	LUK	020	014	Ali ked o vinogradarija dikhle le, vaćerde maškara pumende: ‘Akavai o nasledniko.  Hajde te mudara le hem amenđe te ačhol o nasledstvo.’
 042	LUK	020	015	I frdinde le avri taro vinograd hem mudarde le.  So mislinena, so ka ćerel o gospodari adale vinogradarenđe?
 042	LUK	020	016	Ka avel hem ka mudari len, a o vinograd ka iznajmini averenđe.”  I okola kola šunde adaja paramiz, phende: “Te na del o Devel adava te ovel!”
-042	LUK	020	017	A o Isus dikhlja ano lende hem phenđa: “A so onda značini adava soi pisime e Mesijastar ano Sveto Lil: 'O bar savo frdinde o zidarija ulo najbitno bar e čheresoro'?
+042	LUK	020	017	A o Isus dikhlja ano lende hem phenđa: “A so onda značini adava soi pisime e Mesijastar ano Sveto Lil: ‘O bar savo frdinde o zidarija ulo najbitno bar e čheresoro’?
 042	LUK	020	018	Đijekh kova perela upro adava bar, ka phagel pe, a te pelo adava bar upra nekaste, ka zgnječini le.”
 042	LUK	020	019	A o učitelja e Mojsijasere zakonestar hem o šerutne sveštenici mangle tegani te dolen e Isuse, adalese so džande da adaja paramiz oto bišukar vinogradarija vaćeri olendar, ali darandile e manušendar.
 042	LUK	020	020	O učitelja e Mojsijasere zakonestar hem o šerutne sveštenici posmatrinena ine e Isuse.  Bičhalde koro leste špijunen, kola ćerde pe dai iskrena, te tužinen le da vaćerđa nešto bišukar i te šaj preden le ko upravniko e rimesoro te osudini le.
@@ -945,14 +947,14 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	020	034	O Isus phenđa lenđe: “O manuša ko akava sveto lena pe hem dena pe.
 042	LUK	020	035	A okola kolen o Devel smatrini dai dostojna te oven vazdime taro mule hem te živinen ko sveto savo avela, ni ka len pe ni ka den pe.
 042	LUK	020	036	Adalese so našti više ni te meren: ka oven sar o anđelja.  On ka oven čhave e Devlesere, adalese so o Devel ka vazdel len taro mule.
-042	LUK	020	037	A so o mule uštena, mothovđa hem o Mojsije ked ko than oto Sveto Lil kote pisini oto grmo savo ine thabljola, o Gospod vaćeri dai 'Devel e Avraamesoro, e Isaakesoro hem e Jakovesoro' iako tegani inele mule.
+042	LUK	020	037	A so o mule uštena, mothovđa hem o Mojsije ked ko than oto Sveto Lil kote pisini oto grmo savo ine thabljola, o Gospod vaćeri dai ‘Devel e Avraamesoro, e Isaakesoro hem e Jakovesoro’ iako tegani inele mule.
 042	LUK	020	038	A o Devel nane Devel e mulengoro, nego Devel e dživdengoro.  Adalese soi e Devlese on pana dživde.”
 042	LUK	020	039	Nesave učitelja e Mojsijasere zakonestar phende e Isusese: “Učitelju, šukar vaćerđan!”
 042	LUK	020	040	I darandile te pučen le bilo so aver.
 042	LUK	020	041	Tegani o Isus pučlja okolen so ine šunena le: “Sar šaj o učitelja e Mojsijasere zakonestar te vaćeren dai o Mesija samo e carosoro e Davidesoro potomko?
-042	LUK	020	042	A korkoro o David phenela ano Lil oto Psalmija: 'Phenđa o Gospod mle Gospodese e Mesijase: Beš ko počasno than uzala mande
-042	LUK	020	043	đikote na pašljarava te dušmanjen talo te pre!'
-042	LUK	020	044	O David e Mesija vičini 'Gospode'.  Sar onda o Mesija šaj te ovel lesoro potomko?”
+042	LUK	020	042	A korkoro o David phenela ano Lil oto Psalmija: ‘Phenđa o Gospod mle Gospodese e Mesijase: Beš ko počasno than uzala mande
+042	LUK	020	043	đikote na pašljarava te dušmanjen talo te pre!’
+042	LUK	020	044	O David e Mesija vičini ‘Gospode’.  Sar onda o Mesija šaj te ovel lesoro potomko?”
 042	LUK	020	045	Tegani anglo sa o manuša, o Isus phenđa ple učenikonenđe:
 042	LUK	020	046	“Arakhen tumen e učiteljendar e Mojsijasere zakonestar!  On volinena te phiren hurjavde ano bare fostanja te dičhol dai pobožna hem te pozdravinen len o manuša ko trgija.  Volinena te bešen ko anglune thana ano sinagoge hem ko gozbe.
 042	LUK	020	047	Ko xovavne lena e udovicendar okova so isi len, hem molinena bare molitve sar te dikhen len o manuša dai pobožna.  On ka oven po zorale kaznime nego avera manuša.”
@@ -963,7 +965,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	021	005	I sar nesave učenici vaćerena ine adalestar sari o Hram šukar ukrasime šuže bare barencar hem e daronencar, o Isus phenđa:
 042	LUK	021	006	“Ka avel o dive ked oto sa akava so dikhena naka ačhol ni bar upro bar.  Đijekh ka ovel peravdo.”
 042	LUK	021	007	I on pučle e Isuse: “Učitelju, ked adava ka ovel?  So ka mothoj amenđe da alo adava dive?”
-042	LUK	021	008	A o Isus phenđa: “Dikhen te na oven xovavde.  Adalese so but džene ka aven ano mlo anav vaćerindoj: 'Me injum o Hrist' hem: 'Alo paše o kraj akale vremesoro.'  Ma džan palo lende!
+042	LUK	021	008	A o Isus phenđa: “Dikhen te na oven xovavde.  Adalese so but džene ka aven ano mlo anav vaćerindoj: ‘Me injum o Hrist’ hem: ‘Alo paše o kraj akale vremesoro.’  Ma džan palo lende!
 042	LUK	021	009	A ked šunena zako mariba hem zako pobune, ma te daran.  Adalese so prvo adava valjani te ovel, ali nane odmah o kraj.”
 042	LUK	021	010	Tegani phenđa lenđe: “O manuša ka maren pe e manušencar hem o carstvo e carstvoja.
 042	LUK	021	011	Ko but thana ka oven bare zemljotresija, bokhalipe hem zaraze.  Ka mothoven pe čudesna znakija ko nebo savendar o manuša ka daran.
@@ -1001,10 +1003,10 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	022	005	On ule radosna hem phende e Judase da ka den le love.
 042	LUK	022	006	I ov pristaninđa.  I ađahar lelja te rodel šukar momenti te izdajini e Isuse ked na ka oven but manuša uzalo leste.
 042	LUK	022	007	Ked alo o prvo dive oto Prazniko e bikvascone marengoro, ko savo valjanđa te čhinel pe bakrore zaki Pasha,
-042	LUK	022	008	o Isus phenđa e Petrese hem e Jovanese: ''Džan hem ćeren amenđe e pashakoro xajba te šaj te xa.”
-042	LUK	022	009	A on phende lese: ''Kaj mangeja te ćera la?”
+042	LUK	022	008	o Isus phenđa e Petrese hem e Jovanese: “Džan hem ćeren amenđe e pashakoro xajba te šaj te xa.”
+042	LUK	022	009	A on phende lese: “Kaj mangeja te ćera la?”
 042	LUK	022	010	Ov phenđa lenđe: “Šunen.  So ka đerdinen ki diz Jerusalim, ka resel tumen jekh manuš kova akhari pani ano khoro.  Džan palo leste.  Ko čher ko savo ka đerdini
-042	LUK	022	011	roden e čherutne hem vaćeren lese: 'O učitelj pučela ki savi soba šaj te xal e pashakoro xajba ple učenikonencar?'
+042	LUK	022	011	roden e čherutne hem vaćeren lese: ‘O učitelj pučela ki savi soba šaj te xal e pashakoro xajba ple učenikonencar?’
 042	LUK	022	012	I ov ka mothoj tumenđe i bari upruni soba savi već pripremime.  Adari čhiven amenđe zako xajba.”
 042	LUK	022	013	I on džele hem arakhle sa ađahar sar so phenđa lenđe o Isus i adari čhivde zako xajba e pashakoro.
 042	LUK	022	014	I ked alo o vreme te xal pe i Pasha, o Isus čhivđa pe uzalo astali ple apostolencar.
@@ -1018,7 +1020,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	022	022	Adalese so, me, o Čhavo e Manušesoro, valjani te merav sar soi odredime, ali jao okole manušese kova ka izdajini man!”
 042	LUK	022	023	I o apostolja lelje te pučen pe maškara pumende kova olendar šaj te ovel adava so ka ćerel ađahar nešto.
 042	LUK	022	024	I o apostolja lelje te raspravinen pe kovai olendar najbaro.
-042	LUK	022	025	A o Isus phenđa lenđe: “E poganengere carija vladinena upro lende hem o vladarija lengere pumen vičinena 'manuša kola ćerena šukaripe'.
+042	LUK	022	025	A o Isus phenđa lenđe: “E poganengere carija vladinena upro lende hem o vladarija lengere pumen vičinena ‘manuša kola ćerena šukaripe’.
 042	LUK	022	026	Ali tumen ma oven esavke!  Nego, o najbaro maškara tumende nek ovel sar najtikoro, a o vođa nek ovel sar sluga.
 042	LUK	022	027	A kovai po baro?  Okova kovai uzalo astali ili okova kova kandela le?  Ini okova kovai uzalo astali?  A me maškara tumende injum sar okova kova kandela.
 042	LUK	022	028	Tumen injen adala kola ačhile mancar ano mle iskušenja.
@@ -1030,7 +1032,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	022	034	A o Isus phenđa: “Vaćerava će, Petre, o bašno na ka đilabi avdive đikote trin puti naka xovave da na pendžareja man.”
 042	LUK	022	035	I phenđa e apostolenđe: “Ked bičhalđum tumen ko drom bizo kese lovencar, bizo torbe hem bizi buderi obuća, na li falinđa tumenđe nešto?”  A on phende: “Ništa.”
 042	LUK	022	036	Tegani o Isus phenđa lenđe: “Ali akana kas isi kesa e lovencar, nek lel la!  Ađahar hem i torba!  A kas nane mači, nek biknel plo fostani hem nek činelfse jekh.
-042	LUK	022	037	Adalese so, vaćerava tumenđe, valjani te pherđol adava soi mandar pisime ko Sveto Lil: 'Dikhle le sar jekhe okolendar kola ćerena bišukaripe.'  Čače, pherđola sa soi pisime mandar.”
+042	LUK	022	037	Adalese so, vaćerava tumenđe, valjani te pherđol adava soi mandar pisime ko Sveto Lil: ‘Dikhle le sar jekhe okolendar kola ćerena bišukaripe.’  Čače, pherđola sa soi pisime mandar.”
 042	LUK	022	038	A on phende: “Gospode, ače isi amen duj mačija!”  A ov phenđa: “Šukari!”
 042	LUK	022	039	I iklindoj adathar, palo plo adeti, dželo ki E maslinakiri gora.  Oleja džele hem lesere učenici.
 042	LUK	022	040	I ked resle adari, phenđa lenđe: “Molinen tumen te na peren ko iskušenje!”
@@ -1092,7 +1094,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	023	026	Sar legarena ine e Isuse te mudaren le, dolinde nesave Simone tari Kirinija sar taro polje đerdini ine ko Jerusalim.  Čhivde o krsto upro leste hem terinde le te akhari le palo Isus.
 042	LUK	023	027	Palo Isus dželo baro narodo maškaro kolende inele hem o đuvlja kola runde hem žalinde le.
 042	LUK	023	028	Ali o Isus irinđa pe nakoro lende hem phenđa lenđe: “Đuvljalen taro Jerusalim, ma roven zbog adava so ka ovel maje, nego roven zbog adava so ka ovel tumenđe hem tumare čhavenđe.
-042	LUK	023	029	Adalese so, ače, avena o dive ked o manuša ka vaćeren: 'Bahtalei o đuvlja kolai bizo čhave, kola na bijande hem na dinde čuči.'
+042	LUK	023	029	Adalese so, ače, avena o dive ked o manuša ka vaćeren: ‘Bahtalei o đuvlja kolai bizo čhave, kola na bijande hem na dinde čuči.’
 042	LUK	023	030	Tegani ka molinen e planinen te peren upro lende hem e bregonen te učharen len.
 042	LUK	023	031	Adalese so te ađahar ćerela pe mancar kova injum sar jekh sapano kaš, sigurno po bišukar ka ćerel pe e manušencar kolai sar o šuke kašta.”
 042	LUK	023	032	A e Isuseja inele legarde pana duj manuša te oven mudarde.  Adala manuša ćerde bišukar buća.
@@ -1126,7 +1128,7 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	004	I sar terđona ine adari zbunime, iklile anglo lende duj manuša ano sjajna šeja.
 042	LUK	024	005	O đuvlja but darandile hem peravde pumare šere nakori phuv, a o duj manuša phende lenđe: “Sose rodena e dživde maškaro mule?
 042	LUK	024	006	Ov nane akate.  Uštino taro mule!  Setinen tumen so vaćerđa tumenđe pana ani Galileja:
-042	LUK	024	007	'Me, o Čhavo e Manušesoro valjani te ovav dindo ano vasta e grešnone manušengere, te ovav čhivdo ko krsto, ali o trito dive ka uštav.'”
+042	LUK	024	007	‘Me, o Čhavo e Manušesoro valjani te ovav dindo ano vasta e grešnone manušengere, te ovav čhivdo ko krsto, ali o trito dive ka uštav.’”
 042	LUK	024	008	Tegani on setinde pe da o Isus phenđa lenđe adava.
 042	LUK	024	009	I irinde pe taro grobo palal ki diz te vaćeren adava e dešujekhe apostolenđe hem sarijenđe averenđe.
 042	LUK	024	010	Adala đuvlja inele i Marija tari diz Magdala, i Jovana, i Marija e Jakovesiri daj, hem avera.  I on sa adava vaćerde e apostolenđe,
@@ -1165,8 +1167,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 042	LUK	024	043	Ov lelja hem xalja le anglo lende.
 042	LUK	024	044	Tegani o Isus phenđa ple učenikonenđe: “Ked injumle tumencar angleder mle meribnastar, vaćerđum tumenđe da sa valjani te pherđol soi pisime mandar ano Zakoni e Mojsijasoro, ano Lila e prorokonengere hem ano Psalmija.”
 042	LUK	024	045	Tegani phravđa lengere jaćha te xaljoven o Sveta lila,
-042	LUK	024	046	i phenđa lenđe: “Ađahari pisime ko Sveta lila: 'O Hrist ka patini hem ka merel, ali o trito dive ka uštel taro mule,
-042	LUK	024	047	hem ano lesoro anav ka propovedini pe sa e nacijenđe, počindoj taro Jerusalim, da valjani te pokajinen pe te šaj o Devel oprostini lenđe lengere greja.'
+042	LUK	024	046	i phenđa lenđe: “Ađahari pisime ko Sveta lila: ‘O Hrist ka patini hem ka merel, ali o trito dive ka uštel taro mule,
+042	LUK	024	047	hem ano lesoro anav ka propovedini pe sa e nacijenđe, počindoj taro Jerusalim, da valjani te pokajinen pe te šaj o Devel oprostini lenđe lengere greja.’
 042	LUK	024	048	Tumen injen svedoci adalestar.
 042	LUK	024	049	A me ka bičhalav tumenđe e Svetone Duho, sar so mlo Dad dinđa plo lafi.  Tumen ačhoven ani diz đikote o zoralipe e Devlestar na ka huljel upra tumende.”
 042	LUK	024	050	Palo adava, o Isus ikalđa ple učenikonen tari diz hem anđa len uzalo gav Vitanija.  Adari vazdinđa ple vasta hem blagoslovinđa len.
