@@ -1,6 +1,6 @@
 # File Name: Holy-Bible---Japanese---New-Japanese-New-Testament---Standard-Edition.noia
-# File Size: 1511932     
-# File Date: 01/07/2024 08:10:39
+# File Size: 1511966     
+# File Date: 04/20/2024 12:53:05
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: https://resources.AionianBible.org
 # File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2024
@@ -15,10 +15,10 @@
 # Bible Name English: Japanese New Testament 1965
 # Bible Language: 日本語
 # Bible Language English: Japanese
-# Bible Copyright Format: CC Attribution NoDerivatives 4.0, 2018-2023
+# Bible Copyright Format: CC Attribution NoDerivatives 4.0, 2018-2024
 # Bible Copyright Text: Public Domain
 # Bible Source: Shinkaiyaku Seisho Kankokai
-# Bible Source Version: 9/15/2023
+# Bible Source Version: 2/21/2024
 # Bible Source Link: https://ebible.org/details.php?id=jpn1965
 # Bible Source Year: 1963, 1965
 # Bible Format: Standard formatting without annotation
@@ -5234,7 +5234,8 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 045	ROM	016	021	私の同労者テモテが、あなたがたによろしくと言っています。また私の同国人ルキオとヤソンとソシパテロがよろしくと言っています。
 045	ROM	016	022	この手紙を筆記した私、テルテオも、主にあってあなたがたにごあいさつ申し上げます。
 045	ROM	016	023	私と全教会との家主であるガイオも、あなたがたによろしくと言っています。市の収入役であるエラストと兄弟クワルトもよろしくと言っています。
-045	ROM	016	024	私の福音とイエス・キリストの宣教によって、すなわち、世々にわたって長い間隠されていたが、今や現わされて、永遠の神の命令に従い、預言者たちの書によって、信仰の従順に導くためにあらゆる国の人々に知らされた奥義の啓示によって、あなたがたを堅く立たせることができる方、
+045	ROM	016	025	私の福音とイエス・キリストの宣教によって、すなわち、世々にわたって長い間隠されていたが、
+045	ROM	016	026	今や現わされて、永遠の神の命令に従い、預言者たちの書によって、信仰の従順に導くためにあらゆる国の人々に知らされた奥義の啓示によって、あなたがたを堅く立たせることができる方、
 045	ROM	016	027	知恵に富む唯一の神に、イエス・キリストによって、御栄えがとこしえまでありますように。アーメン。
 #
 # BOOK	046	1CO	1 Corinthians	コリント人への手紙第一
@@ -5931,8 +5932,9 @@ INDEX	BOOK	CHAPTER	VERSE	TEXT
 047	2CO	013	009	私たちは、自分は弱くてもあなたがたが強ければ、喜ぶのです。私たちはあなたがたが完全な者になることを祈っています。
 047	2CO	013	010	そういうわけで、離れていてこれらのことを書いているのは、私が行ったとき、主が私に授けてくださった権威を用いて、きびしい処置をとることのないようにするためです。この権威が与えられたのは築き上げるためであって、倒すためではないのです。
 047	2CO	013	011	終わりに、兄弟たち。喜びなさい。完全な者になりなさい。慰めを受けなさい。一つ心になりなさい。平和を保ちなさい。そうすれば、愛と平和の神はあなたがたとともにいてくださいます。
-047	2CO	013	012	きよい口づけをもって、互いにあいさつをかわしなさい。すべての聖徒たちが、あなたがたによろしくと言っています。
-047	2CO	013	013	主イエス・キリストの恵み、神の愛、聖霊の交わりが、あなたがたすべてとともにありますように。
+047	2CO	013	012	きよい口づけをもって、互いにあいさつをかわしなさい。
+047	2CO	013	013	すべての聖徒たちが、あなたがたによろしくと言っています。
+047	2CO	013	014	主イエス・キリストの恵み、神の愛、聖霊の交わりが、あなたがたすべてとともにありますように。
 #
 # BOOK	048	GAL	Galatians	ガラテヤ人への手紙
 048	GAL	001	001	使徒となったパウロ――私が使徒となったのは、人間から出たことでなく、また人間の手を通したことでもなく、イエス・キリストと、キリストを死者の中からよみがえらせた父なる神によったのです。――
